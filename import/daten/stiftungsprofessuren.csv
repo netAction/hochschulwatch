@@ -1,0 +1,939 @@
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;Land;Hochschule;Stiftungsprofessur;Stifter;Fördersumme pro Jahr;Fördersumme insgesamt;Laufzeit;Quelle
+;;;;;;;;
+1;Bremen;Hochschule Bremen;"Stiftungsprofessur ""Maritimes Management""";Bremer Rhederverein e.V.;;;Stand Mai 2011;Anfrage an die Senatsverwaltung für Bildung und Wissenschaft
+;;;"Stiftungsprofessur zum Masterstudiengang ""Zukunftsfähige Energiesysteme""";swb AG und EWE AG 3;;;;
+;;;"2 Stiftungsprofessuren im Studiengang ""Internationaler Studiengang Shipping and Chartering";Kieserling Stiftung, Conrad-Naber-Stiftung, Stiftung der Bremer Landesbank, Bremer Rhederverein e.V., Wirtschaftsprüfungs- und Steuerberatungsgesellschaft Dr. Steinberg und Partner GmbH;;;;
+;;Hochschule Bremerhaven;Integrated Safety and Security Management;Nordseezeitung und BLG Logistics;;;;
+;;;Simulation auf dem Gebiet der Windenergietechnik;AREVA Wind GmbH;;;;
+;;;Mess-, Steuerungs- und Regelungstechnik auf dem Gebiet der Windenergietechnik;Bremer Landesbank, Städt. Sparkasse Bremerhaven, Germanischer Lloyd AG;;;;
+;;Universität Bremen;Christa und Manfred Fuchs-Stiftungsprofessur für Raumfahrttechnologie/System Enabling Technologies;OHB System AG, Institut für Raumfahrtsysteme (DLR) in Bremen, Stifterverband für die Deutsche Wissenschaft;;;10 Jahre, August 2012 bis Juli 2022;http://www.uni-bremen.de/universitaet/foerderer-partner/gefoerderte-projekte/stiftungsprofessuren.html
+;;;Lichtenberg-Professur für transnationales Wirtschaftsrecht;Volkswagen-Stiftung;;;5 Jahre, August 2012 bis Juli 2017;
+;;;Airbus-Stiftungsprofessur für Multiskalensimulation und -modellierung von Materialien;Airbus Deutschland GmbH;;;5 Jahre, Dezember 2009 bis November 2014;
+;;;Stiftungsprofessur der Stiftung Bremer Wertpapierbörse MR-Spektroskopie/MR-Bildbearbeitung;Stiftung Bremer Wertpapierbörse, Wolfgang-Ritter-Stiftung und Stifterverband für die deutsche Wissenschaft in Kooperation mit der Fraunhofer-Gesellschaft;;;5 Jahre, November 2009 bis Oktober 2014;
+;;;Stiftungsprofessur für Echtzeitbildverarbeitung;Deutschen Forschungszentrum für Künstliche Intelligenz (DFKI);;;6 Jahre, vom Juni 2008 bis zum Mai 2014;
+;;;Conrad-Naber-Stiftungsprofessur für Grenzflächenforschung: Bio-Nano-Werkstofftechnik;Conrad-Naber-Stiftung;;;2 Jahre ab 2007;
+;;;Stiftungsprofessur für Klinische Epidemiologe;Zuwendungen diverser Unternehmen und Stiftungen, u.a.. Stiftung Arzneimittelsicherheit, Bayer AG;;;5 Jahre, vom 01. März 2007 bis zum 29. Februar 2012;
+;;;"Kooperations-Juniorprofessur ""Bundesstaatliche und regionale Finanzbeziehungen""";Senator für Finanzen;;;6 Jahre ab März 2007;
+;;;Stiftungsprofessur für Prozessgerechte Technologiegestaltung;Daimler-Fonds beim Stifterverband für die Deutsche Wissenschaft;;;5 Jahre, vom Januar 2008 bis zum Dezember 2013;
+;;;Stiftungsprofessur für Klinische Kinderpsychologie;Förderverein der Universitätskinderambulanz;;;Unbefristet ab Januar 2007;
+;;;Stiftungsprofessur für Management nachhaltiger Systementwicklung;Stifterverband für die Deutsche Wissenschaft;;;5 Jahre, 2004 bis 2009;
+;;;Stiftungsprofessur für Rehabilitationspsychologie;LVA Oldenburg Bremen;;;6 Jahre, vom Mai 2004 bis zum April 2010;
+;;;Stiftungsprofessur für Betriebswirtschaftslehre insbes. Innovatives Markenmanagement;"Stifterverband für die deutsche Wissenschaft; Sonderzuwendungen d. Bremer Unternehmen (Kraft Foods, Beck's, Masterfoods, Frosta, Basler Securitas, Kellogg's)";;;3 Jahre, vom 01. Oktober 2002 bis zum 30. September 2005;
+;;;Stiftungsprofessur für Verfahren zur Wertstoffrückgewinnung;"Stifterverband für die deutsche Wissenschaft; hanseWasser GmbH";;;5 Jahre, vom Oktober 2001 bis zum September 2006;
+;;;Daimler-Stiftungsprofessur für Management mittelständiger Unternehmen im internationalen Geschäft;"Stifterverband für die deutsche Wissenschaft; DaimlerChrysler Fonds beim Stifterverband";;;3 Jahre, vom April 2001 bis zum März 2004;
+;;;Stiftungsprofessur Neuropharmakologie;"Stifterverband; Rudolf- und Helene-Glaser-Stiftung und Stemmler-Stiftung";;;3 Jahre, vom Februar 2000 bis zum Januar 2003;
+;;;Stiftungsprofessur für Wirtschaftspolitik und Wirtschaftsstruktur;Wirtschaftsstrukturpolitisches Aktionsprogramm des Landes Bremen und Europäische Gemeinschaft;;;5 Jahre, vom Mai 1995 bis zum Mai 2000;
+;;;Stiftungsprofessur für Keramische Werkstoffe;"Stifterverband für die deutsche Wissenschaft; Stiftungsfonds Daimler-Benz";;;5 Jahre, vom April 1994 bis zum März 1999;
+;;;Stiftungsprofessur für Mathematische Grundlagen der Logistik;"Stifterverband für die deutsche Wissenschaft; Sonderzuwendungen d. Bremer Unternehmen";;;5 Jahre, vom November 1992 bis zum November 1997;
+;;;Stiftungsprofessur für Umweltverfahrenstechnik;"Stifterverband für die deutsche Wissenschaft; Sonderzuwendungen d. Bremer Unternehmen";;;5 Jahre, vom Dezember 1989 bis zum Dezember 1994;
+;;;;;;;;
+2;Rheinland-Pfalz;Universität Mainz;Johannes-Gutenberg-Stiftungsprofessur;Freunde der Universität Mainz e.V.;;;Seit 10 Jahren;
+;;;Stiftungsprofessur für Allgemeine Pastoraltheologie;Bischöfliches Ordinariat Mainz;;;;
+;;;Professur „Arithmetische Geometrie“;Heisenberg Professur DFG;;;5 Jahre;
+;;;Juniorprofessur „Theoretische Physik kondensierter Materie“;Karl-Zeiss-Stiftung;;;5 Jahre;
+;;;Juniorprofessur Experimentelle Teilchen- und Astrophysik;Lichtenberg-Professur der VW-Stiftung;;;5 Jahre;
+;;;Biomineralogie;Heisenberg Professur DFG;;;;
+;;;Zell- und Entwicklungsbiologie mit dem Schwerpunkt Signaltransduktion und Epigenetik;Boehringer Ingelheim Stiftung;;;10 Jahre;
+;;;Molekularbiologie der Genomstabilität;Boehringer Ingelheim Stiftung;;;10 Jahre;
+;;;Entwicklungsepigenetik;Boehringer Ingelheim Stiftung;;;10 Jahre;
+;;Universitätsmedizin Mainz;Experimentelle Thrombose und Hämostase;Alexander-von-Humboldt-Stiftung;;;5 Jahre;
+;;;Stiftungsprofessur für Experimentelle Hämastaseologie und Labormedizin;Deutsche Vereinte Gesellschaft für Klinische Chemie und Labormedizin;;;5 Jahre;
+;;;Stiftungsprofessur für Palliativmedizin;Deutsche Krebshilfe; ;;5 Jahre;
+;;;Metabolische Speichererkrankungen;Shire Deutschland GmbH;;;5 Jahre;
+;;Hochschule Ludwigshafen;Diversity in Sozialwissenschaften;H. Prof. Dr. jur. Carl-Heinrich Esser, Mannheim;300000;;3 Jahre;
+;;FH Mainz;Wirtschaftsprivatrecht, Gesellschaftsrecht, Konzern- und Umwandlungsrecht;Ernst & Young Wirtschaftsprüfungsgesellschaft GmbH, Deloitte & Touche GmbH Wirtschaftsprüfungsgesellschaft, KPMG AG Wirtschaftsprüfungsgesellschaft, PWC AG Wirtschaftsprüfungsgesellschaft;;;6 Jahre;
+;;;Wirtschaftsrecht, insbesondere Wirtschaftsprivatrecht;Ernst & Young Wirtschaftsprüfungsgesellschaft GmbH, Deloitte & Touche GmbH Wirtschaftsprüfungsgesellschaft, KPMG AG Wirtschaftsprüfungsgesellschaft, PWC AG Wirtschaftsprüfungsgesellschaft;;;;
+;;;Steuerrecht, insbesondere Verkehrssteuern;Ernst & Young Wirtschaftsprüfungsgesellschaft GmbH, Deloitte & Touche GmbH Wirtschaftsprüfungsgesellschaft, KPMG AG Wirtschaftsprüfungsgesellschaft, PWC AG Wirtschaftsprüfungsgesellschaft;;;;
+;;;Steuerrecht, insbesondere Ertragssteuern;Ernst & Young Wirtschaftsprüfungsgesellschaft GmbH, Deloitte & Touche GmbH Wirtschaftsprüfungsgesellschaft, KPMG AG Wirtschaftsprüfungsgesellschaft, PWC AG Wirtschaftsprüfungsgesellschaft;;;;
+;;TU Kaiserslautern;Mathematik, Finanzierung, Finanzierung;Heisenberg-Professur;;;;
+;;;Computional Stochastics, Finanzierung;Fraunhofer Institut für Techno- und Wirtschaftsmathematik;;;;
+;;;Statistik Räumlicher Strukturen, Finanzierung;Carl-Zeiss-Stiftung;;;;
+;;;Verfahrensentwicklung;BASF;;;;
+;;;Angewandte Theoretische Physik;Heisenberg-Professur;;;;
+;;Universität Trier;HealthCare Management und Logistik;Thiel AG;1853000;;1.4 2003 bis 30.11.2017;
+;;;„Philosophie der Antike“;Trebuth-Stiftung;285000;;1.4.2009 bis 31.3.2015;
+;;Universität Koblenz-Landau;Stiftungsprofessur für Technische Chemie und Korrosionswissenschaften;;;;;
+;;;Stiftungsprofessur für Demographieforschung;Energie Südwest AG, der Leadership- Kultur-Stiftung Landau, der Bürgerstiftung der Sparkasse Südliche Weinstraße und dem Stifterverband;;;;
+;;;;;;;;
+3;Mecklenburg-Vorpommern;Universität Greifswald;Gesundheit und Prävention;Stifterverband für die Deutsche Wissenschaft;;;;
+;;Universität Rostock;Windenergietechnik;Nordex SE;;;;
+;;;Wasserwirtschaft;EURAWASSER Nord GmbH;;;;
+;;;Herman-Schmitz-Professur für phänomenologische Philosophie;Dr. Johannes Werhahn;;;;
+;;;Lichtenberg-Professur für sensorische und kognitive Ökologie;VW-Stiftung;;;;
+;;;Uwe-Johnson-Stiftungsprofessur für neuere deutsche Literaturwissenschaft des 20. Jahrhunderts;Fries GmbH und Co. KG;;;;
+;;Hochschule für Musik und Theater, Rostock;Musikmanagement/Kultur-management;Stiftergemeinschaft, vertreten durch den Aufsichtsrat der Festspiele M-V;;;;
+;;;;;;;;
+4;Hamburg;Universität Hamburg;Stiftungsprofessur IT-Management und -Consulting (ITMC);Generali Versicherung AG;  25.000,-- € p. a.;;5 Jahre;Anfrage an Senatsverwaltung Hamburg
+;;;;NRS Norddeutsche Retail-Sevice AG (Haspa);  25.000,-- € p. a.;;;
+;;;;PPI AG;   25.000,-- € p. a.;;;
+;;;;Steria Mummert Consulting AG;   25.000,-- € p. a.;;;
+;;;;T-Systems Enterprise Services GmbH;   25.000,-- € p. a.;;;
+;;;;Vattenfall Europe Information Services GmbH;   25.000,-- € p. a.;;;
+;;;;Capgemini sd&m AG;     5.000,-- € p. a.;;;
+;;;;DAKOSY Datenkommunikationssystem AG;     5.000,-- € p. a.;;;
+;;;;Dataport;     5.000,-- € p. a.;;;
+;;;;DV-RATIO NORD GmbH;     5.000,-- € p. a.;;;
+;;;;Fortis IT-Services GmbH;     5.000,-- € p. a.;;;
+;;;;Hamburg Port Authority;     5.000,-- € p. a.;;;
+;;;;HPC Aktiengesellschaft;     5.000,-- € p. a.;;;
+;;;;itemis AG;     5.000,-- € p. a.;;;
+;;;;iteratec GmbH;     5.000,-- € p. a.;;;
+;;;;Lufthansa Systems AS GmbH;     5.000,-- € p. a.;;;
+;;;;Kühne + Nagel (AG & Co.) KG;    15.000,-- € p. a.;;;
+;;;;vero projects - Kopsch Projektmanagement GmbH;      5.000,-- € p. a.;;;
+;;;;www Bitmanager AG;      5.000,-- € p. a.;;;
+;;;;IndiTango AG;    15.000,-- € p. a.;;;
+;;;;EDEKA ZENTRALE AG & Co. KG;    25.000,-- € p. a.;;;
+;;;;INFO AG;    15.000,-- € p. a.;;;
+;;;Rudolf-Augstein-Stiftungsprofessur für Praxis des Qualitätsjournalismus;Rudolf Augstein Stiftung;   200.000,- € p. a.;;5 Jahre;
+;;;SVI-Stiftungsprofessur;Siegfried Vögele Institut - Internationale Gesellschaft für Dialogmarketing GmbH (SVI);   250.000,-- € p. a.;;5 Jahre;
+;;Hochschule für Musik und Theater;Jazz-Gesang;Gemeinnützige Dr. E.A. Langner-Stiftung;30.000,-- € p. a.;;5 Jahre;
+;;;Jazz-Percussion;Gemeinnützige Dr. E. A. Langner-Stiftung;30.000,-- € p. a.;;;
+;;Hochschule für Angewandte Wissenschaften Hamburg;Multichannel Trade Management in Textile Business;OTTO Group;70.000,-- € p.a.;;5 Jahre;
+;;;Architektur von Flugzeugkabinen;Airbus Deutschland GmbH;84.000,-- € p.a.;;5 Jahre;
+;;;Navigationstechnologien in der Orthopädie und Sportmedizin;Aesculap AG und Schön Klinik Hamburg Eilbek;90.000,-- € p.a.;;"5 Jahre ab Einstellung der Professorin/des Professors; Berufungsverfahren läuft noch.";
+;;Technische Universität Hamburg-Harburg;Flugzeug-Kabinensysteme;Airbus Deutschland GmbH;300.000,-- € p.a.;;5 Jahre;
+;;;Rekonfigurierbare Multiprozessor-Architekturen  ;NORDMETALL;70.000,-- € p.a.;;2*3 Jahre (Juniorprofessur);
+;;;Abfallressourcenwirtschaft;Stadtreinigung Hamburg;230.000,-- € p.a.;;5 Jahre;
+;;;Baumechatronik;Werner Möbius-Stiftung;100.000,-- € p.a.;;"5 Jahre ab Einstellung der Professorin/des Professors; Berufungsverfahren läuft noch.";
+;;;;;;;;
+6;Baden-Württemberg;Universität Freiburg;Wald- und Forstgeschichte;Andreas-Stihl-Stiftung;100000;1 Mio;10 Jahre;
+;;;Wilfried Guth Stiftungsprofessur für Volkswirtschaftslehre;Baden Badener Unternehmensgespräche;450000;4,5 Mio;10 Jahre;
+;;Uniklinik Freiburg;Zelluläre und Systemische Neurophysioloige;Volkswagen-Stiftung (Lichtenberg);220000;1,12 Mio;5 Jahre;
+;;;Hepatologie (Heisenberg);Deutsche Forschungsgemeinschaft;;;5 Jahre;
+;;;Hämatopoetische Zelltherapie;Förderverin krebskranker Kinder e.V. Freiburg;220000;1,32 Mio;6 Jahre;
+;;;Stationäre und teilstationäre Psychotherapie in der psychosomatischen Medizin;Kur- und Rehaklinik GmbH;;;6 Jahre;
+;;;Neuroelektronische Systeme;Dr. Peter Osypka-Stiftung;210000;1,26 Mio;6 Jahre;
+;;;Palliativmedizin;Deutsche Krebshilfe;150000;0,77 Mio;5 Jahre;
+;;Universität Heidelberg (Klinikum);Molekularbiologie des Mamakarzinoms;Dietmar Hopp Stiftung GmbH;500000;2,50 Mio;5 Jahre;
+;;;Vaskuläre Biologie und Tumorangiogenese;Hoechst AG Frankfurt;160000;1,6 Mio;10 Jahre;
+;;;Transfusionsmedizin und Immunologie;DRK Blutspendedienst Baden-Württemberg;120000;1,2 Mio;10 Jahre;
+;;;Erforschung und Behandlung des Schmerzes;DaimlerChrysler-Fonds im Stifterverband für die Deutsche Wissenschaft;160000;1,6 Mio;10 Jahre;
+;;;Molekulare Virologie;Professor Schaller;130000;1,3 Mio;10 Jahre;
+;;;Versorgungsforschung in der Psychosozialen Medizin;Prof. Dr. Rolf Wahl, Luisenklinik Bad Dürrheim;80000;800000;10 Jahre;
+;;;Statistische Modelle des Alterns;EML Research gGmbH (Tochtergesellschaft der Klaus Tschira Stiftung);;;;
+;;;Molekulare Grundlagen gastrointestinaler Tumoren;K.H. Bauer Stiftung;50000;;dauerhaft;
+;;;Zelluläre Immuntherapie;Novartis, Dietmar Hopp Stiftung;90000;450000;5 Jahre;
+;;;Regenerative Medizin;Joachim Siebeneicher Stiftung;;;5 Jahre;
+;;;Leukämieforschung;Deutsche José-Carreras-Leukämiestiftung und European Leukemia Net;90000;900000;10 Jahre;
+;;;Klinische Neuroonkologie;Hertie-Stiftung;210000;1,23 Mio;6 Jahre;
+;;;Medizinische Strahlenphysik/Strahlenschutz;Bundesamt für Strahlenschutz, Universitätsklinikum Mannheim gGmbH;;;;
+;;;Molekulare Bildgebung mit Schwerpunkt Radiochemie;Universitätsklinikum Mannheim gGmbH;;;10 Jahre;
+;;;Effizienzanalyse in der Diagnostik;Universitätsklinikum Mannheim gGmbH, Dt. Vereinte Gesellschaft für Klinische Chemie und Laboratoriumsmedizin. e. V. und weitere;;0,89 Mio;5 Jahre;
+;;;Mikrovaskuläre Biologie und Pathobiologie Franz Volhardt;Universitätsklinikum Mannheim gGmbH;80000;400000;5 Jahre;
+;;;Klinische Psychopharmakologie des Kindes- und Jugendalters;Lilli Pharma Holding GmbH;;1,09 Mio;5 Jahre;
+;;Universität Heidelberg;Radiochemie;Stiftung Energieforschung Baden-Württemberg;100000;1 Mio;10 Jahre;
+;;Universität Hohenheim;Unternehmens-gründungen und Unternehmertum (Entrepreneurship);Karl-Schlecht-Stiftung;260000;2,56 Mio;10 Jahre;
+;;;Nutzpflanzenbiodiver-sität und Züchtungs-informatik;KWS Saat AG;200000;1,60 Mio;8 Jahre;
+;;;Feed Gut Microbiota Interaktion;Carl-Zeiss-Stiftung;100000;0,4 Mio;4 Jahre;
+;;;Max-Eyth-Stiftungsprofessur Mess- und Prüftechnik;DLG e.V. (Deutsche Landwirtschafts-Gesellschaft);180000;0,88 Mio;5 Jahre;
+;;Karlsruher Institut für Technologie (KIT);Financial Engineering und Derivate;GZ-Bank AG Frankfurt/ Stuttgart und SGZ-Bank-;150000;1,5 Mio;10 Jahre;
+;;;Interaktive Echtzeitsys-teme (Analoge Anwen-dung);Fraunhofer Gesellschaft;80000;0,8 Mio;10 Jahre;
+;;;Mobile Arbeitsmaschinen;Förderverein für Mobile Arbeitsmaschinen e.V.;150000;1,5 Mio;10 Jahre;
+;;;Tektonik und Strukturgeologie mit technischen Anwendungen in der Geothermie;EnBW AG;400000;2,00 Mio;5 Jahre;
+;;;Bahnsystemtechnik;Fa. Bombardier Transportation;120000;1,2 Mio;10 Jahre;
+;;;Hybridelektrische Fahrzeuge;Stifterverband für die Deutsche Wissenschaft/Daimler Fond;660000;3,3 Mio;5 Jahre;
+;;;Technische Petrophysik;Herrenknecht AG;480000;2,40 Mio;5;
+;;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Angewandte Wirtschaftsforschung;Thurgauer Kantonalbank;140000;1,4;10 Jahre;
+;;;Angewandte Informatik;Altana AG Bad Homburg;500000;5 Mio;10 Jahre;
+;;;Empirische Bildungsforschung/Erziehungswissenschaft mit dem Schwerpunkt Fühe Kindheit;Thurgauische Stiftung für Wissenschaft und Forschung;110000;660000;6 Jahre;
+;;;Thurgauische Stiftung für Wissenschaft und Forschung;Thurgauische Stiftung für Wissenschaft und Forschung;300000;3 Mio;10 Jahre;
+;;;Erziehungswissenschaften;Thurgauische Stiftung für Wissenschaft und Forschung;;;unbefristet;
+;;Universität Mannheim;Allgemeine Betriebswirtschaftslehre und Wirtschafts-informatik, insbesondere E-Business and E-Goverment;Dieter-Schwarz-Stiftung;150000;1,5 Mio;10 Jahre;
+;;;Allgemeine Betriebswirtschaftslehre und Marketing IV;Dr. Werner Jäckstädt-Stiftung;350000;1,75;5 Jahre;
+;;;Allgemeine Betriebswirtschaftslehre und Rechnungswesen;Ernst & Young AG, Stuttgart;250000;2,50 Mio;10 Jahre;
+;;;Business Administration and Corporate Governance;Bilfinger und Berger AG, Fuchs Petrolub AG, MVV Energie AG und Südzucker AG;200000;1 Mio;5 Jahre;
+;;;Volkswirtschaftslehre, Mikroökonometrie;Alexander von Humboldt Stiftung;70000;3,5;5 Jahre;
+;;Universität Stuttgart;Verkehrsplanung und Verkehrsleittechnik;Stifterverband für die Deutsche Wissenschaft (DaimlerChrysler);170000;1,74 Mio;10 Jahre;
+;;;Kraftfahrzeugmechatronik;Stifterverband für die Deutsche Wissenschaft / Zulieferfirmen der KFZ-Industrie;160000;1,61 Mio;10 Jahre;
+;;;Theoretische Festkörperphysik;Max-Planck-Gesellschaft zur Förderung der Wissenschaften;150000;1,5 Mio;10 Jahre;
+;;;Windenergie;Karl Schlecht Gemeinnützige Stiftung (KSG);250000;2,50 Mio;10 Jahre;
+;;;Produktionstechnische Softwaresysteme;Einzelstifter aus der Werkzeugmaschinenindustrie;110000;1,08 Mio;10 Jahre;
+;;;Biomedical Engineering;Deutsche Krebshilfe e.V.;80000;0,76 Mio;10 Jahre;
+;;;Nachaltigkeit, Baukonstruktion, Entwerfen;Wüstenrot-Stiftung;190000;1,91 Mio;10 Jahre;
+;;;Wirkungsgeschichte der Technik;Berthold-Leibinger-Stiftung;150000;1,50 Mio;10 Jahre;
+;;;Mechanische Trennprozesse;Mann + Hummel GmbH;110000;1,10 Mio;10 Jahre;
+;;;Wasserkraft;EnBW und Voith Siemens;400000;4 Mio;10 Jahre;
+;;Universität Tübingen (Klinikum);Magnetoencephalography, Tenure Treck;CIN;;;5 Jahre;
+;;;Arbeits- und Sozialmedizin;Südwestmetall;400000;4 Mio;10 Jahre;
+;;;Hertie-Institut für Klinische Hirnforschung;;2,2 Mio;22 Mio;10 Jahre;
+;;;Neurologie mit Schwerpunkt Nuerodegenartive Erkrankungen;"Hertie-Stiftung ""Klinische Hirnforschung""";;;10 Jahre;
+;;;Zellbiologische Grundlagenforschung;"Hertie-Stiftung ""Klinische Hirnforschung""";;;;
+;;;Klinische Neurogenetik;"Hertie-Stiftung ""Klinische Hirnforschung""";;;;
+;;;Funktionelle Neurogenetik;"Hertie-Stiftung ""Klinische Hirnforschung""";;;;
+;;;N.N.;"Hertie-Stiftung ""Klinische Hirnforschung""";;1,95 Mio;6 Jahre;
+;;;Neurologie mit Schwerpunkt Epileptologie;"Hertie-Stiftung ""Klinische Hirnforschung""";;1,63 Mio;6 Jahre;
+;;;Experimentell-Klinische Gynäkoonkologie;Novartis Pharma GmbH;900000;4,50 Mio;5 Jahre;
+;;;Molekularbiologie degenerativer Netzhauterkrankungen;Tistou und Charlotte Kerstan Stiftung VISION 2000 SEHEN-KUNST-SINNESFUNKTIONEN;350000;3,85 Mio;11 Jahre;
+;;;Neuroplastizität des kindlichen Gehirns;Schön Kliniken GmbH;150000;0,75 Mio;offen;
+;;;Präklinische Bildgebung und Bildgebungstechnologie;Werner-Siemens-Stiftung;320000;3,20 Mio;10 Jahre;
+;;;Klinische Pharmakologie;Robert-Bosch-Stiftung;;;;
+;;;Neurodegeneration des Auges;DFG-Heisenberg-Professur;80000;0,25 Mio;3 Jahre;
+;;;Nephrologie mit Schwerpunkt diabetische Nephropathie;Sanofi-Aventis Deutschland GmbH;;0,42 Mio;5 Jahre;
+;;;Ophtalmic Research;CIN;;;5 Jahre;
+;;;Systems Neurophysiologie;CIN;;;5 Jahre;
+;;;Klinisch-Experimentelle Diabetologie;DFG - Heisenberg;;;5 Jahre;
+;;;Entzündliche Herz-Kreislauferkrankungen;Volkswagen-Stiftung (Lichtenberg);230000;1,17 Mio;5 Jahre;
+;;;Biomaterialentwicklung mit Schwerpunkt karidiovaskülare regenerative Medizin;Fraunhofer Gesellschaft;;;5 Jahre;
+;;Universität Ulm (Klinikum);Transfusionsmedizin und Immunologie;DRK-Blutspendedienst Baden-Württemberg;100000;1 Mio;10 Jahre;
+;;;Neurodegenerationsforschung;Charcot-Stiftung;100000;0,5 Mio;5 Jahre;
+;;;Neurophysiologie;Hertie-Stiftung;;1 Mio;8 Jahre;
+;;Universität Ulm;Strategische Unternehmensführung und Finanzierung;Kress, Ulm;200000;2,00 Mio;10 Jahre;
+;;;Hybride Quantensysteme;Carl Zeiss Stiftung;200000;0,8 Mio;4 Jahre;
+;;;Multiskalenmodellierung in den computergestützten Materialwissenschaften;Dr. Barbara-Mez-Starck-Stiftung;100000;0,6 Mio;6 Jahre;
+;;;Nachhaltiges Wissen, nachhaltige Bildung, nachhaltiges Wirtschaften;verschiedene Stifter;100000;1 Mio;10 Jahre;
+;;;Theoretische Quanteninformationsverarbeitung;Alexander von Humboldt Stiftung;700000;3,5;5 Jahre;
+;;;Elektronen- und Ionen-Mikroskopie;Carl Zeiss Stiftung;150000;0,75 Mio;5 Jahre;
+;;FH Aalen;Direct Customer Relationship Management (Direktvertrieb);Berner GmbH Künzelsau;;0,77;8 Jahre;
+;;;Existenzgründung, -sicherung und Betreibsübernahme, Aus- und Weiterbildungskonzepte für KMU;Kreissparkasse Ostalb und die Sparkassenstiftung Ostalb;;0,37;5 Jahre;
+;;;Werkzeugmaschinen und spanende Fertigungstechnologie;Maschinenfabrik Alfing Kessler GmbH, Gesenkschmiede Schneider GmH, MAPAL Präzisionswerkzeuge, Kessler & Co., Leitz Werkzeugfabrik;;0,39;5 Jahre;
+;;;"Studienschwerpunkt ""Automotive"" ; Lehrgebiet ""Konstruktion, Maschinenbau und Getriebetechnik""";Firma Voith Turbo GmbH;;0,77 Mio;10 Jahre;
+;;;Gesundheitsökonomie und Management 1;Gmünder Ersatzkasse GEK;;0,67 Mio;10 Jahre;
+;;;Gesundheitsökonomie und Management 2;Gmünder Ersatzkasse GEK;;0,67 Mio;10 Jahre;
+;;;Gesundheit und Sozialwissenschaften;Gmünder Ersatzkasse GEK;;0,67 Mio;10 Jahre;
+;;;Allgemeine Betriebswirtschaft im Gesundheitswesen;Gmünder Ersatzkasse GEK;;0,67 Mio;10 Jahre;
+;;Hochschule Albstadt-Sigmaringen (FH);Steriltechnik;Firma Vetter-Pharma-Fertigung GmbH und Co. KG;;0,5;5 Jahre;
+;;Hochschule Biberach;Biologie, Zell - und Molekularbiologie;Firma Rentschler und KSK Biberach (jeweils 0,5);;1 Mio;10 Jahre;
+;;;Biotechnologische Produktionsverfahren;Kreissparkasse Biberach;;0,5 Mio;10 Jahre;
+;;Hochschule Esslingen (FH);Betriebswirtschaft, Informationstechniken, Qualitätsmanagement und Marketing in der Fahrzeugtechnik und im Fahrzeugservice;Daimler Chrysler-Fonds;;0,61 Mio;10 Jahre;
+;;Hochschule Furtwangen;Digitale Infrastruktur im Ländlichen Raum;Stfiterbund von Dt. Telekom, Kabel BW, Kellner Telekom, Sparkasse Pforzheim-Calw, Fa. Weigandbau, Regionalverband Schwarzwald-Baar-Hauberg, Landesanstalt f. Komunikation, sowie MLR;;0,48 Mio;5 Jahre;
+;;FH Heilbronn / Hochschule Heilbronn;Sozialpsychologische Grundlagen des Softeware-Engineering;Gustav-Berger-Stiftung Heilbronn, Sparkassenstiftung Heilbronn und Verein der Freunde an der FH Heilbronn;;0,61 Mio;10 Jahre;
+;;;Allgemeine Betriebswirtschaft,;Adolf-Würth GmbH, Künzelsau;;0,61 Mio;10 Jahre;
+;;;Medienmanagement;Fritz Müller-Stiftung Ingelfingen und Stiftung Jugend, Natur und Heimat der Sparkasse Hohenlohekreis, Künzelsau;;0,61 Mio;10 Jahre;
+;;;Entrepreneurship;Firma ebm-Werke GmbH & Co in Mulfingen;;0,61 Mio;10 Jahre;
+;;;Dynamik und Modellbildung von Kfz-Systemen;Robert Bosch AG Stuttgart;;0,65 Mio;10 Jahre;Verlängerung um 5 Jahre durch den Stifter
+;;;"Kfz-Technik (Fahrwerk und Antriebsstrang);";GETRAG - Getriebe- und ZahnradfabrikHermann Hagenmeyer GmbH & Cie KG Untergruppenbach;;0,65 Mio;10 Jahre;
+;;;Elektrotechnik, insbesondere Informationssysteme im Kfz;Valeo Schalter und Sensoren GmbH Bietigheim-Bissingen;;0,65 Mio;10 Jahre;
+;;;Produktion und Logistik;Stadt Heilbronn;;0,65 Mio;10 Jahre;
+;;;Elektrotechnik, insbes. Leistungselektronik, elektr. Antriebe sowei Mess- und Sensortechnik;Thomas Gessmann-Stiftung Leingarten;;1,15 Mio;10 Jahre;
+;;;Marketing und Vertrieb Osteuropa;Fa. Berner GmbH Künzelsau;;0,90 Mio;10 Jahre;
+;;;Technisches Logistikmanagement;Dieter-Schwarz Stiftung Neckarsulm;;0,90 Mio;10 Jahre;
+;;;Hotelmanagement, Gastronomie;Stadt Heilbronn;;0,90 Mio;10 Jahre;
+;;;Elektrische Energietechnik und Regenerative Energiesysteme;Fa. ebm-papst Mulfingen GmbH & Co. KG, Mulfingen;;0,90 Mio;10 Jahre;
+;;;Technisches Logistikmanagement;Adolf Würth GmbH & Co. KG - Fa. Bechtle AG Neckarsulm - Firma Müller - Die Lila Logistik AG Besigheim-Ottmarsheim - Stifterverband für Die Dt. Wissenschaft e.V.;;0,45 Mio;5 Jahre;
+;;;Leistungselektronik und Elektrische Antriebe;Thomas Gessmann-Stiftung Leingarten;;1,15 Mio;10 Jahre;
+;;Hochschule Karlsruhe (FH);Betriebswirtschaft und betriebliche Informationssysteme;Dietmar-Hopp-Stiftung, St. Leon-Rot;;0,75 Mio;10 Jahre;
+;;;Kälte-, Klima- und Umwelttechnik mit dem Schwerpunkt Energieeffizienz;Steinbeis-Stiftung für Wirtschaftsförderung u. - Verbund der Stifter an der HS KA;;0,55 Mio;5 Jahre;
+;;Hochschule Konstanz/FH Konstanz;Optimale Entwicklung, Herstellung und Verwendung mechatronischer Geräte und Produkte;Firma ETO MAGNETIC KG;;0,33 Mio;5 Jahre;
+;;;Elektrische Antriebstechnik für Fahrzeuge;ZF Friedrichshafen AG + Stifterverband;;0,6 Mio;5 Jahre;
+;;;Datensicherheit in cloudbasierten Systemen und IT-Forensik;Auerbach Stiftung Nürnberg;;1,62 Mio;10 Jahre;
+;;Hochschule Mannheim (FH);Weiterentwicklung der intravitalen Mikroskopie;Klinikum Mannheim;;0,95 Mio;10 Jahre;
+;;FH Nürtingen;Lehrbereich Immobilienwirtschaft insbesondere DV-gestützte Informationssysteme im Rahmen des SG Immobilienwirtschaft am Standort Geislingen/Steige;BauConsult DV- und Unternehmensberatung Stuttgart GmbH;;0,61 Mio;10 Jahre;
+;;;Betriebswirtschaftslehre für den Bereich Automobilwirtschaft, insb. Automobilhandel;Eurotax Glass´s Holding bzw. Santander Bank (von 2007 bis 2013);;0,55 Mio;11 Jahre;
+;;;Unternehmenskommunikation;- Alb-Elektrizitätswerk Geislingen eG- Hochschulbund Nürtingen/Geislingen e.V.- Stadt Geislingen;;0,35 Mio;10 Jahre;
+;;;Forensisches Sachverständigenwesen;Gundolf Beier Stiftung, Geislingen;;0,45 Mio;10 Jahre;
+;;;Online-Marketing;Fa. Sommer Corporate Media - Elanders GmbH, Waiblingen;;0,23 Mio;5 Jahre;
+;; FH Offenburg / Hochschule Offenburg;"Transportlogistik, insbesondere nationaler und internationaler Logistik-Dienstleistungsunternehmen; innerbetriebliche Logistik und Supply-Chain-Management von Unternehmen der Industrie und des Handels";Georg und Maria Dietrich Logistik-Stiftung Offenburg;;0,5 Mio;10 (7?);
+;;;Energiesystemtechnik;EnBW Energie-Baden-Württemberg AG;;0,70 Mio;8 Jahre;
+;;;Material Engineering;Unternehmenskonsortium von elf Unternehmen aus der Region Ortenau und dem Verein der Freunde und Förderer der HS Offenburg e.V.;;0,43 Mio;5 Jahre;
+;;;Biomedizinische Technik;Peter-Osypka-Stiftung Grenzach;;0,70 Mio;8 Jahre;
+;;;Direct Marketing und E-Commerce;Herr Hans R. Schmid;;0,70 Mio;8 Jahre;
+;;FH Pforzheim / Hochschule Pforzheim;Stanztechnik;– Härter Stanztechnik GmbH (Königsbach-Stein)– Kramski GmbH (Pforzheim)– Kummer GmbH+Co.KG (Ötisheim)– Sparkasse Pforzheim Calw und– Bruderer GmbH (Dortmund);;0,75 Mio;10 Jahre;
+;;;Mechatronik;IHK Nordschwarzwald;;0,45 Mio;5 Jahre;
+;;;Unternehmensbesteuerung und Steuerbilanzrecht;Fa. Ernst & Young AG;;0,54 Mio;6 Jahre;
+;;;Automatisierungstechnik;IHK-Nordschwarzwald;;0,54 Mio;6 Jahre;
+;;FH Ravensburg-Weingarten;3D-Kameratechnik / Machine Vision;ifm electronic GmbH Essen (1,155 Mio. €) Stifterverband für die Dt. Wissenschaft (100,0 Tsd. €);;1,25 Mio;10 Jahre;
+;;;Theorie und Praxis der klinischen Pflege;Zentrum für Psychiatrie (ZfP) Südwürttemberg / Bad Schussenried, ADK GmbH für Gesundheit und Soziales / Ehingen, Oberschwabenklinik GmbH / Ravensburg, Klinikum Friedrichshafen GmbH, Waldburg-Zeil Kliniken GmbH & Co. KG / Isny-Neutrauchburg;;1,00 Mio;10 Jahre;
+;;;Design mechatronischer Systeme in der Fahrzeugtechnik;ZF Friedrichshafen AG + Stifterverband;;0,60 Mio;5 Jahre;
+;;Hochschule Reutlingen;Internationaler Handel und E-Commerce;Dieter-Schwarz-Stiftung Neckarsulm;;1,02 Mio;10 Jahre;
+;;;Elektrotechnik 1;Robert-Bosch GmbH;;1,10 Mio;10 Jahre;
+;;;Elektrotechnik 2;Robert-Bosch GmbH;;1,10 Mio;10 Jahre;
+;;;Logistik;Firma Betz;;0,90 Mio;10 Jahre;
+;;FH Stuttgart, H der Medien;Konstruktion und Gesamtherstellung von graphischen Produkten;Adolf I. Döpfert-Stiftung Ludwigsburg;;0,62 Mio;10 Jahre;
+;;Hochschule Ulm (FH) / FH Ulm - H für Technik;Energiedatenmanagement dezentraler und (regenerativer) erneuerbare Energieversorgungssysteme;Solarstiftung Ulm/Neu-Ulm, Ulm;;0,35 Mio;5 Jahre;
+;;;Modellbasierte Systementwicklung;Industrie- und Handelskammer Ulm mit der Firma EADS Defence & Securitiy;;0,50 Mio;5 Jahre;
+;;Duale Hochschule Baden Württemberg;Business Administration;Voith AG;;96400;5 Jahre;
+;;;Distributionslogistik und Warenwirtschaft;Dieter-Schwarz-Stiftung gGmbH;;102300;10 Jahre;
+;;;"Professur für Lehraufgaben mit der Vertiefung ""Handel und Führung""";Dieter-Schwarz-Stiftung gGmbH;;105.000 Euro;10 Jahre;
+;;;Professur für Lehraufgaben im Studiengang Verfahrens-/ Energieverfahrenstechnik;EnBW Kraftwerk GmbH;;100000;10 Jahre;
+;;;"Professur für Lehraufgaben mit dem Schwerpunkt ""Investitionsgüter Marketing"" im Studiengang BWL-International Business";"Stifterverband ""Pro Berufsakademie Mosbach""";;90000;10 Jahre;
+;;;Professur für Lehraufaufgaben im Studiengang Maschinenbau Fahrzeug-System-Engineering, insbes. Antriebstechnik;ZF Friedrichshafen;;550000;5 Jahre;
+;;;"Professur für Lehraufgaben mit der Vertiefung ""Interkulturelle Sozialarbeit, Gesundheitswissenschaften, sozialwissenschaftliche Grundlagen""";Michael-Balint-Klinik Königsfeld;;jährlich: 45.000 Euro, einmalig: 10.000 Euro Sachkosten;5 Jahre;
+;;;;;;;;
+7;Sachsen;TU Dresden (ohne Klinikum);Tiermodelle der Regeneration;DFG;;;01.02.2008-31.12.2017;
+;;;Mobile Nachrichtensysteme;Vodafone D2 GmbH;;;"01.09.1994-31.08.2015
+";
+;;;Kälte-, Kryo- und Kompressoren- technik;"Bitzer Kühlmaschinenbau GmbH Sindelfingen
+";;;01.04.2010-31.03.2015;
+;;;"Öffentliches Recht, insbesondere Staatsrecht und Staatswissensch.
+";"Stifterverband für die Deutsche Wissenschaft,
+vertreten durch CD-Stiftung
+(Carl Deichmann)";;;01.08.2009-31.07.2014;
+;;;Biomimetische Materialien;"Förderung im Rahmen des gleichnamigen For-schungsprojekts durch
+SMWK";;;01.08.2011-31.07.2016;
+;;;"BioNano-Werkzeuge (Heisenberg-
+Professur";DFG;;;01.10.2010-30.09.2015;
+;;;"Systembiologie und Genetik
+(Heisenberg-Professur)";DFG;;;2012-2017;
+;;;Organic Devices;"75 % Bund, 25 % Land
+(Bewilligung Exzellenzclus-ter „cfaed – Center for Ad-
+vancing Elektronics Dresden”)";;;"Ab 2013 für mindestens
+5 Jahre!
+";
+;;;Organic and Polymer Materials;"75 % Bund, 25 % Land
+(Bewilligung Exzellenzclus-ter „cfaed – Center for Ad-
+vancing Elektronics Dresden”)";;;"Ab 2013 für mindestens
+5 Jahre!
+";
+;;;Professor Design;"75 % Bund, 25 % Land
+(Bewilligung Exzellenzclus-ter „cfaed – Center for Ad-
+vancing Elektronics Dresden”)";;;"Ab 2013 für mindestens
+5 Jahre!
+";
+;;;Compiler Construction;"75 % Bund, 25 % Land
+(Bewilligung Exzellenzclus-ter „cfaed – Center for Ad-
+vancing Elektronics Dresden”)";;;"Ab 2013 für mindestens
+5 Jahre!
+";
+;;;Adaptive Networks;"75 % Bund, 25 % Land
+(Bewilligung Exzellenzclus-ter „cfaed – Center for Ad-
+vancing Elektronics Dresden”)";;;"Ab 2013 für mindestens
+5 Jahre!
+";
+;;;"RNA-Biology (im Rahmen des
+Dresden concept)";"Max-Planck-Institut für Mo-
+lekulare Zellbiologie und Genetik";;;unbefristet;
+;;;Developmental Cell Biology;"Max-Planck-Institut für Mo-
+lekulare Zellbiologie und Genetik";;;unbefristet;
+;;;Behaviorale Epidemiologie;BMBF;;;2012-2018;
+;;;Innovationsmanagement und En-drepreneurship;Stifterverband für die Deutsche Wissenschaft;;;01.01.2006-28.02.2014;
+;;;"Laserstrukturierung von Ober-flächen
+";Fraunhofer-Gesellschaft zur Förderung der ange- wandten Forschung e. V. München;;;01.07.2012-30.06.2016;
+;;;"Werkstoffprüfung und –charak-
+Terisierung
+
+
+";"Fraunhofer-Institut für Werkstoff- und Strahl-
+technik";;;unbefristet;
+;;;"Kommunikationswissenschaft mit
+dem Schwerpunkt Emerging Com-
+munications and Media (Juniorp.)";Sächsisches Druck- und Verlagshaus AG – Die Medien AG;;;"01.02.2011-31.01.2015
+";
+;;;"Circuits for Energy Efficiency
+(Juniorprof.)";"75 % Bund, 25 % Land
+(Bewilligung Exzellenzclus-ter „cfaed – Center for Ad-
+vancing Elektronics Dresden”)";;;"2013-2018
+";
+;;;"Nanomaterials for Packaging
+(Juniorprof.)";Fraunhofer-Gesellschaft;;;Noch nicht bekannt!;
+;;TU Dresden (Klinikum);Transfusionsmedizin;DRK Blutspendedienst Ost GmbH;;;"unbefristet
+";
+;;;Genomics of Regeneration;DFG;;;01.05.2007-31.12.2017;
+;;;Präklinische Stammzelltherapie;DFG;;;01.05.2007-31.12.2017;
+;;;"Prävention und Versorgung des Diabetes
+";Sanofi Aventis GmbH;;;01.04.2009-31.03.2014;
+;;;"Regenerative Therapien des Diabetes (Hans-Hagedorn-Stif-
+tungsprofessur)
+";Novo Nordisk GmbH;;;01.04.2009-31.03.2014;
+;;;Diabetes und Niere;"European Nephrology and Dialysis Institue,
+Oberursel
+";;;01.04.2010-31.03.2015;
+;;;Biomarker für die individualisierte Radioonkologie;BMBF;;;01.10.2011-30.09.2016;
+;;;Molekulare Pädiatrie;DFG;;;01.11.2011-31.10.2013;
+;;;"Klinische Tumorepidemiologie
+und Ergebnisforschung";Deutsche Krebshilfe;;;01.03.2010-31.01.2015;
+;;;Translationale klinische For- schung im Bereich Hämatologie;Noch nicht bekannt!;;;Noch nicht bekannt!;
+;;;"Extrakorporale Verfahren und
+Lipidapherese
+";Noch nicht bekannt!;;;Noch nicht bekannt!;
+;;Universität Leipzig (ohne Klinikum);Energiemanagement und Nach- haltigkeit;"Wittenberg-Zentrum für
+Globale Ethik e. V.;
+Vattenfall Europe AG; Stifterverband für die Deutsche Wissenschaft";;;"01.09.2008-31.08.2013
+";
+;;;"Entwicklungsbiologie, Schwerpkt.
+Endogene Gewebs- und Organ-
+entwicklung und Regeneration";BMBF;;;01.04.2010-31.03.2015;
+;;;"Alexander-von-Humboldt-Profes-
+sur – Internationaler Preis für Forschung in Deutschland";"Alexander-von-Humboldt-
+Stiftung";;;"2012-2017
+";
+;;;"Evolution und Adaption
+(am Forschungsinstitut für Inte-
+grative Biodiversitätsforschung)";"DFG
+";;;2012-2016;
+;;;"Experimentelle Interaktionsökologie
+(am Forschungsinstitut für Inte-
+grative Biodiversitätsforschung)";DFG;;;"2012-2016
+";
+;;;Byzantinische und neugriechische Philologie;Ministerium für Erziehung und Religionen und Außenministerium von Griechenland;;;unbefristet;
+;;;"Wechselwirkung von Oberflächen
+mit biologischen Zellen und Geweben";BMBF;;;"01.05.2009-30.04.2015
+";
+;;;"Multifunktionale Konstruktions-
+werkstoffe";Unternehmerverband Sachsen e. V.;;;"01.11.2011-31.10.2016
+";
+;;;Wirtschaftsinformatik, insbeson- dere Informationssysteme in der Logistik (Juniorprof.);Konsortium (sechs Firmen);;;"01.04.2012-31.03.2017
+";
+;;Universität Leipzig (Klinikum);Klinische Onkologie;Universitätsklinikum Lzg.;;;2013-2018;
+;;;Experimentelle und Klinische Adipositasfprschung;BMBF;;;2013-2018;
+;;;Heisenberg-Professur für Neuro-physiologie;DFG;;;Noch nicht bekannt!;
+;;;Medizinische und Zelluläre Immunologie;BMBF;;;Noch nicht bekannt!;
+;;;Kinderherzchirurgie;Herzzentrum Leipzig GmbH;;;01.10.2000-30.09.2014;
+;;;Neurologie (Neurologische Reha-bilitation motorischer Störungen);Michels-Kliniken Bennewitz;;;Unbefristet;
+;;;Präventive/Regenerative Kardio-logie;Herzzentrum-Leipzig GmbH;;;01.10.2009-30.09.2014;
+;;;Experimentelle und klinische Thorakale Organtransplantation im Bereich Herzchirurgie;Stifterverband für die Deutsche Wissenschaft;;;01.09.2008-31.08.2013;
+;;;Claussen-Simon-Stiftungspro- fessur für Neurobiologie affektiver Störungen;Claussen-Simon-Stiftung;;;01.04.2009-31.03.2015;
+;;;Allgemeine Pädiatrie/Pädiatrische Forschung;"Else Kröner Fresenius Stiftung, Deutsche Diabe-
+tes Stiftung";;;01.02.2010-31.01.2016;
+;;;Bariatrische Chirurgie;Universitätsklinikum Lzg.;;;1512.2010-14.12.2015;
+;;;Molekulare Neurobildgebung der Adipositas;BMBF;;;01.07.2011-30.06.2016;
+;;;Endokrinologie der Adipositas;BMBF;;;01.06.2011-31.05.2016;
+;;;Ernährungspsychologie/Verhal-tensmedizin;BMBF;;;01.09.2011-30.04.2015;
+;;;Experimentelle und Klinische Adipositasforschung;BMBF;;;Noch nicht bekannt!;
+;;;Herzkreislaufforschung und Inno-vationstransfer;Leipziger Stiftung für Inno-vation und Technologie-transfer;;;Noch nicht bekannt!;
+;;;Pädiatrische Klinische Genetik;Universitätsklinikum Lzg.;;;2012-2017;
+;;;Gefäßchirurgie;Universitätsklinikum Lzg.;;;2012-2017;
+;;;Regeneration der Wirbelsäule;BMBF;;;Noch nicht bekannt!;
+;;;Transfusionsmedizin;Universitätsklinikum Lzg.;;;Noch nicht bekannt!;
+;;;"Genomik von Vorhofflimmern
+(Lichtenberg-Professur) –
+Juniorprof.";VW-Stiftung;;;30.08.2011-29.08.2014;
+;;;"Biomechanische Grundlagen der
+Netzhautchirurgie
+";"Stifterverband für die Deutsche Wissenschaft –
+Fritz und Hildegard Berg-Stiftung";;;01.02.2009-31.01.2015;
+;;TU Bergakademie Freiberg;"Numerische Thermofluiddynamik
+";"BMBF
+(VIRTUHCON-Projekt)";;;"01.03.2010-31.10.2014
+";
+;;Hochschule für Technik, Wirtschaft und Kultur Leipzig;"Monitoring und Diagnostik in der elektrischen Energietechnik
+";Energie und Umwelt Stiftung Leipzig;;;"01.09.2012-31.08.2013
+";
+;;;"Simulation und Ergonomie in der operativen Medizin
+";Leipziger Stiftung für Innovation und Technologietransfer;;;"23.12.2011-22.12.2016
+
+";
+;;Hochschule Zittau/Görlitz (FH);Reaktor- und Anlagensicherheit;Vattenfall Europe Nuclear Energy GmbH;;;01.10.2006-30.09.2016;
+;;Westsächsische H Zwickau;Kfz.-Technik/Motorsport Engineering;ADAC Sachsen e. V.;;;01.09.2011-31.08.2016;
+;;Hochschule Mittweida (University of Applied Sciences);Hochrate Laserbearbeitung;"Konsortium
+(15 Einzelfirmen)";;;01.07.2011-30.06.2016;
+;;Hochschule für Musik und Theater Leipzig;Streicherkammermusik;BMBF;;;2012-2016;
+;;Hochschule für Graphik und Buchkunst Leipzig;Kulturen des Kuratorischen;"Stifterverband für die Deutsche Wissenschaft,
+Deutscher Sparkassen- und Giroverband
+Berlin";;;"01.06.2009-31.05.2014
+";
+;;;;;;;;
+8;Schleswig-Holstein;;;;;;;
+;;;;;;;;
+9;Hessen;Universität Frankfurt a.M. (ohne Klinikum);Stiftungsprofessur für Geld-, Währungs- und Notenbankrecht;"Stiftung ""Geld und Währung"" beim Stifterverband";;;;http://www2.uni-frankfurt.de/44953572/stiftungsprofessuren
+;;;Dresdner Bank Stiftungsprofessur für Wirtschaftsrecht/Law & Finace;Dresdner Bank Stiftungsfonds „Horizonte“ beim Stifterverband;;;;
+;;;Deutsche Telekom Stiftungsprofessur für BWL, insb. Mobile Business und Multilateral Security;Deutsche Telekom AG;;;;
+;;;Stiftungsprofessur für Finanzen und Ökonomie;"Stiftung  ""Geld und Währung"" beim Stifterverband";;;;
+;;;Sitftungsprofessur für Volkswirtschaftslehre, insbes. Monetäre Ökonomie;"Stiftung ""Geld und Währung"" beim Stifterverband";;;;
+;;;House of Finance Stiftungslehrstuhl für Finance and Accounting - gefördert durch die Helaba;Helaba;;;;
+;;;House of Finance Stiftungslehrstuhl für Retail Banking - gefördert durch die DZ Bank Stiftung;DZ Bank Stiftung;;;;
+;;;Detlef-Hübner-Stiftungsprofessur für Betriebswirtschaftslehre, insb. IT-basierte Logistik;Detlef Hübner Stiftung, Hofheim, Wallau;;;;
+;;;House of Finance Stiftungsprofessur für Sustainable Banking and Finance;DekaBank;;;;
+;;;UBS Stiftungsprofessur für Betriebswirtschaftslehre, insb. Management;UBS Deutschland AG;;;;
+;;;UBS Stiftungsprofessur für Finance, insb. Asset Pricing;UBS Deutschland AG;;;;
+;;;Messe Frankfurt-Stiftungsprofessur für Internationale Wirtschaftspolitik;Messe Frankfurt;;;;
+;;;Stiftungsprofessur für Versicherungswesen, Versicherungsaufsicht und Versicherungsregulierung;Gesamtverband der Deutschen Versicherungswirtschaft e. V.;;;;
+;;;Stiftungsjuniorprofessur für E-Finance & Services Science;E-Finance Lab e.V;;;;
+;;;EUREX Juniorprofessur für Derivate - Assistant Professorship in Derivatives;Eurex Frankfurt AG;;;;
+;;;Stiftungsprofessur für Interdisziplinäre Alternswissenschaft;BHF-Bank-Stiftung;;;;
+;;;W2-Stiftungsprofessur für Islamische Religion;Anstalt für Religion Diyanet, Türkei;;;;
+;;;Stiftungsprofessur für Mobilitätsforschung;Rhein-Main-Verkehrsverbund GMBH;;;;
+;;;Goethe-Leibniz-Oerlikon-Nachwuchsprofessur für Terahertz-Photonik;OC Oerlikon AG;;;;
+;;;Stiftungsprofessur für Anorganische und Analytische Chemie;City Solar AG;;;;
+;;;Stiftungsprofessur für Biotechnologie;Merck KgaA;;;;
+;;;Stiftungsprofessur für Bienenkunde;Polytechnische Gesellschaft Frankfurt am Main;;;;
+;;Universität Frankfurt a.M. (Klinikum);Stiftungsprofessur für prädiktive molekulare Marker in der gastroenterologischen Onkologie und Hepatologie;Roche Pharma AG, Grenzach-Wyhlen;;;;
+;;;Hertie-Stiftungslehrstuhl für Neuroonkologie;Hertie-Stiftung, Dr. Senckenbergische Stiftung;;;;
+;;;Deutsche José Carreras Leukämie-Stiftungsprofessur;Deutsche José Carreras Leukämie-Stiftung e.V.;;;;
+;;;Stiftungsprofessur für regenerative Medizin;Stiftung Friedrichsheim;;;;
+;;;Kerckhoff-Klinikprofessur Kardiologie;Stiftung William G. Kerckhoff Herz- und Rheumazentrum Bad Nauheim;;;;
+;;;Stiftungsprofessur Interdisziplinäre Onkologie;Stiftung Hospital zum heiligen Geist;;;;
+;;;Stiftungsprofessur für experimentelle pädiatrische Onkologie und Hämatologie;Frankfurter Stiftung für krebskranke Kinder;;;;
+;;;Johanna Quandt-Forschungsprofessur im Bereich der Grundlagenforschung der Lebenswissenschaften;Johanna Quandt;;;;
+;;Universität Kassel; Wirtschafts- und Unternehmensethik;Plansecur-Stiftung;;;1. 9. 2010 bis 31. 8. 2013;
+;;;Kommunikations- und Medienmanagement;Siegfried Vögele Institut Internationale Gesellschaft für Dialogmarketing;;;1. 3. 2006 bis 29. 2. 2016;
+;;;Internationales Direktmarketing;Siegfried Vögele Institut Internationale Gesellschaft für Dialogmarketing;;;1. 4. 2006 bis 31. 3. 2016;
+;;;Personal- und Changemanagement;B. Braun Melsungen AG, Kasseler Bank eG, Verlag Dierichs GmbH & Co. KG, RSE Planungsgesellschaft mbH, Technoform Caprano und Brunnhofer GmbH & Co. KG, Kali und Salz AG;;;1. 5. 2009 bis 30. 4. 2014;
+;;;Werk und Wirkung der Brüder Grimm;"Günther Cramer, Hübner GmbH, Städtische Werke AG, Glinicke GmbH, Technoform Caprano
+und Brunnhofer GmbH & Co. KG, Strecker, Berger + Partner, Bärenreiter Verlag,
+Angelika Bergmann, Christiane Pietzcker, Rohde Tief- u. Straßenbau GmbH, B.
+Braun Melsungen AG, Von Waitzische Beteiligungen GmbH, Verlag Dierichs GmbH &
+Co. KG, Creditreform Kassel Dr. Schlegel GmbH, Hospitality Alliance AG.";;;2. 2. 2012 bis 1. 2. 2018;
+;;H da – Hochschule Darmstadt (FH);Gebäudesanierung – Schwerpunkt Gebäudeausbau und Gebäudegestaltung;Caparol-Gruppe, Knauf Gips KG;140.000 Euro;;Seit 2008, für Jahre  ;
+;;TU Darmstadt;Angewandte Geothermie im Fachbereich Material- und Geowissenschaften;NATURpur Institut für Klima- und Umweltschutz:;;;http://www.tu-darmstadt.de/vorbeischauen/publikationen/fortschrittsbericht/index_3456.de.jsp;
+;;;Bahnsysteme und Bahntechnik;Deutsche Bahn Regio;;;;
+;;;Lichttechnik;"Audi, Automotive Lighting, BMW, Daimler,
+Hella, Koito Manufacturing, Odelo, Opel, Osram, Philips,
+Valeo Eclairage Signalisation, Zizala Lichtsysteme";;;;
+;;;IT-Sicherheit mit dem Schwerpunkt Security Engineering;Horst Görtz Stiftung;;;;
+;;;Cluster- und Wertschöpfungsmanagement;Hessen Metall;;;;
+;;;Mode und Ästhetik;Wella Stiftung;;;;
+;;;Wissenschaft und Technik für Frieden und Sicherheit;Deutsche Stiftung Friedensforschung/Berghof-Stiftung für Konfliktforschung;;;;
+;;;BWL Multimodalität und Technik;Deutsche Bahn Mobility Logistics AG;;;;
+;;;BWL Logistikplanung und Informationssysteme;Deutsche Bahn Mobility Logistics AG;;;;
+;;;Entwerfen und Nachhaltiges Bauen;Goldbeck-Stiftung;;;;
+;;;BWL Industrielles Management;Carlo und Karin Giersch-Stiftung;;;;
+;;;Informatik;DFG (Heisenberg-Professur);;;;
+;;Hochschule für Gestaltung Offenbach;Interactive Design/Motions Design;Heinz und Gisela Friederichs Stiftung;;;Seit 2001;
+;;;Kreativität im urbanen Kontext;Stadt Offenbach/Wirtschaftsförderung, Dr. Marschner Stiftung Frankfurt/M Stadtwerke Offenbach Holding GmbH Projekt Hafen Offenbach,  IHK Offenbach Wirtschaftsinitiative Rhein Main, Energieversorgung  Offenbach AG (EVO) Mainova AG Frankfurt/M.;;;01.10.2010 bis 30.09.2014;
+;;Universität Gießen;Allgemeine Psychologie;DFG, Heisenberg-Programm;;;01.10.2011 – 30.09.2016;
+;;;Experimentelle Plasmadiagnostik;LOEWE – RITSAT;;;01.04.2013 – derzeit 31.12.2014;
+;;;Plasma- u. Raumfahrtphysik;LOEWE – RITSAT;;;01.06.2013 – derzeit 31.12.2014;
+;;;Rastertunnelmikroskope;LOEWE – HiC for FAIR, Helmholtz-Gemeinschaft;;;01.04.2013 – 30.06.2014;
+;;;Schwerionenphysik;GSI (40 %);;;01.06.2012 – dauerhaft;
+;;;Theoretische Physik;GSI (50%);;;01.09.2007 – 30.09.2015;
+;;;Experimentelle Kernstrukturphysik;GSI;;;01.12.2007 – dauerhaft;
+;;;Verhaltensökologie und Ökophysiologie der Tiere;DFG, Heisenberg-Programm;;;01.06.2012 – 31.05.2017;
+;;;Thermoelektrische Materialien;DLR;;;05.09.2012 – dauerhaft;
+;;;Lung Matrix Remodeling;DFG-ECCPS;;;01.01.2010 – 31.10.2017;
+;;;Molecular Mechanisms of Emphysema, Hypoxia and Lung Aging;DFG-ECCPS;;;01.10.2007 – 31.10.2017;
+;;;Pulmonary Pharmacotherapy;LOEWE-UGMLC;;;01.08.2011 – 31.07.2014;
+;;;Molekulare Andrologie;DFG;;;01.01.2010 – dauerhaft;
+;;;Internistische Rheumatologie, Osteologie und Physikalische Medizin;Kerckhoff-Stiftung;;;01.03.2011 – dauerhaft;
+;;;Pulmonary Vascular Research;Pfizer Inc. (50 %);;;01.03.2010 – 28.02.2015;
+;;;Innere Medizin mit dem Schwerpunkt Rheumatologie;Kerckhoff-Stiftung (75 %);;;01.01.2005 – dauerhaft;
+;;Universität Marburg;Psychologie;VW-Stiftung;;;fünf Jahre plus drei Jahre Auslauffinanzierung;
+;;;Biologie;Robert-Bosch-Stiftung;;;5 Jahre;
+;;;Medizin;Deutsche Krebshilfe;;;;
+;;;experimentelle orofaciale Medizin;Fa. Haraeus-Kulzer-GmbH;;;;
+;;;Medizin;Dr. Reinfried-Pohl-Stiftung;;;;
+;;;Psychotherapieforschung;;;;5 Jahre;
+;;;Forschungsprofessur Sprachwissenschaft;Deutsche Akademie der Wissenschaften und Literatur;;;16 Jahre;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+10;Niedersachsen;TU Braunschweig;Bauwerksunterhaltung und Tragwerk;Salzgitter AG;;;01.06. 2003 – 31.3.2013;Stand: 2011, Anfrage im Landtag
+;;;Nachhaltige Chemie und Energieforschung;Volkswagen AG, Verband der deutschen Biokraftstoffindustrie;;;01.11.2008-31.10.2013;
+;;TU Clausthal;Geothermale Energiesysteme;EWE AG;;;1.10.2011-30.09.2016;
+;;;Erdöl- und Erdgas-Lagerstättentechnologie;WEG Wirtschaftsverband Erdöl- und Erdgasgewinnung;;;1.1.2009-31-12-2015;
+;;;Gasversorgungssysteme;VNG Verbundnetze Gas AG, RWE Energy AG, EON-Ruhrgas AG;;;1.10.2010-31.12.2014/2012;
+;;;Endlagersysteme;GNS Gesellschaft für Nuklear-Sicherheit mbH;;;01.07.2007-30.06.2014;
+;;;Bindemittel und Baustoffe;Bundesverband der deutschen Kalkindustrie;;;01.06.1997-30.09.2020;
+;;Universität Hannover;Versicherungs- und Finanzmathematik;Hannoversche Versicherungsunternehmen;;;01.07.2009-30.06.2019;
+;;;Versicherungs- und Finanzmathematik;Hannoversche Versicherungsunternehmen;;;01.07.2009-30.06.2019;
+;;;Leibniz-Stiftungsprofessur Philosophische Fakultät;Stadt Hannover, Carsten Maschmeyer;;;01.07.2010-30.06.2015;
+;;Medizinische Hochschule Hannover;Klinische Chemie;Deutsche Gesellschaft für Klinische Chemie und Laboratoriumsmedizin;;;01.01.2007-31.12.2014;
+;;;Proteasen-/Antiproteasensysteme in der Lunge;Talecris Biotherapeutics GmbH;;;01.01.2009-01.10.2011;
+;;;Biologie des Bewegungsapparates;Traumastiftung;;;01.10.2009-31.12.2011, unter Vorbehalt bis 2014;
+;;;Experimentelle Neonatologie;Dr. August und Erika Appenrodt-Stiftung;;;01.03.2011-28.02.2016;
+;;Universität Oldenburg;Medizinische Strahlenphysik;Pius-Hospital Oldenburg;;;16.12.2010-31.03.2039;
+;;;Ökonomische Bildung / Institut für ökonomische Bildung;Der kleine Kreis/Nord-West-Metall/OLB-Stiftung/Vierol AG;;;01.07.2008-30.06.2013;
+;;;Windenergiesysteme;EWE AG;;;01.04.2010-31-03-2020;
+;;;Slavistische Literaturwissenschaft;Stifterverband;;;01.10.2007-30.06.2013;
+;;Universität Osnabrück;Verteilte Systeme;Harting, Espelkamp, Stifterverband für die Wissenschaft;;;2012-2017;
+;;;Unternehmensführung und Unternehmensrechnung;Hinrich W. Risken;;;2008-2013;
+;;;Archäologie der Römischen Provinzen;Varus Gesellschaft;;;2010-2016;
+;;Universität Vechta;Philosophische und theologische Grundlagen sozialen Handelns;Römisch-katholische Kirche im Oldenburger Teil des Bistums Münster;;;2006-2016;
+;;Hochschule Braunschweig/Wolfenbüttel (FH);Fahrzeug-Service und Kundenbetreuung;VW AG;;;01.09.2008-31.08.2013;
+;;;Entrepreneurship und Unternehmensgründung;zu einem Drittel die NordLB-Öffentliche (daneben je ein Drittel TU Braunschweig und Ostfalia);;;01.03.2009-28.02.2014;
+;;Hochschule Hannover (FH);Abfülltechnologie und -logistik;SIG Combibloc GmbH;;;01.12.2008-31.12.2011;
+;;Hochschule Hildesheim/Holzminden/Göttingen (FH);Familienunternehmen;Löseke-Stiftung;;;01.09.2005-30.04.2012;
+;;;Gebäudetechnik;Stiebel-Eltron;;;01.09.2010-31.08.2017;
+;;Hochschule Emden/Leer (FH);Betriebswirtschaftslehre;Reedereigemeinschaft Ems-Achse GmbH & Co KG;;;2005-31.12.2018;
+;;;Maschinenbau;Reedereigemeinschaft Ems-Achse GmbH & Co KG;;;2005-31.12.2018;
+;;;Umwelttechnik;Reedereigemeinschaft Ems-Achse GmbH & Co KG;;;2005-31.12.2018;
+;;Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH);Technischer Schiffsbetrieb und Mathematik;Beluga Shipping GmbH;;;01.12.2007-2017(war geplant);
+;;;Ladungstechnik und Umweltschutz;Beluga Shipping GmbH;;;01.02.2008-2018(war geplant);
+;;;Transportmanagement;Behrmann-Stiftung;;;01.09.2010-31.08.2012;
+;;;Handelsmanagement und E-Commerce;Barthel-Stiftung;;;01.03.2010-31.08.2012;
+;;;Allgemeine Betriebswirtschaftslehre, insbesondere Versicherung-, Bank- und Kreditwirtschaft;Landessparkasse Oldenburg, Öffentliche Versicherungen Oldenburg und Oldenburgische Landesbank AG;;;16.01.2012 (5 Jahre, also 2017);
+;;Universität Göttingen (ohne Klinikum);Ostasienwissenschaft/China;KWS Saat AG, Sievert AG & Co. KG, Thimm Holding GmbH & Co. KG, Nord/LB, Sparkasse Göttingen;;;01.08.2009-31.07.2014;
+;;;Öffentliches Recht mit dem Schwerpunkt Kirchen- und Staatskirchenrecht;Evangelische Kirche Deutschland (EKD);;;Seit 01.05.2008 unbefristet;
+;;Universität Göttingen (Klinikum);Kognitive Neurologie;Hermann und Lilly Schilling Stiftung;;;01.01.2011-31.12.2016;
+;;Tierärztliche Hochschule Hannover;Veterinärmedizinische Dermatopharmakologie;Bayer Health Care AG;;;01.01.2008-31.12.2012;
+;;;Lebensmittelsicherheit in der Lebensmittelkette;Lohmann Animal Health GmbH & Co. KG;;;01.01.2012-31.12.2016;
+;;Universität Hildesheim;Neurobiologische Grundlage des Lernens;Carsten Maschmeyer;;;01.05.2008-31.03.2014;
+;;;Klinische Psychologie;Klinikum Hildesheim GmbH, Ameos Klinikum Hildesheim;;;01.11.2011-31.03.2014;
+;;;Wirtschaftsinformatik;Anwed Löseke Papierverwaltung und Druckerei GmbH;;;01.10.2006-30.11.2011;
+;;;Kunstvermittlung;VGH Stiftung und Sparkasse Hildesheim;;;01.10.2010-30.09.2013;
+;;Universität Lüneburg;Strategisches Management;Otto Group;;;01.08.2008-30.09.2013;
+;;;Integrated Financial Risk Management;NordLB;;;01.08.2011-31.07.2016;
+;;;;;;;;
+11;Saarland;Universität des Saarlandes Saarbrücken in Saarbrücken;W3-für Neurodegene- ration und Neurobiologie;;;;bis 31.07.2011;
+;;;Stiftungsprofessur für Rechtsinformatik;;;;5 Jahre;
+;;;BWL, insbes. Management des Gesundheitswesens;;;;bis 31.01.2016, Verl. um weitere 5 J. möglich;
+;;;Molekulare Sinnesphysiologie;;;;bis 6/2016;
+;;;Klinische und Experimentelle Interventionelle Kardiologie;;;;bis 31.10.2017;
+;;;Experimentelle Pneumologie;;;; bis 14.12.2016;
+;;;Experimentelle Ophthalmologie;;;;bis 06/2014;
+;;;Pädiatrische Onkologie und Hämatologie;;;;akt. bis 30.9.2014, Weiterfinanzierung bis 30.09.2016 bei positiver Evaluation;
+;;;Experimentelle Orthopädie;;;;bis 05.10.2014;
+;;;Neuropathologie;;;;5 Jahre;
+;;;Allgemeinmedizin;;;;bis 31.12.2022;
+;;;Nachhaltige Entwicklung;;;;bis 30.09. 2015;
+;;;Informatik - Künstliche Intelligenz im Handel;;;;bis 02/2012;
+;;;Mikrointegration und Zuverlässigkeit;;;;keine Laufzeit;
+;;;Unkonventionelle Aktorik;;;;keine Laufzeit;
+;;;Stiftungsprofesur für Antriebstechnik;;;;bis 31.08.2016;
+;;;Metallurgie;;;;;
+;;Hochschule für Technik und Wirtschaft des Saarlandes Saarbrücken;Biomedizinische Technik;Fraunhofer-Gesellschaft;;;keine Befristung;
+;;;Konstruktion;ZeMA/Land;;;keine Befristung;
+;;;Mechatronische Konstruktion   ;ZeMA/Land;;;3 Jahre;
+;;;Fliudmechatronik;ZeMA/Land;;;3 Jahre;
+;;;Qualitycontrol/Maintenance;Fraunhofer-Gesellschaft;;;keine Befristung;
+;;;Windenergietechnik;VENSYS AG;;;5 Jahre;
+;;;;;;;;
+12;Bayern;Universität Augsburg;Lehrstuhl für Umweltmanagement;Georg Haindl Wissenschaftsstiftung;;;;
+;;;Theologie des geistlichen Lebens;"Stiftung ""Theologie des geistlichen Lebens“";;;;
+;;;Finanzcontrolling;DekaBank Frankfurt, Stifterverband;300.000 Euro, je zur Hälfte vom Stifter;;Seit 01.05.2008 unbefristet;http://www.uni-bamberg.de/?id=21556
+;;FH Amberg-Weiden;Integrierte Logistiksysteme;Stiftung Winkler;;450.000 Euro;5 Jahre;
+;;;Internationales Marketing und Unternehmensführung;Maria-Seltmann-Stiftung;;450.000 Euro;5 Jahre;
+;;;Instandhaltungs- und Servicemanagement;BHS Corrugated Maschinen- und Anlagenbau GmbH;;450.000 Euro;5 Jahre;
+;;;Fertigungstechnologien für die Medizintechnik;Gerresheimer Regensburg GmbH, IMA Automation Amberg GmbH;;450.000 Euro;5 Jahre;
+;;FH Augsburg;Professur für Mechatronik;Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries;;ca. 600.00 EUR;6 Jahre, seit 2008;
+;;;Professur für Mechatronik;Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries;;ca. 300.000 EUR;"6 Jahre; Februar 2014";
+;;;Professur für Mechatronik;Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries;;ca. 600.000 EUR;"6 Jahre; wird z.Zt. ausgeschrieben";
+;;FH Aschaffenburg;Ressourceneffiziente Konstruktion von Produkten sowie ingenieurwissenschaftliche Grundlagen;N.N.;100.000 p.a.;;5 Jahre ab 2014;
+;;Universität München (ohne Klinikum);Managementausbildung;Dr. Rochus Mummert;;;15 Jahren;
+;;Universität München (ohne Klinikum);Missionswissenschaft und Dialog der Religionen;"Missio München,
+Ludwigs Missionsverein
+KöR, Internationales
+Katholisches
+Missionswerk;
+Stiftung Promotio
+Humana";;;01.09.2012 - 31.08.2023;
+WÜRZBURG???;;;Altägyptische Kulturgeschichte in ptolemäisch-römischer Zeit;"DFG ""Heisenbergprofessur""";;;01.11.2011 – 31.10.2016;
+;;;Fernerkundung;"Deutsches Zentrum für
+Luft- und Raumfahrt e.V.";;;"seit 20.12.2001 bis zum
+Ausscheiden des derzeitigen
+Stelleninhabers (voraussichtl.
+01.10.2026)";
+;;;Chemische Technologie der Materialsynthese;"Fraunhofer-Gesellschaft
+zur Förderung der
+angewandten Forschung
+e.V.";;;seit 01.02.2006 für unbestimmte Zeit (voraussichtl. 01.04.2024);
+;;;Polymere Funktionswerkstoffe;Fördergemeinschaft für das Süddeutsche Kunststoffzentrum e.V.;;;15.09.2012 – 14.09.2017;
+;;;Röntgenmikroskopie;Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.;;;01.07.2010 – 30.06.2015;
+;;Universität München (Klinikum);Experimentelle und klinisch zelluläre Therapie;Elterninitiative leukämie und tumorkranker Kinder Würzburg e.V.;;;01.12.2009 - 30.11.2014;
+;;;Molekularbiologie des Zellwachstums;"DFG ""Heisenbergprofessur";;;01.10.2009 - 30.9.2014;
+;;;Klinische Infektiologie mit Schwerpunkt Mykologie;Astellas Pharma GmbH;;;01.01.2013 – 30.11.2013;
+;;;Strukturbiologie;DFG;;;01.01.2002 – 30.6.2013;
+;;;Mikroskopie;DFG;;; 01.01.2002 - 30.6.2013;
+;;;Protein-Massenspektrometrie;DFG;;;01.01.2002 – 30.6.2013;
+;;;Experimentelle Biomedizin und Dermatologie;DFG;;;01.08.2003 – 30.6.2013;
+;;;Dermatologie und Experimentelle Biomedizin mit dem Schwerpunkt Molekulare Entzündungsbiologie der Haut;DFG;;;01.08.2003 – 30.6.2013;
+;;;Experimentelle Biomedizin, Schwerpunkt Biophysik von Membranproteinen;DFG;;;01.08.2003 – 30.6.2013;
+;;;Schwerpunkt Molekulare Neurobiologie/Neuroimaging;DFG;;;01.08.2003 – 30.6.2013;
+;;;Biochemie/Strukturbiologie;DFG;;;16.02.2005 - 30.6.2013;
+;;;Molekulare und zelluläre Bildgebung;BMBF;;;01.11.2010 - 31.10.2015;
+;;;Kardiovaskuläre Genetik;BMBF;;;01.11.2010 - 31.10.2015;
+;;;Translationale Forschung;BMBF;;;01.11.2010 - 31.10.2015;
+;;;"Translationale Forschung (""zweite"" Professur)";BMBF;;;01.11.2010 - 31.10.2015;
+;;;Epidemiologie der Herzinsuffizienz;BMBF;;;01.11.2010 - 31.10.2015;
+;;;Parodontale Entzündungen und Herzinsuffizienz;BMBF;;;01.11.2010 - 31.10.2015;
+;;Universität Passau;Informatik mit Schwerpunkt Programmierung;DFG;;337.300,00 €;36 Monate, 1.10.2013;
+;;TH Nürnberg;Gesundheitsökonomie;Bionorica, Stadt Neumarkt;;;;
+;;;Regelungstechnik / Robotik;Baumüller, Conti Temic, Isyst Intelligente Systeme, Siemens;;;;
+;;;Energietechnik;N-ERGIE AG;;;5 Jahre, ab 2013;
+;;FH Coburg;Versicherungsbetriebslehre;HUK Coburg;W2;;5 Jahre, ab 2013;
+;;;Entwicklung und Auslegung moderner Werkzeugmaschinen;"KAPP GmbH, Coburg; LASCO Umformtechnik GmbH, Coburg;
+Werkzeugmaschinenfabrik WALDRICH, Coburg";W2;;5 Jahre, ab 2013;
+;;FH München;Glas- und Fassadenbau;GT Bischoff Glastechnik AG, Josef Gartner GmbH & Co. KG, Interpane Glasgesellschaft mbH Plattling, Seele GmbH und Sika Deutschland GmbH;;;5 Jahre, seit 2012;
+;;;Paper Technology;Voith Paper Holding GmbH & Co. KG;;;5 Jahre, seit 2010;
+;;;Licht und Gesundheit;ZVEI – Zentralverband Elektrotechnik- und Elektroindustrie e.V.;;;4 Jahre, seit 2013;
+;;;Konstruktion, Werkstofftechnik mit Schwerpunkt Dichtungstechnik;Burgmann Industries GmbH & Co. KG;;;5 Jahre, seit 2008;
+;;Universität Regensburg (ohne Klinikum);Volkswirtschaftslehre insbesondere Arbeitsmarktforschung ;;;;;
+;;;Empirische Wirtschaftsforschung insbesondere Makroökonometrie und Arbeitsmarkt;;;;;
+;;;Volkswirtschaftslehre, insbesondere Außenhandel und Wirtschaftliche Entwicklung in Mittel- und Osteuropa;;;;;
+;;;Immobilienökologie;;;;;
+;;;Theoretische Physik (Forschungszentrum Jülich);;;;;
+;;Universität Regensburg (Klinikum);Kinderchirurgie;;;;;
+;;;Neonatologie;;;;;
+;;;Innere Medizin mit dem Schwerpunkt Nephrologie/Nierentransplantation;;;;;
+;;;Unfallchirurgie (Schwerpunkt Regenerative Gelenkchirurgie) ;;;;;
+;;;Experimentelle Hepatologie;;;;;
+;;;Angewandte Bewusstseinswissenschaft in der psychosomatischen Medizin;;;;;
+;;;Netzhautforschung;;;;;
+;;;Hämatologie (Stammzelltransplantation);;;;;
+;;;Innere Medizin mit Schwerpunkt Schlaf- und Beatmungsmedizin ;;;;;
+;;;Neuro-Onkologie;;;;;
+;;Universität München (ohne Klinikum);Angewandte Mathematik (Quantitative Financial Mathematics);Allianz Investment Management SE;;;VON: 01.04.2012       BIS: 31.03.2017;
+;;;Strategie, Technologie und Organisation;Deutsche Telekom Stiftung;;; 15.09.2006  BIS: 09.2013;
+;;;Erfindungsprozesse und Intellektuelles Eigentum;Hans-Sauer-Stiftung;;;01.01.2011 bis 31.12.2016;
+;;;Tibetologie und Buddhismuskunde;TARA-Stiftung;;;Seit 14.05.2003;
+;;;Neueste Geschichte;Stiftung zur wissenschaftlichen Erforschung der Zeitgeschichte [Institut für Zeitgeschichte München (IfZ)];;;01.04.11;
+;;;Betriebswirtschaftslehre mit dem Schwerpunkt Personalwirtschaft;Verband der Bayerischen Metall- und Elektroindustrie e.V.;;;Von: 17.12.2009  ;
+;;;Volkswirtschaftslehre, insbesondere Bildungsökonomie;ifo Institut für Wirtschaftsforschung e.V.;;;Von: 02.05.2006;
+;;;Volkswirtschaftslehre, insbesondere Makroökonomie und Konjunkturforschung;ifo Institut für Wirtschaftsforschung e.V.;;;Von: 01.10.2007;
+;;;Volkswirtschaftslehre, insbesondere Sozialpolitik und Arbeitsmärkte;ifo Institut für Wirtschaftsforschung e.V.;;;Von: 01.01.2010;
+;;;Volkswirtschaftslehre, insbesondere vergleichende Institutionenökonomik;ifo Institut für Wirtschaftsforschung e.V.  ;;;Von: 01.10.2010;
+;;;Volkswirtschaftslehre, insbesondere reale und monetäre Außenwirtschaft    ;ifo Institut für Wirtschaftsforschung e.V.;;;Von: 01.04.2011;
+;;;Volkswirtschaftslehre, insbesondere Empirische Innovationsökonomik;ifo Institut für Wirtschaftsforschung e.V.;;;01.10.2011 bis 30.09.2016;
+;;;Statistik mit dem Schwerpunkt Social Surveys und Arbeitsmarktforschung  ;Bundesagentur für Arbeit - Institut für Arbeitsmarkt- und Berufsforschung (IAB);;;01.07.2010 bis 30.06.2016;
+;;;Physik der Atmosphäre;Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR);;;Von: 01.07.2012;
+;;;Experimentelle Aerophysik;Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR);;;01.10.2011 bis 30.09.2017;
+;;;Bioinformatik;Helmholtz Zentrum München;;;Von: 01.09.2006;
+;;;Arbeitsrecht und Bürgerliches Recht;Stiftung für Arbeitsbeziehungen und Arbeitsrecht (StAR);;;Von: 20.01.2004;
+;;;Arbeitsrecht, Arbeitsrechtsvergleichung und Bürgerliches Recht;Stiftung für Arbeitsbeziehungen und Arbeitsrecht (StAR);;;Von: 01.09.2006;
+;;;Sozialrecht, Arbeitsrecht und Bürgerliches Recht;Stiftung für Arbeitsbeziehungen und Arbeitsrecht (StAR);;;Von: 1.04.2009;
+;;Universität München (Klinikum);Kinderpalliativmedizin;Alfred Krupp von Bohlen und Halbach-Stiftung    ;;;VON: 01.01.2009  BIS: 31.12.2013;
+;;;Spiritual Care;Stifterverband für die Deutsche Wissenschaft;;;01.06.2010 bis 31.05.2015;
+;;;Klinische Pneumologie;Asklepios Fachkliniken GmbH;;;Von: 01.01.2013;
+;;;Epidemiologie von Schwindel-,Gleichgewichts- und Okulmotorikstörungen;BMBF;;;01.02.2012 bis 31.01.2017;
+;;;Dermatologie und Allergologie mit Schwerpunkt dermatologische Onkologie;Galderma Laboratorium GmbH  ;;;15.09.2008 bis 14.09.2013;
+;;;Translationale Schlaganfall- und Demenzforschung;Stiftung zur Erforschung der vaskulären Demenz;;;Von: 01.09.2010;
+;;;Experimentelle Schlaganfallforschung;Stiftung zur Erforschung der vaskulären Demenz;;;Von: 01.10.2011;
+;;;Bildgebung: Schlaganfall- und Demenzforschung;Stiftung zur Erforschung der vaskulären Demenz;;;Von: 01.07.2012;
+;;;Translationale Neurobiochemie;Deutsches Zentrum für Neurodegenerative Erkrankung e.V. (DZNE)  ;;;Von: 01.02.2012;
+;;;Translationale Forschung auf dem Gebiet der Neurodegeneration;Deutsches Zentrum für Neurodegenerative Erkrankung e.V. (DZNE);;;Von: 15.12.2011;
+;;;Experimentelle Pneumologie;Helmholtz Zentrum München;;;Von: 01.11.2008;
+;;TU München (ohne Klinikum);SGL Group-Stiftungslehrstuhl für Carbon Composites;SGL Carbon GmbH;;;8 Jahre, seit 2009;
+;;;Lehrstuhl für Governance im internationalen Agribusiness;BayWa AG;;1370000;5 Jahre, ab 2013;
+;;;Susanne Klatten-Stiftungslehrstuhl für Empirische Bildungsforschung;;;10000000;10 Jahre, seit 2009;
+;;;Lehrinstitut für energieeffizientes und nachhaltiges Bauen und Planen;Verein für Bauforschung und Berufsbildung des Bayerischen Bauindustrieverbandes e.V.;;3500000;5 Jahre, seit 2010;
+;;;Friedl Schöller-Stiftungslehrstuhl für Unterrichts- und Hochschulforschung;Schöller Familien-Stiftung;;1725000;5 Jahre, seit 2010;
+;;;EADS-Stiftungslehrstuhl für Hubschraubertechnologie;Eurocopter Deutschland GmbH;;4777000;8 Jahre, seit 2010;
+;;;Stiftungsprofessur für Industrielle Biokatalyse;Clariant Produkte Deutschland GmbH (ursprünglich Süd-Chemie AG);;1300000;5 Jahre, seit 2011;
+;;;Heinz Nixdorf-Lehrstuhl für Didaktik der Mathematik;Heinz Nixdorf Stiftung;;1725000;5 Jahre, seit 2009;
+;;;Lehrstuhl für Software Engineering - ein Stiftungslehrstuhl der Capgemini sd&m AG;Capgemini sd&m AG;;;5 Jahre, seit 2012;
+;;;Peter Löscher-Stiftungslehrstuhl für Wirtschaftsethik;Peter Löscher;;1760000;8 Jahre, seit 2010;
+;;;Markus Würth Stiftungsprofessur für Kinderneuroorthopädie und Cerebralparese;Stiftung Würth;;;5 Jahre, seit 2012;
+;;TU München (Klinikum);Lehrstuhl für Allgemeinmedizin;AOK Bayern und Kassenärztliche Vereinigung Bayerns;;;6 Jahre, seit 2009;
+;;;Stiftungsprofessur für Konservative und Rehabilitative Orthopädie;Medical Park AG;;;5 Jahre, seit 2010;
+;;;Erich Rothenfußer Stiftungsprofessur für Naturheilkunde und Komplementärmedizin;Erich Rothenfußer Stiftung;;1500000;6 Jahre, seit 2010;
+;;;Friedrich Schiedel-Stiftungslehrstuhl für Neurowissenschaften;Friedrich Schiedel-Stiftung;;5000000;9 Jahre, seit 2004;
+;;;Stiftungsprofessur für Sozialpädiatrie;Theodor-Hellbrügge-Stiftung, Kliniken des Bezirks Obb./ Kinderzentrum München gGmbH;;;unbefristet;
+;;FH Rosenheim;Mechatronik;Seeoner Kreis;;;;
+;;;Mechatronik;Seeoner Kreis;;;;
+;;;Gebäudehülle;;;;;
+;;;Innenausbau;;;;;
+;;;Gesundheitswirtschaft;;;;;
+;;;Physiotherapie;;;;;
+;;;Forschungsprofessur;;;;;
+;;Universität Bayreuth;Ethnologie;"DFG ""Heisenbergprofessur";;226100;2 Jahre, seit 2012;
+;;;Entwicklung und Politik Afrikas;DFG (Exzellenzinitiative);;250000;4 Jahre, seit 2009;
+;;;Material Physics and Technology at Extreme Conditions;DFG;;320000;3 Jahre, seit 2011;
+;;;Materialsimulation;Oberfrankenstiftung Bayreuth;;1500000;5 Jahre, seit 2010;
+;;;Pflanzengenetik/Populatiosgenetik;Stifterverband für die Deutsche Wissenschaft;;470000;6 Jahre, seit 2010;
+;;;"Nonlinear dynamics in high temperature magnetized plasmas; Physics understanding through computing";VolkswagenStiftung;;943700;5 Jahre, seit 2010;
+;;;Islamwissenschaften;"DFG ""Heisenbergprofessur";;380000;3 Jahre, seit 2011;
+;;;Clustering of micro- and nanoscopic drug delivery agents in human blood flow;VolkswagenStiftung;;1085400;5 Jahre, seit 2013;
+;;Akademie der Bildenden Künste München;Malerei und Grafik;Stiftung Kunstakademie;;;2010-2015;
+;;FH Regensburg;;;;;;
+;;FH Ingolstadt;Internationales Handelsmanagement, Strategisches Marketing und Innovationsmanagement;;;;;
+;;;Handelsmarketing, Personal- und Organisationsmanagement;;;;;
+;;;International Retail Management und Marketing;;;;;
+;;;Wirtschaftsprivatrecht;;;;;
+;;;Beschaffungsmanagement und Betriebswirtschaftslehre;;;;;
+;;;Akustik und Technische Mechanik;;;;;
+;;;Systemtechnik in sicherheitsgerichteten Anwendungen;;;;;
+;;;Fahrzeugsicherheit und Signalverarbeitung;;;;;
+;;Universität Erlangen-Nürnberg;GfK-Lehrstuhl für Marketing Intelligence;GfK Nürnberg e.V.;;;unbefristet, Kündigung nach 5 Jahren oder Ausscheiden des Inhabers möglich;
+;;;Lehrstuhl für Volkswirtschaftslehre, insb. Empirische Mikroökonomie (Jülicher Modell);Bundesagentur für Arbeit;;;5 Jahre: 05.05.2009-04.05.2014;
+;;;Lehrstuhl für Volkswirtschaftslehre, insb. Arbeitsökonomie (Jülicher Modell);Bundesagentur für Arbeit;;;5 Jahre: 05.05.2009-04.05.2014;
+;;;Stiftungsprofessur für Personalmanagement und Arbeitsorganisation technologieorientierter Unternehmen;Audi;;;5 Jahre ab Besetzung der Stiftungsprofessur;
+;;;Theo und Friedl Schöller-Stiftungsprofessur für klinische Ernährung im Alter;Theo und Friedl Schöller-Stiftung;;;"5 Jahre ab Besetzung; seit 01.04.2009 bis 31.03.2014";
+;;;Stiftungsprofessur für Orthopädische und Rheumatologische Rehabilitation;Landesversicherungsanstalt Oberbayern (LVA);;;19.03.1997-(unbefristet);
+;;;Henriette Schmidt-Burkhardt Lehrstuhl für Lebesmittelchemie;Henriette Schmidt-Burkhardt;;;bis zum Ausscheiden von Prof. Pischetsrieder;
+;;;Juniorprofessur für Mathematische Optimierung (Stiftungsprofessur Exzellenzcluster);;;;;
+;;;Professur für Theoretische Physik (Stiftungsprofessur Exzellenzcluster);;;;;
+;;;Juniorprofessur für Experimentalphysik (Rasterelektronenmikroskopie) (Stiftungsprofessur Exzellenzcluster);Biotronik SE & Co.KG, vormals Biotronik GmbH & Co., Berlin;;;;
+;;;Professur für Physik (SAOT) (Stiftungsprofessur Exzellenzinitiative);Fraunhofer Gesellschaft, Frauenhofer IIS;;;;
+;;;Max-Schaldach-Stiftungsprofessur für Biomedizinische Technik;Biotronik SE & Co.KG, vormals Biotronik GmbH & Co., Berlin;;;weitere 6 Jahre bis 29.12.2017;
+;;;Stiftungslehrstuhl für Informationstechnik mit dem Schwerpunkt Kommunikationselektronik;Fraunhofer Gesellschaft, Frauenhofer IIS;;;"unbefristet; Kündigungsfrist 1 Jahr zum Ende des Kalenderjahres";
+;;;Professor für Aromaforschung;Frauenhofergesellschaft;;;5 Jahre ab Besezung;
+;;;Juniorprofessur für Optofluidics  (Stiftungsprofessur Exzellenzinitiative);FAU-intern finanziert über Mittel der Alexander-von-Humboldt-Professur von Prof. Robert Schober;;;;
+;;;Professur f. Nanomaterialcharakterisierung (Streumethoden) CENEM  (Stiftungsprofessur Exzellenzinitiative);;;;;
+;;;Professur für Digitale Übertragung;FAU-intern finanziert über Mittel der Alexander-von-Humboldt-Professur von Prof. Robert Schober;;;;
+;;;;Fraunhofer Gesellschaft - International Audio Laboratories Erlangen - AudioLabs;;;;
+;;;LS f. Audiocodierung;Fraunhofer Gesellschaft - International Audio Laboratories Erlangen - AudioLabs;;;10 Jahre ab Erstberufung (im Anschluss Verlängerung um zunächst weitere 5 Jahre geplant);
+;;;LS f. Audiosignalanalyse;Fraunhofer Gesellschaft - International Audio Laboratories Erlangen - AudioLabs;;;10 Jahre ab Erstberufung (im Anschluss Verlängerung um zunächst weitere 5 Jahre geplant);
+;;;LS f. Semantische Audiosignalverarbeitung;Fraunhofer Gesellschaft - International Audio Laboratories Erlangen - AudioLabs;;;10 Jahre ab Erstberufung (im Anschluss Verlängerung um zunächst weitere 5 Jahre geplant);
+;;;Professur für wahrnehmungsbasierte, räumliche Audiosignalverarbeitung;Fraunhofer Gesellschaft - International Audio Laboratories Erlangen - AudioLabs;;;10 Jahre ab Erstberufung (im Anschluss Verlängerung um zunächst weitere 5 Jahre geplant);
+;;;Professur für Psychoakustik;Fraunhofer Gesellschaft - International Audio Laboratories Erlangen - AudioLabs;;;10 Jahre ab Erstberufung (im Anschluss Verlängerung um zunächst weitere 5 Jahre geplant);
+;;;Professur für Sprachkodierung;Fraunhofer Gesellschaft - International Audio Laboratories Erlangen - AudioLabs;;;10 Jahre ab Erstberufung (im Anschluss Verlängerung um zunächst weitere 5 Jahre geplant);
+;;;Junior-Stiftungsprofessur für Sportinformatik (Digital Sports);Adidas;;;6 Jahre ab Besetzung (bis 31.01.2017);
+;;;Juniorprofessur für Nanostructured Particles  (Stiftungsprofessur Exzellenzinitiative);;;;;
+;;;Juniorprofessur für Katalytische Materialien (Stiftungsprofessur Exzellenzinitiative);;;;;
+;;;Professur für Particle Synthesis (Stiftungsprofessur Exzellenzinitiative);;;;;
+;;;Juniorprofessur für Werkstoffmikromechanik (Stiftungsprofessur Exzellenzinitiative);;;;;
+;;;Professur für Nano - Elektronik (Stiftungsprofessur Exzellenzinitiative);;;;;
+;;;Lehrstuhl für Multiscale Simulation of Particulate Systems (Stiftungsprofessur Exzellenzinitiative);;;;;
+;;;(Stiftungsprofessur Exzellenzcluster);;;;;
+;;;Biomedizin des Alterns;Barmherzige Brüder;;;ab 01.04.2013;
+;;Universität Erlangen-Nürnberg (Klinikum);"Juniorprofessur für chronisch - entzündliche Darmerkrankungen; Medizinischen Klinik 1 – Gastroenterologie, Pneumologie und Endokrinologie";AbbVie (AbbVie Deutschland GmbH & Co. KG);;;01.08.2010-31.07.2013;
+;;;W1-Stiftungs-Juniorprofessur für Molekulare Endoskopie an der Medizinischen Klinik 1 - Gastroenterologie, Pneumologie und Endokrinologie;Pentax Europe GmbH;;;01.03.2011-28.02.2014 ggf. Verlängerung 3 Jahre;
+;;;Stiftungsprofessur für Klinische und Experimentelle Ernährungsmedizin;Nestle und GHD;;;6 Jahre;
+;;;Professur für Palliativmedizin (Stiftungslehrstuhl);"Deutsche Krebshilfe ""Palliativmedizin""";;;5 Jahre, 01.04.2010-31.03.2015;
+;;;Stiftungsprofessur für Pädiatrische Endokrinologie;Pfizer;;;5 Jahre, 2006-31.10.2011 (Vertrag wurde verlängert);
+;;;Professur für Computational Medicine (DFG-Forschungsprofesssur), Phoniatrie und Pädaudiologie;DFG-Forschungsprofessur;;;seit 01.06.2007-31.05.2014;
+;;;Else Kröner-Fresenius-Stiftungsprofessur für Nanomedizin;Else Kröner-Fresenius-Stiftung;;;5 Jahre, 2009-30.06.2014;
+;;;Stiftungsprofessur für Neurologische Rehabilitation;Medical Park AG;;;5 Jahre ab Besetung;
+;;;Professur für Neuroimmunologie;Novartis;;;3 + 2 Jahre;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+13;NRW;FH Bielefeld;Elektrotechnik und Automatisierung;Beckhoff Automation GmbH;100.000,-- € p.a.;;5 Jahre, seit 2011;http://www.fh-bielefeld.de/presse/archiv/neu/zwei-stiftungsprofessuren-fuer-guetersloh
+;;;Ingenieurwissenschaftliche Grundlagen und deren Anwendung;Stiftung der Kreissparkasse Wiedenbrück, pro Wirtschaft GT GmbH;100.000,-- € p.a.;;5 Jahre, seit 2010;
+;;FH Niederrhein;"Controlling, insbesondere in der
+Energiewirtschaft und Betriebswirtschaftliches Energiemanagement";NEW AG;150.000 Euro pro Jahr;;5 Jahre, seit 2013;
+;;;"Psychosoziale Interventionen in
+Handlungsfeldern der Prävention und Rehabilitation";Georg Gottlob Stiftung;;280.000 Euro;2009-2012;
+;;Universität Bochum (ohne Klinikum);Atomistische Modellierung und Simulation;"ThyssenKrupp, Bayer MaterialScience, Bayer Technology Services, Salzgitter Mannesmann, Bosch; und Land NRW";;;Seit 2008. inzwischen durch Uni übernommen.;
+;;;Werkstoffwissenschaften;"ThyssenKrupp, Bayer MaterialScience, Bayer Technology Services, Salzgitter Mannesmann, Bosch; und Land NRW";;;;
+;;;"Skalenübergreifende Thermodynamische und Kinetische
+Simulation";"ThyssenKrupp, Bayer MaterialScience, Bayer Technology Services, Salzgitter Mannesmann, Bosch; und Land NRW";;;;
+;;;Religionsforschung;BMBF;;;2008. ausgelaufen;
+;;;Funktionelle Architektur;Stiftung Mercator;;;;
+;;;Neurobiologie;Stiftung Mercator;;;;
+;;;Theorie des Gedächtnisses;Stiftung Mercator;;;;
+;;;;Emmy-Nöther oder Heisenberg-Programm;;;;
+;;FH Köln;Kunststoff;"Axilone Germany GmbH (Wiehl), BARLOG plastics GmbH (Engelskirchen);
+Boyke Wear Technology GmbH, (Lindlar); ERÜ GmbH (Radevormwald), Jokey Plastic
+Wipperfürth GmbH, Pflitsch GmbH & Co. KG, (Hückeswagen), Reiku GmbH (Wiehl), die
+Sparkassen Gummersbach-Bergneustadt, Wiehl, Radevormwald – Hückeswagen sowie die
+Kreissparkasse Köln";;230.000 Euro;2010, für 5 Jahre;
+;;;Technische Chemie;Bayer AG und LANXESS AG;;;geplant, im Juni 2013 angekündigt;http://www.verwaltung.fh-koeln.de/aktuelles/2013/06/verw_msg_06074.html
+;;FH Gelsenkirchen;Bionik und Leichtbau;Fördergesellschaft Westmünsterland der Fachhochschule in Bocholt/Ahaus;;; 01.09.2012 bis 31.08.2017;
+;;;Bionik und Sensorik;Fördergesellschaft Westmünsterland der Fachhochschule in Bocholt/Ahaus;;;18.01.2011 bis 17.01.2016;
+;;;Angewandte Informatik;Tobit Software;;;01.01.2007 bis 31.12.2014;
+;;;BWL, insbesondere Workflow-Management im Gesundheitswesen;"Schwenninger BKK (bis 31.12.2011),
+danach von den ""Evangelischen Kliniken Gelsenkirchen""";;;01.01.2007 bis 31.12.2014;
+;;FH Münster;Gebäudenutzungskosten, Immobilien-Lebenszyklus Management;agn Niederberghaus & Partner GmbH, HVB Immobilien AG;;;;
+;;;Nachhaltige Ernährung/Ernährungsökologie;"Apetito AG, Niehoffs Kaffeerösterei GmbH, Ulrich Walter GmbH / Lebensbaum, Davert GmbH, SuperBioMarkt AG, Weiling GmbH, EDEN-STIFTUNG, SV (Deutschland) GmbH, Zukunftsstiftung Landwirtschaft in der
+Gemeinnützigen, Molkerei Söbbeke GmbH & Co. KG, Teutoburger Ölmühle GmbH Treuhandstelle e.V.";;;;
+;;;Digitales Geschäftsprozessmanagement;d.velop AG, Hupfer Metallwerke GmbH & Co. KG, Sparkasse Westmünsterland, Dornieden GmbH Anlagentechnik, Maschinenbau Scholz GmbH & Co. KG, Stadtwerke Coesfeld GmbH, EHG Service GmbH, Parador GmbH & Co. KG, VR-Bank Westmünsterland eG, German Assistance Versicherung AG, Schönox GmbH, Weiling GmbH;;;;
+;;;Geschäftsprozessmanagement, Lean Management, Supply Chain Management;d.velop AG, Hupfer Metallwerke GmbH & Co. KG, Sparkasse Westmünsterland, Dornieden GmbH Anlagentechnik, Maschinenbau Scholz GmbH & Co. KG, Stadtwerke Coesfeld GmbH, EHG Service GmbH, Parador GmbH & Co. KG, VR-Bank Westmünsterland eG, German Assistance Versicherung AG, Schönox GmbH, Weiling GmbH;;;;
+;;;"Dienstleistungs- und Facility Management und
+Consumer Facility Management";d.velop AG, Hupfer Metallwerke GmbH & Co. KG, Sparkasse Westmünsterland, Dornieden GmbH Anlagentechnik, Maschinenbau Scholz GmbH & Co. KG, Stadtwerke Coesfeld GmbH, EHG Service GmbH, Parador GmbH & Co. KG, VR-Bank Westmünsterland eG, German Assistance Versicherung AG, Schönox GmbH, Weiling GmbH;;;;
+;;Deutsche Sporthochschule Köln;Klinische Forschung in Orthopädie und Biomechanik;R,B & E Klinik GmbH, Pforzheim;;;3 Jahre, seit 01.08.2012;
+;;;Präventionsforschung mit dem Schwerpunkt betriebliche Gesundheitsförderung;Institut für betriebliche Gesundheitsförderung, Köln;;;5 Jahre, ab 2013;
+;;Universität Bielefeld;Algenbiotechnologie und Bioenergie;Stadtwerke Bielefeld, Universität Bielefeld;;;Seit 2009;
+;;Universität Köln;Energiewirtschaft;Deutsche Energiewirtschaft;;;Seit 2012;
+;;;Allgemeine Betriebswirtschaftslehre und Unternehmensentwicklung;Ernst & Young Stiftung;;;Seit 2012;
+;;;Finanzmarktforschung;Fördergesellschaft Finanzmarktforschung e.V.;;;Seit 2012;
+;;;Marketing und Handel;Baumarkt Obi;;;Seit 2009;
+;;;Wirtschaftsinformatik und Informations System Technology;SQS AG;;;Seit 2010;
+;;;Internationales Investitionsrecht;Generali Deutschland Holding AG;;;Seit 2010;
+;;;Geriatrie;St. Marien-Hospital GmbH;;;Seit 2008;
+;;;Palliativmedizin;Deutsche Krebshilfe;;;Seit 2004;
+;;;Immunpathologie des Auges;Hans und Marlies Stock-Stiftung;;;Seit 2012;
+;;;Klinische und Molekulare Onkologie;Volkswagen Stiftung;;;Seit 2012;
+;;;Alte Geschichte;Alfried Krupp von Bohlen und Halbach-Stiftung;;;Seit 2012;
+;;;Zoologie;DFG;;;Seit 2010;
+;;;Bioinformatik;Max-Planck-Gesellschaft;;;Seit 2012;
+;;FH Dortmund;"Konstruktion Architektur und Metallbau mit dem Schwerpunkt
+Stahlbau";Thyssen Krupp Steel AG;80.000,00 €;;5 Jahre, 1.10.2006 - 30.09.2011;
+;;FH Südwestfalen;Schaltungstechnik/Industrieeelektronik;"Unternehmensverband Westfalen Mitte e.V., Arnsberg, vom Arbeitgeberverband Ruhr/Lenne e.V.,
+Märkischer Arbeitgeberverband e.V. Hagen, Arbeitgeberverband der Metall- und Elektroindustrie Lüdenscheid e.V.";;500.000 Euro für alle drei??;Seit 2008, 5 Jahre;
+;;;Visuelle Kommunikation;"Unternehmensverband Westfalen Mitte e.V., Arnsberg, vom Arbeitgeberverband Ruhr/Lenne e.V.,
+Märkischer Arbeitgeberverband e.V. Hagen, Arbeitgeberverband der Metall- und Elektroindustrie Lüdenscheid e.V.";;;Seit 2008, 5 Jahre;
+;;;Internationales Projektmanagement und Kompetenztransfer;"Unternehmensverband Westfalen Mitte e.V., Arnsberg, vom Arbeitgeberverband Ruhr/Lenne e.V.,
+Märkischer Arbeitgeberverband e.V. Hagen, Arbeitgeberverband der Metall- und Elektroindustrie Lüdenscheid e.V.";;;Seit 2008, 5 Jahre;
+;;Universität Wuppertal;Mechatronik;"Institut für Sicherungssysteme, C.Ed. Schulte GmbH; CARL FUHR GmbH & Co. KG; EMKA Beschlagteile GmbH & Co. KG;  Huf Hülsbeck & Fürst GmbH & Co. KG; Kiekert AG; Schulte- Schlagbaum AG; Stadt Heiligenhaus; Stadt Velbert; Wilh. Schlechtendahl & Söhne GmbH & Co. KG; WILKA Schließtechnik GmbH; WITTE- Velbert GmbH & Co. KG; Woelm GmbH; YMOS Ubrig GmbH; Brose Schließsysteme GmbH & Co. KG";;;Seit 10/2007;
+;;;Mathematische und Theoretische Physik;Volkswagenstiftung;;;Seit 12/2007;
+;;;Wirtschaftswissenschaft, insbesondere Gesundheitsökonomie und Gesundheitsmanagement;"Barmenia Krankenversicherung a.G.; Akademie für Gesundheitsberufe; GHD GesundHeits GmbH Deutschland; Helios Klinikum Wuppertal; Kliniken St. Antonius, Wuppertal; Klinikum Solingen; Radprax, Wuppertal; Sana Klinikum, Remscheid; St. Josef Krankenhaus, Wuppertal";;;Seit 09/2009;
+;;;Kommunikation und Management chemischer Prozesse in der Industrie;Cognis;;;Seit 06/2009;
+;;;Experimentelle Teilchenphysik;Helmholtz-Allianz;;;Seit 06/2010;
+;;;Technischer Infektionsschutz;Deutsches Grünes Kreuz;;;Seit 12/2010;
+;;;Entrepreneurship, Innovation und/oder unternehmerischer Wandel;Jackstädt-Stiftung;;;Seit 04/2011;
+;;;Entrepreneurship, Innovation und/oder unternehmerischer Wandel;Jackstädt-Stiftung;;;Seit 04/2011;
+;;;Neue Fertigungstechnologien und Werkstoffe;"Knipex-Werk C. Gustav Putsch KG; HAZET-Werk Hermann Zerver GmbH & Co. KG; GEDORE Werkzeugfabrik GmbH & Co. KG; Wilkinson Sword GmbH; K.A. Schmersal GmbH & Co. KG; SMS ELOTHERM GmbH; Eduard Wille GmbH & Co. KG; Global C GmbH; Arnz Flott GmbH; Helmut Kempkes GmbH - KULI Hebezeuge; Vorwerk Autotec GmbH; Stadt-Sparkasse Solingen";;;Seit 10/2012;
+;;FH Westliches Ruhrgebiet;Existenz- und Unternehmensgründungen;Sparkasse Mülheim an der Ruhr;;;5 Jahre, seit 2012;
+;;;Energie- und Informationstechnik;Sparkasse Bottrop;;;4 Jahre, seit 2012;
+;;Hochschule Rhein-Waal;Maschinenbau, insbesondere Produktdesign;Elten GmbH, Horlemann Elektrobau GmbH, Oxford Instruments Analytical GmbH (alle Uedem), Hans Hussmann GmbH, Colt International GmbH, Erich Tönnissen-Stiftung, Karl-und-Maria-Kisters-Stiftung, Sparkasse Kleve (alle Kleve) Verfers Elektromontagen GmbH (Bedburg-Hau), Wienstroth Wärmebehandlungstechnik GmbH (Goch), Akkerman GmbH (Kranenburg) sowie die Wirtschaftsförderung Kreis Kleve GmbH und die Wirtschaftsförderungsgesellschaft der Stadt Kleve.;;;Seit 2011;
+;;;Governance von grenzüberschreitenden Allianzen unter besonderer Berücksichtigung des Wassersektors;Rhein-Waal und die Wasserbehörde Velt und Vecht (Coevorden, Niederlande);;;Seit 2013;
+;;Universität Bonn (Klinikum);Stiftungsprofessur für Zellbiologie und Molekulare Wirkstofforschung;Engelhard Arzneimittel;;;Seit 2002;http://www3.uni-bonn.de/forschung/forschungsprofil/stiftungsprofessuren-an-der-universitaet-bonn
+;;;Stiftungsprofessur für Oralmedizinische Technologie;Cendres & Métaux SA;;;Seit 2006;
+;;;Lichtenberg-Professur für Stammzellpathologien;VolkswagenStiftung;;;Seit 2008;
+;;;Prostatakarzinom;Rudolf-Becker-Stiftung;;;Seit 2010;
+;;;Degenerative Netzhauterkrankungen;Pro Retina-Stiftung;;;Seit 2012;
+;;;Neurourologie;Neurologisches Rehabilitationszentrum Godeshöhe e.V.;;;Seit 2012;
+;;;Heisenberg-Professur für Experimentelle Allergologie und Immundermatologie;Bundesministerium für Bildung und Forschung;;;Seit 2009;
+;;;Professur für Experimentelle Zahn-, Mund- und Kieferheilkunde im Rahmen der Klin. Forschergruppe 208: Parodontopathien;DFG;;;Seit 2009;
+;;;Schwerpunktprofessur: Regulation von Immunfunktionen durch nichtkodierende RNA;Ministerium für Innovation, Wissenschaft und Forschung NRW;;;Seit 2009;
+;;;Heisenberg-Professur für Dermatogenetik;DFG;;;Seit 2010;
+;;;Juniorprofessur für Neurophysiologie;Ministerium für Innovation, Wissenschaft und Forschung NRW;;;Seit 2011;
+;;;Juniorprofessur für Anantomie;Ministerium für Innovation, Wissenschaft und Forschung NRW;;;Seit 2012;
+;;Universität Bochum (ohne Klinikum);Christliche Archäologie;Gielen-Leyendecker-Stiftung im Stifterverband für die Deutsche Wissenschaft, Philosophische Fakultät der Universität Bonn;;;Seit 2008;
+;;;"Juniorprofessur  ""Nachhaltige Nutzung natürlicher Ressourcen""";Robert Bosch Stiftung;;;Seit 2009;
+;;;"Juniorprofessur ""Nachhaltige Nutzung natürlicher Ressourcen""";Robert Bosch Stiftung;;;Seit 2012;
+;;;"Schumpeter Fellowship ""Mikroökonomik"" ";VolkswagenStiftung;;;Seit 2012;
+;;;Juniorprofessur Altamerikanistik;Deutsche Altamerika-Stiftung;;;Seit 2013;
+;;;Astrophysik;Alexander von Humboldt-Stiftung;;;Seit 2009;
+;;;Schwerpunktprofessur: Genomic Bioinformatics and Mathematics;Ministerium für Innovation, Wissenschaft und Forschung NRW;;;Seit 2009;
+;;;Heisenberg-Professur für Bildgebung in der Neuroökonomie;DFG;;;Seit 2010;
+;;;Heisenberg-Professur für Astrophysik;DFG;;;Seit 2010;
+;;;"Alexander von Humboldt-Professur ""Atom- und Molekülphysik""";Alexander von Humboldt-Stiftung;;;Seit 2013;
+;;;"Alexander von Humboldt-Professur ""Philosophie""";Alexander von Humboldt-Stiftung;;;Seit 2013;
+;;FH Hamm-Lippstadt;Industrielle Informatik und Biosystemtechnik;Stadtwerke Hamm;;;5 Jahre, Beginn Mai 2010;
+;;;Photonik und Materialwissenschaften;Sparkasse Lippstadt, Stadt Lippstadt, Volksbank Lippstadt eG und Hella KGaA Hueck & Co.;;;5 Jahre, Beginn Januar 2011;
+;;TH Aachen (ohne Klinikum);Medieninformatik;B-IT Bonn-Aachen International Center for Information Technology;;;2002 – 2014;
+;;;Optimierung von Distributionsnetzwerken;Deutsche Post AG;;;2004 – 2013;
+;;;Energy Efficient Buildings and Indoor Climate;E.ON AG;;;2007 – 2017;
+;;;Automation of complex power systems;E.ON AG;;;2007 – 2017;
+;;;Energy Economics and Management;E.ON AG;;;2007 – 2017;
+;;;Zukunftsforschung;VDI – Verein Deutscher Ingenieure  ;;;2010 – 2015;
+;;;Chemosensorik;Volkswagen AG;;;2009 – 2014;
+;;;Funktionale und interaktive Polymere;Volkswagen AG;;;2009 – 2014;
+;;;Mechatronische Systeme am Verbrennungsmotor;KSPG AG / Stifterverband für die deutsche Wissenschaft e.V.;;;2013 – 2018;
+;;;Kraftfahrzeug Systembewertung;ZF Friedrichshafen AG;;;2013 – 2018;
+;;;Medical Information Technology;Philips Medizin Systeme GmbH;;;2003 – 2008;
+;;;Antriebssysteme für Windenergieanlagen;Robert Bosch GmbH;;;2013 – 2017;
+;;;Production Engineering of E-Mobility Components;Robert Bosch GmbH;;;2013 – 2017;
+;;TH Aachen (Klinikum);Palliativmedizin;Grünenthal GmbH;;;Seit 2003 dauerhaft;
+;;;Behavioral Psychobiology;Astra Zeneca GmbH;;;2004 – 2009;
+;;;Urologische Onkologie;Astellas GmbH;;;2012 – 2014;
+;;FH Ostwestfalen-Lippe;Holzbauproduktion;u. a. Jowat, Wemhöner, Stiftung Standortsicherung Kreis Lippe;;;3 Jahre ab Wintersemester 05/06;
+;;;Designmanagement, insbesondere in der Küchenmöbelindustrie;Marketinggemeinschaft A30 Küchenmeile e.V., Strukturfonds NRW;;;5 Jahre, 1.8.2009-31.12.2013;
+;;;Energietechnik;Stiftung Standortsicherung Kreis Lippe, die Stadtwerke in Lemgo, Detmold und Bad Salzuflen sowie die Firmen 2G-Bioenergietechnik AG und Biogas Nord AG;;;1.10.2010 – 30.09.2013;
+;;;Film- und Musikinformatik;Stiftung Standortsicherung Kreis Lippe, Sparkasse Paderborn-Detmold;;;5 Jahre ab Berufungsdatum, seit 1.4. 2013;
+;;;Nutzergerechte Gestaltung von technischen Systemen mit dem Schwerpunkt Informatik;PHOENIX CONTACT GmbH & Co. KG, WINCOR NIXDORF International GmbH sowie Fraunhofer-Anwendungszentrum Industrial Automation IOSB-INA und Stiftung Standortsicherung Kreis Lippe;;;5 Jahre ab Berufungsdatum, ist ausgeschrieben;
+;;;Technologie und  Analytik der Waschmittel- und Körperpflegeprodukte;Stifterverband für die Deutsche Wissenschaft e.V. und SEPAWA Vereinigung der Seifen-, Parfüm- und Waschmittelfachleute e.V.;;;5 Jahre ab Berufung, Ausschreibung in Planung;
+;;Hochschule für Musik Detmold;Musikinformatik;"Standortsicherung Kreis
+Lippe; Sparkasse Paderborn-Detmold";;;;
+;;;Klavier;Standortsicherung Kreis Lippe;;;;
+;;;Musikvermittlung;Standortsicherung Kreis Lippe;;;;
+;;;Fachdidaktik Musik;Schulministerium NRW;;;;
+;;Universität Münster (Klinikum);Rheumatologie;Wyeth Pharma;;1.075.000 Euro;ab 1.10. 2009, Dauer: 5 Jahre;
+;;;Kardiovaskuläre Bildgebung;Peter-Lancier-Stiftung;;425.000 Euro;1.4. 2008 bis 15.11.2010  – Nachfolger seit 11.3.2013, Dauer: 5 Jahre;
+;;Universität Münster (ohne Klinikum);IT-Recht;RWTÜV-Stiftung;;;ab 1.10.2012, Dauer: 6 Jahre;
+;;;Naturwissenschaftliche Früherziehung;Deutsche Telekom Stiftung;;1.032.000 Euro;ab 1.8.2008, Dauer: 6 Jahre;
+;;;Angewandte Materialwissenschaft zur Energiespeicherung und Energieumwandlung;Volkswagen AG, Evonik Industries AG, Rockwood Lithium GmbH;;2,25 Millionen Euro;1.1.2008 – 31.12.2012;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+14;Sachsen-Anhalt;Universität Halle (ohne Klinikum);Q-Cells Stiftungsprofessur„Experimentelle Physik“;Q-Cells AG;;;5 Jahre, seit 2010;
+;;;Betriebswirtschaftslehre insbesondere Unternehmensethik und Controlling;Friede Springer-Stiftung;;;5 Jahre, seit 2013;
+;;;GRUR-Stiftungsprofessur für Recht des geistigen Eigentums;Deutsche Vereinigung für gewerbl. Rechtsschutz und Urheberrecht e.V.;;;5 Jahre, seit 2010;
+;;;Heisenberg-Professur allgemeine Erziehungswissenschaft;DFG;;;5 Jahre, seit 2010;
+;;Universität Magdeburg (ohne Klinikum);Ökonomische Bildung und ihre Didaktik;Industrie- und Handelskammern MD/HAL;;;5 Jahre, seit 2012;
+;;Hochschule Anhalt (FH);Werkstoffe der Photovoltaik;Fraunhofer-CSP;;;5 Jahre, seit 2009;
+;;Hochschule Merseburg (FH);Kunststofftechnik/Verfahrenstechnik;TOTAL Raffinerie Mitteldeutschland GmbH, Dow Olefinverbund GmbH;;;5 Jahre, seit 2012;
+;;;Kunststofftechnik / Polymerwerkstoffe;"Zukunftsstiftung KMU; Styron Deutschland GmbH";;;5 Jahre, seit 2011;
+;;Hochschule Harz (FH);Elektromaschinenkonstruktion;VEM motors GmbH Wernigerode;;;5 Jahre, seit 2010;
+;;;Internationales Finanzmanagement;Royal Bank of Scotland;;;5 Jahre, seit 2008;
+;;;Unternehmensbesteuerung (Steuerlehre und Steuerrecht);Gerhard Bürger-Stiftungsprofessur;;;5 Jahre, seit 2011;
+;;;VW Financial Services Stiftungsprofessur für Wirtschaftsinformatik, insbesondere Requirements-Engineering;Volkswagen Financial Services AG;;;3 Jahre, geplant zum WS 2013/2014;
+;;;;;;;;
+15;Berlin;FU Berlin;Klinische Psychologie - Intervention (Juniorprofessur);Reemtsma-Stiftung (über Behandlungszentrum für Folteropfer, BZFO);;;;http://www.fu-berlin.de/forschung/profil/kooperationen/stiftungs_prof/index.html
+;;;Arabistik;Stifterverband für die deutsche Wissenschaft / Simon Claussen-Stiftung;;;;
+;;;Professur für die Kunst Afrikas;Alfried Krupp von Bohlen und Halbach-Stiftung;;;;
+;;;Professur für die Kunst Afrikas;Alfried Krupp von Bohlen und Halbach-Stiftung;;;;
+;;;Neuere Geschichte;Alfried Krupp von Bohlen und Halbach-Stiftung;;;;
+;;;Mathematik mit Schwerpunkt Diskrete Mathematik;Deutsche Forschungsgemeinschaft (DFG);;;;
+;;;Mathematical Geometry Processing;Deutsche Forschungsgemeinschaft (DFG);;;;
+;;;Secure Identity (Technologien zur Sicherung von Identitäten);Bundesdruckerei;;;;
+;;;Neogräzistik;Republik Griechenland, Ministerium für Erziehung und religiöse Angelegenheiten;;;;
+;;;Infektionsimmunologie;Deutsche Forschungsgemeinschaft (DFG) / Heisenberg;;;;
+;;;Wirtschaftsinformatik: insb. Revenue Management Systeme und Stochastische Simulation;Lufthansa;;;;
+;;Humboldt-Universität Berlin;Theoretische Physik, Mathematische Physik;Alexander von Humboldt-Stiftung;;;bis 12/2015;
+;;;Stochastische Analysis und Stochastik der Finanzmärkte;DFG, FZ Mathematik;;;bis 05/2014;
+;;;Alfred-Freiherr von Oppenheim-Professur für Geschichte Preußen-Professur;Alfred-Freiherr von Oppenheim-Stiftung;;;bis 09/2015;
+;;;Klassische Altertumswissenschaften und Wissenschaftsgeschichte;Alexander von Humboldt-Stiftung;;;bis 12/2014;
+;;;Ernst Fraenkel Professorship in Comparative Studies of Democracy;DFG;;;bis 11/2013;
+;;;G.Simmel Prof. Comparative Studies on Diversity/Social Conflicts;DFG;;;bis 11/2013;
+;;;Betriebswirtschaftliche Steuerlehre;KPMG;;;bis 09/2014;
+;;TU Berlin;;;;;;
