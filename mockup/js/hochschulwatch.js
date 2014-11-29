@@ -932,6 +932,13 @@ $(function() {
 
 	$('input.hochschulsuche').on('propertychange keyup input paste change', function() {
 		var resultSelector = $(this).attr('data-result');
+
+		if ($(this).val() == '') {
+			// input empty
+			$(resultSelector).hide();
+			return;
+		}
+
 		var f = new Fuse(hochschulen, {
 			keys: ['name'],
 			threshold: 0.4
