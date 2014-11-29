@@ -1,9 +1,6 @@
 // Hochschulwatch
 
 
-
-/* Sticky footer styles
--------------------------------------------------- */
 html {
 	position: relative;
 	min-height: 100%;
@@ -26,9 +23,24 @@ body {
 	width: 80px;
 	}
 }
+.navbar-form input.form-control {
+	@media(min-width:768px) {
+		width: 300px;
+	}
+	@media(min-width:992px) {
+		width: 350px;
+	}
+	@media(min-width:1200px) {
+		width: 4s00px;
+	}
+}
 
 footer {
 	position: absolute !important;
+}
+
+ul.list-unstyled li + li {
+	margin-top: 15px;
 }
 
 
@@ -38,4 +50,13 @@ footer {
 
 .above40px {
 	margin-top: 40px;
+}
+
+.relative {
+	position: relative;
+}
+.absolute {
+	position: absolute;
+	top: 0;
+	right: 0;
 }

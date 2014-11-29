@@ -43,12 +43,13 @@
 					<li><a href="#about">Über</a></li>
 					<li><a href="#contact">Kontakt</a></li>
 				</ul>
-				<form class="navbar-form navbar-right" role="search">
-					<div class="form-group">
-						<input type="text" class="form-control" placeholder="Hochschule suchen">
+				<div class="navbar-form navbar-right hidden-xs">
+					<input type="text" class="form-control hochschulsuche" data-result="#navbar-results" placeholder="Hochschule suchen">
+					<div class="relative">
+						<ul id="navbar-results" class="absolute list-unstyled well">
+						</ul>
 					</div>
-					<button type="submit" class="btn btn-default">Suchen</button>
-				</form>
+				</div>
 			</div><!--/.nav-collapse -->
 		</div>
 	</nav>
@@ -88,10 +89,9 @@
 
 			<div class="row">
 				<div class="col-md-4">
-					<form role="search">
-						<input type="text" class="form-control w100" placeholder="Hochschule suchen">
-						<button type="submit" class="btn btn-primary w100">Suchen</button>
-					</form>
+					<input type="text" class="form-control w100 hochschulsuche" data-result="#content-result" placeholder="Hochschule suchen">
+					<ul id="content-result" class="list-unstyled well">
+					</ul>
 				</div>
 				<div class="col-md-8">
 					<div class="row">
@@ -265,6 +265,7 @@
 
 	<script src="js/jquery-2.1.1.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
+	<script src="js/fuse.min.js"></script>
 	<script src="js/hochschulwatch.js"></script>
 </body>
 
