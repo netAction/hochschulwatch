@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="394.67627"
+   height="251.72835"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo-kompakt.svg"
+   inkscape:export-filename="/home/tomi/Schreibtisch/hochschulwatch/images/logo-kompakt.png"
+   inkscape:export-xdpi="210.59"
+   inkscape:export-ydpi="210.59">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="319.1545"
+     inkscape:cy="-98.214136"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="825"
+     inkscape:window-height="945"
+     inkscape:window-x="2312"
+     inkscape:window-y="52"
+     inkscape:window-maximized="0"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-108.57644,-572.5424)">
+    <path
+       style="fill:#000000"
+       d="m 415.30826,787.28819 c -38.75089,-14.77652 -70.99131,-27.11671 -71.64537,-27.42267 -0.65406,-0.30595 -8.35198,7.5996 -17.10648,17.56788 -32.27032,36.74451 -84.40545,50.95113 -131.84239,35.92652 -85.40805,-27.05111 -109.022744,-134.50448 -43.62004,-198.48326 32.0859,-31.38734 78.39977,-46.4172 119.97903,-31.57865 55.25651,17.59838 88.68187,69.12683 86.23055,120.86457 l -1.29359,22.118 71.12137,27.32911 71.12136,27.32912 -3.32272,9.72782 c -8.69117,25.44484 -3.45058,25.6672 -79.62172,-3.37844 z m -90.13244,-41.80091 c 27.21303,-40.78741 -0.76944,-103.19839 -36.36547,-124.85 -40.43452,-24.59467 -71.84779,-15.49465 -99.01031,1.40492 -19.98313,12.43281 -44.62142,31.82541 -48.60624,73.24235 -3.71786,38.6421 22.45208,85.20442 66.39277,97.45841 44.93887,12.07369 92.65183,-9.87902 117.58925,-47.25568 z"
+       id="path2996"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssssscccccsssssscs" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2998"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-2.0203051,10.101526)"><flowRegion
+         id="flowRegion3000"><rect
+           id="rect3002"
+           width="634.37579"
+           height="147.48227"
+           x="151.52289"
+           y="644.26056" /></flowRegion><flowPara
+         id="flowPara3004"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">Hoch</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3033"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion3035"><rect
+           id="rect3037"
+           width="317.1879"
+           height="48.487324"
+           x="391.93918"
+           y="761.43823" /></flowRegion><flowPara
+         id="flowPara3039" /></flowRoot>  </g>
+</svg>

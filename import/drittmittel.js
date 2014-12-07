@@ -34,11 +34,12 @@ var drittmittelDatei = fs.readFileSync('daten/drittmittel.csv', 'utf8');
 csv = new parser(";", { header: true });
 drittmittelDatei = csv.parse(drittmittelDatei);
 
-result.hochschulen = {};
+result.hochschulen = [];
 
 drittmittelDatei.forEach( function(hochschule) {
 	if (!hochschule.Name) return;
-	result.hochschulen[ beautify(hochschule.Name) ] = {
+	result.hochschulen.push({
+		name: beautify(hochschule.Name),
 		uid : beautify(hochschule.uID),
 		adresse : beautify(hochschule.addi),
 		art : beautify(hochschule['hs-art']),
@@ -51,7 +52,7 @@ drittmittelDatei.forEach( function(hochschule) {
 		drittmittel_wirtschaft_2011 : hochschule['wirtschaft-2011'],
 		drittmittel_absolut_2012 : hochschule['absolut-2012'],
 		drittmittel_wirtschaft_2012 : hochschule['wirtschaft-2012'],
-	};
+	});
 });
 
 

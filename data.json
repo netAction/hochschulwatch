@@ -1,6 +1,7 @@
 {
-  "hochschulen": {
-    "Universitätsklinikum Schleswig-Holstein": {
+  "hochschulen": [
+    {
+      "name": "Universitätsklinikum Schleswig-Holstein",
       "uid": "950",
       "adresse": "Arnold-Heller-Straße 3, 24105 Kiel",
       "art": "Unikliniken (ohne Private)",
@@ -17,7 +18,8 @@
       "drittmittel_absolut_2012": 54560340,
       "drittmittel_wirtschaft_2012": 16394945
     },
-    "Universität Kiel": {
+    {
+      "name": "Universität Kiel",
       "uid": "1001",
       "adresse": "Christian-Albrechts-Platz 4, 24118 Kiel",
       "art": "Universitäten (ohne Private)",
@@ -34,7 +36,8 @@
       "drittmittel_absolut_2012": 62113408,
       "drittmittel_wirtschaft_2012": 10473112
     },
-    "Universität Lübeck": {
+    {
+      "name": "Universität Lübeck",
       "uid": "1011",
       "adresse": "Ratzeburger Allee 160, 23562 Lübeck",
       "art": "Universitäten (ohne Private)",
@@ -51,7 +54,8 @@
       "drittmittel_absolut_2012": 9084443,
       "drittmittel_wirtschaft_2012": 1162329
     },
-    "Universität Flensburg": {
+    {
+      "name": "Universität Flensburg",
       "uid": "3100",
       "adresse": "Auf dem Campus 1, 24943 Flensburg",
       "art": "Universitäten (ohne Private)",
@@ -68,7 +72,8 @@
       "drittmittel_absolut_2012": 3130589,
       "drittmittel_wirtschaft_2012": 101499
     },
-    "Musikhochschule Lübeck": {
+    {
+      "name": "Musikhochschule Lübeck",
       "uid": "2590",
       "adresse": "Große Petersgrube 21, 23552 Lübeck",
       "art": "Kunsthochschulen (ohne Private)",
@@ -85,7 +90,8 @@
       "drittmittel_absolut_2012": 507247,
       "drittmittel_wirtschaft_2012": 202754
     },
-    "Muthesius Kunsthochschule Kiel": {
+    {
+      "name": "Muthesius Kunsthochschule Kiel",
       "uid": "5080",
       "adresse": "Legienstraße 35, 24103 Kiel",
       "art": "Kunsthochschulen (ohne Private)",
@@ -102,7 +108,8 @@
       "drittmittel_absolut_2012": 424407,
       "drittmittel_wirtschaft_2012": 73134
     },
-    "Priv. FH Wedel": {
+    {
+      "name": "Priv. FH Wedel",
       "uid": "5050",
       "adresse": "Feldstraße 143, 22880 Wedel",
       "art": "Private Fachhochschulen",
@@ -119,7 +126,8 @@
       "drittmittel_absolut_2012": 238802,
       "drittmittel_wirtschaft_2012": 238802
     },
-    "AKAD Hochschule Pinneberg": {
+    {
+      "name": "AKAD Hochschule Pinneberg",
       "uid": "5070",
       "adresse": "Am Rathaus 10, 25421 Pinneberg",
       "art": "Private Fachhochschulen",
@@ -136,7 +144,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Nordakademie Hochschule der Wirtschaft": {
+    {
+      "name": "Nordakademie Hochschule der Wirtschaft",
       "uid": "5280",
       "adresse": "Köllner Chaussee 11, 25337 Elmshorn",
       "art": "Private Fachhochschulen",
@@ -153,7 +162,8 @@
       "drittmittel_absolut_2012": 495000,
       "drittmittel_wirtschaft_2012": 0
     },
-    "FH Flensburg": {
+    {
+      "name": "FH Flensburg",
       "uid": "5010",
       "adresse": "Kanzleistraße 91, 24943 Flensburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -170,7 +180,8 @@
       "drittmittel_absolut_2012": 2048621,
       "drittmittel_wirtschaft_2012": 169784
     },
-    "FH Kiel": {
+    {
+      "name": "FH Kiel",
       "uid": "5020",
       "adresse": "Sokratesplatz 1, 24149 Kiel",
       "art": "Fachhochschulen (ohne Private)",
@@ -187,7 +198,8 @@
       "drittmittel_absolut_2012": 2631837,
       "drittmittel_wirtschaft_2012": 179925
     },
-    "FH Lübeck": {
+    {
+      "name": "FH Lübeck",
       "uid": "5030",
       "adresse": "Mönkhofer Weg 239, 23562 Lübeck",
       "art": "Fachhochschulen (ohne Private)",
@@ -204,7 +216,8 @@
       "drittmittel_absolut_2012": 5034566,
       "drittmittel_wirtschaft_2012": 133879
     },
-    "FH Westküste, Heide": {
+    {
+      "name": "FH Westküste, Heide",
       "uid": "5090",
       "adresse": "Fritz-Thiedemann-Ring 20, 25746 Heide",
       "art": "Fachhochschulen (ohne Private)",
@@ -221,7 +234,8 @@
       "drittmittel_absolut_2012": 2081902,
       "drittmittel_wirtschaft_2012": 1305638
     },
-    "FH für Verwaltung und Dienstleistung Altenholz": {
+    {
+      "name": "FH für Verwaltung und Dienstleistung Altenholz",
       "uid": "5060",
       "adresse": "Rehmkamp 10, 24161 Altenholz",
       "art": "Verwaltungs-FH´s der Länder",
@@ -238,7 +252,8 @@
       "drittmittel_absolut_2012": 19338,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Bucerius Law School Hamburg (Priv. H)": {
+    {
+      "name": "Bucerius Law School Hamburg (Priv. H)",
       "uid": "1060",
       "adresse": "Jungiusstraße 6, 20355 Hamburg",
       "art": "Private Universtäten",
@@ -255,7 +270,8 @@
       "drittmittel_absolut_2012": 2197075,
       "drittmittel_wirtschaft_2012": 1669749
     },
-    "Universität Hamburg (Klinikum)": {
+    {
+      "name": "Universität Hamburg (Klinikum)",
       "uid": "1029",
       "adresse": "Martinistraße 52, 20246 Hamburg",
       "art": "Unikliniken (ohne Private)",
@@ -272,7 +288,8 @@
       "drittmittel_absolut_2012": 60806369,
       "drittmittel_wirtschaft_2012": 14359904
     },
-    "Hafencity Universität Hamburg": {
+    {
+      "name": "Hafencity Universität Hamburg",
       "uid": "690",
       "adresse": "Hebebrandstraße 1, 22297 Hamburg",
       "art": "Universitäten (ohne Private)",
@@ -289,7 +306,8 @@
       "drittmittel_absolut_2012": 3124513,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Universität Hamburg (ohne Klinikum)": {
+    {
+      "name": "Universität Hamburg (ohne Klinikum)",
       "uid": "1021",
       "adresse": "Mittelweg 177, 20148 Hamburg",
       "art": "Universitäten (ohne Private)",
@@ -306,7 +324,8 @@
       "drittmittel_absolut_2012": 105605243,
       "drittmittel_wirtschaft_2012": 9794600
     },
-    "Staats- und Universitätsbibliothek Hamburg": {
+    {
+      "name": "Staats- und Universitätsbibliothek Hamburg",
       "uid": "1022",
       "adresse": "",
       "art": "Universitäten (ohne Private)",
@@ -323,7 +342,8 @@
       "drittmittel_absolut_2012": 798492,
       "drittmittel_wirtschaft_2012": 168473
     },
-    "TU Hamburg-Harburg": {
+    {
+      "name": "TU Hamburg-Harburg",
       "uid": "1040",
       "adresse": "Schwarzenbergstraße 93, 21073 Hamburg",
       "art": "Universitäten (ohne Private)",
@@ -340,7 +360,8 @@
       "drittmittel_absolut_2012": 46734966,
       "drittmittel_wirtschaft_2012": 12592357
     },
-    "Helmut-Schmidt-Universität Hamburg": {
+    {
+      "name": "Helmut-Schmidt-Universität Hamburg",
       "uid": "800",
       "adresse": "Holstenhofweg 85, 22043 Hamburg",
       "art": "Universität der Bundeswehr",
@@ -357,7 +378,8 @@
       "drittmittel_absolut_2012": 9399349,
       "drittmittel_wirtschaft_2012": 2079896
     },
-    "Hochschule für Musik und Theater Hamburg": {
+    {
+      "name": "Hochschule für Musik und Theater Hamburg",
       "uid": "2500",
       "adresse": "Harvestehuder Weg 12, 20148 Hamburg",
       "art": "Kunsthochschulen (ohne Private)",
@@ -374,7 +396,8 @@
       "drittmittel_absolut_2012": 627228,
       "drittmittel_wirtschaft_2012": 147559
     },
-    "Hochschule für Bildende Künste Hamburg": {
+    {
+      "name": "Hochschule für Bildende Künste Hamburg",
       "uid": "2810",
       "adresse": "Lerchenfeld 2, 22081 Hamburg",
       "art": "Kunsthochschulen (ohne Private)",
@@ -391,7 +414,8 @@
       "drittmittel_absolut_2012": 234240,
       "drittmittel_wirtschaft_2012": 0
     },
-    "EBC Euro Business College Hamburg (Priv. FH)": {
+    {
+      "name": "EBC Euro Business College Hamburg (Priv. FH)",
       "uid": "880",
       "adresse": "Esplanade 6, 20354 Hamburg",
       "art": "Private Fachhochschulen",
@@ -408,7 +432,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "ISS International Business School of Service Management Hamburg (Priv. FH)": {
+    {
+      "name": "ISS International Business School of Service Management Hamburg (Priv. FH)",
       "uid": "890",
       "adresse": "Hans-Henny-Jahnn-Weg 9, 22085 Hamburg",
       "art": "Private Fachhochschulen",
@@ -425,7 +450,8 @@
       "drittmittel_absolut_2012": 44269,
       "drittmittel_wirtschaft_2012": 0
     },
-    "HFH - Hamburger Fern-Hochschule": {
+    {
+      "name": "HFH - Hamburger Fern-Hochschule",
       "uid": "5220",
       "adresse": "Alter Teichweg 19-23a, 22081 Hamburg",
       "art": "Private Fachhochschulen",
@@ -442,7 +468,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Europäische Fernhochschule Hamburg": {
+    {
+      "name": "Europäische Fernhochschule Hamburg",
       "uid": "5260",
       "adresse": "Doberaner Weg 20, 22143 Hamburg",
       "art": "Private Fachhochschulen",
@@ -459,7 +486,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "AMD Akademie Mode und Design": {
+    {
+      "name": "AMD Akademie Mode und Design",
       "uid": "8070",
       "adresse": "Limburger Str. 2, 65510 Idstein",
       "art": "Private Fachhochschulen",
@@ -476,7 +504,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "HSBA Hamburg School of Business Admin. (Priv. FH)": {
+    {
+      "name": "HSBA Hamburg School of Business Admin. (Priv. FH)",
       "uid": "8090",
       "adresse": "Alter Wall 38, 20457 Hamburg",
       "art": "Private Fachhochschulen",
@@ -493,7 +522,8 @@
       "drittmittel_absolut_2012": 31700,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule für Angewandte Wissenschaften Hamburg": {
+    {
+      "name": "Hochschule für Angewandte Wissenschaften Hamburg",
       "uid": "5210",
       "adresse": "Berliner Tor 5, 20099 Hamburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -510,7 +540,8 @@
       "drittmittel_absolut_2012": 8107046,
       "drittmittel_wirtschaft_2012": 812976
     },
-    "Evang. Hochschule für Soziale Arbeit und Diakonie, Hamburg (FH)": {
+    {
+      "name": "Evang. Hochschule für Soziale Arbeit und Diakonie, Hamburg (FH)",
       "uid": "5230",
       "adresse": "Horner Weg 170, 22111 Hamburg",
       "art": "Kirchliche Fachhochschulen",
@@ -527,7 +558,8 @@
       "drittmittel_absolut_2012": 75100,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule der Polizei, Hamburg (Verw-FH)": {
+    {
+      "name": "Hochschule der Polizei, Hamburg (Verw-FH)",
       "uid": "5240",
       "adresse": "Braamkamp 3B, 22297 Hamburg",
       "art": "Verwaltungs-FH´s der Länder",
@@ -544,7 +576,8 @@
       "drittmittel_absolut_2012": 5513,
       "drittmittel_wirtschaft_2012": 5513
     },
-    "Norddeutsche Akademie für Finanzen und Steuerrecht Hamburg": {
+    {
+      "name": "Norddeutsche Akademie für Finanzen und Steuerrecht Hamburg",
       "uid": "7990",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -561,7 +594,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Universität Göttingen (Klinikum)": {
+    {
+      "name": "Universität Göttingen (Klinikum)",
       "uid": "1039",
       "adresse": "Robert-Koch-Straße 40, 37075 Göttingen",
       "art": "Unikliniken (ohne Private)",
@@ -578,7 +612,8 @@
       "drittmittel_absolut_2012": 49145999,
       "drittmittel_wirtschaft_2012": 7372228
     },
-    "Medizinische Hochschule Hannover": {
+    {
+      "name": "Medizinische Hochschule Hannover",
       "uid": "1739",
       "adresse": "Carl-Neuberg-Str. 1, 30625 Hannover",
       "art": "Unikliniken (ohne Private)",
@@ -595,7 +630,8 @@
       "drittmittel_absolut_2012": 90670846,
       "drittmittel_wirtschaft_2012": 23005961
     },
-    "Universität Oldenburg": {
+    {
+      "name": "Universität Oldenburg",
       "uid": "520",
       "adresse": "Ammerländer Heerstraße 114-118, 26129 Oldenburg",
       "art": "Universitäten (ohne Private)",
@@ -612,7 +648,8 @@
       "drittmittel_absolut_2012": 31779963,
       "drittmittel_wirtschaft_2012": 6387303
     },
-    "Universität Osnabrück": {
+    {
+      "name": "Universität Osnabrück",
       "uid": "530",
       "adresse": "Barbarastraße 7, 49076 Osnabrück",
       "art": "Universitäten (ohne Private)",
@@ -629,7 +666,8 @@
       "drittmittel_absolut_2012": 15472863,
       "drittmittel_wirtschaft_2012": 1796538
     },
-    "Universität Vechta": {
+    {
+      "name": "Universität Vechta",
       "uid": "960",
       "adresse": "Driverstraße 22, 49377 Vechta",
       "art": "Universitäten (ohne Private)",
@@ -646,7 +684,8 @@
       "drittmittel_absolut_2012": 3781485,
       "drittmittel_wirtschaft_2012": 1034620
     },
-    "Universität Hildesheim": {
+    {
+      "name": "Universität Hildesheim",
       "uid": "980",
       "adresse": "Marienburger Platz 22, 31141 Hildesheim",
       "art": "Universitäten (ohne Private)",
@@ -663,7 +702,8 @@
       "drittmittel_absolut_2012": 5164090,
       "drittmittel_wirtschaft_2012": 876577
     },
-    "Universität Lüneburg": {
+    {
+      "name": "Universität Lüneburg",
       "uid": "990",
       "adresse": "Scharnhorststraße 1, 21335 Lüneburg",
       "art": "Universitäten (ohne Private)",
@@ -680,7 +720,8 @@
       "drittmittel_absolut_2012": 21045133,
       "drittmittel_wirtschaft_2012": 1811059
     },
-    "Universität Göttingen (ohne Klinikum)": {
+    {
+      "name": "Universität Göttingen (ohne Klinikum)",
       "uid": "1031",
       "adresse": "Goßlerstraße 5, 37073 Göttingen",
       "art": "Universitäten (ohne Private)",
@@ -697,7 +738,8 @@
       "drittmittel_absolut_2012": 100791845,
       "drittmittel_wirtschaft_2012": 9615426
     },
-    "TU Braunschweig": {
+    {
+      "name": "TU Braunschweig",
       "uid": "1430",
       "adresse": "Bültenweg 88, 38106 Braunschweig",
       "art": "Universitäten (ohne Private)",
@@ -714,7 +756,8 @@
       "drittmittel_absolut_2012": 76788879,
       "drittmittel_wirtschaft_2012": 23162334
     },
-    "TU Clausthal": {
+    {
+      "name": "TU Clausthal",
       "uid": "1440",
       "adresse": "Adolph-Roemer-Straße 2a, 38678 Clausthal-Zellerfeld",
       "art": "Universitäten (ohne Private)",
@@ -731,7 +774,8 @@
       "drittmittel_absolut_2012": 29723122,
       "drittmittel_wirtschaft_2012": 12973066
     },
-    "Universität Hannover": {
+    {
+      "name": "Universität Hannover",
       "uid": "1450",
       "adresse": "Welfengarten 1, 30167 Hannover",
       "art": "Universitäten (ohne Private)",
@@ -748,7 +792,8 @@
       "drittmittel_absolut_2012": 89936902,
       "drittmittel_wirtschaft_2012": 27344875
     },
-    "Tierärztliche Hochschule Hannover": {
+    {
+      "name": "Tierärztliche Hochschule Hannover",
       "uid": "1740",
       "adresse": "Bünteweg 2, 30559 Hannover",
       "art": "Universitäten (ohne Private)",
@@ -765,7 +810,8 @@
       "drittmittel_absolut_2012": 12102506,
       "drittmittel_wirtschaft_2012": 3013007
     },
-    "Hochschule für Musik, Theater und Medien Hannover": {
+    {
+      "name": "Hochschule für Musik, Theater und Medien Hannover",
       "uid": "2530",
       "adresse": "Emmichplatz 1, 30175 Hannover",
       "art": "Kunsthochschulen (ohne Private)",
@@ -782,7 +828,8 @@
       "drittmittel_absolut_2012": 837935,
       "drittmittel_wirtschaft_2012": 133464
     },
-    "Hochschule für Bildende Künste Braunschweig": {
+    {
+      "name": "Hochschule für Bildende Künste Braunschweig",
       "uid": "2830",
       "adresse": "Johannes-Selenka-Platz 1, 38118 Braunschweig",
       "art": "Kunsthochschulen (ohne Private)",
@@ -799,7 +846,8 @@
       "drittmittel_absolut_2012": 723356,
       "drittmittel_wirtschaft_2012": 69112
     },
-    "Hochschule Weserbergland (HSW), Hameln (Priv. FH)": {
+    {
+      "name": "Hochschule Weserbergland (HSW), Hameln (Priv. FH)",
       "uid": "1780",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -816,7 +864,8 @@
       "drittmittel_absolut_2012": 38301,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Priv. FH der Wirtschaft Hannover": {
+    {
+      "name": "Priv. FH der Wirtschaft Hannover",
       "uid": "5390",
       "adresse": ",",
       "art": "Private Fachhochschulen",
@@ -833,7 +882,8 @@
       "drittmittel_absolut_2012": 76000,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Priv. FH Göttingen": {
+    {
+      "name": "Priv. FH Göttingen",
       "uid": "5400",
       "adresse": "Weender Landstraße 3-7, 37073 Göttingen",
       "art": "Private Fachhochschulen",
@@ -850,7 +900,8 @@
       "drittmittel_absolut_2012": 181836,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Priv. FH für Wirtschaft und Technik Vechta/Diepholz/Oldenburg": {
+    {
+      "name": "Priv. FH für Wirtschaft und Technik Vechta/Diepholz/Oldenburg",
       "uid": "5410",
       "adresse": "Rombergstraße 40, 49377 Vechta",
       "art": "Private Fachhochschulen",
@@ -867,7 +918,8 @@
       "drittmittel_absolut_2012": 130000,
       "drittmittel_wirtschaft_2012": 80000
     },
-    "Hochschule für Künste im Sozialen Ottersberg": {
+    {
+      "name": "Hochschule für Künste im Sozialen Ottersberg",
       "uid": "5430",
       "adresse": "Große Straße 107, 28870 Ottersberg",
       "art": "Private Fachhochschulen",
@@ -884,7 +936,8 @@
       "drittmittel_absolut_2012": 616009,
       "drittmittel_wirtschaft_2012": 1250
     },
-    "Hochschule21, Buxtehude (Priv. FH)": {
+    {
+      "name": "Hochschule21, Buxtehude (Priv. FH)",
       "uid": "8140",
       "adresse": "Harburger Straße 6, 21614 Buxtehude",
       "art": "Private Fachhochschulen",
@@ -901,7 +954,8 @@
       "drittmittel_absolut_2012": 117094,
       "drittmittel_wirtschaft_2012": 24100
     },
-    "Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH)": {
+    {
+      "name": "Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH)",
       "uid": "4980",
       "adresse": "Friedrich-Paffrath-Str. 101, 26389 Wilhelmshaven",
       "art": "Fachhochschulen (ohne Private)",
@@ -918,7 +972,8 @@
       "drittmittel_absolut_2012": 3018258,
       "drittmittel_wirtschaft_2012": 115992
     },
-    "Hochschule Emden/Leer (FH)": {
+    {
+      "name": "Hochschule Emden/Leer (FH)",
       "uid": "4990",
       "adresse": "Constantiaplatz 4, 26723 Emden",
       "art": "Fachhochschulen (ohne Private)",
@@ -935,7 +990,8 @@
       "drittmittel_absolut_2012": 1781568,
       "drittmittel_wirtschaft_2012": 47774
     },
-    "Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)": {
+    {
+      "name": "Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
       "uid": "5310",
       "adresse": "Salzdahlumer Straße 46/48, 38302 Wolfenbüttel",
       "art": "Fachhochschulen (ohne Private)",
@@ -952,7 +1008,8 @@
       "drittmittel_absolut_2012": 6497561,
       "drittmittel_wirtschaft_2012": 1981073
     },
-    "Hochschule Hannover (FH)": {
+    {
+      "name": "Hochschule Hannover (FH)",
       "uid": "5330",
       "adresse": "Ricklinger Stadtweg 120, 30459 Hannover",
       "art": "Fachhochschulen (ohne Private)",
@@ -969,7 +1026,8 @@
       "drittmittel_absolut_2012": 6434053,
       "drittmittel_wirtschaft_2012": 402613
     },
-    "Hochschule Hildesheim/Holzminden/Göttingen (FH)": {
+    {
+      "name": "Hochschule Hildesheim/Holzminden/Göttingen (FH)",
       "uid": "5380",
       "adresse": "Hohnsen 4, 31134 Hildesheim",
       "art": "Fachhochschulen (ohne Private)",
@@ -986,7 +1044,8 @@
       "drittmittel_absolut_2012": 5579245,
       "drittmittel_wirtschaft_2012": 1046809
     },
-    "Hochschule Osnabrück (FH)": {
+    {
+      "name": "Hochschule Osnabrück (FH)",
       "uid": "5500",
       "adresse": "Albrechtstr. 30, 49076 Osnabrück",
       "art": "Fachhochschulen (ohne Private)",
@@ -1003,7 +1062,8 @@
       "drittmittel_absolut_2012": 10895829,
       "drittmittel_wirtschaft_2012": 4392116
     },
-    "Hannover, Kommunale FH für Verwaltung in Niedersachsen (Priv. Verw-FH)": {
+    {
+      "name": "Hannover, Kommunale FH für Verwaltung in Niedersachsen (Priv. Verw-FH)",
       "uid": "750",
       "adresse": "",
       "art": "Private Verwaltungs-FH´s",
@@ -1020,7 +1080,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Norddeutsche Hochschule für Rechtspflege, Hildesheim": {
+    {
+      "name": "Norddeutsche Hochschule für Rechtspflege, Hildesheim",
       "uid": "740",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -1037,7 +1098,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Jacobs University Bremen (Priv. H)": {
+    {
+      "name": "Jacobs University Bremen (Priv. H)",
       "uid": "660",
       "adresse": "Campus Ring 1, 28759 Bremen",
       "art": "Private Universtäten",
@@ -1054,7 +1116,8 @@
       "drittmittel_absolut_2012": 11054838,
       "drittmittel_wirtschaft_2012": 1331451
     },
-    "Universität Bremen": {
+    {
+      "name": "Universität Bremen",
       "uid": "1050",
       "adresse": "Bibliothekstr. 1, 28359 Bremen",
       "art": "Universitäten (ohne Private)",
@@ -1071,7 +1134,8 @@
       "drittmittel_absolut_2012": 89159987,
       "drittmittel_wirtschaft_2012": 11565833
     },
-    "Hochschule für Künste Bremen": {
+    {
+      "name": "Hochschule für Künste Bremen",
       "uid": "2610",
       "adresse": "Am Speicher XI 8, 28217 Bremen",
       "art": "Kunsthochschulen (ohne Private)",
@@ -1088,7 +1152,8 @@
       "drittmittel_absolut_2012": 141633,
       "drittmittel_wirtschaft_2012": 141633
     },
-    "APOLLON Hochschule der Gesundheitswirtschaft": {
+    {
+      "name": "APOLLON Hochschule der Gesundheitswirtschaft",
       "uid": "20",
       "adresse": "Universitätsallee 18, 28359 Bremen",
       "art": "Private Fachhochschulen",
@@ -1105,7 +1170,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule Bremerhaven": {
+    {
+      "name": "Hochschule Bremerhaven",
       "uid": "5660",
       "adresse": "An der Karlstadt 8, 27568 Bremerhaven",
       "art": "Fachhochschulen (ohne Private)",
@@ -1122,7 +1188,8 @@
       "drittmittel_absolut_2012": 6443103,
       "drittmittel_wirtschaft_2012": 235747
     },
-    "Hochschule Bremen": {
+    {
+      "name": "Hochschule Bremen",
       "uid": "5680",
       "adresse": "Neustadtswall 30, 28199 Bremen",
       "art": "Fachhochschulen (ohne Private)",
@@ -1139,7 +1206,8 @@
       "drittmittel_absolut_2012": 8751131,
       "drittmittel_wirtschaft_2012": 8751131
     },
-    "Hochschule für öffentliche Verwaltung Bremen": {
+    {
+      "name": "Hochschule für öffentliche Verwaltung Bremen",
       "uid": "5670",
       "adresse": "Doventorscontrescarpe 172, 28195 Bremen",
       "art": "Verwaltungs-FH´s der Länder",
@@ -1156,7 +1224,8 @@
       "drittmittel_absolut_2012": 18806,
       "drittmittel_wirtschaft_2012": 18806
     },
-    "Priv. wiss. Hochschule Witten-Herdecke (ohne Klinikum)": {
+    {
+      "name": "Priv. wiss. Hochschule Witten-Herdecke (ohne Klinikum)",
       "uid": "1491",
       "adresse": "Alfred-Herrhausen-Straße 50 , 58448 Witten",
       "art": "Private Universtäten",
@@ -1173,7 +1242,8 @@
       "drittmittel_absolut_2012": 3297000,
       "drittmittel_wirtschaft_2012": 226000
     },
-    "Universität Duisburg-Essen (Klinikum)": {
+    {
+      "name": "Universität Duisburg-Essen (Klinikum)",
       "uid": "89",
       "adresse": "Hufelandstraße 55, 45122 Essen",
       "art": "Unikliniken (ohne Private)",
@@ -1190,7 +1260,8 @@
       "drittmittel_absolut_2012": 32761007,
       "drittmittel_wirtschaft_2012": 13326095
     },
-    "Universität Bochum (Klinikum)": {
+    {
+      "name": "Universität Bochum (Klinikum)",
       "uid": "1089",
       "adresse": "In der Schornau 23 - 25,",
       "art": "Unikliniken (ohne Private)",
@@ -1207,7 +1278,8 @@
       "drittmittel_absolut_2012": 8931176,
       "drittmittel_wirtschaft_2012": 341762
     },
-    "Universität Bonn (Klinikum)": {
+    {
+      "name": "Universität Bonn (Klinikum)",
       "uid": "1099",
       "adresse": "Sigmund-Freud-Straße 25, 53127 Bonn",
       "art": "Unikliniken (ohne Private)",
@@ -1224,7 +1296,8 @@
       "drittmittel_absolut_2012": 43213741,
       "drittmittel_wirtschaft_2012": 7690919
     },
-    "Universität Düsseldorf (Klinikum)": {
+    {
+      "name": "Universität Düsseldorf (Klinikum)",
       "uid": "1109",
       "adresse": "Moorenstraße 5, 40225 Düsseldorf",
       "art": "Unikliniken (ohne Private)",
@@ -1241,7 +1314,8 @@
       "drittmittel_absolut_2012": 24590903,
       "drittmittel_wirtschaft_2012": 4410190
     },
-    "Universität Köln (Klinikum)": {
+    {
+      "name": "Universität Köln (Klinikum)",
       "uid": "1119",
       "adresse": "Kerpener Straße 62, 50937 Köln",
       "art": "Unikliniken (ohne Private)",
@@ -1258,7 +1332,8 @@
       "drittmittel_absolut_2012": 74801600,
       "drittmittel_wirtschaft_2012": 29510965
     },
-    "Universität Münster (Klinikum)": {
+    {
+      "name": "Universität Münster (Klinikum)",
       "uid": "1129",
       "adresse": "Domagkstraße 5, 48149 Münster",
       "art": "Unikliniken (ohne Private)",
@@ -1275,7 +1350,8 @@
       "drittmittel_absolut_2012": 41822334,
       "drittmittel_wirtschaft_2012": 9749696
     },
-    "RWTH Aachen (Klinikum)": {
+    {
+      "name": "RWTH Aachen (Klinikum)",
       "uid": "1489",
       "adresse": "Pauwelsstraße 30, 52074 Aachen",
       "art": "Unikliniken (ohne Private)",
@@ -1292,7 +1368,8 @@
       "drittmittel_absolut_2012": 33440329,
       "drittmittel_wirtschaft_2012": 7628486
     },
-    "Universität Duisburg-Essen (ohne Klinikum)": {
+    {
+      "name": "Universität Duisburg-Essen (ohne Klinikum)",
       "uid": "81",
       "adresse": "Universitätsstraße 2, 45141 Essen",
       "art": "Universitäten (ohne Private)",
@@ -1309,7 +1386,8 @@
       "drittmittel_absolut_2012": 72862242,
       "drittmittel_wirtschaft_2012": 23126215
     },
-    "Universität Paderborn": {
+    {
+      "name": "Universität Paderborn",
       "uid": "121",
       "adresse": "Warburger Straße 100, 33098 Paderborn",
       "art": "Universitäten (ohne Private)",
@@ -1326,7 +1404,8 @@
       "drittmittel_absolut_2012": 36567528,
       "drittmittel_wirtschaft_2012": 4988374
     },
-    "Universität Siegen": {
+    {
+      "name": "Universität Siegen",
       "uid": "130",
       "adresse": "Hölderlinstraße 3, 57076 Siegen",
       "art": "Universitäten (ohne Private)",
@@ -1343,7 +1422,8 @@
       "drittmittel_absolut_2012": 25250835,
       "drittmittel_wirtschaft_2012": 4059249
     },
-    "Universität Wuppertal": {
+    {
+      "name": "Universität Wuppertal",
       "uid": "140",
       "adresse": "Pauluskirchstraße 7, 42285 Wuppertal",
       "art": "Universitäten (ohne Private)",
@@ -1360,7 +1440,8 @@
       "drittmittel_absolut_2012": 28459872,
       "drittmittel_wirtschaft_2012": 8236710
     },
-    "Fernuniversität Hagen": {
+    {
+      "name": "Fernuniversität Hagen",
       "uid": "150",
       "adresse": "Universitätsstraße 11, 58084 Hagen",
       "art": "Universitäten (ohne Private)",
@@ -1377,7 +1458,8 @@
       "drittmittel_absolut_2012": 2704766,
       "drittmittel_wirtschaft_2012": 295747
     },
-    "Deutsche Hochschule der Polizei, Münster": {
+    {
+      "name": "Deutsche Hochschule der Polizei, Münster",
       "uid": "910",
       "adresse": "Zum Roten Berge 18, 48165 Münster",
       "art": "Universitäten (ohne Private)",
@@ -1394,7 +1476,8 @@
       "drittmittel_absolut_2012": 1439435,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Ruhr-Universität Bochum (ohne Klinikum)": {
+    {
+      "name": "Ruhr-Universität Bochum (ohne Klinikum)",
       "uid": "1081",
       "adresse": "Universitätsstraße 150, 44801 Bochum",
       "art": "Universitäten (ohne Private)",
@@ -1411,7 +1494,8 @@
       "drittmittel_absolut_2012": 96915355,
       "drittmittel_wirtschaft_2012": 21362193
     },
-    "Universität Bonn (ohne Klinikum)": {
+    {
+      "name": "Universität Bonn (ohne Klinikum)",
       "uid": "1091",
       "adresse": "Regina-Pacis-Weg 3, 53113 Bonn",
       "art": "Universitäten (ohne Private)",
@@ -1428,7 +1512,8 @@
       "drittmittel_absolut_2012": 103261325,
       "drittmittel_wirtschaft_2012": 5633793
     },
-    "Universität Düsseldorf (ohne Klinikum)": {
+    {
+      "name": "Universität Düsseldorf (ohne Klinikum)",
       "uid": "1101",
       "adresse": "Universitätsstraße 1, 40225 Düsseldorf",
       "art": "Universitäten (ohne Private)",
@@ -1445,7 +1530,8 @@
       "drittmittel_absolut_2012": 30805674,
       "drittmittel_wirtschaft_2012": 2263800
     },
-    "Universität zu Köln (ohne Klinikum)": {
+    {
+      "name": "Universität zu Köln (ohne Klinikum)",
       "uid": "1111",
       "adresse": "Albertus-Magnus-Platz, 50923 Köln",
       "art": "Universitäten (ohne Private)",
@@ -1462,7 +1548,8 @@
       "drittmittel_absolut_2012": 54472313,
       "drittmittel_wirtschaft_2012": 49261
     },
-    "WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)": {
+    {
+      "name": "WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
       "uid": "1121",
       "adresse": "Schlossplatz 2, 48149 Münster",
       "art": "Universitäten (ohne Private)",
@@ -1479,7 +1566,8 @@
       "drittmittel_absolut_2012": 84129674,
       "drittmittel_wirtschaft_2012": 11300560
     },
-    "Technische Universität Dortmund": {
+    {
+      "name": "Technische Universität Dortmund",
       "uid": "1130",
       "adresse": "Emil-Figge-Straße 61, 44227 Dortmund",
       "art": "Universitäten (ohne Private)",
@@ -1496,7 +1584,8 @@
       "drittmittel_absolut_2012": 63897304,
       "drittmittel_wirtschaft_2012": 9114632
     },
-    "Universität Bielefeld": {
+    {
+      "name": "Universität Bielefeld",
       "uid": "1140",
       "adresse": "Universitätsstraße 25, 33615 Bielefeld",
       "art": "Universitäten (ohne Private)",
@@ -1513,7 +1602,8 @@
       "drittmittel_absolut_2012": 57566735,
       "drittmittel_wirtschaft_2012": 6653505
     },
-    "Deutsche Sporthochschule Köln": {
+    {
+      "name": "Deutsche Sporthochschule Köln",
       "uid": "1150",
       "adresse": "Am Sportpark Müngersdorf 6, 50933 Köln",
       "art": "Universitäten (ohne Private)",
@@ -1530,7 +1620,8 @@
       "drittmittel_absolut_2012": 10581051,
       "drittmittel_wirtschaft_2012": 6232448
     },
-    "RWTH Aachen (ohne Klinikum)": {
+    {
+      "name": "RWTH Aachen (ohne Klinikum)",
       "uid": "1481",
       "adresse": "Templergraben 55, 52056 Aachen",
       "art": "Universitäten (ohne Private)",
@@ -1547,7 +1638,8 @@
       "drittmittel_absolut_2012": 259958430,
       "drittmittel_wirtschaft_2012": 67370095
     },
-    "Priv. wiss. Hochschule Witten-Herdecke (Klinikum)": {
+    {
+      "name": "Priv. wiss. Hochschule Witten-Herdecke (Klinikum)",
       "uid": "1499",
       "adresse": "Alfred-Herrhausen-Straße 50, 58448 Witten",
       "art": "Private Unikliniken",
@@ -1564,7 +1656,8 @@
       "drittmittel_absolut_2012": 5726000,
       "drittmittel_wirtschaft_2012": 1641000
     },
-    "Hochschule für Kirchenmusik der evang. Kirche von Westfalen, Herford": {
+    {
+      "name": "Hochschule für Kirchenmusik der evang. Kirche von Westfalen, Herford",
       "uid": "710",
       "adresse": "Parkstraße 6, 32049 Herford",
       "art": "Kirchliche Theologische Hochschulen",
@@ -1581,7 +1674,8 @@
       "drittmittel_absolut_2012": 20950,
       "drittmittel_wirtschaft_2012": 20950
     },
-    "Theol. Fakultät Paderborn (rk)": {
+    {
+      "name": "Theol. Fakultät Paderborn (rk)",
       "uid": "2030",
       "adresse": "Kamp 6, 33098 Paderborn",
       "art": "Kirchliche Theologische Hochschulen",
@@ -1598,7 +1692,8 @@
       "drittmittel_absolut_2012": 20000,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Philosophisch-Theologische Hochschule SVD St. Augustin": {
+    {
+      "name": "Philosophisch-Theologische Hochschule SVD St. Augustin",
       "uid": "2060",
       "adresse": "Arnold-Janssen-Str. 30, 53757 Sankt Augustin",
       "art": "Kirchliche Theologische Hochschulen",
@@ -1615,7 +1710,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Phil.-Theol. Hochschule Münster (rk)": {
+    {
+      "name": "Phil.-Theol. Hochschule Münster (rk)",
       "uid": "2080",
       "adresse": "",
       "art": "Kirchliche Theologische Hochschulen",
@@ -1632,7 +1728,8 @@
       "drittmittel_absolut_2012": 155463,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Kirchliche Hochschule Wuppertal / Bethel (ev)": {
+    {
+      "name": "Kirchliche Hochschule Wuppertal / Bethel (ev)",
       "uid": "2270",
       "adresse": "Remterweg 45, 33617 Bielefeld",
       "art": "Kirchliche Theologische Hochschulen",
@@ -1649,7 +1746,8 @@
       "drittmittel_absolut_2012": 720399,
       "drittmittel_wirtschaft_2012": 427845
     },
-    "Alanus Hochschule Alfter (Priv. H)": {
+    {
+      "name": "Alanus Hochschule Alfter (Priv. H)",
       "uid": "2430",
       "adresse": "Villestraße 3, 53347 Alfter",
       "art": "Private Kunsthochschulen",
@@ -1666,7 +1764,8 @@
       "drittmittel_absolut_2012": 1558890,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule für Musik Detmold": {
+    {
+      "name": "Hochschule für Musik Detmold",
       "uid": "2560",
       "adresse": "Neustadt 22, 32756 Detmold",
       "art": "Kunsthochschulen (ohne Private)",
@@ -1683,7 +1782,8 @@
       "drittmittel_absolut_2012": 218183,
       "drittmittel_wirtschaft_2012": 218183
     },
-    "Folkwang-Hochschule Essen": {
+    {
+      "name": "Folkwang-Hochschule Essen",
       "uid": "2570",
       "adresse": "Klemensborn 39, 45239 Essen",
       "art": "Kunsthochschulen (ohne Private)",
@@ -1700,7 +1800,8 @@
       "drittmittel_absolut_2012": 3537126,
       "drittmittel_wirtschaft_2012": 3068851
     },
-    "Hochschule für Musik und Tanz Köln": {
+    {
+      "name": "Hochschule für Musik und Tanz Köln",
       "uid": "2580",
       "adresse": "Unter Krahnenbäumen 87, 50668 Köln",
       "art": "Kunsthochschulen (ohne Private)",
@@ -1717,7 +1818,8 @@
       "drittmittel_absolut_2012": 722167,
       "drittmittel_wirtschaft_2012": 197826
     },
-    "Kunstakademie Düsseldorf": {
+    {
+      "name": "Kunstakademie Düsseldorf",
       "uid": "2860",
       "adresse": "Eiskellerstraße 1, 40213 Düsseldorf",
       "art": "Kunsthochschulen (ohne Private)",
@@ -1734,7 +1836,8 @@
       "drittmittel_absolut_2012": 186716,
       "drittmittel_wirtschaft_2012": 115764
     },
-    "Robert-Schumann-Hochschule Düsseldorf": {
+    {
+      "name": "Robert-Schumann-Hochschule Düsseldorf",
       "uid": "2870",
       "adresse": "Fischerstraße 110, 40476 Düsseldorf",
       "art": "Kunsthochschulen (ohne Private)",
@@ -1751,7 +1854,8 @@
       "drittmittel_absolut_2012": 622667,
       "drittmittel_wirtschaft_2012": 267052
     },
-    "Kunsthochschule für Medien Köln": {
+    {
+      "name": "Kunsthochschule für Medien Köln",
       "uid": "2880",
       "adresse": "Peter-Welter-Platz 2, 50676 Köln",
       "art": "Kunsthochschulen (ohne Private)",
@@ -1768,7 +1872,8 @@
       "drittmittel_absolut_2012": 360964,
       "drittmittel_wirtschaft_2012": 84721
     },
-    "Kunstakademie Münster": {
+    {
+      "name": "Kunstakademie Münster",
       "uid": "2890",
       "adresse": "Leonardo-Campus 2, 48149 Münster",
       "art": "Kunsthochschulen (ohne Private)",
@@ -1785,7 +1890,8 @@
       "drittmittel_absolut_2012": 42891,
       "drittmittel_wirtschaft_2012": 7770
     },
-    "EBZ Business School": {
+    {
+      "name": "EBZ Business School",
       "uid": "930",
       "adresse": "Springorumallee 20, 44795 Bochum",
       "art": "Private Fachhochschulen",
@@ -1802,7 +1908,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule der Sparkassen-Finanzgruppe Bonn (Priv. FH)": {
+    {
+      "name": "Hochschule der Sparkassen-Finanzgruppe Bonn (Priv. FH)",
       "uid": "1500",
       "adresse": "Simrockstraße 4, 53113 Bonn",
       "art": "Private Fachhochschulen",
@@ -1819,7 +1926,8 @@
       "drittmittel_absolut_2012": 100900,
       "drittmittel_wirtschaft_2012": 100000
     },
-    "Hochschule Neuss für Internationale Wirtschaft (Priv. FH)": {
+    {
+      "name": "Hochschule Neuss für Internationale Wirtschaft (Priv. FH)",
       "uid": "1640",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -1836,7 +1944,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Mathias Hochschule Rheine": {
+    {
+      "name": "Mathias Hochschule Rheine",
       "uid": "1650",
       "adresse": "Frankenburgstraße 31, 48431 Rheine",
       "art": "Private Fachhochschulen",
@@ -1853,7 +1962,8 @@
       "drittmittel_absolut_2012": 159924,
       "drittmittel_wirtschaft_2012": 52350
     },
-    "EBC Düsseldorf HS für Int. Management (Priv. FH)": {
+    {
+      "name": "EBC Düsseldorf HS für Int. Management (Priv. FH)",
       "uid": "1660",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -1870,7 +1980,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Cologne Business School": {
+    {
+      "name": "Cologne Business School",
       "uid": "1680",
       "adresse": "Hardefuststr. 1, 50677 Köln",
       "art": "Private Fachhochschulen",
@@ -1887,7 +1998,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Priv. FH International School of Management, Dortmund": {
+    {
+      "name": "Priv. FH International School of Management, Dortmund",
       "uid": "5690",
       "adresse": "Otto-Hahn-Straße 19, 44227 Dortmund",
       "art": "Private Fachhochschulen",
@@ -1904,7 +2016,8 @@
       "drittmittel_absolut_2012": 163950,
       "drittmittel_wirtschaft_2012": 86832
     },
-    "Intern. FH (IFH) Bad Honnef-Bonn (Priv. FH)": {
+    {
+      "name": "Intern. FH (IFH) Bad Honnef-Bonn (Priv. FH)",
       "uid": "5720",
       "adresse": "Mülheimer Straße 38, 53604 Bad Honnef",
       "art": "Private Fachhochschulen",
@@ -1921,7 +2034,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Business and Information Technology School Iserlohn (Priv. FH)": {
+    {
+      "name": "Business and Information Technology School Iserlohn (Priv. FH)",
       "uid": "5800",
       "adresse": "Reiterweg 26 b, 58636 Iserlohn",
       "art": "Private Fachhochschulen",
@@ -1938,7 +2052,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH des Mittelstandes Bielefeld (Priv. FH)": {
+    {
+      "name": "FH des Mittelstandes Bielefeld (Priv. FH)",
       "uid": "5820",
       "adresse": "Ravensberger Straße 10G, 33602 Bielefeld",
       "art": "Private Fachhochschulen",
@@ -1955,7 +2070,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Fachhochschule der Wirtschaft Paderborn": {
+    {
+      "name": "Fachhochschule der Wirtschaft Paderborn",
       "uid": "5900",
       "adresse": "Fürstenallee 3-5, 33102 Paderborn",
       "art": "Private Fachhochschulen",
@@ -1972,7 +2088,8 @@
       "drittmittel_absolut_2012": 443764,
       "drittmittel_wirtschaft_2012": 186110
     },
-    "Technische FH (TFH) Georg Agricola zu Bochum (Priv. FH)": {
+    {
+      "name": "Technische FH (TFH) Georg Agricola zu Bochum (Priv. FH)",
       "uid": "5980",
       "adresse": "Herner Straße 45, 44787 Bochum",
       "art": "Private Fachhochschulen",
@@ -1989,7 +2106,8 @@
       "drittmittel_absolut_2012": 237740,
       "drittmittel_wirtschaft_2012": 200312
     },
-    "Priv. Rheinische FH Köln": {
+    {
+      "name": "Priv. Rheinische FH Köln",
       "uid": "5990",
       "adresse": "Vogelsanger Straße 295, 50825 Köln",
       "art": "Private Fachhochschulen",
@@ -2006,7 +2124,8 @@
       "drittmittel_absolut_2012": 6249404,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH)": {
+    {
+      "name": "Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH)",
       "uid": "6410",
       "adresse": "Kaiserstraße 6, 50321 Brühl",
       "art": "Private Fachhochschulen",
@@ -2023,7 +2142,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Priv. FH für Ökonomie und Management Essen": {
+    {
+      "name": "Priv. FH für Ökonomie und Management Essen",
       "uid": "8100",
       "adresse": "Herkulesstraße 32, 45127 Essen",
       "art": "Private Fachhochschulen",
@@ -2040,7 +2160,8 @@
       "drittmittel_absolut_2012": 798833,
       "drittmittel_wirtschaft_2012": 31356
     },
-    "FH Westliches Ruhrgebiet": {
+    {
+      "name": "FH Westliches Ruhrgebiet",
       "uid": "3050",
       "adresse": "Wiesenstraße 36, 45473 Mülheim",
       "art": "Fachhochschulen (ohne Private)",
@@ -2057,7 +2178,8 @@
       "drittmittel_absolut_2012": 737939,
       "drittmittel_wirtschaft_2012": 391459
     },
-    "Hochschule Rhein-Waal": {
+    {
+      "name": "Hochschule Rhein-Waal",
       "uid": "3060",
       "adresse": "Marie-Curie Str. 1, 47533 Kleve",
       "art": "Fachhochschulen (ohne Private)",
@@ -2074,7 +2196,8 @@
       "drittmittel_absolut_2012": 1008906,
       "drittmittel_wirtschaft_2012": 634373
     },
-    "Hochschule Hamm-Lippstadt": {
+    {
+      "name": "Hochschule Hamm-Lippstadt",
       "uid": "3070",
       "adresse": "Peter-Röttgen-Platz 10, 59063 Hamm",
       "art": "Fachhochschulen (ohne Private)",
@@ -2091,7 +2214,8 @@
       "drittmittel_absolut_2012": 29240,
       "drittmittel_wirtschaft_2012": 17002
     },
-    "FH Südwestfalen": {
+    {
+      "name": "FH Südwestfalen",
       "uid": "5250",
       "adresse": "Frauenstuhlweg 31, 58644 Iserlohn",
       "art": "Fachhochschulen (ohne Private)",
@@ -2108,7 +2232,8 @@
       "drittmittel_absolut_2012": 5362912,
       "drittmittel_wirtschaft_2012": 2077517
     },
-    "Westfälische Hochschule Gelsenkirchen Bocholt Recklinghausen": {
+    {
+      "name": "Westfälische Hochschule Gelsenkirchen Bocholt Recklinghausen",
       "uid": "5700",
       "adresse": "Neidenburger Straße 43, 45897 Gelsenkirchen",
       "art": "Fachhochschulen (ohne Private)",
@@ -2125,7 +2250,8 @@
       "drittmittel_absolut_2012": 5708313,
       "drittmittel_wirtschaft_2012": 1457879
     },
-    "FH Aachen": {
+    {
+      "name": "FH Aachen",
       "uid": "5710",
       "adresse": "Kalverbenden 6, 52066 Aachen",
       "art": "Fachhochschulen (ohne Private)",
@@ -2142,7 +2268,8 @@
       "drittmittel_absolut_2012": 10785486,
       "drittmittel_wirtschaft_2012": 5862234
     },
-    "FH Bielefeld": {
+    {
+      "name": "FH Bielefeld",
       "uid": "5730",
       "adresse": "Kurt-Schumacher-Straße 6, 33615 Bielefeld",
       "art": "Fachhochschulen (ohne Private)",
@@ -2159,7 +2286,8 @@
       "drittmittel_absolut_2012": 4082177,
       "drittmittel_wirtschaft_2012": 443075
     },
-    "Hochschule Bochum": {
+    {
+      "name": "Hochschule Bochum",
       "uid": "5750",
       "adresse": "Lennershofstr. 140, 44801 Bochum",
       "art": "Fachhochschulen (ohne Private)",
@@ -2176,7 +2304,8 @@
       "drittmittel_absolut_2012": 2616867,
       "drittmittel_wirtschaft_2012": 867872
     },
-    "FH Dortmund": {
+    {
+      "name": "FH Dortmund",
       "uid": "5770",
       "adresse": "Sonnestraße 96-100, 44139 Dortmund",
       "art": "Fachhochschulen (ohne Private)",
@@ -2193,7 +2322,8 @@
       "drittmittel_absolut_2012": 4502081,
       "drittmittel_wirtschaft_2012": 2027622
     },
-    "FH Düsseldorf": {
+    {
+      "name": "FH Düsseldorf",
       "uid": "5780",
       "adresse": "Josef-Gockeln-Straße 9, 40474 Düsseldorf",
       "art": "Fachhochschulen (ohne Private)",
@@ -2210,7 +2340,8 @@
       "drittmittel_absolut_2012": 3852476,
       "drittmittel_wirtschaft_2012": 833648
     },
-    "FH Köln": {
+    {
+      "name": "FH Köln",
       "uid": "5830",
       "adresse": "Betzdorfer Straße 2, 50679 Köln",
       "art": "Fachhochschulen (ohne Private)",
@@ -2227,7 +2358,8 @@
       "drittmittel_absolut_2012": 18706390,
       "drittmittel_wirtschaft_2012": 4853446
     },
-    "Hochschule Niederrhein": {
+    {
+      "name": "Hochschule Niederrhein",
       "uid": "5840",
       "adresse": "Reinarzstraße 49, 47805 Krefeld",
       "art": "Fachhochschulen (ohne Private)",
@@ -2244,7 +2376,8 @@
       "drittmittel_absolut_2012": 7547028,
       "drittmittel_wirtschaft_2012": 1358745
     },
-    "Hochschule Ostwestfalen-Lippe": {
+    {
+      "name": "Hochschule Ostwestfalen-Lippe",
       "uid": "5860",
       "adresse": "Liebigstraße 87, 32657 Lemgo",
       "art": "Fachhochschulen (ohne Private)",
@@ -2261,7 +2394,8 @@
       "drittmittel_absolut_2012": 9515942,
       "drittmittel_wirtschaft_2012": 3712017
     },
-    "FH Münster": {
+    {
+      "name": "FH Münster",
       "uid": "5890",
       "adresse": "Hüfferstraße 27, 48149 Münster",
       "art": "Fachhochschulen (ohne Private)",
@@ -2278,7 +2412,8 @@
       "drittmittel_absolut_2012": 17091724,
       "drittmittel_wirtschaft_2012": 7507600
     },
-    "FH Bonn-Rhein-Sieg": {
+    {
+      "name": "FH Bonn-Rhein-Sieg",
       "uid": "8110",
       "adresse": "Grantham-Allee 20, 53757 Sankt Augustin",
       "art": "Fachhochschulen (ohne Private)",
@@ -2295,7 +2430,8 @@
       "drittmittel_absolut_2012": 6369287,
       "drittmittel_wirtschaft_2012": 444364
     },
-    "FH der Diakonie Bielefeld-Bethel": {
+    {
+      "name": "FH der Diakonie Bielefeld-Bethel",
       "uid": "40",
       "adresse": "Grete-Reich-Weg 9, 33617 Bielefeld",
       "art": "Kirchliche Fachhochschulen",
@@ -2312,7 +2448,8 @@
       "drittmittel_absolut_2012": 650176,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Evang. FH Rheinland-Westfalen-Lippe, Bochum": {
+    {
+      "name": "Evang. FH Rheinland-Westfalen-Lippe, Bochum",
       "uid": "6000",
       "adresse": "Immanuel-Kant-Straße 18-20, 44803 Bochum",
       "art": "Kirchliche Fachhochschulen",
@@ -2329,7 +2466,8 @@
       "drittmittel_absolut_2012": 175571,
       "drittmittel_wirtschaft_2012": 57371
     },
-    "Kath. Hochschule Nordrhein-Westfalen": {
+    {
+      "name": "Kath. Hochschule Nordrhein-Westfalen",
       "uid": "6030",
       "adresse": "Wörthstraße 10, 50668 Köln",
       "art": "Kirchliche Fachhochschulen",
@@ -2346,7 +2484,8 @@
       "drittmittel_absolut_2012": 740073,
       "drittmittel_wirtschaft_2012": 137271
     },
-    "FH für öffentliche Verwaltung NW": {
+    {
+      "name": "FH für öffentliche Verwaltung NW",
       "uid": "6070",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -2363,7 +2502,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH für Rechtspflege NW, Bad Münstereifel": {
+    {
+      "name": "FH für Rechtspflege NW, Bad Münstereifel",
       "uid": "6180",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -2380,7 +2520,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH für Finanzen NW, Nordkirchen": {
+    {
+      "name": "FH für Finanzen NW, Nordkirchen",
       "uid": "6190",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -2397,7 +2538,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH Bund, FB Allgemeine innere Verwaltung, Brühl": {
+    {
+      "name": "FH Bund, FB Allgemeine innere Verwaltung, Brühl",
       "uid": "6206",
       "adresse": "",
       "art": "Verwaltungs-FH des Bundes",
@@ -2414,7 +2556,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH Bund, FB Finanzen, Münster": {
+    {
+      "name": "FH Bund, FB Finanzen, Münster",
       "uid": "6208",
       "adresse": "",
       "art": "Verwaltungs-FH des Bundes",
@@ -2431,7 +2574,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Priv. wiss. Hochschule Oestrich-Winkel (E.B.S.)": {
+    {
+      "name": "Priv. wiss. Hochschule Oestrich-Winkel (E.B.S.)",
       "uid": "1540",
       "adresse": "Gustav-Stresemann-Ring 3, 65189 Wiesbaden",
       "art": "Private Universtäten",
@@ -2448,7 +2592,8 @@
       "drittmittel_absolut_2012": 9871951,
       "drittmittel_wirtschaft_2012": 3950709
     },
-    "Frankfurt School of Finance and Management": {
+    {
+      "name": "Frankfurt School of Finance and Management",
       "uid": "6370",
       "adresse": "Sonnemannstraße 9-11, 60314 Frankfurt am Main",
       "art": "Private Universtäten",
@@ -2465,7 +2610,8 @@
       "drittmittel_absolut_2012": 1998734,
       "drittmittel_wirtschaft_2012": 373542
     },
-    "Universität Frankfurt a.M. (Klinikum)": {
+    {
+      "name": "Universität Frankfurt a.M. (Klinikum)",
       "uid": "1169",
       "adresse": "Theodor-Stern-Kai 7, 60590 Frankfurt",
       "art": "Unikliniken (ohne Private)",
@@ -2482,7 +2628,8 @@
       "drittmittel_absolut_2012": 40747090,
       "drittmittel_wirtschaft_2012": 14962729
     },
-    "Universität Kassel": {
+    {
+      "name": "Universität Kassel",
       "uid": "10",
       "adresse": "Mönchebergstr. 19, 34109 Kassel",
       "art": "Universitäten (ohne Private)",
@@ -2499,7 +2646,8 @@
       "drittmittel_absolut_2012": 42293304,
       "drittmittel_wirtschaft_2012": 11421451
     },
-    "Universität Frankfurt a.M. (ohne Klinikum)": {
+    {
+      "name": "Universität Frankfurt a.M. (ohne Klinikum)",
       "uid": "1161",
       "adresse": "Senckenberganlage 31, Postfach 11 19 32, 60054 Frankfurt am Main",
       "art": "Universitäten (ohne Private)",
@@ -2516,7 +2664,8 @@
       "drittmittel_absolut_2012": 105065908,
       "drittmittel_wirtschaft_2012": 13189080
     },
-    "Universität Gießen": {
+    {
+      "name": "Universität Gießen",
       "uid": "1171",
       "adresse": "Ludwigstraße 23, 35390 Gießen",
       "art": "Universitäten (ohne Private)",
@@ -2533,7 +2682,8 @@
       "drittmittel_absolut_2012": 57012009,
       "drittmittel_wirtschaft_2012": 10110875
     },
-    "Universität Marburg": {
+    {
+      "name": "Universität Marburg",
       "uid": "1181",
       "adresse": "Biegenstraße 10 / 12, 35037 Marburg",
       "art": "Universitäten (ohne Private)",
@@ -2550,7 +2700,8 @@
       "drittmittel_absolut_2012": 59341259,
       "drittmittel_wirtschaft_2012": 17648093
     },
-    "TU Darmstadt": {
+    {
+      "name": "TU Darmstadt",
       "uid": "1530",
       "adresse": "Karolinenplatz 5, 64289 Darmstadt",
       "art": "Universitäten (ohne Private)",
@@ -2567,7 +2718,8 @@
       "drittmittel_absolut_2012": 117259727,
       "drittmittel_wirtschaft_2012": 34247419
     },
-    "Universitätsklinikum Gießen und Marburg, Abt. Gießen": {
+    {
+      "name": "Universitätsklinikum Gießen und Marburg, Abt. Gießen",
       "uid": "1378",
       "adresse": "",
       "art": "Private Unikliniken",
@@ -2584,7 +2736,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Universitätsklinikum Gießen und Marburg, Abt. Marburg": {
+    {
+      "name": "Universitätsklinikum Gießen und Marburg, Abt. Marburg",
       "uid": "1379",
       "adresse": "",
       "art": "Private Unikliniken",
@@ -2601,7 +2754,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Freie Theologische Hochschule (FTH) Gießen (Priv.)": {
+    {
+      "name": "Freie Theologische Hochschule (FTH) Gießen (Priv.)",
       "uid": "940",
       "adresse": "",
       "art": "Private Theologische Hochschulen",
@@ -2618,7 +2772,8 @@
       "drittmittel_absolut_2012": 58741,
       "drittmittel_wirtschaft_2012": 58741
     },
-    "Evangelische Hochschule Tabor Marburg": {
+    {
+      "name": "Evangelische Hochschule Tabor Marburg",
       "uid": "1550",
       "adresse": "Rathenaustraße 5-7, 35394 Gießen",
       "art": "Private Theologische Hochschulen",
@@ -2635,7 +2790,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Theol. Fakultät Fulda (rk)": {
+    {
+      "name": "Theol. Fakultät Fulda (rk)",
       "uid": "2000",
       "adresse": "",
       "art": "Kirchliche Theologische Hochschulen",
@@ -2652,7 +2808,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Phil.-Theol. Hochschule Frankfurt a.M. (rk)": {
+    {
+      "name": "Phil.-Theol. Hochschule Frankfurt a.M. (rk)",
       "uid": "2020",
       "adresse": "Offenbacher Landstr. 224, 60599 Frankfurt",
       "art": "Kirchliche Theologische Hochschulen",
@@ -2669,7 +2826,8 @@
       "drittmittel_absolut_2012": 969330,
       "drittmittel_wirtschaft_2012": 754434
     },
-    "Luth.-Theol. Hochschule Oberursel (ev)": {
+    {
+      "name": "Luth.-Theol. Hochschule Oberursel (ev)",
       "uid": "2320",
       "adresse": "Altkönigstraße 150, 61440 Oberursel",
       "art": "Kirchliche Theologische Hochschulen",
@@ -2686,7 +2844,8 @@
       "drittmittel_absolut_2012": 74732,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule für Musik und Darstellende Kunst Frankfurt a.M.": {
+    {
+      "name": "Hochschule für Musik und Darstellende Kunst Frankfurt a.M.",
       "uid": "2620",
       "adresse": "Eschersheimer Landstraße 29-39, 60322 Frankfurt",
       "art": "Kunsthochschulen (ohne Private)",
@@ -2703,7 +2862,8 @@
       "drittmittel_absolut_2012": 1147878,
       "drittmittel_wirtschaft_2012": 19780
     },
-    "Hochschule für Bildende Künste Frankfurt a.M. (Städelschule)": {
+    {
+      "name": "Hochschule für Bildende Künste Frankfurt a.M. (Städelschule)",
       "uid": "2900",
       "adresse": "Dürerstraße 10, 60596 Frankfurt",
       "art": "Kunsthochschulen (ohne Private)",
@@ -2720,7 +2880,8 @@
       "drittmittel_absolut_2012": 462183,
       "drittmittel_wirtschaft_2012": 262150
     },
-    "Hochschule für Gestaltung Offenbach": {
+    {
+      "name": "Hochschule für Gestaltung Offenbach",
       "uid": "2920",
       "adresse": "Schloßstraße 31, 63065 Offenbach",
       "art": "Kunsthochschulen (ohne Private)",
@@ -2737,7 +2898,8 @@
       "drittmittel_absolut_2012": 524705,
       "drittmittel_wirtschaft_2012": 138046
     },
-    "CVJM-Hochschule": {
+    {
+      "name": "CVJM-Hochschule",
       "uid": "1510",
       "adresse": "Hugo-Preuß-Straße 40, 34131 Kassel-Bad Wilhelmshöhe",
       "art": "Private Fachhochschulen",
@@ -2754,7 +2916,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule Fresenius Idstein (Priv. FH)": {
+    {
+      "name": "Hochschule Fresenius Idstein (Priv. FH)",
       "uid": "6280",
       "adresse": "Limburger Straße 2, 65510 Idstein",
       "art": "Private Fachhochschulen",
@@ -2771,7 +2934,8 @@
       "drittmittel_absolut_2012": 1144715,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Priv. FH des Bundesverbandes der Unfallvers., Bad Hersfeld": {
+    {
+      "name": "Priv. FH des Bundesverbandes der Unfallvers., Bad Hersfeld",
       "uid": "6360",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -2788,7 +2952,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Wilhelm Büchner Hochschule": {
+    {
+      "name": "Wilhelm Büchner Hochschule",
       "uid": "6390",
       "adresse": "Ostendstraße 3, 64319 Pfungstadt",
       "art": "Private Fachhochschulen",
@@ -2805,7 +2970,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "DIPLOMA Fachhochschule Nordhessen": {
+    {
+      "name": "DIPLOMA Fachhochschule Nordhessen",
       "uid": "6400",
       "adresse": "Herminenstraße 17f, 31675 Bückeburg",
       "art": "Private Fachhochschulen",
@@ -2822,7 +2988,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "provadis International School of Management and Technology": {
+    {
+      "name": "provadis International School of Management and Technology",
       "uid": "6690",
       "adresse": "Industriepark Höchst, Geb. B845, 65926 Frankfurt am Main",
       "art": "Private Fachhochschulen",
@@ -2839,7 +3006,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "accadis Hochschule Bad Homburg": {
+    {
+      "name": "accadis Hochschule Bad Homburg",
       "uid": "7670",
       "adresse": "Du Pont-Str. 4, 61352 Bad Homburg",
       "art": "Private Fachhochschulen",
@@ -2856,7 +3024,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "h_da - Hochschule Darmstadt (FH)": {
+    {
+      "name": "h_da - Hochschule Darmstadt (FH)",
       "uid": "6210",
       "adresse": "Haardtring 100, 64295 Darmstadt",
       "art": "Fachhochschulen (ohne Private)",
@@ -2873,7 +3042,8 @@
       "drittmittel_absolut_2012": 4261821,
       "drittmittel_wirtschaft_2012": 1621354
     },
-    "FH Frankfurt a.M.": {
+    {
+      "name": "FH Frankfurt a.M.",
       "uid": "6220",
       "adresse": "Nibelungenplatz 1, 60318 Frankfurt",
       "art": "Fachhochschulen (ohne Private)",
@@ -2890,7 +3060,8 @@
       "drittmittel_absolut_2012": 4167846,
       "drittmittel_wirtschaft_2012": 386011
     },
-    "Technische Hochschule Mittelhessen, FH (THM)": {
+    {
+      "name": "Technische Hochschule Mittelhessen, FH (THM)",
       "uid": "6230",
       "adresse": "Wiesenstraße 14, 35390 Gießen",
       "art": "Fachhochschulen (ohne Private)",
@@ -2907,7 +3078,8 @@
       "drittmittel_absolut_2012": 4028173,
       "drittmittel_wirtschaft_2012": 773398
     },
-    "Hochschule RheinMain (FH)": {
+    {
+      "name": "Hochschule RheinMain (FH)",
       "uid": "6240",
       "adresse": "Kurt-Schumacher-Ring 18, 65197 Wiesbaden",
       "art": "Fachhochschulen (ohne Private)",
@@ -2924,7 +3096,8 @@
       "drittmittel_absolut_2012": 3574561,
       "drittmittel_wirtschaft_2012": 3243170
     },
-    "Hochschule Fulda": {
+    {
+      "name": "Hochschule Fulda",
       "uid": "6290",
       "adresse": "Marquardstraße 35, 36039 Fulda",
       "art": "Fachhochschulen (ohne Private)",
@@ -2941,7 +3114,8 @@
       "drittmittel_absolut_2012": 3332717,
       "drittmittel_wirtschaft_2012": 114794
     },
-    "Evangelische Hochschule Darmstadt (EHD)": {
+    {
+      "name": "Evangelische Hochschule Darmstadt (EHD)",
       "uid": "6270",
       "adresse": "Zweifalltorweg 12, 64293 Darmstadt",
       "art": "Kirchliche Fachhochschulen",
@@ -2958,7 +3132,8 @@
       "drittmittel_absolut_2012": 457777,
       "drittmittel_wirtschaft_2012": 150195
     },
-    "FH für Archivwesen Marburg": {
+    {
+      "name": "FH für Archivwesen Marburg",
       "uid": "6320",
       "adresse": "Bismarckstraße 32, 35037 Marburg",
       "art": "Verwaltungs-FH´s der Länder",
@@ -2975,7 +3150,8 @@
       "drittmittel_absolut_2012": 107600,
       "drittmittel_wirtschaft_2012": 0
     },
-    "VerwFH Rotenburg": {
+    {
+      "name": "VerwFH Rotenburg",
       "uid": "6330",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -2992,7 +3168,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "VerwFH Wiesbaden": {
+    {
+      "name": "VerwFH Wiesbaden",
       "uid": "6340",
       "adresse": "Schönbergstraße 100, 65199 Wiesbaden",
       "art": "Verwaltungs-FH´s der Länder",
@@ -3009,7 +3186,8 @@
       "drittmittel_absolut_2012": 32529,
       "drittmittel_wirtschaft_2012": 0
     },
-    "WHU - Otto Beisheim School of Management": {
+    {
+      "name": "WHU - Otto Beisheim School of Management",
       "uid": "1190",
       "adresse": "Burgplatz 2, 56179 Vallendar",
       "art": "Private Universtäten",
@@ -3026,7 +3204,8 @@
       "drittmittel_absolut_2012": 255591,
       "drittmittel_wirtschaft_2012": 79240
     },
-    "Universitätsmedizin der Johannes Gutenberg-Universität Mainz": {
+    {
+      "name": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
       "uid": "1390",
       "adresse": "Langenbeckstraße 1, 55131 Mainz",
       "art": "Unikliniken (ohne Private)",
@@ -3043,7 +3222,8 @@
       "drittmittel_absolut_2012": 44548893,
       "drittmittel_wirtschaft_2012": 15241972
     },
-    "Universität Trier": {
+    {
+      "name": "Universität Trier",
       "uid": "1200",
       "adresse": "Universitätsring 15, 54296 Trier",
       "art": "Universitäten (ohne Private)",
@@ -3060,7 +3240,8 @@
       "drittmittel_absolut_2012": 11768705,
       "drittmittel_wirtschaft_2012": 1951387
     },
-    "TU Kaiserslautern": {
+    {
+      "name": "TU Kaiserslautern",
       "uid": "1210",
       "adresse": "Gottlieb-Daimler-Straße 47, 67663 Kaiserslautern",
       "art": "Universitäten (ohne Private)",
@@ -3077,7 +3258,8 @@
       "drittmittel_absolut_2012": 50355926,
       "drittmittel_wirtschaft_2012": 4843487
     },
-    "Universität Mainz": {
+    {
+      "name": "Universität Mainz",
       "uid": "1223",
       "adresse": "Saarstraße 21, 55122 Mainz",
       "art": "Universitäten (ohne Private)",
@@ -3094,7 +3276,8 @@
       "drittmittel_absolut_2012": 49349871,
       "drittmittel_wirtschaft_2012": 3149517
     },
-    "Hochschule für Verwaltungswissenschaften Speyer": {
+    {
+      "name": "Hochschule für Verwaltungswissenschaften Speyer",
       "uid": "1230",
       "adresse": "Freiherr-vom-Stein-Straße 2, 67346 Speyer",
       "art": "Universitäten (ohne Private)",
@@ -3111,7 +3294,8 @@
       "drittmittel_absolut_2012": 187074,
       "drittmittel_wirtschaft_2012": 30700
     },
-    "Universität Koblenz-Landau": {
+    {
+      "name": "Universität Koblenz-Landau",
       "uid": "1290",
       "adresse": "Universitätsstr. 1, 56070 Koblenz (Campus Koblenz)",
       "art": "Universitäten (ohne Private)",
@@ -3128,7 +3312,8 @@
       "drittmittel_absolut_2012": 15154181,
       "drittmittel_wirtschaft_2012": 1207487
     },
-    "Theol. Fakultät Trier": {
+    {
+      "name": "Theol. Fakultät Trier",
       "uid": "2040",
       "adresse": "",
       "art": "Kirchliche Theologische Hochschulen",
@@ -3145,7 +3330,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Theol. H Vallendar": {
+    {
+      "name": "Theol. H Vallendar",
       "uid": "2050",
       "adresse": "Pallottistr. 3, 56179 Vallendar",
       "art": "Kirchliche Theologische Hochschulen",
@@ -3162,7 +3348,8 @@
       "drittmittel_absolut_2012": 664118,
       "drittmittel_wirtschaft_2012": 421675
     },
-    "FH Bingen": {
+    {
+      "name": "FH Bingen",
       "uid": "6510",
       "adresse": "Berlinstraße 109, 55411 Bingen am Rhein",
       "art": "Fachhochschulen (ohne Private)",
@@ -3179,7 +3366,8 @@
       "drittmittel_absolut_2012": 760634,
       "drittmittel_wirtschaft_2012": 452297
     },
-    "FH Kaiserslautern": {
+    {
+      "name": "FH Kaiserslautern",
       "uid": "6520",
       "adresse": "Morlauterer Straße 31, 67657 Kaiserslautern",
       "art": "Fachhochschulen (ohne Private)",
@@ -3196,7 +3384,8 @@
       "drittmittel_absolut_2012": 4310220,
       "drittmittel_wirtschaft_2012": 329944
     },
-    "FH Koblenz": {
+    {
+      "name": "FH Koblenz",
       "uid": "6530",
       "adresse": "Konrad-Zuse-Straße 1, 56075 Koblenz",
       "art": "Fachhochschulen (ohne Private)",
@@ -3213,7 +3402,8 @@
       "drittmittel_absolut_2012": 2472754,
       "drittmittel_wirtschaft_2012": 618757
     },
-    "Hochschule Trier": {
+    {
+      "name": "Hochschule Trier",
       "uid": "6580",
       "adresse": "Schneidershof, 54208 Trier",
       "art": "Fachhochschulen (ohne Private)",
@@ -3230,7 +3420,8 @@
       "drittmittel_absolut_2012": 8245625,
       "drittmittel_wirtschaft_2012": 1325560
     },
-    "Hochschule Ludwigshafen am Rhein": {
+    {
+      "name": "Hochschule Ludwigshafen am Rhein",
       "uid": "6650",
       "adresse": "Ernst-Boehe-Straße 4, 67059 Ludwigshafen",
       "art": "Fachhochschulen (ohne Private)",
@@ -3247,7 +3438,8 @@
       "drittmittel_absolut_2012": 1014711,
       "drittmittel_wirtschaft_2012": 184916
     },
-    "FH Worms": {
+    {
+      "name": "FH Worms",
       "uid": "6660",
       "adresse": "Erenburger Straße 19, 67549 Worms",
       "art": "Fachhochschulen (ohne Private)",
@@ -3264,7 +3456,8 @@
       "drittmittel_absolut_2012": 1010969,
       "drittmittel_wirtschaft_2012": 476181
     },
-    "FH Mainz": {
+    {
+      "name": "FH Mainz",
       "uid": "6670",
       "adresse": "Lucy-Hillebrand-Str. 2, 55128 Mainz",
       "art": "Fachhochschulen (ohne Private)",
@@ -3281,7 +3474,8 @@
       "drittmittel_absolut_2012": 2259575,
       "drittmittel_wirtschaft_2012": 1162669
     },
-    "Kath. FH Mainz": {
+    {
+      "name": "Kath. FH Mainz",
       "uid": "6600",
       "adresse": "Saarstraße 3, 55122 Mainz",
       "art": "Kirchliche Fachhochschulen",
@@ -3298,7 +3492,8 @@
       "drittmittel_absolut_2012": 364230,
       "drittmittel_wirtschaft_2012": 1374
     },
-    "FH für öffentliche Verwaltung, FB Innere Verwaltung in Mayen": {
+    {
+      "name": "FH für öffentliche Verwaltung, FB Innere Verwaltung in Mayen",
       "uid": "6630",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -3315,7 +3510,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH für Finanzen Edenkoben": {
+    {
+      "name": "FH für Finanzen Edenkoben",
       "uid": "6640",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -3332,7 +3528,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule der Deutschen Bundesbank": {
+    {
+      "name": "Hochschule der Deutschen Bundesbank",
       "uid": "6620",
       "adresse": "Schloss, 57627 Hachenburg",
       "art": "Verwaltungs-FH des Bundes",
@@ -3349,7 +3546,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Priv. wiss. Hochschule Bierbronnen": {
+    {
+      "name": "Priv. wiss. Hochschule Bierbronnen",
       "uid": "1280",
       "adresse": "",
       "art": "Private Universtäten",
@@ -3366,7 +3564,8 @@
       "drittmittel_absolut_2012": 110168,
       "drittmittel_wirtschaft_2012": 0
     },
-    "AKAD, Wissenschaftliche Hochschule Lahr (Priv. Fern-H für Berufstätige)": {
+    {
+      "name": "AKAD, Wissenschaftliche Hochschule Lahr (Priv. Fern-H für Berufstätige)",
       "uid": "1410",
       "adresse": "Hohbergweg 15–17, 77933 Lahr",
       "art": "Private Universtäten",
@@ -3383,7 +3582,8 @@
       "drittmittel_absolut_2012": 53439,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Zeppelin Universität (ZU)": {
+    {
+      "name": "Zeppelin Universität (ZU)",
       "uid": "1460",
       "adresse": "Am Seemooser Horn 20, 88045 Friedrichshafen",
       "art": "Private Universtäten",
@@ -3400,7 +3600,8 @@
       "drittmittel_absolut_2012": 2845796,
       "drittmittel_wirtschaft_2012": 810732
     },
-    "Priv. wiss. Hochschule Stuttgart, Seminar für Waldorfpädagogik": {
+    {
+      "name": "Priv. wiss. Hochschule Stuttgart, Seminar für Waldorfpädagogik",
       "uid": "1830",
       "adresse": "",
       "art": "Private Universtäten",
@@ -3417,7 +3618,8 @@
       "drittmittel_absolut_2012": 23449,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Universität Freiburg i.Br. (Klinikum)": {
+    {
+      "name": "Universität Freiburg i.Br. (Klinikum)",
       "uid": "1249",
       "adresse": "Hugstetter Straße 49, 79106 Freiburg",
       "art": "Unikliniken (ohne Private)",
@@ -3434,7 +3636,8 @@
       "drittmittel_absolut_2012": 68303194,
       "drittmittel_wirtschaft_2012": 13074210
     },
-    "Universität Heidelberg - Medizinische Fakultät Mannheim": {
+    {
+      "name": "Universität Heidelberg - Medizinische Fakultät Mannheim",
       "uid": "1252",
       "adresse": "Theodor-Kutzer-Ufer 1 - 3, 68167 Mannheim",
       "art": "Unikliniken (ohne Private)",
@@ -3451,7 +3654,8 @@
       "drittmittel_absolut_2012": 25645309,
       "drittmittel_wirtschaft_2012": 9896045
     },
-    "Universität Heidelberg (Klinikum)": {
+    {
+      "name": "Universität Heidelberg (Klinikum)",
       "uid": "1256",
       "adresse": "Im Neuenheimer Feld 672, 69120 Heidelberg",
       "art": "Unikliniken (ohne Private)",
@@ -3468,7 +3672,8 @@
       "drittmittel_absolut_2012": 85921132,
       "drittmittel_wirtschaft_2012": 27521281
     },
-    "Universität Tübingen (Klinikum)": {
+    {
+      "name": "Universität Tübingen (Klinikum)",
       "uid": "1279",
       "adresse": "Otfried-Müller-Straße 10, 72076 Tübingen",
       "art": "Unikliniken (ohne Private)",
@@ -3485,7 +3690,8 @@
       "drittmittel_absolut_2012": 86820107,
       "drittmittel_wirtschaft_2012": 19017495
     },
-    "Universität Ulm (Klinikum)": {
+    {
+      "name": "Universität Ulm (Klinikum)",
       "uid": "1829",
       "adresse": "Albert-Einstein-Allee 7, 89081 Ulm",
       "art": "Unikliniken (ohne Private)",
@@ -3502,7 +3708,8 @@
       "drittmittel_absolut_2012": 48953719,
       "drittmittel_wirtschaft_2012": 12961486
     },
-    "Universität Freiburg i.Br. (ohne Klinikum)": {
+    {
+      "name": "Universität Freiburg i.Br. (ohne Klinikum)",
       "uid": "1241",
       "adresse": "Fahnenbergplatz, 79098 Freiburg",
       "art": "Universitäten (ohne Private)",
@@ -3519,7 +3726,8 @@
       "drittmittel_absolut_2012": 90478286,
       "drittmittel_wirtschaft_2012": 7934582
     },
-    "Universität Heidelberg (ohne Klinikum)": {
+    {
+      "name": "Universität Heidelberg (ohne Klinikum)",
       "uid": "1251",
       "adresse": "Grabengasse 1, 69117 Heidelberg",
       "art": "Universitäten (ohne Private)",
@@ -3536,7 +3744,8 @@
       "drittmittel_absolut_2012": 115794284,
       "drittmittel_wirtschaft_2012": 6845468
     },
-    "Universität Konstanz": {
+    {
+      "name": "Universität Konstanz",
       "uid": "1260",
       "adresse": "Universitätsstraße 10, 78464 Konstanz",
       "art": "Universitäten (ohne Private)",
@@ -3553,7 +3762,8 @@
       "drittmittel_absolut_2012": 65612071,
       "drittmittel_wirtschaft_2012": 3657248
     },
-    "Universität Tübingen (ohne Klinikum)": {
+    {
+      "name": "Universität Tübingen (ohne Klinikum)",
       "uid": "1271",
       "adresse": "Geschwister-Scholl-Platz, 72074 Tübingen",
       "art": "Universitäten (ohne Private)",
@@ -3570,7 +3780,8 @@
       "drittmittel_absolut_2012": 65340132,
       "drittmittel_wirtschaft_2012": 9251627
     },
-    "Karlsruher Institut für Technologie (KIT) - Bereich Hochschule": {
+    {
+      "name": "Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
       "uid": "1580",
       "adresse": "Kaiserstraße 12, 76131 Karlsruhe",
       "art": "Universitäten (ohne Private)",
@@ -3587,7 +3798,8 @@
       "drittmittel_absolut_2012": 160421218,
       "drittmittel_wirtschaft_2012": 23896639
     },
-    "Universität Stuttgart": {
+    {
+      "name": "Universität Stuttgart",
       "uid": "1590",
       "adresse": "Keplerstraße 7, 70174 Stuttgart",
       "art": "Universitäten (ohne Private)",
@@ -3604,7 +3816,8 @@
       "drittmittel_absolut_2012": 161872602,
       "drittmittel_wirtschaft_2012": 33358677
     },
-    "Universität Hohenheim": {
+    {
+      "name": "Universität Hohenheim",
       "uid": "1800",
       "adresse": "Garbenstraße 30, 70599 Stuttgart",
       "art": "Universitäten (ohne Private)",
@@ -3621,7 +3834,8 @@
       "drittmittel_absolut_2012": 26961695,
       "drittmittel_wirtschaft_2012": 3229547
     },
-    "Universität Mannheim": {
+    {
+      "name": "Universität Mannheim",
       "uid": "1810",
       "adresse": "Schloss, Schloss",
       "art": "Universitäten (ohne Private)",
@@ -3638,7 +3852,8 @@
       "drittmittel_absolut_2012": 19790903,
       "drittmittel_wirtschaft_2012": 3177292
     },
-    "Universität Ulm (ohne Klinikum)": {
+    {
+      "name": "Universität Ulm (ohne Klinikum)",
       "uid": "1821",
       "adresse": "Albert-Einstein-Allee 11, 89081 Ulm",
       "art": "Universitäten (ohne Private)",
@@ -3655,7 +3870,8 @@
       "drittmittel_absolut_2012": 29784083,
       "drittmittel_wirtschaft_2012": 6833250
     },
-    "Hochschule für jüdische Studien Heidelberg": {
+    {
+      "name": "Hochschule für jüdische Studien Heidelberg",
       "uid": "2300",
       "adresse": "Landfriedstraße 12, 69117 Heidelberg",
       "art": "Kirchliche Universitäten",
@@ -3672,7 +3888,8 @@
       "drittmittel_absolut_2012": 1822908,
       "drittmittel_wirtschaft_2012": 0
     },
-    "PH Freiburg i.Br.": {
+    {
+      "name": "PH Freiburg i.Br.",
       "uid": "3660",
       "adresse": "Kunzenweg 21, 79117 Freiburg",
       "art": "Pädagogische Hochschulen (ohne Private)",
@@ -3689,7 +3906,8 @@
       "drittmittel_absolut_2012": 2868009,
       "drittmittel_wirtschaft_2012": 321026
     },
-    "PH Heidelberg": {
+    {
+      "name": "PH Heidelberg",
       "uid": "3670",
       "adresse": "Keplerstraße 87, 69120 Heidelberg",
       "art": "Pädagogische Hochschulen (ohne Private)",
@@ -3706,7 +3924,8 @@
       "drittmittel_absolut_2012": 3084651,
       "drittmittel_wirtschaft_2012": 352469
     },
-    "PH Karlsruhe": {
+    {
+      "name": "PH Karlsruhe",
       "uid": "3680",
       "adresse": "Bismarckstraße 10, 76133 Karlsruhe",
       "art": "Pädagogische Hochschulen (ohne Private)",
@@ -3723,7 +3942,8 @@
       "drittmittel_absolut_2012": 1139348,
       "drittmittel_wirtschaft_2012": 311759
     },
-    "PH Schwäbisch Gmünd": {
+    {
+      "name": "PH Schwäbisch Gmünd",
       "uid": "3700",
       "adresse": "Oberbettringer Straße 200, 73525 Schwäbisch Gmünd",
       "art": "Pädagogische Hochschulen (ohne Private)",
@@ -3740,7 +3960,8 @@
       "drittmittel_absolut_2012": 1001933,
       "drittmittel_wirtschaft_2012": 68027
     },
-    "PH Ludwigsburg": {
+    {
+      "name": "PH Ludwigsburg",
       "uid": "3710",
       "adresse": "Reuteallee 46, 71634 Ludwigsburg",
       "art": "Pädagogische Hochschulen (ohne Private)",
@@ -3757,7 +3978,8 @@
       "drittmittel_absolut_2012": 1508914,
       "drittmittel_wirtschaft_2012": 316349
     },
-    "PH Weingarten": {
+    {
+      "name": "PH Weingarten",
       "uid": "3780",
       "adresse": "Kirchplatz 2, 88250 Weingarten",
       "art": "Pädagogische Hochschulen (ohne Private)",
@@ -3774,7 +3996,8 @@
       "drittmittel_absolut_2012": 714584,
       "drittmittel_wirtschaft_2012": 200987
     },
-    "Staatl. Hochschule für Musik Freiburg i.Br.": {
+    {
+      "name": "Staatl. Hochschule für Musik Freiburg i.Br.",
       "uid": "2650",
       "adresse": "",
       "art": "Kunsthochschulen (ohne Private)",
@@ -3791,7 +4014,8 @@
       "drittmittel_absolut_2012": 101472,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Staatl. Hochschule für Musik und Darstellende Kunst Mannheim": {
+    {
+      "name": "Staatl. Hochschule für Musik und Darstellende Kunst Mannheim",
       "uid": "2660",
       "adresse": "N7 18, 68161 Mannheim",
       "art": "Kunsthochschulen (ohne Private)",
@@ -3808,7 +4032,8 @@
       "drittmittel_absolut_2012": 286168,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Staatl. Hochschule für Musik Karlsruhe": {
+    {
+      "name": "Staatl. Hochschule für Musik Karlsruhe",
       "uid": "2670",
       "adresse": "Am Schloss Gottesaue 7, 76131 Karlsruhe",
       "art": "Kunsthochschulen (ohne Private)",
@@ -3825,7 +4050,8 @@
       "drittmittel_absolut_2012": 405426,
       "drittmittel_wirtschaft_2012": 244943
     },
-    "Staatl. Hochschule für Musik und Darstellende Kunst Stuttgart": {
+    {
+      "name": "Staatl. Hochschule für Musik und Darstellende Kunst Stuttgart",
       "uid": "2690",
       "adresse": "Urbanstraße 25, 70182 Stuttgart",
       "art": "Kunsthochschulen (ohne Private)",
@@ -3842,7 +4068,8 @@
       "drittmittel_absolut_2012": 264989,
       "drittmittel_wirtschaft_2012": 2750
     },
-    "Staatl. Hochschule für Musik Trossingen": {
+    {
+      "name": "Staatl. Hochschule für Musik Trossingen",
       "uid": "2700",
       "adresse": "Schultheiß-Koch-Platz 3, 78647 Trossingen",
       "art": "Kunsthochschulen (ohne Private)",
@@ -3859,7 +4086,8 @@
       "drittmittel_absolut_2012": 274939,
       "drittmittel_wirtschaft_2012": 38525
     },
-    "Staatl. Hochschule für Gestaltung Karlsruhe": {
+    {
+      "name": "Staatl. Hochschule für Gestaltung Karlsruhe",
       "uid": "2940",
       "adresse": "Lorenzstr. 15, 76135 Karlsruhe",
       "art": "Kunsthochschulen (ohne Private)",
@@ -3876,7 +4104,8 @@
       "drittmittel_absolut_2012": 1002330,
       "drittmittel_wirtschaft_2012": 326112
     },
-    "Staatl. Akademie der Bildenden Künste Karlsruhe": {
+    {
+      "name": "Staatl. Akademie der Bildenden Künste Karlsruhe",
       "uid": "2950",
       "adresse": "Reinhold-Frank-Straße 67, 76133 Karlsruhe",
       "art": "Kunsthochschulen (ohne Private)",
@@ -3893,7 +4122,8 @@
       "drittmittel_absolut_2012": 29000,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Staatl. Akademie der Bildenden Künste Stuttgart": {
+    {
+      "name": "Staatl. Akademie der Bildenden Künste Stuttgart",
       "uid": "2960",
       "adresse": "Am Weißenhof 1, 70191 Stuttgart",
       "art": "Kunsthochschulen (ohne Private)",
@@ -3910,7 +4140,8 @@
       "drittmittel_absolut_2012": 391367,
       "drittmittel_wirtschaft_2012": 105820
     },
-    "German Graduate School of Management and Law": {
+    {
+      "name": "German Graduate School of Management and Law",
       "uid": "50",
       "adresse": "Bildungscampus 2, 74076 Heilbronn",
       "art": "Private Fachhochschulen",
@@ -3927,7 +4158,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule der Bundesagentur für Arbeit": {
+    {
+      "name": "Hochschule der Bundesagentur für Arbeit",
       "uid": "60",
       "adresse": "Seckenheimer Landstr. 16, 68163 Mannheim",
       "art": "Private Fachhochschulen",
@@ -3944,7 +4176,8 @@
       "drittmittel_absolut_2012": 454824,
       "drittmittel_wirtschaft_2012": 63657
     },
-    "Internationale Hochschule Calw (Priv. FH)": {
+    {
+      "name": "Internationale Hochschule Calw (Priv. FH)",
       "uid": "1420",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -3961,7 +4194,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Naturwissenschaftlich-Technische Akademie Isny (nta)": {
+    {
+      "name": "Naturwissenschaftlich-Technische Akademie Isny (nta)",
       "uid": "6890",
       "adresse": "Seidenstraße 12–35, 88316 Isny",
       "art": "Private Fachhochschulen",
@@ -3978,7 +4212,8 @@
       "drittmittel_absolut_2012": 219279,
       "drittmittel_wirtschaft_2012": 2050
     },
-    "Priv. FH für Gestaltung Stuttgart (Merz-Akademie)": {
+    {
+      "name": "Priv. FH für Gestaltung Stuttgart (Merz-Akademie)",
       "uid": "6970",
       "adresse": "Teckstraße 58, 70190 Stuttgart",
       "art": "Private Fachhochschulen",
@@ -3995,7 +4230,8 @@
       "drittmittel_absolut_2012": 18466,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Priv. FH für Kunsttherapie Nürtingen": {
+    {
+      "name": "Priv. FH für Kunsttherapie Nürtingen",
       "uid": "7010",
       "adresse": "Sigmaringer Straße 15, 72622 Nürtingen",
       "art": "Private Fachhochschulen",
@@ -4012,7 +4248,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "AKAD, FH Stuttgart (Priv. Fern-FH für Berufstätige)": {
+    {
+      "name": "AKAD, FH Stuttgart (Priv. Fern-FH für Berufstätige)",
       "uid": "7020",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -4029,7 +4266,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "SRH Hochschule Heidelberg": {
+    {
+      "name": "SRH Hochschule Heidelberg",
       "uid": "7090",
       "adresse": "Ludwig-Guttmann-Straße 6, 69123 Heidelberg",
       "art": "Private Fachhochschulen",
@@ -4046,7 +4284,8 @@
       "drittmittel_absolut_2012": 299881,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Fernhochschule Riedlingen (Priv. FH)": {
+    {
+      "name": "Fernhochschule Riedlingen (Priv. FH)",
       "uid": "7180",
       "adresse": "Lange Straße 19, 88499 Riedlingen",
       "art": "Private Fachhochschulen",
@@ -4063,7 +4302,8 @@
       "drittmittel_absolut_2012": 50000,
       "drittmittel_wirtschaft_2012": 50000
     },
-    "Hochschule für Gestaltung Schwäbisch Hall": {
+    {
+      "name": "Hochschule für Gestaltung Schwäbisch Hall",
       "uid": "7200",
       "adresse": "Am Spitalbach 8, 74523 Schwäbisch Hall",
       "art": "Private Fachhochschulen",
@@ -4080,7 +4320,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Priv. FH Calw - H für Wirtschaft und Medien": {
+    {
+      "name": "Priv. FH Calw - H für Wirtschaft und Medien",
       "uid": "7600",
       "adresse": "Lederstraße 1, 75365 Calw",
       "art": "Private Fachhochschulen",
@@ -4097,7 +4338,8 @@
       "drittmittel_absolut_2012": 34700,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Karlshochschule International University, Karlsruhe (Priv. FH)": {
+    {
+      "name": "Karlshochschule International University, Karlsruhe (Priv. FH)",
       "uid": "8150",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -4114,7 +4356,8 @@
       "drittmittel_absolut_2012": 10500,
       "drittmittel_wirtschaft_2012": 0
     },
-    "FH Aalen": {
+    {
+      "name": "FH Aalen",
       "uid": "6710",
       "adresse": "Beethovenstraße 1, 73430 Aalen",
       "art": "Fachhochschulen (ohne Private)",
@@ -4131,7 +4374,8 @@
       "drittmittel_absolut_2012": 5825759,
       "drittmittel_wirtschaft_2012": 2379943
     },
-    "Hochschule Biberach": {
+    {
+      "name": "Hochschule Biberach",
       "uid": "6720",
       "adresse": "Karlstraße 11, 88400 Biberach",
       "art": "Fachhochschulen (ohne Private)",
@@ -4148,7 +4392,8 @@
       "drittmittel_absolut_2012": 2503768,
       "drittmittel_wirtschaft_2012": 723458
     },
-    "Hochschule Esslingen (FH)": {
+    {
+      "name": "Hochschule Esslingen (FH)",
       "uid": "6730",
       "adresse": "Kanalstraße 33, 73728 Esslingen",
       "art": "Fachhochschulen (ohne Private)",
@@ -4165,7 +4410,8 @@
       "drittmittel_absolut_2012": 3179177,
       "drittmittel_wirtschaft_2012": 854219
     },
-    "Hochschule Furtwangen": {
+    {
+      "name": "Hochschule Furtwangen",
       "uid": "6740",
       "adresse": "Gerwigstraße 1, 78120 Furtwangen",
       "art": "Fachhochschulen (ohne Private)",
@@ -4182,7 +4428,8 @@
       "drittmittel_absolut_2012": 3242939,
       "drittmittel_wirtschaft_2012": 385614
     },
-    "Hochschule Heilbronn": {
+    {
+      "name": "Hochschule Heilbronn",
       "uid": "6750",
       "adresse": "Max-Planck-Straße 39, 74081 Heilbronn",
       "art": "Fachhochschulen (ohne Private)",
@@ -4199,7 +4446,8 @@
       "drittmittel_absolut_2012": 3304452,
       "drittmittel_wirtschaft_2012": 1485634
     },
-    "Hochschule Karlsruhe (FH)": {
+    {
+      "name": "Hochschule Karlsruhe (FH)",
       "uid": "6760",
       "adresse": "Moltkestraße 30, 76133 Karlsruhe",
       "art": "Fachhochschulen (ohne Private)",
@@ -4216,7 +4464,8 @@
       "drittmittel_absolut_2012": 6963671,
       "drittmittel_wirtschaft_2012": 808068
     },
-    "Hochschule Konstanz (HTWG)": {
+    {
+      "name": "Hochschule Konstanz (HTWG)",
       "uid": "6770",
       "adresse": "Brauneggerstraße 55, 78462 Konstanz",
       "art": "Fachhochschulen (ohne Private)",
@@ -4233,7 +4482,8 @@
       "drittmittel_absolut_2012": 3307472,
       "drittmittel_wirtschaft_2012": 1688171
     },
-    "Hochschule Mannheim (FH)": {
+    {
+      "name": "Hochschule Mannheim (FH)",
       "uid": "6780",
       "adresse": "Paul-Wittsack-Straße 10, 68163 Mannheim",
       "art": "Fachhochschulen (ohne Private)",
@@ -4250,7 +4500,8 @@
       "drittmittel_absolut_2012": 5150000,
       "drittmittel_wirtschaft_2012": 1207000
     },
-    "Hochschule für Wirtschaft und Umwelt Nürtingen": {
+    {
+      "name": "Hochschule für Wirtschaft und Umwelt Nürtingen",
       "uid": "6790",
       "adresse": "Neckarsteige 6-10, 72622 Nürtingen",
       "art": "Fachhochschulen (ohne Private)",
@@ -4267,7 +4518,8 @@
       "drittmittel_absolut_2012": 2316948,
       "drittmittel_wirtschaft_2012": 759591
     },
-    "Hochschule Offenburg": {
+    {
+      "name": "Hochschule Offenburg",
       "uid": "6800",
       "adresse": "Badstraße 24, 77652 Offenburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -4284,7 +4536,8 @@
       "drittmittel_absolut_2012": 3788598,
       "drittmittel_wirtschaft_2012": 1621940
     },
-    "Hochschule Pforzheim": {
+    {
+      "name": "Hochschule Pforzheim",
       "uid": "6810",
       "adresse": "Tiefenbronner Straße 65, 75175 Pforzheim",
       "art": "Fachhochschulen (ohne Private)",
@@ -4301,7 +4554,8 @@
       "drittmittel_absolut_2012": 2096324,
       "drittmittel_wirtschaft_2012": 1144672
     },
-    "FH Ravensburg-Weingarten": {
+    {
+      "name": "FH Ravensburg-Weingarten",
       "uid": "6820",
       "adresse": "Doggenried Str., 88250 Weingarten",
       "art": "Fachhochschulen (ohne Private)",
@@ -4318,7 +4572,8 @@
       "drittmittel_absolut_2012": 601646,
       "drittmittel_wirtschaft_2012": 71821
     },
-    "Hochschule Reutlingen": {
+    {
+      "name": "Hochschule Reutlingen",
       "uid": "6830",
       "adresse": "Alteburgstraße 150, 72762 Reutlingen",
       "art": "Fachhochschulen (ohne Private)",
@@ -4335,7 +4590,8 @@
       "drittmittel_absolut_2012": 4532910,
       "drittmittel_wirtschaft_2012": 1099604
     },
-    "Hochschule Albstadt-Sigmaringen (FH)": {
+    {
+      "name": "Hochschule Albstadt-Sigmaringen (FH)",
       "uid": "6840",
       "adresse": "Jakobstraße 6, 72458 Albstadt",
       "art": "Fachhochschulen (ohne Private)",
@@ -4352,7 +4608,8 @@
       "drittmittel_absolut_2012": 1307851,
       "drittmittel_wirtschaft_2012": 552285
     },
-    "Hochschule für Technik Stuttgart": {
+    {
+      "name": "Hochschule für Technik Stuttgart",
       "uid": "6850",
       "adresse": "Schellingstr. 24, 70174 Stuttgart",
       "art": "Fachhochschulen (ohne Private)",
@@ -4369,7 +4626,8 @@
       "drittmittel_absolut_2012": 3571241,
       "drittmittel_wirtschaft_2012": 499943
     },
-    "FH Stuttgart, H der Medien": {
+    {
+      "name": "FH Stuttgart, H der Medien",
       "uid": "6860",
       "adresse": "Nobelstraße 10, 70569 Stuttgart",
       "art": "Fachhochschulen (ohne Private)",
@@ -4386,7 +4644,8 @@
       "drittmittel_absolut_2012": 2537534,
       "drittmittel_wirtschaft_2012": 1079611
     },
-    "Hochschule Ulm": {
+    {
+      "name": "Hochschule Ulm",
       "uid": "6870",
       "adresse": "Prittwitzstraße 10, 89075 Ulm",
       "art": "Fachhochschulen (ohne Private)",
@@ -4403,7 +4662,8 @@
       "drittmittel_absolut_2012": 1446361,
       "drittmittel_wirtschaft_2012": 417327
     },
-    "Hochschule für Gestaltung Schwäbisch Gmünd": {
+    {
+      "name": "Hochschule für Gestaltung Schwäbisch Gmünd",
       "uid": "7050",
       "adresse": "Marie-Curie-Straße 19, 73529 Schwäbisch Gmünd",
       "art": "Fachhochschulen (ohne Private)",
@@ -4420,7 +4680,8 @@
       "drittmittel_absolut_2012": 487763,
       "drittmittel_wirtschaft_2012": 201393
     },
-    "Hochschule für Forstwirtschaft Rottenburg (FH)": {
+    {
+      "name": "Hochschule für Forstwirtschaft Rottenburg (FH)",
       "uid": "7110",
       "adresse": "Schadenweilerstraße 1, 72108 Rottenburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -4437,7 +4698,8 @@
       "drittmittel_absolut_2012": 668424,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Duale Hochschule Baden Württemberg": {
+    {
+      "name": "Duale Hochschule Baden Württemberg",
       "uid": "8170",
       "adresse": "Friedrichstraße 14, 70174 Stuttgart",
       "art": "Fachhochschulen (ohne Private)",
@@ -4454,7 +4716,8 @@
       "drittmittel_absolut_2012": 4611182,
       "drittmittel_wirtschaft_2012": 756336
     },
-    "Evang. Hochschule Freiburg (FH)": {
+    {
+      "name": "Evang. Hochschule Freiburg (FH)",
       "uid": "6900",
       "adresse": "Bugginger Straße 38, 79114 Freiburg",
       "art": "Kirchliche Fachhochschulen",
@@ -4471,7 +4734,8 @@
       "drittmittel_absolut_2012": 21701,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Katholische Hochschule Freiburg i.Br.": {
+    {
+      "name": "Katholische Hochschule Freiburg i.Br.",
       "uid": "6910",
       "adresse": "Karlstr. 63, 79104 Freiburg",
       "art": "Kirchliche Fachhochschulen",
@@ -4488,7 +4752,8 @@
       "drittmittel_absolut_2012": 531379,
       "drittmittel_wirtschaft_2012": 59380
     },
-    "Evangelische Hochschule Ludwigsburg (FH)": {
+    {
+      "name": "Evangelische Hochschule Ludwigsburg (FH)",
       "uid": "7190",
       "adresse": "Paulusweg 6, 71638 Ludwigsburg",
       "art": "Kirchliche Fachhochschulen",
@@ -4505,7 +4770,8 @@
       "drittmittel_absolut_2012": 2732509,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Theologische Hochschule Reutlingen": {
+    {
+      "name": "Theologische Hochschule Reutlingen",
       "uid": "7680",
       "adresse": "Friedrich-Ebert-Straße 31, 72762 Reutlingen",
       "art": "Kirchliche Fachhochschulen",
@@ -4522,7 +4788,8 @@
       "drittmittel_absolut_2012": 61361,
       "drittmittel_wirtschaft_2012": 0
     },
-    "FH für öffentliche Verwaltung Kehl": {
+    {
+      "name": "FH für öffentliche Verwaltung Kehl",
       "uid": "7060",
       "adresse": "Kinzigallee 1, 77694 Kehl",
       "art": "Verwaltungs-FH´s der Länder",
@@ -4539,7 +4806,8 @@
       "drittmittel_absolut_2012": 181880,
       "drittmittel_wirtschaft_2012": 75515
     },
-    "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg": {
+    {
+      "name": "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg",
       "uid": "7070",
       "adresse": "Reuteallee 46, 71634 Ludwigsburg",
       "art": "Verwaltungs-FH´s der Länder",
@@ -4556,7 +4824,8 @@
       "drittmittel_absolut_2012": 484741,
       "drittmittel_wirtschaft_2012": 6562
     },
-    "FH für Rechtspflege Schwetzingen": {
+    {
+      "name": "FH für Rechtspflege Schwetzingen",
       "uid": "7120",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -4573,7 +4842,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Staatl. FH für Polizei Villingen-Schwenningen": {
+    {
+      "name": "Staatl. FH für Polizei Villingen-Schwenningen",
       "uid": "7140",
       "adresse": "Sturmbühlstraße 250, 78054 Villingen-Schwenningen",
       "art": "Verwaltungs-FH´s der Länder",
@@ -4590,7 +4860,8 @@
       "drittmittel_absolut_2012": 5333,
       "drittmittel_wirtschaft_2012": 0
     },
-    "FH Bund, FB Bundeswehrverwaltung, Mannheim": {
+    {
+      "name": "FH Bund, FB Bundeswehrverwaltung, Mannheim",
       "uid": "6200",
       "adresse": "",
       "art": "Verwaltungs-FH des Bundes",
@@ -4607,7 +4878,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Universität Erlangen-Nürnberg (Klinikum)": {
+    {
+      "name": "Universität Erlangen-Nürnberg (Klinikum)",
       "uid": "1319",
       "adresse": "Maximiliansplatz 2, 91054 Erlangen",
       "art": "Unikliniken (ohne Private)",
@@ -4624,7 +4896,8 @@
       "drittmittel_absolut_2012": 31493334,
       "drittmittel_wirtschaft_2012": 7229719
     },
-    "Universität München (Klinikum)": {
+    {
+      "name": "Universität München (Klinikum)",
       "uid": "1329",
       "adresse": "Marchioninistraße 15, 81377 München",
       "art": "Unikliniken (ohne Private)",
@@ -4641,7 +4914,8 @@
       "drittmittel_absolut_2012": 79372820,
       "drittmittel_wirtschaft_2012": 23443650
     },
-    "Universität Würzburg (Klinikum)": {
+    {
+      "name": "Universität Würzburg (Klinikum)",
       "uid": "1339",
       "adresse": "Josef-Schneider-Str. 2, 97080 Würzburg",
       "art": "Unikliniken (ohne Private)",
@@ -4658,7 +4932,8 @@
       "drittmittel_absolut_2012": 34502068,
       "drittmittel_wirtschaft_2012": 12844535
     },
-    "Universität Regensburg (Klinikum)": {
+    {
+      "name": "Universität Regensburg (Klinikum)",
       "uid": "1349",
       "adresse": "Franz-Josef-Strauß-Allee 11, 93053 Regensburg",
       "art": "Unikliniken (ohne Private)",
@@ -4675,7 +4950,8 @@
       "drittmittel_absolut_2012": 18238372,
       "drittmittel_wirtschaft_2012": 7926091
     },
-    "TU München (Klinikum)": {
+    {
+      "name": "TU München (Klinikum)",
       "uid": "1639",
       "adresse": "Ismaninger Straße 22, 81675 München",
       "art": "Unikliniken (ohne Private)",
@@ -4692,7 +4968,8 @@
       "drittmittel_absolut_2012": 39526230,
       "drittmittel_wirtschaft_2012": 8911341
     },
-    "Universität Bamberg": {
+    {
+      "name": "Universität Bamberg",
       "uid": "500",
       "adresse": "Kapuzinerstraße 16, 96047 Bamberg",
       "art": "Universitäten (ohne Private)",
@@ -4709,7 +4986,8 @@
       "drittmittel_absolut_2012": 30358057,
       "drittmittel_wirtschaft_2012": 3215725
     },
-    "Universität Bayreuth": {
+    {
+      "name": "Universität Bayreuth",
       "uid": "510",
       "adresse": "Universitätsstraße 30, 95447 Bayreuth",
       "art": "Universitäten (ohne Private)",
@@ -4726,7 +5004,8 @@
       "drittmittel_absolut_2012": 36495459,
       "drittmittel_wirtschaft_2012": 3079586
     },
-    "Universität Passau": {
+    {
+      "name": "Universität Passau",
       "uid": "540",
       "adresse": "Innstraße 33, 94032 Passau",
       "art": "Universitäten (ohne Private)",
@@ -4743,7 +5022,8 @@
       "drittmittel_absolut_2012": 8934431,
       "drittmittel_wirtschaft_2012": 2166550
     },
-    "Universität Erlangen-Nürnberg": {
+    {
+      "name": "Universität Erlangen-Nürnberg",
       "uid": "1313",
       "adresse": "Schloßplatz 4, 91054 Erlangen",
       "art": "Universitäten (ohne Private)",
@@ -4760,7 +5040,8 @@
       "drittmittel_absolut_2012": 123478964,
       "drittmittel_wirtschaft_2012": 44562498
     },
-    "Universität München (ohne Klinikum)": {
+    {
+      "name": "Universität München (ohne Klinikum)",
       "uid": "1321",
       "adresse": "Geschwister-Scholl-Platz 1, 80539 München",
       "art": "Universitäten (ohne Private)",
@@ -4777,7 +5058,8 @@
       "drittmittel_absolut_2012": 135940886,
       "drittmittel_wirtschaft_2012": 8792425
     },
-    "Universität Würzburg (ohne Klinikum)": {
+    {
+      "name": "Universität Würzburg (ohne Klinikum)",
       "uid": "1331",
       "adresse": "Am Hubland, 97074 Würzburg",
       "art": "Universitäten (ohne Private)",
@@ -4794,7 +5076,8 @@
       "drittmittel_absolut_2012": 72368430,
       "drittmittel_wirtschaft_2012": 7308378
     },
-    "Universität Regensburg (ohne Klinikum)": {
+    {
+      "name": "Universität Regensburg (ohne Klinikum)",
       "uid": "1341",
       "adresse": "Universitätsstraße 31, 93053 Regensburg",
       "art": "Universitäten (ohne Private)",
@@ -4811,7 +5094,8 @@
       "drittmittel_absolut_2012": 42558207,
       "drittmittel_wirtschaft_2012": 10095490
     },
-    "Universität Augsburg": {
+    {
+      "name": "Universität Augsburg",
       "uid": "1350",
       "adresse": "Universitätsstraße 2, 86135 Augsburg",
       "art": "Universitäten (ohne Private)",
@@ -4828,7 +5112,8 @@
       "drittmittel_absolut_2012": 15602500,
       "drittmittel_wirtschaft_2012": 4664652
     },
-    "TU München (ohne Klinikum)": {
+    {
+      "name": "TU München (ohne Klinikum)",
       "uid": "1633",
       "adresse": "Arcisstraße 21, 80333 München",
       "art": "Universitäten (ohne Private)",
@@ -4845,7 +5130,8 @@
       "drittmittel_absolut_2012": 271883010,
       "drittmittel_wirtschaft_2012": 86547375
     },
-    "Hochschule für Politik München": {
+    {
+      "name": "Hochschule für Politik München",
       "uid": "1710",
       "adresse": "Ludwigstraße 8, 80539 München",
       "art": "Universitäten (ohne Private)",
@@ -4862,7 +5148,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Universität der Bundeswehr München (FB Universitätsstudiengänge)": {
+    {
+      "name": "Universität der Bundeswehr München (FB Universitätsstudiengänge)",
       "uid": "811",
       "adresse": "Werner-Heisenberg-Weg 39, 85577 Neubiberg",
       "art": "Universität der Bundeswehr",
@@ -4879,7 +5166,8 @@
       "drittmittel_absolut_2012": 17027468,
       "drittmittel_wirtschaft_2012": 4982602
     },
-    "Kath. Universität Eichstätt-Ingolstadt": {
+    {
+      "name": "Kath. Universität Eichstätt-Ingolstadt",
       "uid": "550",
       "adresse": "Ostenstraße 26, 85072 Eichstätt",
       "art": "Kirchliche Universitäten",
@@ -4896,7 +5184,8 @@
       "drittmittel_absolut_2012": 5137417,
       "drittmittel_wirtschaft_2012": 2924162
     },
-    "Augustana-H Neuendettelsau (ev)": {
+    {
+      "name": "Augustana-H Neuendettelsau (ev)",
       "uid": "560",
       "adresse": "",
       "art": "Kirchliche Theologische Hochschulen",
@@ -4913,7 +5202,8 @@
       "drittmittel_absolut_2012": 12011,
       "drittmittel_wirtschaft_2012": 3131
     },
-    "Hochschule für Philosophie München (rk)": {
+    {
+      "name": "Hochschule für Philosophie München (rk)",
       "uid": "2170",
       "adresse": "Kaulbachstraße 31a, 80539 München",
       "art": "Kirchliche Theologische Hochschulen",
@@ -4930,7 +5220,8 @@
       "drittmittel_absolut_2012": 813707,
       "drittmittel_wirtschaft_2012": 336230
     },
-    "Phil.-Theol. H Benediktbeuern (rk)": {
+    {
+      "name": "Phil.-Theol. H Benediktbeuern (rk)",
       "uid": "2180",
       "adresse": "Don-Bosco-Straße 1, 83671 Benediktbeuern",
       "art": "Kirchliche Theologische Hochschulen",
@@ -4947,7 +5238,8 @@
       "drittmittel_absolut_2012": 730330,
       "drittmittel_wirtschaft_2012": 632000
     },
-    "Hochschule für Musik Würzburg": {
+    {
+      "name": "Hochschule für Musik Würzburg",
       "uid": "2710",
       "adresse": "Hofstallstraße 6-8, 97070 Würzburg",
       "art": "Kunsthochschulen (ohne Private)",
@@ -4964,7 +5256,8 @@
       "drittmittel_absolut_2012": 399727,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule für Musik und Theater München": {
+    {
+      "name": "Hochschule für Musik und Theater München",
       "uid": "2720",
       "adresse": "Arcisstraße 12, 80333 München",
       "art": "Kunsthochschulen (ohne Private)",
@@ -4981,7 +5274,8 @@
       "drittmittel_absolut_2012": 504493,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule für Fernsehen und Film München": {
+    {
+      "name": "Hochschule für Fernsehen und Film München",
       "uid": "2730",
       "adresse": "Bernd-Eichinger-Platz 1, 80333 München",
       "art": "Kunsthochschulen (ohne Private)",
@@ -4998,7 +5292,8 @@
       "drittmittel_absolut_2012": 181879,
       "drittmittel_wirtschaft_2012": 130779
     },
-    "Akademie der Bildenden Künste München": {
+    {
+      "name": "Akademie der Bildenden Künste München",
       "uid": "2980",
       "adresse": "Akademiestrasse 2-4, 80799 München",
       "art": "Kunsthochschulen (ohne Private)",
@@ -5015,7 +5310,8 @@
       "drittmittel_absolut_2012": 253629,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Akademie der Bildenden Künste Nürnberg": {
+    {
+      "name": "Akademie der Bildenden Künste Nürnberg",
       "uid": "2990",
       "adresse": "Bingstraße 60, 90480 Nürnberg",
       "art": "Kunsthochschulen (ohne Private)",
@@ -5032,7 +5328,8 @@
       "drittmittel_absolut_2012": 126705,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule für Musik Nürnberg": {
+    {
+      "name": "Hochschule für Musik Nürnberg",
       "uid": "3010",
       "adresse": "Veilhofstraße 34, 90489 Nürnberg",
       "art": "Kunsthochschulen (ohne Private)",
@@ -5049,7 +5346,8 @@
       "drittmittel_absolut_2012": 324889,
       "drittmittel_wirtschaft_2012": 210450
     },
-    "Hochschule für evangelische Kirchenmusik Bayreuth": {
+    {
+      "name": "Hochschule für evangelische Kirchenmusik Bayreuth",
       "uid": "3020",
       "adresse": "Wilhelminenstraße 9, 95444 Bayreuth",
       "art": "Kirchliche Kunsthochschulen",
@@ -5066,7 +5364,8 @@
       "drittmittel_absolut_2012": 730000,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule für Kath. Kirchenmusik und Musikpädagogik, Regensburg": {
+    {
+      "name": "Hochschule für Kath. Kirchenmusik und Musikpädagogik, Regensburg",
       "uid": "3040",
       "adresse": "Andreasstraße 9, 93059 Regensburg",
       "art": "Kirchliche Kunsthochschulen",
@@ -5083,7 +5382,8 @@
       "drittmittel_absolut_2012": 1628048,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Macromedia FH der Medien, München (Priv. FH)": {
+    {
+      "name": "Macromedia FH der Medien, München (Priv. FH)",
       "uid": "30",
       "adresse": "Gollierstraße 4, 80339 München",
       "art": "Private Fachhochschulen",
@@ -5100,7 +5400,8 @@
       "drittmittel_absolut_2012": 128551,
       "drittmittel_wirtschaft_2012": 128551
     },
-    "Hochschule für Angewandte Sprachen – Fachhochschule des SDI München": {
+    {
+      "name": "Hochschule für Angewandte Sprachen – Fachhochschule des SDI München",
       "uid": "720",
       "adresse": "Baierbrunner Straße 28, 81379 München",
       "art": "Private Fachhochschulen",
@@ -5117,7 +5418,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule für angewandte Wissenschaften Bamberg - Private Hochschule für Gesundheit (Priv. FH)": {
+    {
+      "name": "Hochschule für angewandte Wissenschaften Bamberg - Private Hochschule für Gesundheit (Priv. FH)",
       "uid": "5000",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -5134,7 +5436,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule Fresenius Idstein in München (Priv. FH)": {
+    {
+      "name": "Hochschule Fresenius Idstein in München (Priv. FH)",
       "uid": "6284",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -5151,7 +5454,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule für angewandtes Management": {
+    {
+      "name": "Hochschule für angewandtes Management",
       "uid": "6680",
       "adresse": "Am Bahnhof 2, 85435 Erding",
       "art": "Private Fachhochschulen",
@@ -5168,7 +5472,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Munich Business School München (Priv. FH)": {
+    {
+      "name": "Munich Business School München (Priv. FH)",
       "uid": "7580",
       "adresse": "Elsenheimerstraße 61, 80687 München",
       "art": "Private Fachhochschulen",
@@ -5185,7 +5490,8 @@
       "drittmittel_absolut_2012": 166244,
       "drittmittel_wirtschaft_2012": 166244
     },
-    "Hochschule Augsburg": {
+    {
+      "name": "Hochschule Augsburg",
       "uid": "7210",
       "adresse": "An der Hochschule 1, 86161 Augsburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -5202,7 +5508,8 @@
       "drittmittel_absolut_2012": 1298701,
       "drittmittel_wirtschaft_2012": 62369
     },
-    "Hochschule Coburg": {
+    {
+      "name": "Hochschule Coburg",
       "uid": "7220",
       "adresse": "Friedrich-Streib-Str. 2, 96450 Coburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -5219,7 +5526,8 @@
       "drittmittel_absolut_2012": 2764850,
       "drittmittel_wirtschaft_2012": 868120
     },
-    "Hochschule München": {
+    {
+      "name": "Hochschule München",
       "uid": "7240",
       "adresse": "Lothstr. 34, 80335 München",
       "art": "Fachhochschulen (ohne Private)",
@@ -5236,7 +5544,8 @@
       "drittmittel_absolut_2012": 6584382,
       "drittmittel_wirtschaft_2012": 1415481
     },
-    "Technische Hochschule Nürnberg Georg Simon Ohm": {
+    {
+      "name": "Technische Hochschule Nürnberg Georg Simon Ohm",
       "uid": "7250",
       "adresse": "Keßlerplatz 12, 90489 Nürnberg",
       "art": "Fachhochschulen (ohne Private)",
@@ -5253,7 +5562,8 @@
       "drittmittel_absolut_2012": 6426836,
       "drittmittel_wirtschaft_2012": 2302588
     },
-    "FH Regensburg": {
+    {
+      "name": "FH Regensburg",
       "uid": "7260",
       "adresse": "Prüfeninger Straße 58, 93049 Regensburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -5270,7 +5580,8 @@
       "drittmittel_absolut_2012": 3804270,
       "drittmittel_wirtschaft_2012": 1196243
     },
-    "FH Rosenheim": {
+    {
+      "name": "FH Rosenheim",
       "uid": "7300",
       "adresse": "Hochschulstraße 1, 83024 Rosenheim",
       "art": "Fachhochschulen (ohne Private)",
@@ -5287,7 +5598,8 @@
       "drittmittel_absolut_2012": 3798641,
       "drittmittel_wirtschaft_2012": 1450275
     },
-    "Hochschule Weihenstephan-Triesdorf": {
+    {
+      "name": "Hochschule Weihenstephan-Triesdorf",
       "uid": "7310",
       "adresse": "Am Hofgarten 4, 85354 Freising",
       "art": "Fachhochschulen (ohne Private)",
@@ -5304,7 +5616,8 @@
       "drittmittel_absolut_2012": 3222603,
       "drittmittel_wirtschaft_2012": 517325
     },
-    "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)": {
+    {
+      "name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)",
       "uid": "7350",
       "adresse": "Münzstraße 12, 97070 Würzburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -5321,7 +5634,8 @@
       "drittmittel_absolut_2012": 1723270,
       "drittmittel_wirtschaft_2012": 678764
     },
-    "Hochschule Kempten": {
+    {
+      "name": "Hochschule Kempten",
       "uid": "7440",
       "adresse": "Bahnhofstraße 61, 87435 Kempten",
       "art": "Fachhochschulen (ohne Private)",
@@ -5338,7 +5652,8 @@
       "drittmittel_absolut_2012": 2233383,
       "drittmittel_wirtschaft_2012": 528710
     },
-    "Hochschule Landshut": {
+    {
+      "name": "Hochschule Landshut",
       "uid": "7450",
       "adresse": "Am Lurzenhof 1, 84036 Landshut",
       "art": "Fachhochschulen (ohne Private)",
@@ -5355,7 +5670,8 @@
       "drittmittel_absolut_2012": 1200765,
       "drittmittel_wirtschaft_2012": 90600
     },
-    "Technische Hochschule Deggendorf": {
+    {
+      "name": "Technische Hochschule Deggendorf",
       "uid": "7520",
       "adresse": "Edlmairstraße 6, 94469 Deggendorf",
       "art": "Fachhochschulen (ohne Private)",
@@ -5372,7 +5688,8 @@
       "drittmittel_absolut_2012": 3847654,
       "drittmittel_wirtschaft_2012": 562733
     },
-    "Hochschule für Angewandte Wissenschaften Hof": {
+    {
+      "name": "Hochschule für Angewandte Wissenschaften Hof",
       "uid": "7530",
       "adresse": "Alfons-Goppel-Platz 1, 95028 Hof",
       "art": "Fachhochschulen (ohne Private)",
@@ -5389,7 +5706,8 @@
       "drittmittel_absolut_2012": 1411901,
       "drittmittel_wirtschaft_2012": 288128
     },
-    "Hochschule für angewandte Wissenschaft Ingolstadt": {
+    {
+      "name": "Hochschule für angewandte Wissenschaft Ingolstadt",
       "uid": "7540",
       "adresse": "Esplanade 10, 85049 Ingolstadt",
       "art": "Fachhochschulen (ohne Private)",
@@ -5406,7 +5724,8 @@
       "drittmittel_absolut_2012": 4509385,
       "drittmittel_wirtschaft_2012": 2383889
     },
-    "Hochschule Amberg-Weiden": {
+    {
+      "name": "Hochschule Amberg-Weiden",
       "uid": "7550",
       "adresse": "Kaiser-Wilhelm-Ring 23, 92224 Amberg",
       "art": "Fachhochschulen (ohne Private)",
@@ -5423,7 +5742,8 @@
       "drittmittel_absolut_2012": 1399665,
       "drittmittel_wirtschaft_2012": 706275
     },
-    "FH Ansbach": {
+    {
+      "name": "FH Ansbach",
       "uid": "7560",
       "adresse": "Residenzstraße 8, 91522 Ansbach",
       "art": "Fachhochschulen (ohne Private)",
@@ -5440,7 +5760,8 @@
       "drittmittel_absolut_2012": 3276651,
       "drittmittel_wirtschaft_2012": 2296234
     },
-    "Hochschule Neu-Ulm": {
+    {
+      "name": "Hochschule Neu-Ulm",
       "uid": "7570",
       "adresse": "Wileystraße 1, 89231 Neu-Ulm",
       "art": "Fachhochschulen (ohne Private)",
@@ -5457,7 +5778,8 @@
       "drittmittel_absolut_2012": 174622,
       "drittmittel_wirtschaft_2012": 600
     },
-    "Hochschule Aschaffenburg": {
+    {
+      "name": "Hochschule Aschaffenburg",
       "uid": "7590",
       "adresse": "Würzburger Straße 45, 63743 Aschaffenburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -5474,7 +5796,8 @@
       "drittmittel_absolut_2012": 2427922,
       "drittmittel_wirtschaft_2012": 924328
     },
-    "Evang. Hochschule Nürnberg (FH)": {
+    {
+      "name": "Evang. Hochschule Nürnberg (FH)",
       "uid": "7370",
       "adresse": "Bärenschanzstraße 4, 90429 Nürnberg",
       "art": "Kirchliche Fachhochschulen",
@@ -5491,7 +5814,8 @@
       "drittmittel_absolut_2012": 4091718,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Kath. Stiftungs FH München in München": {
+    {
+      "name": "Kath. Stiftungs FH München in München",
       "uid": "7380",
       "adresse": "Don-Bosco-Straße 1, 83671 Benediktbeuern",
       "art": "Kirchliche Fachhochschulen",
@@ -5508,7 +5832,8 @@
       "drittmittel_absolut_2012": 338308,
       "drittmittel_wirtschaft_2012": 15400
     },
-    "FH für öffentl. Verwaltung und Rechtspflege Bayern": {
+    {
+      "name": "FH für öffentl. Verwaltung und Rechtspflege Bayern",
       "uid": "7460",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -5525,7 +5850,8 @@
       "drittmittel_absolut_2012": 38748,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Universität der Bundeswehr München (FB Fachhochschulstudiengänge)": {
+    {
+      "name": "Universität der Bundeswehr München (FB Fachhochschulstudiengänge)",
       "uid": "812",
       "adresse": "Werner-Heisenberg-Weg 39, 85577 Neubiberg",
       "art": "Verwaltungs-FH des Bundes",
@@ -5542,7 +5868,8 @@
       "drittmittel_absolut_2012": 620369,
       "drittmittel_wirtschaft_2012": 191573
     },
-    "Universität des Saarlandes Saarbrücken, Homburg/Saar": {
+    {
+      "name": "Universität des Saarlandes Saarbrücken, Homburg/Saar",
       "uid": "1369",
       "adresse": "",
       "art": "Unikliniken (ohne Private)",
@@ -5559,7 +5886,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Universität des Saarlandes Saarbrücken in Saarbrücken": {
+    {
+      "name": "Universität des Saarlandes Saarbrücken in Saarbrücken",
       "uid": "1363",
       "adresse": "Campus, 66123 Saarbrücken",
       "art": "Universitäten (ohne Private)",
@@ -5576,7 +5904,8 @@
       "drittmittel_absolut_2012": 58467936,
       "drittmittel_wirtschaft_2012": 12008970
     },
-    "Hochschule für Musik, Saarbrücken": {
+    {
+      "name": "Hochschule für Musik, Saarbrücken",
       "uid": "2760",
       "adresse": "Bismarckstraße 1, 66111 Saarbrücken",
       "art": "Kunsthochschulen (ohne Private)",
@@ -5593,7 +5922,8 @@
       "drittmittel_absolut_2012": 61100,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule der Bildenden Künste Saarbrücken": {
+    {
+      "name": "Hochschule der Bildenden Künste Saarbrücken",
       "uid": "2770",
       "adresse": "Keplerstraße 3-5, 66117 Saarbrücken",
       "art": "Kunsthochschulen (ohne Private)",
@@ -5610,7 +5940,8 @@
       "drittmittel_absolut_2012": 2990,
       "drittmittel_wirtschaft_2012": 2990
     },
-    "Deutsche Hochschule für Prävention und Gesundheitsmanagement": {
+    {
+      "name": "Deutsche Hochschule für Prävention und Gesundheitsmanagement",
       "uid": "860",
       "adresse": "Hermann Neuberger Sportschule 3, 66123 Saarbrücken",
       "art": "Private Fachhochschulen",
@@ -5627,7 +5958,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule für Technik und Wirtschaft des Saarlandes Saarbrücken": {
+    {
+      "name": "Hochschule für Technik und Wirtschaft des Saarlandes Saarbrücken",
       "uid": "7610",
       "adresse": "Goebenstraße 40, 66117 Saarbrücken",
       "art": "Fachhochschulen (ohne Private)",
@@ -5644,7 +5976,8 @@
       "drittmittel_absolut_2012": 2621610,
       "drittmittel_wirtschaft_2012": 455653
     },
-    "FH für Verwaltung Saarbrücken": {
+    {
+      "name": "FH für Verwaltung Saarbrücken",
       "uid": "7630",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -5661,7 +5994,8 @@
       "drittmittel_absolut_2012": 862057,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Europ. School of Management and Technology, Berlin (Priv. H)": {
+    {
+      "name": "Europ. School of Management and Technology, Berlin (Priv. H)",
       "uid": "670",
       "adresse": "Schloßplatz 1, 10178 Berlin",
       "art": "Private Universtäten",
@@ -5678,7 +6012,8 @@
       "drittmittel_absolut_2012": 1369262,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hertie School of Governance Berlin (Priv. wiss. H)": {
+    {
+      "name": "Hertie School of Governance Berlin (Priv. wiss. H)",
       "uid": "680",
       "adresse": "Friedrichstraße 180, 10117 Berlin",
       "art": "Private Universtäten",
@@ -5695,7 +6030,8 @@
       "drittmittel_absolut_2012": 873458,
       "drittmittel_wirtschaft_2012": 412929
     },
-    "Deutsche Universität für Weiterbildung Berlin (Priv. wiss. H)": {
+    {
+      "name": "Deutsche Universität für Weiterbildung Berlin (Priv. wiss. H)",
       "uid": "780",
       "adresse": "Katharinenstraße 17, 10711 Berlin",
       "art": "Private Universtäten",
@@ -5712,7 +6048,8 @@
       "drittmittel_absolut_2012": 228508,
       "drittmittel_wirtschaft_2012": 0
     },
-    "International Psychoanalytic University Berlin (Priv.)": {
+    {
+      "name": "International Psychoanalytic University Berlin (Priv.)",
       "uid": "1520",
       "adresse": "Stromstraße 3, 10555 Berlin",
       "art": "Private Universtäten",
@@ -5729,7 +6066,8 @@
       "drittmittel_absolut_2012": 109370,
       "drittmittel_wirtschaft_2012": 0
     },
-    "ESCP Europe Wirtschaftshochschule, Berlin (Priv. H)": {
+    {
+      "name": "ESCP Europe Wirtschaftshochschule, Berlin (Priv. H)",
       "uid": "1700",
       "adresse": "Heubnerweg 8-10, 14059 Berlin",
       "art": "Private Universtäten",
@@ -5746,7 +6084,8 @@
       "drittmittel_absolut_2012": 154869,
       "drittmittel_wirtschaft_2012": 154869
     },
-    "Psychologische Hochschule Berlin (Priv. H)": {
+    {
+      "name": "Psychologische Hochschule Berlin (Priv. H)",
       "uid": "1840",
       "adresse": "",
       "art": "Private Universtäten",
@@ -5763,7 +6102,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Steinbeis-Hochschule Berlin (Priv. H)": {
+    {
+      "name": "Steinbeis-Hochschule Berlin (Priv. H)",
       "uid": "7960",
       "adresse": "Gürtelstraße 29a/30, 10247 Berlin",
       "art": "Private Universtäten",
@@ -5780,7 +6120,8 @@
       "drittmittel_absolut_2012": 326176,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Charite - Universitätsmedizin Berlin": {
+    {
+      "name": "Charite - Universitätsmedizin Berlin",
       "uid": "180",
       "adresse": "Charitestraße 1, 10117 Berlin",
       "art": "Unikliniken (ohne Private)",
@@ -5797,7 +6138,8 @@
       "drittmittel_absolut_2012": 153513090,
       "drittmittel_wirtschaft_2012": 33117521
     },
-    "Humboldt-Universität zu Berlin": {
+    {
+      "name": "Humboldt-Universität zu Berlin",
       "uid": "201",
       "adresse": "Unter den Linden 6, 10099 Berlin",
       "art": "Universitäten (ohne Private)",
@@ -5814,7 +6156,8 @@
       "drittmittel_absolut_2012": 88494202,
       "drittmittel_wirtschaft_2012": 2832061
     },
-    "FU Berlin": {
+    {
+      "name": "FU Berlin",
       "uid": "1381",
       "adresse": "Kaiserswerther Straße 16/18, 14195 Berlin",
       "art": "Universitäten (ohne Private)",
@@ -5831,7 +6174,8 @@
       "drittmittel_absolut_2012": 114347878,
       "drittmittel_wirtschaft_2012": 10947639
     },
-    "TU Berlin": {
+    {
+      "name": "TU Berlin",
       "uid": "1690",
       "adresse": "Straße des 17. Juni 135, 10623 Berlin",
       "art": "Universitäten (ohne Private)",
@@ -5848,7 +6192,8 @@
       "drittmittel_absolut_2012": 153010000,
       "drittmittel_wirtschaft_2012": 20290000
     },
-    "Weißensee Kunsthochschule Berlin": {
+    {
+      "name": "Weißensee Kunsthochschule Berlin",
       "uid": "2510",
       "adresse": "Bühringstraße 20, 13086 Berlin",
       "art": "Kunsthochschulen (ohne Private)",
@@ -5865,7 +6210,8 @@
       "drittmittel_absolut_2012": 474947,
       "drittmittel_wirtschaft_2012": 158514
     },
-    "Hochschule für Musik Berlin Hanns Eisler": {
+    {
+      "name": "Hochschule für Musik Berlin Hanns Eisler",
       "uid": "2520",
       "adresse": "Charlottenstraße 55, 10117 Berlin",
       "art": "Kunsthochschulen (ohne Private)",
@@ -5882,7 +6228,8 @@
       "drittmittel_absolut_2012": 335211,
       "drittmittel_wirtschaft_2012": 16070
     },
-    "Hochschule für Schauspielkunst Berlin Ernst Busch": {
+    {
+      "name": "Hochschule für Schauspielkunst Berlin Ernst Busch",
       "uid": "2540",
       "adresse": "Schnellerstr. 104, 12439 Berlin",
       "art": "Kunsthochschulen (ohne Private)",
@@ -5899,7 +6246,8 @@
       "drittmittel_absolut_2012": 205179,
       "drittmittel_wirtschaft_2012": 29090
     },
-    "Universität der Künste Berlin": {
+    {
+      "name": "Universität der Künste Berlin",
       "uid": "2790",
       "adresse": "Einsteinufer 43-53, 10587 Berlin",
       "art": "Kunsthochschulen (ohne Private)",
@@ -5916,7 +6264,8 @@
       "drittmittel_absolut_2012": 4139709,
       "drittmittel_wirtschaft_2012": 481109
     },
-    "Berliner Technische Kunsthochschule": {
+    {
+      "name": "Berliner Technische Kunsthochschule",
       "uid": "100",
       "adresse": "Bernburger Str. 24 – 25, 10963 Berlin",
       "art": "Private Fachhochschulen",
@@ -5933,7 +6282,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "EBC Hochschule Berlin (Priv. FH)": {
+    {
+      "name": "EBC Hochschule Berlin (Priv. FH)",
       "uid": "160",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -5950,7 +6300,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Touro College Berlin": {
+    {
+      "name": "Touro College Berlin",
       "uid": "170",
       "adresse": "Am Rupenhorn 5, 14055 Berlin",
       "art": "Private Fachhochschulen",
@@ -5967,7 +6318,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "bbw Hochschule": {
+    {
+      "name": "bbw Hochschule",
       "uid": "700",
       "adresse": "Leibnizstraße 11 - 13, 10625 Berlin",
       "art": "Private Fachhochschulen",
@@ -5984,7 +6336,8 @@
       "drittmittel_absolut_2012": 2600,
       "drittmittel_wirtschaft_2012": 2600
     },
-    "IB-Hochschule Berlin": {
+    {
+      "name": "IB-Hochschule Berlin",
       "uid": "760",
       "adresse": "Gerichtstr. 27, 13347 Berlin",
       "art": "Private Fachhochschulen",
@@ -6001,7 +6354,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Akkon Hochschule Berlin (Priv. FH)": {
+    {
+      "name": "Akkon Hochschule Berlin (Priv. FH)",
       "uid": "790",
       "adresse": "Am Köllnischen Park 1, 10179 Berlin",
       "art": "Private Fachhochschulen",
@@ -6018,7 +6372,8 @@
       "drittmittel_absolut_2012": 224326,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule für Sport und Gesundheit": {
+    {
+      "name": "Hochschule für Sport und Gesundheit",
       "uid": "820",
       "adresse": "Vulkanstraße 1, 10367 Berlin",
       "art": "Private Fachhochschulen",
@@ -6035,7 +6390,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Design Akademie Berlin": {
+    {
+      "name": "Design Akademie Berlin",
       "uid": "830",
       "adresse": "Paul-Lincke-Ufer 8e, 10999 Berlin",
       "art": "Private Fachhochschulen",
@@ -6052,7 +6408,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "BEST-Sabel-Hochschule Berlin": {
+    {
+      "name": "BEST-Sabel-Hochschule Berlin",
       "uid": "840",
       "adresse": "Rolandufer 13, 10179 Berlin",
       "art": "Private Fachhochschulen",
@@ -6069,7 +6426,8 @@
       "drittmittel_absolut_2012": 49880,
       "drittmittel_wirtschaft_2012": 0
     },
-    "HS für Medien, Kommunikation und Wirtschaft Berlin (Priv. FH)": {
+    {
+      "name": "HS für Medien, Kommunikation und Wirtschaft Berlin (Priv. FH)",
       "uid": "1560",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -6086,7 +6444,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Quadriga Hochschule Berlin (Priv. FH)": {
+    {
+      "name": "Quadriga Hochschule Berlin (Priv. FH)",
       "uid": "1600",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -6103,7 +6462,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "DEKRA Hochschule Berlin (Priv. FH)": {
+    {
+      "name": "DEKRA Hochschule Berlin (Priv. FH)",
       "uid": "1610",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -6120,7 +6480,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "hdpk Hochschule der populären Künste": {
+    {
+      "name": "hdpk Hochschule der populären Künste",
       "uid": "1750",
       "adresse": "Otto-Suhr-Allee 24, 10585 Berlin",
       "art": "Private Fachhochschulen",
@@ -6137,7 +6498,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Mediadesign Hochschule für Design und Informatik": {
+    {
+      "name": "Mediadesign Hochschule für Design und Informatik",
       "uid": "5270",
       "adresse": "Lindenstraße 20 – 25, 10969 Berlin",
       "art": "Private Fachhochschulen",
@@ -6154,7 +6516,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "SRH Hochschule Berlin (Priv. FH)": {
+    {
+      "name": "SRH Hochschule Berlin (Priv. FH)",
       "uid": "7970",
       "adresse": "Ernst-Reuter-Platz 10, 10587 Berlin",
       "art": "Private Fachhochschulen",
@@ -6171,7 +6534,8 @@
       "drittmittel_absolut_2012": 49941,
       "drittmittel_wirtschaft_2012": 10100
     },
-    "Internationale FH für Exekutives Management, Berlin (Priv. FH)": {
+    {
+      "name": "Internationale FH für Exekutives Management, Berlin (Priv. FH)",
       "uid": "8160",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -6188,7 +6552,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule für Technik und Wirtschaft Berlin": {
+    {
+      "name": "Hochschule für Technik und Wirtschaft Berlin",
       "uid": "7690",
       "adresse": "Treskowallee 8, 10318 Berlin",
       "art": "Fachhochschulen (ohne Private)",
@@ -6205,7 +6570,8 @@
       "drittmittel_absolut_2012": 5771533,
       "drittmittel_wirtschaft_2012": 427575
     },
-    "Beuth-Hochschule für Technik Berlin": {
+    {
+      "name": "Beuth-Hochschule für Technik Berlin",
       "uid": "7710",
       "adresse": "Luxemburger Straße 10, 13353 Berlin",
       "art": "Fachhochschulen (ohne Private)",
@@ -6222,7 +6588,8 @@
       "drittmittel_absolut_2012": 7122877,
       "drittmittel_wirtschaft_2012": 693034
     },
-    "Hochschule für Wirtschaft und Recht Berlin": {
+    {
+      "name": "Hochschule für Wirtschaft und Recht Berlin",
       "uid": "7720",
       "adresse": "Badensche Str. 52, 10825 Berlin",
       "art": "Fachhochschulen (ohne Private)",
@@ -6239,7 +6606,8 @@
       "drittmittel_absolut_2012": 3295745,
       "drittmittel_wirtschaft_2012": 297904
     },
-    "ASH für Sozialarbeit und Sozialpädagogik Berlin": {
+    {
+      "name": "ASH für Sozialarbeit und Sozialpädagogik Berlin",
       "uid": "7730",
       "adresse": "Alice-Salomon-Platz 5, 12627 Berlin",
       "art": "Fachhochschulen (ohne Private)",
@@ -6256,7 +6624,8 @@
       "drittmittel_absolut_2012": 2280595,
       "drittmittel_wirtschaft_2012": 881871
     },
-    "Katholische Hochschule für Sozialwesen Berlin (FH)": {
+    {
+      "name": "Katholische Hochschule für Sozialwesen Berlin (FH)",
       "uid": "7700",
       "adresse": "Köpenicker Allee 39-57, 10318 Berlin",
       "art": "Kirchliche Fachhochschulen",
@@ -6273,7 +6642,8 @@
       "drittmittel_absolut_2012": 1798130,
       "drittmittel_wirtschaft_2012": 145725
     },
-    "Evangelische Hochschule Berlin (FH)": {
+    {
+      "name": "Evangelische Hochschule Berlin (FH)",
       "uid": "7750",
       "adresse": "Teltower Damm 118, 14167 Berlin",
       "art": "Kirchliche Fachhochschulen",
@@ -6290,7 +6660,8 @@
       "drittmittel_absolut_2012": 139371,
       "drittmittel_wirtschaft_2012": 25000
     },
-    "FH Bund, FB Sozialversicherung in Berlin": {
+    {
+      "name": "FH Bund, FB Sozialversicherung in Berlin",
       "uid": "6202",
       "adresse": "",
       "art": "Verwaltungs-FH des Bundes",
@@ -6307,7 +6678,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH Bund, FB Akademie Auswärtige Angelegenheiten in Berlin": {
+    {
+      "name": "FH Bund, FB Akademie Auswärtige Angelegenheiten in Berlin",
       "uid": "6205",
       "adresse": "",
       "art": "Verwaltungs-FH des Bundes",
@@ -6324,7 +6696,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Europa-Universität Viadrina Frankfurt (Oder)": {
+    {
+      "name": "Europa-Universität Viadrina Frankfurt (Oder)",
       "uid": "190",
       "adresse": "Große Scharrnstraße 59, 15230 Frankfurt (Oder)",
       "art": "Universitäten (ohne Private)",
@@ -6341,7 +6714,8 @@
       "drittmittel_absolut_2012": 6675959,
       "drittmittel_wirtschaft_2012": 903949
     },
-    "Brandenburgische TU Cottbus": {
+    {
+      "name": "Brandenburgische TU Cottbus",
       "uid": "240",
       "adresse": "Platz der Deutschen Einheit 1, 03046 Cottbus",
       "art": "Universitäten (ohne Private)",
@@ -6358,7 +6732,8 @@
       "drittmittel_absolut_2012": 26165986,
       "drittmittel_wirtschaft_2012": 5344786
     },
-    "Universität Potsdam": {
+    {
+      "name": "Universität Potsdam",
       "uid": "3500",
       "adresse": "Am Neuen Palais 10, 14469 Potsdam",
       "art": "Universitäten (ohne Private)",
@@ -6375,7 +6750,8 @@
       "drittmittel_absolut_2012": 49759875,
       "drittmittel_wirtschaft_2012": 4891525
     },
-    "Hochschule für Film und Fernsehen in Potsdam-Babelsberg": {
+    {
+      "name": "Hochschule für Film und Fernsehen in Potsdam-Babelsberg",
       "uid": "2550",
       "adresse": "Marlene-Dietrich-Allee 11, 14482 Potsdam",
       "art": "Kunsthochschulen (ohne Private)",
@@ -6392,7 +6768,8 @@
       "drittmittel_absolut_2012": 1746449,
       "drittmittel_wirtschaft_2012": 166218
     },
-    "Fachhochschule für Sport und Management Potsdam": {
+    {
+      "name": "Fachhochschule für Sport und Management Potsdam",
       "uid": "1570",
       "adresse": "Am Luftschiffhafen 1, 14471 Potsdam",
       "art": "Private Fachhochschulen",
@@ -6409,7 +6786,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Business School Berlin Potsdam (BSP)": {
+    {
+      "name": "Business School Berlin Potsdam (BSP)",
       "uid": "1760",
       "adresse": "Calandrellistraße 1-9, 12247 Berlin",
       "art": "Private Fachhochschulen",
@@ -6426,7 +6804,8 @@
       "drittmittel_absolut_2012": 49191,
       "drittmittel_wirtschaft_2012": 49191
     },
-    "FH Brandenburg": {
+    {
+      "name": "FH Brandenburg",
       "uid": "7910",
       "adresse": "Magdeburger Straße 50, 14770 Brandenburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -6443,7 +6822,8 @@
       "drittmittel_absolut_2012": 3333851,
       "drittmittel_wirtschaft_2012": 750828
     },
-    "Hochschule für nachhaltige Entwicklung Eberswalde (FH)": {
+    {
+      "name": "Hochschule für nachhaltige Entwicklung Eberswalde (FH)",
       "uid": "7920",
       "adresse": "Friedrich-Ebert-Straße 28, 16225 Eberswalde",
       "art": "Fachhochschulen (ohne Private)",
@@ -6460,7 +6840,8 @@
       "drittmittel_absolut_2012": 5318850,
       "drittmittel_wirtschaft_2012": 689155
     },
-    "Hochschule Lausitz, University of Applied Sciences (FH)": {
+    {
+      "name": "Hochschule Lausitz, University of Applied Sciences (FH)",
       "uid": "7930",
       "adresse": "Großenhainer Straße 57, 01968 Senftenberg",
       "art": "Fachhochschulen (ohne Private)",
@@ -6477,7 +6858,8 @@
       "drittmittel_absolut_2012": 9020221,
       "drittmittel_wirtschaft_2012": 1648347
     },
-    "Technische Hochschule Wildau (FH)": {
+    {
+      "name": "Technische Hochschule Wildau (FH)",
       "uid": "7940",
       "adresse": "Bahnhofstraße, 15745 Wildau",
       "art": "Fachhochschulen (ohne Private)",
@@ -6494,7 +6876,8 @@
       "drittmittel_absolut_2012": 6657361,
       "drittmittel_wirtschaft_2012": 1233080
     },
-    "FH Potsdam": {
+    {
+      "name": "FH Potsdam",
       "uid": "7950",
       "adresse": "Pappelallee 8-9, 14469 Potsdam",
       "art": "Fachhochschulen (ohne Private)",
@@ -6511,7 +6894,8 @@
       "drittmittel_absolut_2012": 2605260,
       "drittmittel_wirtschaft_2012": 761524
     },
-    "Theol. Seminar (FH) der Evang. Freikirche Elstal": {
+    {
+      "name": "Theol. Seminar (FH) der Evang. Freikirche Elstal",
       "uid": "6430",
       "adresse": "Johann-Gerhard-Oncken-Straße 7, 14641 Wustermark",
       "art": "Kirchliche Fachhochschulen",
@@ -6528,7 +6912,8 @@
       "drittmittel_absolut_2012": 58471,
       "drittmittel_wirtschaft_2012": 0
     },
-    "FH für Finanzen Brandenburg (VerwFH) Königs Wusterhausen": {
+    {
+      "name": "FH für Finanzen Brandenburg (VerwFH) Königs Wusterhausen",
       "uid": "7850",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -6545,7 +6930,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH der Polizei Brandenburg (VerwFH) in Oranienburg": {
+    {
+      "name": "FH der Polizei Brandenburg (VerwFH) in Oranienburg",
       "uid": "7890",
       "adresse": "Bernauer Straße 146, 16515 Oranienburg",
       "art": "Verwaltungs-FH´s der Länder",
@@ -6562,7 +6948,8 @@
       "drittmittel_absolut_2012": 134739,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Universität Rostock (Klinikum)": {
+    {
+      "name": "Universität Rostock (Klinikum)",
       "uid": "269",
       "adresse": "",
       "art": "Unikliniken (ohne Private)",
@@ -6579,7 +6966,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Universität Greifswald (Klinikum)": {
+    {
+      "name": "Universität Greifswald (Klinikum)",
       "uid": "279",
       "adresse": "Fleischmannstraße 8, 17475 Greifswald",
       "art": "Unikliniken (ohne Private)",
@@ -6596,7 +6984,8 @@
       "drittmittel_absolut_2012": 18926582,
       "drittmittel_wirtschaft_2012": 2426646
     },
-    "Universität Rostock (ohne Klinikum)": {
+    {
+      "name": "Universität Rostock (ohne Klinikum)",
       "uid": "261",
       "adresse": "Ulmenstraße 69, 18057 Rostock",
       "art": "Universitäten (ohne Private)",
@@ -6613,7 +7002,8 @@
       "drittmittel_absolut_2012": 37217404,
       "drittmittel_wirtschaft_2012": 6216149
     },
-    "Med. Fakultät Rostock": {
+    {
+      "name": "Med. Fakultät Rostock",
       "uid": "262",
       "adresse": "Schillingallee 35, 18057 Rostock",
       "art": "Universitäten (ohne Private)",
@@ -6630,7 +7020,8 @@
       "drittmittel_absolut_2012": 11432848,
       "drittmittel_wirtschaft_2012": 2894876
     },
-    "Universität Greifswald (ohne Klinikum)": {
+    {
+      "name": "Universität Greifswald (ohne Klinikum)",
       "uid": "271",
       "adresse": "Domstraße 11, 17489 Greifswald",
       "art": "Universitäten (ohne Private)",
@@ -6647,7 +7038,8 @@
       "drittmittel_absolut_2012": 23472473,
       "drittmittel_wirtschaft_2012": 2949579
     },
-    "Medizinische Fakultät Greifswald": {
+    {
+      "name": "Medizinische Fakultät Greifswald",
       "uid": "272",
       "adresse": "",
       "art": "Universitäten (ohne Private)",
@@ -6664,7 +7056,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule für Musik und Theater, Rostock": {
+    {
+      "name": "Hochschule für Musik und Theater, Rostock",
       "uid": "3030",
       "adresse": "Beim St.-Katharinenstift 8, 18055 Rostock",
       "art": "Kunsthochschulen (ohne Private)",
@@ -6681,7 +7074,8 @@
       "drittmittel_absolut_2012": 205819,
       "drittmittel_wirtschaft_2012": 17629
     },
-    "Baltic College – FHM Schwerin": {
+    {
+      "name": "Baltic College – FHM Schwerin",
       "uid": "7980",
       "adresse": "August-Bebel-Str. 12, 19055 Schwerin",
       "art": "Private Fachhochschulen",
@@ -6698,7 +7092,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule Neubrandenburg": {
+    {
+      "name": "Hochschule Neubrandenburg",
       "uid": "7780",
       "adresse": "Brodaer Straße 2, 17033 Neubrandenburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -6715,7 +7110,8 @@
       "drittmittel_absolut_2012": 1873705,
       "drittmittel_wirtschaft_2012": 281840
     },
-    "FH Stralsund": {
+    {
+      "name": "FH Stralsund",
       "uid": "7790",
       "adresse": "Zur Schwedenschanze 15, 18435 Stralsund",
       "art": "Fachhochschulen (ohne Private)",
@@ -6732,7 +7128,8 @@
       "drittmittel_absolut_2012": 2792766,
       "drittmittel_wirtschaft_2012": 243420
     },
-    "FH Wismar": {
+    {
+      "name": "FH Wismar",
       "uid": "7840",
       "adresse": "Philipp-Müller-Straße 14, 23966 Wismar",
       "art": "Fachhochschulen (ohne Private)",
@@ -6749,7 +7146,8 @@
       "drittmittel_absolut_2012": 6917879,
       "drittmittel_wirtschaft_2012": 573476
     },
-    "Verwaltungs-FH Güstrow": {
+    {
+      "name": "Verwaltungs-FH Güstrow",
       "uid": "7900",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -6766,7 +7164,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "HHL Leipzig Graduate School of Management": {
+    {
+      "name": "HHL Leipzig Graduate School of Management",
       "uid": "630",
       "adresse": "Jahnallee 59, 04109 Leipzig",
       "art": "Private Universtäten",
@@ -6783,7 +7182,8 @@
       "drittmittel_absolut_2012": 3253821,
       "drittmittel_wirtschaft_2012": 537170
     },
-    "DIU-Dresden Intern. University GmbH Dresden (Priv. H)": {
+    {
+      "name": "DIU-Dresden Intern. University GmbH Dresden (Priv. H)",
       "uid": "1470",
       "adresse": "Freiberger Straße 37, 01067 Dresden",
       "art": "Private Universtäten",
@@ -6800,7 +7200,8 @@
       "drittmittel_absolut_2012": 824260,
       "drittmittel_wirtschaft_2012": 115040
     },
-    "Universität Leipzig (Klinikum)": {
+    {
+      "name": "Universität Leipzig (Klinikum)",
       "uid": "369",
       "adresse": "Johannisallee 34, 04103 Leipzig",
       "art": "Unikliniken (ohne Private)",
@@ -6817,7 +7218,8 @@
       "drittmittel_absolut_2012": 45336848,
       "drittmittel_wirtschaft_2012": 9349034
     },
-    "TU Dresden (Klinikum)": {
+    {
+      "name": "TU Dresden (Klinikum)",
       "uid": "379",
       "adresse": "Fetscherstraße 74, 01307 Dresden",
       "art": "Unikliniken (ohne Private)",
@@ -6834,7 +7236,8 @@
       "drittmittel_absolut_2012": 45280194,
       "drittmittel_wirtschaft_2012": 7309634
     },
-    "Universität Leipzig (ohne Klinikum)": {
+    {
+      "name": "Universität Leipzig (ohne Klinikum)",
       "uid": "361",
       "adresse": "Augustusplatz 10, 04109 Leipzig",
       "art": "Universitäten (ohne Private)",
@@ -6851,7 +7254,8 @@
       "drittmittel_absolut_2012": 58331000,
       "drittmittel_wirtschaft_2012": 6414482
     },
-    "TU Dresden (ohne Klinikum)": {
+    {
+      "name": "TU Dresden (ohne Klinikum)",
       "uid": "371",
       "adresse": "Mommsenstraße 9, 01069 Dresden",
       "art": "Universitäten (ohne Private)",
@@ -6868,7 +7272,8 @@
       "drittmittel_absolut_2012": 179722251,
       "drittmittel_wirtschaft_2012": 28497724
     },
-    "TU Chemnitz": {
+    {
+      "name": "TU Chemnitz",
       "uid": "380",
       "adresse": "Straße der Nationen 62, 09125 Chemnitz",
       "art": "Universitäten (ohne Private)",
@@ -6885,7 +7290,8 @@
       "drittmittel_absolut_2012": 62472196,
       "drittmittel_wirtschaft_2012": 9732270
     },
-    "TU Bergakademie Freiberg": {
+    {
+      "name": "TU Bergakademie Freiberg",
       "uid": "390",
       "adresse": "Akademiestraße 6, 09599 Freiberg",
       "art": "Universitäten (ohne Private)",
@@ -6902,7 +7308,8 @@
       "drittmittel_absolut_2012": 53682175,
       "drittmittel_wirtschaft_2012": 12524233
     },
-    "Internationales Hochschulinstitut Zittau": {
+    {
+      "name": "Internationales Hochschulinstitut Zittau",
       "uid": "610",
       "adresse": "Markt 23, 02763 Zittau",
       "art": "Universitäten (ohne Private)",
@@ -6919,7 +7326,8 @@
       "drittmittel_absolut_2012": 1809207,
       "drittmittel_wirtschaft_2012": 261301
     },
-    "Palucca Hochschule für Tanz Dresden": {
+    {
+      "name": "Palucca Hochschule für Tanz Dresden",
       "uid": "2490",
       "adresse": "Basteiplatz 4, 01277 Dresden",
       "art": "Kunsthochschulen (ohne Private)",
@@ -6936,7 +7344,8 @@
       "drittmittel_absolut_2012": 189136,
       "drittmittel_wirtschaft_2012": 12401
     },
-    "Hochschule für Bildende Künste Dresden": {
+    {
+      "name": "Hochschule für Bildende Künste Dresden",
       "uid": "2630",
       "adresse": "Pfotenhauerstraße 81, 01307 Dresden",
       "art": "Kunsthochschulen (ohne Private)",
@@ -6953,7 +7362,8 @@
       "drittmittel_absolut_2012": 733961,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule für Grafik und Buchkunst Leipzig": {
+    {
+      "name": "Hochschule für Grafik und Buchkunst Leipzig",
       "uid": "2640",
       "adresse": "Wächterstraße 11, 04107 Leipzig",
       "art": "Kunsthochschulen (ohne Private)",
@@ -6970,7 +7380,8 @@
       "drittmittel_absolut_2012": 274438,
       "drittmittel_wirtschaft_2012": 6468
     },
-    "Hochschule für Musik und Theater Leipzig": {
+    {
+      "name": "Hochschule für Musik und Theater Leipzig",
       "uid": "2740",
       "adresse": "Grassistraße 8, 04107 Leipzig",
       "art": "Kunsthochschulen (ohne Private)",
@@ -6987,7 +7398,8 @@
       "drittmittel_absolut_2012": 257197,
       "drittmittel_wirtschaft_2012": 13390
     },
-    "Hochschule für Musik Dresden": {
+    {
+      "name": "Hochschule für Musik Dresden",
       "uid": "2800",
       "adresse": "Wettiner Platz 13, 01067 Dresden",
       "art": "Kunsthochschulen (ohne Private)",
@@ -7004,7 +7416,8 @@
       "drittmittel_absolut_2012": 955233,
       "drittmittel_wirtschaft_2012": 77833
     },
-    "Hochschule für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden": {
+    {
+      "name": "Hochschule für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden",
       "uid": "2930",
       "adresse": "",
       "art": "Kirchliche Kunsthochschulen",
@@ -7021,7 +7434,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Fachochschule Dresden": {
+    {
+      "name": "Fachochschule Dresden",
       "uid": "1850",
       "adresse": "Gasanstaltstr. 3-5, 01237 Dresden",
       "art": "Private Fachhochschulen",
@@ -7038,7 +7452,8 @@
       "drittmittel_absolut_2012": 83392,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Euro-Business-College Dresden (Priv. FH)": {
+    {
+      "name": "Euro-Business-College Dresden (Priv. FH)",
       "uid": "1860",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -7055,7 +7470,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule für Kommunikation Leipzig": {
+    {
+      "name": "Hochschule für Kommunikation Leipzig",
       "uid": "5100",
       "adresse": "Gustav-Freytag-Str. 43-45, 04277 Leipzig",
       "art": "Private Fachhochschulen",
@@ -7072,7 +7488,8 @@
       "drittmittel_absolut_2012": 158086,
       "drittmittel_wirtschaft_2012": 41954
     },
-    "AKAD Hochschule Leipzig": {
+    {
+      "name": "AKAD Hochschule Leipzig",
       "uid": "5180",
       "adresse": "Gustav-Freytag-Str. 43-45, 04277 Leipzig",
       "art": "Private Fachhochschulen",
@@ -7089,7 +7506,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule für Technik und Wirtschaft Dresden": {
+    {
+      "name": "Hochschule für Technik und Wirtschaft Dresden",
       "uid": "5120",
       "adresse": "Friedrich-List-Platz 1, 01069 Dresden",
       "art": "Fachhochschulen (ohne Private)",
@@ -7106,7 +7524,8 @@
       "drittmittel_absolut_2012": 3902906,
       "drittmittel_wirtschaft_2012": 815449
     },
-    "Hochschule für Technik, Wirtschaft und Kultur Leipzig": {
+    {
+      "name": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
       "uid": "5130",
       "adresse": "Karl-Liebknecht-Str. 132, 04277 Leipzig",
       "art": "Fachhochschulen (ohne Private)",
@@ -7123,7 +7542,8 @@
       "drittmittel_absolut_2012": 5621985,
       "drittmittel_wirtschaft_2012": 878897
     },
-    "Hochschule Mittweida (University of Applied Sciences)": {
+    {
+      "name": "Hochschule Mittweida (University of Applied Sciences)",
       "uid": "5140",
       "adresse": "Technikumplatz 17, 09648 Mittweida",
       "art": "Fachhochschulen (ohne Private)",
@@ -7140,7 +7560,8 @@
       "drittmittel_absolut_2012": 5222902,
       "drittmittel_wirtschaft_2012": 957300
     },
-    "Hochschule Zittau/Görlitz (FH)": {
+    {
+      "name": "Hochschule Zittau/Görlitz (FH)",
       "uid": "5150",
       "adresse": "Theodor-Körner Allee 16, 02763 Zittau",
       "art": "Fachhochschulen (ohne Private)",
@@ -7157,7 +7578,8 @@
       "drittmittel_absolut_2012": 5935379,
       "drittmittel_wirtschaft_2012": 2235226
     },
-    "Westsächsische Hochschule Zwickau": {
+    {
+      "name": "Westsächsische Hochschule Zwickau",
       "uid": "5160",
       "adresse": "Dr.-Friedrichs-Ring 2A, 08056 Zwickau",
       "art": "Fachhochschulen (ohne Private)",
@@ -7174,7 +7596,8 @@
       "drittmittel_absolut_2012": 5037449,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Evang. Hochschule für Soziale Arbeit, Dresden (FH)": {
+    {
+      "name": "Evang. Hochschule für Soziale Arbeit, Dresden (FH)",
       "uid": "5110",
       "adresse": "",
       "art": "Kirchliche Fachhochschulen",
@@ -7191,7 +7614,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Evangelische Hochschule Moritzburg (FH)": {
+    {
+      "name": "Evangelische Hochschule Moritzburg (FH)",
       "uid": "5170",
       "adresse": "",
       "art": "Kirchliche Fachhochschulen",
@@ -7208,7 +7632,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule der Sächsischen Polizei, Rothenburg/OL. (FH)": {
+    {
+      "name": "Hochschule der Sächsischen Polizei, Rothenburg/OL. (FH)",
       "uid": "5190",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -7225,7 +7650,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH der Sächsischen Verwaltung Meißen": {
+    {
+      "name": "FH der Sächsischen Verwaltung Meißen",
       "uid": "6380",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -7242,7 +7668,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Universität Halle (Klinikum)": {
+    {
+      "name": "Universität Halle (Klinikum)",
       "uid": "309",
       "adresse": "Ernst-Grube-Straße 40, 06120 Halle",
       "art": "Unikliniken (ohne Private)",
@@ -7259,7 +7686,8 @@
       "drittmittel_absolut_2012": 9911677,
       "drittmittel_wirtschaft_2012": 2525864
     },
-    "Universität Magdeburg (Klinikum)": {
+    {
+      "name": "Universität Magdeburg (Klinikum)",
       "uid": "319",
       "adresse": "Leipziger Straße 44, 39120 Magdeburg",
       "art": "Unikliniken (ohne Private)",
@@ -7276,7 +7704,8 @@
       "drittmittel_absolut_2012": 20408356,
       "drittmittel_wirtschaft_2012": 3588401
     },
-    "Universität Halle (ohne Klinikum)": {
+    {
+      "name": "Universität Halle (ohne Klinikum)",
       "uid": "301",
       "adresse": "Franzosenweg 1a, 06112 Halle",
       "art": "Universitäten (ohne Private)",
@@ -7293,7 +7722,8 @@
       "drittmittel_absolut_2012": 39492205,
       "drittmittel_wirtschaft_2012": 7203120
     },
-    "Otto-von-Guericke-Universität Magdeburg (ohne Klinikum)": {
+    {
+      "name": "Otto-von-Guericke-Universität Magdeburg (ohne Klinikum)",
       "uid": "311",
       "adresse": "Universitätsplatz 2, 39106 Magdeburg",
       "art": "Universitäten (ohne Private)",
@@ -7310,7 +7740,8 @@
       "drittmittel_absolut_2012": 34110051,
       "drittmittel_wirtschaft_2012": 8490402
     },
-    "Theol. Hochschule Friedensau": {
+    {
+      "name": "Theol. Hochschule Friedensau",
       "uid": "2350",
       "adresse": "An der Ihle 19, 39291 Möckern-Friedensau",
       "art": "Kirchliche Theologische Hochschulen",
@@ -7327,7 +7758,8 @@
       "drittmittel_absolut_2012": 41072,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Burg Giebichenstein Kunsthochschule, Halle": {
+    {
+      "name": "Burg Giebichenstein Kunsthochschule, Halle",
       "uid": "2600",
       "adresse": "Neuwerk 7, 06108 Halle",
       "art": "Kunsthochschulen (ohne Private)",
@@ -7344,7 +7776,8 @@
       "drittmittel_absolut_2012": 669852,
       "drittmittel_wirtschaft_2012": 57878
     },
-    "Evang. Hochschule für Kirchenmusik Halle": {
+    {
+      "name": "Evang. Hochschule für Kirchenmusik Halle",
       "uid": "3000",
       "adresse": "Kleine Ulrichstraße 35, 06108 Halle",
       "art": "Kirchliche Kunsthochschulen",
@@ -7361,7 +7794,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule Merseburg (FH)": {
+    {
+      "name": "Hochschule Merseburg (FH)",
       "uid": "8000",
       "adresse": "Geusaer Straße, 06217 Merseburg",
       "art": "Fachhochschulen (ohne Private)",
@@ -7378,7 +7812,8 @@
       "drittmittel_absolut_2012": 2940602,
       "drittmittel_wirtschaft_2012": 929394
     },
-    "Hochschule Magdeburg-Stendal (FH)": {
+    {
+      "name": "Hochschule Magdeburg-Stendal (FH)",
       "uid": "8010",
       "adresse": "Osterburger Straße 25, 39576 Stendal",
       "art": "Fachhochschulen (ohne Private)",
@@ -7395,7 +7830,8 @@
       "drittmittel_absolut_2012": 4831047,
       "drittmittel_wirtschaft_2012": 466621
     },
-    "Hochschule Harz (FH)": {
+    {
+      "name": "Hochschule Harz (FH)",
       "uid": "8020",
       "adresse": "Friedrichstr. 57-59, 38855 Wernigerode",
       "art": "Fachhochschulen (ohne Private)",
@@ -7412,7 +7848,8 @@
       "drittmittel_absolut_2012": 2063756,
       "drittmittel_wirtschaft_2012": 289267
     },
-    "Hochschule Anhalt (FH)": {
+    {
+      "name": "Hochschule Anhalt (FH)",
       "uid": "8030",
       "adresse": "Bernburger Str. 55, 06366 Köthen",
       "art": "Fachhochschulen (ohne Private)",
@@ -7429,7 +7866,8 @@
       "drittmittel_absolut_2012": 5062602,
       "drittmittel_wirtschaft_2012": 889321
     },
-    "FH Polizei Sachsen-Anhalt, Aschersleben": {
+    {
+      "name": "FH Polizei Sachsen-Anhalt, Aschersleben",
       "uid": "8060",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -7446,7 +7884,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Universität Jena (Klinikum)": {
+    {
+      "name": "Universität Jena (Klinikum)",
       "uid": "499",
       "adresse": "Bachstrasse 18, 07743 Jena",
       "art": "Unikliniken (ohne Private)",
@@ -7463,7 +7902,8 @@
       "drittmittel_absolut_2012": 26502722,
       "drittmittel_wirtschaft_2012": 5755308
     },
-    "Friedrich-Schiller-Universität Jena (ohne Klinikum)": {
+    {
+      "name": "Friedrich-Schiller-Universität Jena (ohne Klinikum)",
       "uid": "491",
       "adresse": "Fürstengraben 1, 07743 Jena",
       "art": "Universitäten (ohne Private)",
@@ -7480,7 +7920,8 @@
       "drittmittel_absolut_2012": 63725291,
       "drittmittel_wirtschaft_2012": 5502013
     },
-    "Bauhaus-Universität Weimar": {
+    {
+      "name": "Bauhaus-Universität Weimar",
       "uid": "580",
       "adresse": "Geschwister-Scholl-Straße 8, 99423 Weimar",
       "art": "Universitäten (ohne Private)",
@@ -7497,7 +7938,8 @@
       "drittmittel_absolut_2012": 13650448,
       "drittmittel_wirtschaft_2012": 1006565
     },
-    "TU Ilmenau": {
+    {
+      "name": "TU Ilmenau",
       "uid": "590",
       "adresse": "Max-Planck-Ring 14, 98693 Ilmenau",
       "art": "Universitäten (ohne Private)",
@@ -7514,7 +7956,8 @@
       "drittmittel_absolut_2012": 41549715,
       "drittmittel_wirtschaft_2012": 4838190
     },
-    "Universität Erfurt": {
+    {
+      "name": "Universität Erfurt",
       "uid": "620",
       "adresse": "Nordhäuser Straße 63, 99089 Erfurt",
       "art": "Universitäten (ohne Private)",
@@ -7531,7 +7974,8 @@
       "drittmittel_absolut_2012": 6874214,
       "drittmittel_wirtschaft_2012": 706307
     },
-    "Hochschule für Musik Franz Liszt Weimar": {
+    {
+      "name": "Hochschule für Musik Franz Liszt Weimar",
       "uid": "2850",
       "adresse": "Platz der Demokratie 2, 99423 Weimar",
       "art": "Kunsthochschulen (ohne Private)",
@@ -7548,7 +7992,8 @@
       "drittmittel_absolut_2012": 800560,
       "drittmittel_wirtschaft_2012": 70435
     },
-    "SRH FH für Gesundheit Gera (Priv. FH)": {
+    {
+      "name": "SRH FH für Gesundheit Gera (Priv. FH)",
       "uid": "730",
       "adresse": "Hermann-Drechsler-Straße 2, 07548 Gera",
       "art": "Private Fachhochschulen",
@@ -7565,7 +8010,8 @@
       "drittmittel_absolut_2012": 305774,
       "drittmittel_wirtschaft_2012": 600
     },
-    "Adam-Ries-Fachhochschule Erfurt (Priv.)": {
+    {
+      "name": "Adam-Ries-Fachhochschule Erfurt (Priv.)",
       "uid": "850",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -7582,7 +8028,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH Kunst Arnstadt (Priv.)": {
+    {
+      "name": "FH Kunst Arnstadt (Priv.)",
       "uid": "920",
       "adresse": "Lindenallee 10, 99310 Arnstadt",
       "art": "Private Fachhochschulen",
@@ -7599,7 +8046,8 @@
       "drittmittel_absolut_2012": 100518,
       "drittmittel_wirtschaft_2012": 0
     },
-    "FH Erfurt": {
+    {
+      "name": "FH Erfurt",
       "uid": "7810",
       "adresse": "Altonaer Str. 25, 99085 Erfurt",
       "art": "Fachhochschulen (ohne Private)",
@@ -7616,7 +8064,8 @@
       "drittmittel_absolut_2012": 1751870,
       "drittmittel_wirtschaft_2012": 223763
     },
-    "Ernst Abbe Fachhochschule Jena": {
+    {
+      "name": "Ernst Abbe Fachhochschule Jena",
       "uid": "7820",
       "adresse": "Carl-Zeiß-Promenade 2, 07745 Jena",
       "art": "Fachhochschulen (ohne Private)",
@@ -7633,7 +8082,8 @@
       "drittmittel_absolut_2012": 5039764,
       "drittmittel_wirtschaft_2012": 508741
     },
-    "FH Schmalkalden": {
+    {
+      "name": "FH Schmalkalden",
       "uid": "7830",
       "adresse": "Blechhammer 9, 98574 Schmalkalden",
       "art": "Fachhochschulen (ohne Private)",
@@ -7650,7 +8100,8 @@
       "drittmittel_absolut_2012": 876610,
       "drittmittel_wirtschaft_2012": 24323
     },
-    "FH Nordhausen": {
+    {
+      "name": "FH Nordhausen",
       "uid": "7880",
       "adresse": "Weinberghof 4, 99734 Nordhausen",
       "art": "Fachhochschulen (ohne Private)",
@@ -7667,7 +8118,8 @@
       "drittmittel_absolut_2012": 1572880,
       "drittmittel_wirtschaft_2012": 244234
     },
-    "Thüringer FH für öffentliche Verwaltung Gotha": {
+    {
+      "name": "Thüringer FH für öffentliche Verwaltung Gotha",
       "uid": "7860",
       "adresse": "",
       "art": "Verwaltungs-FH´s der Länder",
@@ -7684,7 +8136,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH Bund, FB Bundespolizei, Lübeck": {
+    {
+      "name": "FH Bund, FB Bundespolizei, Lübeck",
       "uid": "0620D",
       "adresse": "",
       "art": "Verwaltungs-FH des Bundes",
@@ -7701,7 +8154,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Kühne Logistics University - The KLU, Hamburg (Priv. H)": {
+    {
+      "name": "Kühne Logistics University - The KLU, Hamburg (Priv. H)",
       "uid": "1960",
       "adresse": "",
       "art": "Private Universtäten",
@@ -7718,7 +8172,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule für intern. Wirtschaft und Logistik (HIWL), Bremen (Priv. FH)": {
+    {
+      "name": "Hochschule für intern. Wirtschaft und Logistik (HIWL), Bremen (Priv. FH)",
       "uid": "1790",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -7735,7 +8190,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Hochschule für Gesundheit": {
+    {
+      "name": "Hochschule für Gesundheit",
       "uid": "1770",
       "adresse": "Universitätsstraße 105, 44789 Bochum",
       "art": "Fachhochschulen (ohne Private)",
@@ -7752,7 +8208,8 @@
       "drittmittel_absolut_2012": 92607,
       "drittmittel_wirtschaft_2012": 15049
     },
-    "FH Bund, FB Wetterdienst in Langen": {
+    {
+      "name": "FH Bund, FB Wetterdienst in Langen",
       "uid": "6203",
       "adresse": "",
       "art": "Verwaltungs-FH des Bundes",
@@ -7769,7 +8226,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "FH Bund, FB Landwirtschaftliche Sozialversicherung in Kassel": {
+    {
+      "name": "FH Bund, FB Landwirtschaftliche Sozialversicherung in Kassel",
       "uid": "6204",
       "adresse": "",
       "art": "Verwaltungs-FH des Bundes",
@@ -7786,7 +8244,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "Internationale Hochschule Liebenzell (FH), Bad Liebenzell": {
+    {
+      "name": "Internationale Hochschule Liebenzell (FH), Bad Liebenzell",
       "uid": "1940",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -7803,7 +8262,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "ECLA of Bard, a Liberal Arts University, Berlin (Priv. H)": {
+    {
+      "name": "ECLA of Bard, a Liberal Arts University, Berlin (Priv. H)",
       "uid": "1890",
       "adresse": "",
       "art": "Private Universtäten",
@@ -7820,7 +8280,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "German open Business School, Hochschule für Wirtschaft und Verwaltung, Berlin (Priv. FH)": {
+    {
+      "name": "German open Business School, Hochschule für Wirtschaft und Verwaltung, Berlin (Priv. FH)",
       "uid": "1900",
       "adresse": "",
       "art": "Private Fachhochschulen",
@@ -7837,7 +8298,8 @@
       "drittmittel_absolut_2012": "-",
       "drittmittel_wirtschaft_2012": "-"
     },
-    "MSH Medical School Hamburg (Priv. FH)": {
+    {
+      "name": "MSH Medical School Hamburg (Priv. FH)",
       "uid": "1880",
       "adresse": "",
       "art": "Fachhochschulen (ohne Verwaltungs-FH)",
@@ -7854,7 +8316,8 @@
       "drittmittel_absolut_2012": 34723,
       "drittmittel_wirtschaft_2012": 0
     },
-    "Hochschule der Wirtschaft für Management (HdWM) Mannheim (Priv. FH)": {
+    {
+      "name": "Hochschule der Wirtschaft für Management (HdWM) Mannheim (Priv. FH)",
       "uid": "1970",
       "adresse": "",
       "art": "Fachhochschulen (ohne Verwaltungs-FH)",
@@ -7871,7 +8334,8 @@
       "drittmittel_absolut_2012": 336700,
       "drittmittel_wirtschaft_2012": 0
     },
-    "DPFA Hochschule Zwickau": {
+    {
+      "name": "DPFA Hochschule Zwickau",
       "uid": "2190",
       "adresse": "",
       "art": "Fachhochschulen (ohne Verwaltungs-FH)",
@@ -7888,7 +8352,7 @@
       "drittmittel_absolut_2012": 2229,
       "drittmittel_wirtschaft_2012": 0
     }
-  },
+  ],
   "hochschulraete": [
     {
       "hochschule": "Hochschule Hamm-Lippstadt",
