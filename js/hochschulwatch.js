@@ -1,5 +1,5 @@
 var data = [];
-$.getJSON('../data.json', function(datei) {
+$.getJSON('data.json', function(datei) {
 	data = datei;
 });
 
