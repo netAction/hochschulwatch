@@ -124,7 +124,7 @@
     "Uni":"Universität Paderborn",
     "Name":"Hubertus Benteler",
     "Funktion":"",
-    "Unternehmen":"Benteler International AG ",
+    "Unternehmen":"Benteler International AG",
     "Alternativname":""
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Universität Köln (ohne Klinikum)",
+    "Uni":"Universität zu Köln (ohne Klinikum)",
     "Name":"Dr. Richard Pott",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Bayer AG",
@@ -169,7 +169,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Universität Köln (ohne Klinikum)",
+    "Uni":"Universität zu Köln (ohne Klinikum)",
     "Name":"Dr. Barbara Bludau",
     "Funktion":"",
     "Unternehmen":"Kanzlei P+P Pöllath und Partners",
@@ -177,7 +177,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Universität Köln (ohne Klinikum)",
+    "Uni":"Universität zu Köln (ohne Klinikum)",
     "Name":"Claudia Nemat",
     "Funktion":"",
     "Unternehmen":"Deutsche Telekom",
@@ -193,7 +193,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Universität Bochum (ohne Klinikum)",
+    "Uni":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Name":"Birgit Fischer",
     "Funktion":"",
     "Unternehmen":"Verband der forschenden Pharmaunternehmen",
@@ -233,7 +233,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Bielefeld",
+    "Uni":"FH Bielefeld",
     "Name":"Lothar Kriszun",
     "Funktion":"stellv. Vorsitzender",
     "Unternehmen":"CLAAS KGaA mbH",
@@ -241,7 +241,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Bielefeld",
+    "Uni":"FH Bielefeld",
     "Name":"Anja-Christina Horstmann",
     "Funktion":"",
     "Unternehmen":"KG transmitter components GmbH",
@@ -249,7 +249,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Bielefeld",
+    "Uni":"FH Bielefeld",
     "Name":"Dr. Eduard Sailer",
     "Funktion":"",
     "Unternehmen":"Miele & Cie. KG",
@@ -257,7 +257,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Dortmund",
+    "Uni":"FH Dortmund",
     "Name":"Angela Feuerstein",
     "Funktion":"Vorsitzende",
     "Unternehmen":"SMF KG, merkarion GmbH, Nicolai GmbH Dortmund",
@@ -265,7 +265,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Düsseldorf",
+    "Uni":"FH Düsseldorf",
     "Name":"Ina Kirchhof",
     "Funktion":"Stellvertretende Vorsitzende",
     "Unternehmen":"ERGO Versicherungsgruppe AG",
@@ -273,7 +273,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Köln",
+    "Uni":"FH Köln",
     "Name":"Achim Berg",
     "Funktion":"",
     "Unternehmen":"Microsoft Deutschland GmbH",
@@ -281,7 +281,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Köln",
+    "Uni":"FH Köln",
     "Name":"Uwe Kotz",
     "Funktion":"",
     "Unternehmen":"BPW Bergische Achsen KG",
@@ -289,7 +289,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Münster",
+    "Uni":"FH Münster",
     "Name":"Magdalena Münstermann",
     "Funktion":"",
     "Unternehmen":"Bernd Münstermann GmbH & Co. KG",
@@ -297,7 +297,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Südwestfalen",
+    "Uni":"FH Südwestfalen",
     "Name":"Peter Gasse",
     "Funktion":"",
     "Unternehmen":"Hüttenwerke Krupp Mannesmann",
@@ -305,7 +305,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Südwestfalen",
+    "Uni":"FH Südwestfalen",
     "Name":"Dr. Johannes Kirchhoff",
     "Funktion":"",
     "Unternehmen":"FAUN Umwelttechnik GmbH & Co.KG",
@@ -313,31 +313,7 @@
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Südwestfalen",
-    "Name":"Horst-Werner Maier-Hunke -Vorsitzender-",
-    "Funktion":"",
-    "Unternehmen":"DURABLE Hunke & Jochheim GmbH & Co. KG",
-    "Alternativname":""
-  },
-  {
-    "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Südwestfalen",
-    "Name":"Peter Gasse",
-    "Funktion":"",
-    "Unternehmen":"Hüttenwerke Krupp Mannesmann GmbH",
-    "Alternativname":""
-  },
-  {
-    "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Südwestfalen",
-    "Name":"Dr. Johannes Kirchhoff",
-    "Funktion":"",
-    "Unternehmen":"FAUN Umwelttechnik GmbH & Co.KG",
-    "Alternativname":""
-  },
-  {
-    "Bundesland":"Nordrhein-Westfalen",
-    "Uni":"Fachhochschule Südwestfalen",
+    "Uni":"FH Südwestfalen",
     "Name":"Horst-Werner Maier-Hunke -Vorsitzender-",
     "Funktion":"",
     "Unternehmen":"DURABLE Hunke & Jochheim GmbH & Co. KG",
@@ -361,7 +337,7 @@
   },
   {
     "Bundesland":"Saarland",
-    "Uni":"Universität des Saarlandes",
+    "Uni":"Universität des Saarlandes Saarbrücken in Saarbrücken",
     "Name":"Prof. Dr.-Ing. Klaus Henning",
     "Funktion":"",
     "Unternehmen":"OSTO Systemberatung GmbH",
@@ -369,7 +345,7 @@
   },
   {
     "Bundesland":"Saarland",
-    "Uni":"Universität des Saarlandes",
+    "Uni":"Universität des Saarlandes Saarbrücken in Saarbrücken",
     "Name":"Prof. Dr. Norbert Bannenberg",
     "Funktion":"",
     "Unternehmen":"Technischer Vorstand Dillinger Hüttenwerke AG",
@@ -393,7 +369,7 @@
   },
   {
     "Bundesland":"Niedersachsen",
-    "Uni":"Hochschule Osnabrück",
+    "Uni":"Hochschule Osnabrück (FH)",
     "Name":"Dr. Andreas Mainka",
     "Funktion":"",
     "Unternehmen":"August Mainka GmbH & Co",
@@ -417,7 +393,7 @@
   },
   {
     "Bundesland":"Niedersachsen",
-    "Uni":"Technische Universität Braunschweig",
+    "Uni":"TU Braunschweig",
     "Name":"Prof. Dr. Heinz Jörg Fuhrmann",
     "Funktion":"",
     "Unternehmen":"Salzgitter AG",
@@ -425,7 +401,7 @@
   },
   {
     "Bundesland":"Niedersachsen",
-    "Uni":"Technische Universität Braunschweig",
+    "Uni":"TU Braunschweig",
     "Name":"Prof. Dr. Martin Winterkorn",
     "Funktion":"",
     "Unternehmen":"Volkswagen",
@@ -433,7 +409,7 @@
   },
   {
     "Bundesland":"Niedersachsen",
-    "Uni":"Technische Universität Clausthal",
+    "Uni":"TU Clausthal",
     "Name":"Dr. Jürgen Großmann",
     "Funktion":"",
     "Unternehmen":"Georgsmarienhütte GmbH",
@@ -441,7 +417,7 @@
   },
   {
     "Bundesland":"Niedersachsen",
-    "Uni":"Technische Universität Clausthal",
+    "Uni":"TU Clausthal",
     "Name":"Dr. Harald Ludanek",
     "Funktion":"",
     "Unternehmen":"Scania",
@@ -449,7 +425,7 @@
   },
   {
     "Bundesland":"Niedersachsen",
-    "Uni":"Technische Universität Clausthal",
+    "Uni":"TU Clausthal",
     "Name":"Agnes Tistler-Kachel",
     "Funktion":"",
     "Unternehmen":"LogoSensus Management Consultants GmbH",
@@ -489,7 +465,7 @@
   },
   {
     "Bundesland":"Rheinland-Pfalz",
-    "Uni":"Fachhochschule Bingen",
+    "Uni":"FH Bingen",
     "Name":"Michael Heß",
     "Funktion":"",
     "Unternehmen":"BASF SE",
@@ -497,7 +473,7 @@
   },
   {
     "Bundesland":"Rheinland-Pfalz",
-    "Uni":"Fachhochschule Worms",
+    "Uni":"FH Worms",
     "Name":"Dr. Robert Blackburn",
     "Funktion":"",
     "Unternehmen":"BASF SE",
@@ -505,7 +481,7 @@
   },
   {
     "Bundesland":"Rheinland-Pfalz",
-    "Uni":"Fachhochschule Worms",
+    "Uni":"FH Worms",
     "Name":"Dominique Döttling",
     "Funktion":"",
     "Unternehmen":"Döttling & Partner Beratungsgesellschaft mbH",
@@ -513,7 +489,7 @@
   },
   {
     "Bundesland":"Rheinland-Pfalz",
-    "Uni":"Fachhochschule Worms",
+    "Uni":"FH Worms",
     "Name":"Michael Suden",
     "Funktion":"",
     "Unternehmen":"Fiege Logistik Stiftung & Co. KG",
@@ -521,7 +497,7 @@
   },
   {
     "Bundesland":"Rheinland-Pfalz",
-    "Uni":"Hochschule Ludwigshafen",
+    "Uni":"Hochschule Ludwigshafen am Rhein",
     "Name":"Marco Esser",
     "Funktion":"stellvertretender Vorsitzender",
     "Unternehmen":"Commerzbank",
@@ -545,7 +521,7 @@
   },
   {
     "Bundesland":"Rheinland-Pfalz",
-    "Uni":"Universität Mainz (ohne Klinikum)",
+    "Uni":"Universität Mainz",
     "Name":"Prof. Dr. Dr. Andreas Barner",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Boehringer Ingelheim",
@@ -553,7 +529,7 @@
   },
   {
     "Bundesland":"Rheinland-Pfalz",
-    "Uni":"Universität Mainz (ohne Klinikum)",
+    "Uni":"Universität Mainz",
     "Name":"Dr. Leopold von Heimendahl",
     "Funktion":"",
     "Unternehmen":"Schott Glas Konzerns",
@@ -569,7 +545,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Hochschule Mittweida",
+    "Uni":"Hochschule Mittweida (University of Applied Sciences)",
     "Name":"Georg Kuka",
     "Funktion":"",
     "Unternehmen":"advanced fiber tools GmbH",
@@ -577,7 +553,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Hochschule Mittweida",
+    "Uni":"Hochschule Mittweida (University of Applied Sciences)",
     "Name":"Sabine Sändig",
     "Funktion":"",
     "Unternehmen":"ifw optronics GmbH",
@@ -585,7 +561,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Technische Universität Bergakademie Freiberg",
+    "Uni":"TU Bergakademie Freiberg",
     "Name":"Herr Dipl.-Ing. Mario Behrendt",
     "Funktion":"",
     "Unternehmen":"Deutsche Solar GmbH",
@@ -593,7 +569,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Technische Universität Bergakademie Freiberg",
+    "Uni":"TU Bergakademie Freiberg",
     "Name":"Herr Prof. Karl-Ulrich Köhler",
     "Funktion":"",
     "Unternehmen":"Tata Steel Europe",
@@ -601,7 +577,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Technische Universität Bergakademie Freiberg",
+    "Uni":"TU Bergakademie Freiberg",
     "Name":"Herr Prof. Dr. Burkhard Schwenker",
     "Funktion":"",
     "Unternehmen":"Roland Berger Strategy Consultants GmbH",
@@ -609,7 +585,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Hochschule Zittau/Görlitz",
+    "Uni":"Hochschule Zittau/Görlitz (FH)",
     "Name":"Herr Dr.-Ing. Roman Müller",
     "Funktion":"",
     "Unternehmen":"Bombardier Transportation",
@@ -617,7 +593,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Technische Universität Dresden (ohne Klinikum)",
+    "Uni":"TU Dresden (ohne Klinikum)",
     "Name":"Gunda Röstel",
     "Funktion":"Vorsitzende",
     "Unternehmen":"GELSENWASSER",
@@ -625,7 +601,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Technische Universität Dresden (ohne Klinikum)",
+    "Uni":"TU Dresden (ohne Klinikum)",
     "Name":"Prof. Klaus Raps",
     "Funktion":"Stellvertr. Vorsitzender",
     "Unternehmen":"Bilfinger Berger",
@@ -633,7 +609,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Technische Universität Dresden (ohne Klinikum)",
+    "Uni":"TU Dresden (ohne Klinikum)",
     "Name":"Prof. Dr. sc. nat. Knut Löschke",
     "Funktion":"",
     "Unternehmen":"Deutsche Bahn",
@@ -641,7 +617,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Technische Universität Dresden (ohne Klinikum)",
+    "Uni":"TU Dresden (ohne Klinikum)",
     "Name":"Dipl.-Ing. Jörg Thiele",
     "Funktion":"",
     "Unternehmen":"iproplan Planungsgesellschaft mbH",
@@ -649,7 +625,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Technische Universität Dresden (ohne Klinikum)",
+    "Uni":"TU Dresden (ohne Klinikum)",
     "Name":"Prof. Martin Winterkorn",
     "Funktion":"",
     "Unternehmen":"Volkswagen",
@@ -657,7 +633,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Technische Universität Chemnitz",
+    "Uni":"TU Chemnitz",
     "Name":"Hans J. Naumann",
     "Funktion":"",
     "Unternehmen":"NILES-SIMMONS-HEGENSCHEIDT GmbH",
@@ -665,7 +641,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Technische Universität Chemnitz",
+    "Uni":"TU Chemnitz",
     "Name":"Dr.-Ing. E. h. Gunnar Grosse",
     "Funktion":"",
     "Unternehmen":"KOMSA Kommunikation Sachsen AG",
@@ -673,7 +649,7 @@
   },
   {
     "Bundesland":"Sachsen",
-    "Uni":"Technische Universität Chemnitz",
+    "Uni":"TU Chemnitz",
     "Name":"Dipl.-Kfm. Bodo Finger",
     "Funktion":"",
     "Unternehmen":"Chemnitzer Zahnradfabrik GmbH & Co. KG",
@@ -689,7 +665,7 @@
   },
   {
     "Bundesland":"Schleswig-Holstein",
-    "Uni":"Fachhochschule Kiel",
+    "Uni":"FH Kiel",
     "Name":"Katrin Birr",
     "Funktion":"",
     "Unternehmen":"Gebr. Friedrich GmbH & Co KG",
@@ -697,7 +673,7 @@
   },
   {
     "Bundesland":"Schleswig-Holstein",
-    "Uni":"Fachhochschule Westküste",
+    "Uni":"FH Westküste, Heide",
     "Name":"Gunnar Liehr",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Siemens",
@@ -705,7 +681,7 @@
   },
   {
     "Bundesland":"Schleswig-Holstein",
-    "Uni":"Fachhochschule Westküste",
+    "Uni":"FH Westküste, Heide",
     "Name":"Dr. Regina Buhr",
     "Funktion":"",
     "Unternehmen":"VDI/VDE Innovation + Technik GmbH",
@@ -713,7 +689,7 @@
   },
   {
     "Bundesland":"Schleswig-Holstein",
-    "Uni":"Fachhochschule Lübeck",
+    "Uni":"FH Lübeck",
     "Name":"Dr. Erik Larsson",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Glaxo Wellcome GmbH & Co., Bad Oldesloe",
@@ -721,7 +697,7 @@
   },
   {
     "Bundesland":"Schleswig-Holstein",
-    "Uni":"Fachhochschule Lübeck",
+    "Uni":"FH Lübeck",
     "Name":"Max Schön",
     "Funktion":"",
     "Unternehmen":"Max & Co Küchenhandelsgesellschaft mbH, Lübeck",
@@ -745,7 +721,7 @@
   },
   {
     "Bundesland":"Sachsen-Anhalt",
-    "Uni":"Hochschule Harz",
+    "Uni":"Hochschule Harz (FH)",
     "Name":"Dr. Franz Mnich",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Microvista GmbH",
@@ -753,7 +729,7 @@
   },
   {
     "Bundesland":"Sachsen-Anhalt",
-    "Uni":"Hochschule Harz",
+    "Uni":"Hochschule Harz (FH)",
     "Name":"Gerhard Bürger",
     "Funktion":"",
     "Unternehmen":"Bürger AG",
@@ -761,7 +737,7 @@
   },
   {
     "Bundesland":"Sachsen-Anhalt",
-    "Uni":"Hochschule Harz",
+    "Uni":"Hochschule Harz (FH)",
     "Name":"Prof. Dr. Hartmut Dannenberg",
     "Funktion":"",
     "Unternehmen":"HaCon Ingenieurgesellschaft mbH",
@@ -769,7 +745,7 @@
   },
   {
     "Bundesland":"Sachsen-Anhalt",
-    "Uni":"Hochschule Harz",
+    "Uni":"Hochschule Harz (FH)",
     "Name":"Dr. Dieter Nirschl",
     "Funktion":"",
     "Unternehmen":"TUI",
@@ -801,7 +777,7 @@
   },
   {
     "Bundesland":"Sachsen-Anhalt",
-    "Uni":"Hochschule Anhalt",
+    "Uni":"Hochschule Anhalt (FH)",
     "Name":"Matthias Gabriel",
     "Funktion":"",
     "Unternehmen":"P-D ChemiePark Bitterfeld Wolfen GmbH",
@@ -809,7 +785,7 @@
   },
   {
     "Bundesland":"Sachsen-Anhalt",
-    "Uni":"Hochschule Anhalt",
+    "Uni":"Hochschule Anhalt (FH)",
     "Name":"Dr. Helge Fänger",
     "Funktion":"",
     "Unternehmen":"Serumwerk Bernburg AG",
@@ -817,7 +793,7 @@
   },
   {
     "Bundesland":"Sachsen-Anhalt",
-    "Uni":"Hochschule Magdeburg-Stendal",
+    "Uni":"Hochschule Magdeburg-Stendal (FH)",
     "Name":"Dr. Lutz Petermann",
     "Funktion":"",
     "Unternehmen":"FAM Magdeburger Förderanlagen und Baumaschinen GmbH",
@@ -825,7 +801,7 @@
   },
   {
     "Bundesland":"Sachsen-Anhalt",
-    "Uni":"Hochschule Magdeburg-Stendal",
+    "Uni":"Hochschule Magdeburg-Stendal (FH)",
     "Name":"Klemens Gutmann",
     "Funktion":"",
     "Unternehmen":"regiocom GmbH",
@@ -841,7 +817,7 @@
   },
   {
     "Bundesland":"Thüringen",
-    "Uni":"Universität Jena (ohne Klinikum)",
+    "Uni":"Friedrich-Schiller-Universität Jena (ohne Klinikum)",
     "Name":"Jürgen Radomski",
     "Funktion":"",
     "Unternehmen":"Siemens",
@@ -849,7 +825,7 @@
   },
   {
     "Bundesland":"Thüringen",
-    "Uni":"Universität Jena (ohne Klinikum)",
+    "Uni":"Friedrich-Schiller-Universität Jena (ohne Klinikum)",
     "Name":"Prof. Dr. Michael Kaschke",
     "Funktion":"",
     "Unternehmen":"Carl Zeiss",
@@ -889,7 +865,7 @@
   },
   {
     "Bundesland":"Thüringen",
-    "Uni":"Fachhochschule Erfurt",
+    "Uni":"FH Erfurt",
     "Name":"Herr Frank Belkner",
     "Funktion":"",
     "Unternehmen":"ERFURT Bildungszentrum GmbH",
@@ -897,7 +873,7 @@
   },
   {
     "Bundesland":"Thüringen",
-    "Uni":"Fachhochschule Erfurt",
+    "Uni":"FH Erfurt",
     "Name":"Herr Dr. Jan Kemper",
     "Funktion":"",
     "Unternehmen":"CFO Zalando GmbH",
@@ -905,7 +881,7 @@
   },
   {
     "Bundesland":"Thüringen",
-    "Uni":"Fachhochschule Nordhausen",
+    "Uni":"FH Nordhausen",
     "Name":"Nadine Henkel",
     "Funktion":"",
     "Unternehmen":"EPC Technology GmbH",
@@ -937,15 +913,15 @@
   },
   {
     "Bundesland":"Thüringen",
-    "Uni":"Technische Universität Ilmenau",
+    "Uni":"TU Ilmenau",
     "Name":"Dr. Michael Mertin",
     "Funktion":"",
-    "Unternehmen":"Jenoptik AG",
+    "Unternehmen":"Jenoptik",
     "Alternativname":""
   },
   {
     "Bundesland":"Thüringen",
-    "Uni":"Technische Universität Ilmenau",
+    "Uni":"TU Ilmenau",
     "Name":"Dr. Edgar Most",
     "Funktion":"",
     "Unternehmen":"Deutsche Bank",
@@ -993,7 +969,7 @@
   },
   {
     "Bundesland":"Mecklenburg-Vorpommern",
-    "Uni":"Hochschule Wismar",
+    "Uni":"FH Wismar",
     "Name":"Herr Dr.-Ing. Ulrich Förster",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Lloyd's Register EMEA",
@@ -1001,7 +977,7 @@
   },
   {
     "Bundesland":"Mecklenburg-Vorpommern",
-    "Uni":"Hochschule Wismar",
+    "Uni":"FH Wismar",
     "Name":"Herr David Pangerl, Master of Laws (LL.M.)",
     "Funktion":"",
     "Unternehmen":"Buckstay GmbH",
@@ -1009,7 +985,7 @@
   },
   {
     "Bundesland":"Mecklenburg-Vorpommern",
-    "Uni":"Hochschule Wismar",
+    "Uni":"FH Wismar",
     "Name":"Herr Tom Streicher, Dipl.-Ing.",
     "Funktion":"",
     "Unternehmen":"ECOVIS Grieger Mallison Management AG",
@@ -1033,7 +1009,7 @@
   },
   {
     "Bundesland":"Berlin",
-    "Uni":"HU Berlin",
+    "Uni":"Humboldt-Universität zu Berlin",
     "Name":"Burkhard Ischler",
     "Funktion":"",
     "Unternehmen":"Siemens",
@@ -1049,7 +1025,7 @@
   },
   {
     "Bundesland":"Berlin",
-    "Uni":"Technische Universität Berlin",
+    "Uni":"TU Berlin",
     "Name":"Konrad Nassauer",
     "Funktion":"",
     "Unternehmen":"Borsig GmbH",
@@ -1057,7 +1033,7 @@
   },
   {
     "Bundesland":"Berlin",
-    "Uni":"Technische Universität Berlin",
+    "Uni":"TU Berlin",
     "Name":"Dietrich Wörner",
     "Funktion":"",
     "Unternehmen":"Deutsches Zentrum für Luft- und Raumfahrt",
@@ -1065,7 +1041,7 @@
   },
   {
     "Bundesland":"Berlin",
-    "Uni":"SRH Hochschule Berlin",
+    "Uni":"SRH Hochschule Berlin (Priv. FH)",
     "Name":"PROF. KLAUS HEKKING",
     "Funktion":"Vorsitzender",
     "Unternehmen":"SRH Holding",
@@ -1073,7 +1049,7 @@
   },
   {
     "Bundesland":"Berlin",
-    "Uni":"SRH Hochschule Berlin",
+    "Uni":"SRH Hochschule Berlin (Priv. FH)",
     "Name":"DR. HANS-JüRGEN AHLBRECHT",
     "Funktion":"",
     "Unternehmen":"debis Immobilienmanagement",
@@ -1081,7 +1057,7 @@
   },
   {
     "Bundesland":"Berlin",
-    "Uni":"SRH Hochschule Berlin",
+    "Uni":"SRH Hochschule Berlin (Priv. FH)",
     "Name":"BERND EULER",
     "Funktion":"",
     "Unternehmen":"Siemens",
@@ -1089,7 +1065,7 @@
   },
   {
     "Bundesland":"Berlin",
-    "Uni":"SRH Hochschule Berlin",
+    "Uni":"SRH Hochschule Berlin (Priv. FH)",
     "Name":"DR. ARMGARD VON REDEN",
     "Funktion":"",
     "Unternehmen":"IBM",
@@ -1097,7 +1073,7 @@
   },
   {
     "Bundesland":"Berlin",
-    "Uni":"SRH Hochschule Berlin",
+    "Uni":"SRH Hochschule Berlin (Priv. FH)",
     "Name":"DR. HERBERT RISCHE",
     "Funktion":"",
     "Unternehmen":"Deutsche Rentenversicherung Bund",
@@ -1105,7 +1081,7 @@
   },
   {
     "Bundesland":"Berlin",
-    "Uni":"SRH Hochschule Berlin",
+    "Uni":"SRH Hochschule Berlin (Priv. FH)",
     "Name":"GRäFIN ANNETTE VON WEDEL",
     "Funktion":"",
     "Unternehmen":"Deutsche Bahn",
@@ -1113,7 +1089,7 @@
   },
   {
     "Bundesland":"Berlin",
-    "Uni":"Hochschule für Musik Berlin",
+    "Uni":"Hochschule für Musik Berlin Hanns Eisler",
     "Name":"Thomas Greiner",
     "Funktion":"",
     "Unternehmen":"DUSSMANN AG & Co. KgaA",
@@ -1121,7 +1097,7 @@
   },
   {
     "Bundesland":"Berlin",
-    "Uni":"Hochschule für Musik Berlin",
+    "Uni":"Hochschule für Musik Berlin Hanns Eisler",
     "Name":"Christian Töpper",
     "Funktion":"",
     "Unternehmen":"Taxxus Media GmbH",
@@ -1153,7 +1129,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
+    "Uni":"TU München (ohne Klinikum)",
     "Name":"Susanne Klatten",
     "Funktion":"",
     "Unternehmen":"BMW",
@@ -1161,23 +1137,23 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
-    "Name":"",
+    "Uni":"TU München (ohne Klinikum)",
+    "Name":"Susanne Klatten",
     "Funktion":"",
     "Unternehmen":"SGL Carbon GmbH",
     "Alternativname":""
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
-    "Name":"",
+    "Uni":"TU München (ohne Klinikum)",
+    "Name":"Susanne Klatten",
     "Funktion":"",
     "Unternehmen":"Altana AG",
     "Alternativname":""
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
+    "Uni":"TU München (ohne Klinikum)",
     "Name":"Dr. Nicola Leibinger-Kammüller",
     "Funktion":"",
     "Unternehmen":"Trumpf",
@@ -1185,7 +1161,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
+    "Uni":"TU München (ohne Klinikum)",
     "Name":"Peter Löscher",
     "Funktion":"",
     "Unternehmen":"Siemens",
@@ -1193,7 +1169,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
+    "Uni":"TU München (ohne Klinikum)",
     "Name":"Dr.-Ing. Dr.-Ing. E.h. Norbert Reithofer",
     "Funktion":"",
     "Unternehmen":"BMW",
@@ -1201,7 +1177,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
+    "Uni":"TU München (ohne Klinikum)",
     "Name":"Dr. med. Matthias Wilkening",
     "Funktion":"",
     "Unternehmen":"Klinikum Wahrendorff GmbH",
@@ -1209,7 +1185,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
+    "Uni":"TU München (ohne Klinikum)",
     "Name":"Prof. Dr. Eva-Maria Neher",
     "Funktion":"",
     "Unternehmen":"XLAB Göttingen",
@@ -1321,7 +1297,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Ansbach",
+    "Uni":"FH Ansbach",
     "Name":"Christoph Faßhauer",
     "Funktion":"",
     "Unternehmen":"OECHSLER AG",
@@ -1329,7 +1305,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Ansbach",
+    "Uni":"FH Ansbach",
     "Name":"Manfred Geyer",
     "Funktion":"",
     "Unternehmen":"Raiffeisen Volksbank eG",
@@ -1337,7 +1313,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Ansbach",
+    "Uni":"FH Ansbach",
     "Name":"Gabriela Gottwald",
     "Funktion":"",
     "Unternehmen":"Bayerische BauAkademie",
@@ -1345,7 +1321,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Ansbach",
+    "Uni":"FH Ansbach",
     "Name":"Max Heller",
     "Funktion":"",
     "Unternehmen":"Möbelwerke Schüller",
@@ -1353,7 +1329,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Ansbach",
+    "Uni":"FH Ansbach",
     "Name":"Dr. Werner Lang",
     "Funktion":"",
     "Unternehmen":"MEKRA Lang",
@@ -1361,7 +1337,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Ansbach",
+    "Uni":"FH Ansbach",
     "Name":"Roland Moritzer",
     "Funktion":"",
     "Unternehmen":"Ansbacher Versorgungs- und Verkehrsholding GmbH",
@@ -1369,7 +1345,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Ansbach",
+    "Uni":"FH Ansbach",
     "Name":"Udo Noack",
     "Funktion":"",
     "Unternehmen":"Bosch",
@@ -1377,7 +1353,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Ansbach",
+    "Uni":"FH Ansbach",
     "Name":"Johann Reindl",
     "Funktion":"",
     "Unternehmen":"Electrolux Rothenburg GmbH",
@@ -1385,7 +1361,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Ansbach",
+    "Uni":"FH Ansbach",
     "Name":"Gisela Schellenberger",
     "Funktion":"",
     "Unternehmen":"Schellenberger Bürstenfabrik GmbH",
@@ -1633,7 +1609,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Rosenheim",
+    "Uni":"FH Rosenheim",
     "Name":"Walter Schatt",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Schattdecor AG Thansau",
@@ -1641,7 +1617,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Rosenheim",
+    "Uni":"FH Rosenheim",
     "Name":"Dr. Wolfgang Friedrich",
     "Funktion":"",
     "Unternehmen":"MBM Maschinenbau Mühldorf GmbH",
@@ -1649,7 +1625,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Rosenheim",
+    "Uni":"FH Rosenheim",
     "Name":"Prof. Dr. Thomas Sesselmann",
     "Funktion":"",
     "Unternehmen":"Johannes Heidenhain GmbH",
@@ -1657,7 +1633,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule Rosenheim",
+    "Uni":"FH Rosenheim",
     "Name":"Katharina König",
     "Funktion":"",
     "Unternehmen":"Spinner GmbH",
@@ -1788,7 +1764,7 @@
     "Uni":"Hochschule für angewandte Wissenschaft Ingolstadt",
     "Name":"Dipl.-Ing. Frank Dreves",
     "Funktion":"",
-    "Unternehmen":"AUDI AG",
+    "Unternehmen":"Audi",
     "Alternativname":""
   },
   {
@@ -1841,7 +1817,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
+    "Uni":"TU München (ohne Klinikum)",
     "Name":"Susanne Klatten",
     "Funktion":"",
     "Unternehmen":"BMW",
@@ -1849,23 +1825,23 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
-    "Name":"",
+    "Uni":"TU München (ohne Klinikum)",
+    "Name":"Susanne Klatten",
     "Funktion":"",
     "Unternehmen":"SGL Carbon GmbH",
     "Alternativname":""
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
-    "Name":"",
+    "Uni":"TU München (ohne Klinikum)",
+    "Name":"Susanne Klatten",
     "Funktion":"",
     "Unternehmen":"Altana AG",
     "Alternativname":""
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
+    "Uni":"TU München (ohne Klinikum)",
     "Name":"Dr. Nicola Leibinger-Kammüller",
     "Funktion":"",
     "Unternehmen":"Trumpf",
@@ -1873,7 +1849,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
+    "Uni":"TU München (ohne Klinikum)",
     "Name":"Peter Löscher",
     "Funktion":"",
     "Unternehmen":"Siemens",
@@ -1881,7 +1857,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Technische Universität München (ohne Klinikum)",
+    "Uni":"TU München (ohne Klinikum)",
     "Name":"Dr.-Ing. Dr.-Ing. E.h. Norbert Reithofer",
     "Funktion":"",
     "Unternehmen":"BMW",
@@ -1969,7 +1945,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Universität Erlangen-Nürnberg (ohne Klinikum)",
+    "Uni":"Universität Erlangen-Nürnberg",
     "Name":"Prof. Dr. Hermann Requardt",
     "Funktion":"",
     "Unternehmen":"Siemens",
@@ -1977,7 +1953,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Universität Erlangen-Nürnberg (ohne Klinikum)",
+    "Uni":"Universität Erlangen-Nürnberg",
     "Name":"Dr. Bernd Rödl",
     "Funktion":"",
     "Unternehmen":"Rödl & Partner",
@@ -1985,7 +1961,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Universität Erlangen-Nürnberg (ohne Klinikum)",
+    "Uni":"Universität Erlangen-Nürnberg",
     "Name":"Maria-Elisabeth Schaeffler",
     "Funktion":"",
     "Unternehmen":"Schaeffler Gruppe",
@@ -1993,7 +1969,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Universität Erlangen-Nürnberg (ohne Klinikum)",
+    "Uni":"Universität Erlangen-Nürnberg",
     "Name":"Prof. Dr. Klaus Wucherer",
     "Funktion":"",
     "Unternehmen":"Festo",
@@ -2049,7 +2025,7 @@
   },
   {
     "Bundesland":"Hamburg",
-    "Uni":"Technische Universität Hamburg-Harburg",
+    "Uni":"TU Hamburg-Harburg",
     "Name":"Walter Conrads",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Philips",
@@ -2057,7 +2033,7 @@
   },
   {
     "Bundesland":"Hamburg",
-    "Uni":"Technische Universität Hamburg-Harburg",
+    "Uni":"TU Hamburg-Harburg",
     "Name":"August-Wilhelm Henningsen",
     "Funktion":"",
     "Unternehmen":"Lufthansa",
@@ -2065,7 +2041,7 @@
   },
   {
     "Bundesland":"Hamburg",
-    "Uni":"Technische Universität Hamburg-Harburg",
+    "Uni":"TU Hamburg-Harburg",
     "Name":"Sibylle Stauch-Eckmann",
     "Funktion":"",
     "Unternehmen":"Endo-Klinik",
@@ -2073,7 +2049,7 @@
   },
   {
     "Bundesland":"Hamburg",
-    "Uni":"Technische Universität Hamburg-Harburg",
+    "Uni":"TU Hamburg-Harburg",
     "Name":"Michael Westhagemann",
     "Funktion":"",
     "Unternehmen":"Siemens",
@@ -2145,7 +2121,7 @@
   },
   {
     "Bundesland":"Hessen",
-    "Uni":"Technische Hochschule Mittelhessen",
+    "Uni":"Technische Hochschule Mittelhessen, FH (THM)",
     "Name":"Dipl.-Betriebswirtin Sabine Bender-Suhr",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Bender Group",
@@ -2153,7 +2129,7 @@
   },
   {
     "Bundesland":"Hessen",
-    "Uni":"Technische Hochschule Mittelhessen",
+    "Uni":"Technische Hochschule Mittelhessen, FH (THM)",
     "Name":"Dipl.-Kfm. Ulrich Schoof",
     "Funktion":"",
     "Unternehmen":"Linde + Wiemann",
@@ -2297,7 +2273,7 @@
   },
   {
     "Bundesland":"Hessen",
-    "Uni":"Hochschule RheinMain",
+    "Uni":"Hochschule RheinMain (FH)",
     "Name":"Herr Dr. Tobias Sünner",
     "Funktion":"",
     "Unternehmen":"Opel",
@@ -2305,7 +2281,7 @@
   },
   {
     "Bundesland":"Hessen",
-    "Uni":"Technische Universität Darmstadt",
+    "Uni":"TU Darmstadt",
     "Name":"Herr Professor Dr. Bernd Reckmann",
     "Funktion":"",
     "Unternehmen":"Merck Group",
@@ -2313,7 +2289,7 @@
   },
   {
     "Bundesland":"Hessen",
-    "Uni":"Technische Universität Darmstadt",
+    "Uni":"TU Darmstadt",
     "Name":"Herr Professor Dr. Georg Winckler",
     "Funktion":"",
     "Unternehmen":"Erste Group Bank; UNIQA Versicherungen AG",
@@ -2321,7 +2297,7 @@
   },
   {
     "Bundesland":"Hessen",
-    "Uni":"Technische Universität Darmstadt",
+    "Uni":"TU Darmstadt",
     "Name":"Herr Dr. Holger Zinke",
     "Funktion":"stellv. Vorsitzender",
     "Unternehmen":"Technologieunternehmen BRAIN",
@@ -2329,7 +2305,7 @@
   },
   {
     "Bundesland":"Hessen",
-    "Uni":"Hochschule Mannheim",
+    "Uni":"Hochschule Mannheim (FH)",
     "Name":"Dr. Bernhard Haas",
     "Funktion":"",
     "Unternehmen":"Deere & Company",
@@ -2337,7 +2313,7 @@
   },
   {
     "Bundesland":"Hessen",
-    "Uni":"Hochschule Mannheim",
+    "Uni":"Hochschule Mannheim (FH)",
     "Name":"Dr.-Ing. Gunther Kegel",
     "Funktion":"",
     "Unternehmen":"Pepperl + Fuchs GmbH",
@@ -2345,7 +2321,7 @@
   },
   {
     "Bundesland":"Hessen",
-    "Uni":"Hochschule Mannheim",
+    "Uni":"Hochschule Mannheim (FH)",
     "Name":"Herr Dr. Holger Zinke",
     "Funktion":"",
     "Unternehmen":"B.R.A.I.N. AG",
@@ -2513,7 +2489,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Albstadt-Sigmaringen",
+    "Uni":"Hochschule Albstadt-Sigmaringen (FH)",
     "Name":"Udo J. Vetter",
     "Funktion":"",
     "Unternehmen":"Firmengruppe VETTER",
@@ -2521,7 +2497,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Albstadt-Sigmaringen",
+    "Uni":"Hochschule Albstadt-Sigmaringen (FH)",
     "Name":"Dr. Thomas Lindner",
     "Funktion":"",
     "Unternehmen":"Groz-Beckert KG",
@@ -2529,7 +2505,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Albstadt-Sigmaringen",
+    "Uni":"Hochschule Albstadt-Sigmaringen (FH)",
     "Name":"Dr. rer. nat. Sophie Schwörer",
     "Funktion":"",
     "Unternehmen":"SchwörerHaus KG",
@@ -2537,7 +2513,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Aalen",
+    "Uni":"FH Aalen",
     "Name":"Prof. Dr. Michael Kaschke",
     "Funktion":"",
     "Unternehmen":"Carl Zeiss",
@@ -2545,7 +2521,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Aalen",
+    "Uni":"FH Aalen",
     "Name":"Martin Hennerici",
     "Funktion":"",
     "Unternehmen":"Voith Industrial Service Holding GmbH",
@@ -2553,7 +2529,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Aalen",
+    "Uni":"FH Aalen",
     "Name":"Dr. Dieter Kress",
     "Funktion":"",
     "Unternehmen":"MAPAL Präzisionswerkzeuge KG",
@@ -2561,7 +2537,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Aalen",
+    "Uni":"FH Aalen",
     "Name":"Dr. Stefan Kampmann",
     "Funktion":"",
     "Unternehmen":"Bosch",
@@ -2569,7 +2545,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Aalen",
+    "Uni":"FH Aalen",
     "Name":"Franziska Eichel",
     "Funktion":"",
     "Unternehmen":"LMT Leading Metalworking Technologies Group",
@@ -2649,7 +2625,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule für Forstwirtschaft Rottenburg",
+    "Uni":"Hochschule für Forstwirtschaft Rottenburg (FH)",
     "Name":"Gräfin Bettina Bernadotte",
     "Funktion":"",
     "Unternehmen":"Mainau GmbH",
@@ -2657,7 +2633,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule für Forstwirtschaft Rottenburg",
+    "Uni":"Hochschule für Forstwirtschaft Rottenburg (FH)",
     "Name":"RA Stephan Meißner",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Papierzentrum Gernsbach",
@@ -2665,7 +2641,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule für Forstwirtschaft Rottenburg",
+    "Uni":"Hochschule für Forstwirtschaft Rottenburg (FH)",
     "Name":"Dr. Udo Hartmann",
     "Funktion":"",
     "Unternehmen":"Daimler",
@@ -2673,7 +2649,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule für Forstwirtschaft Rottenburg",
+    "Uni":"Hochschule für Forstwirtschaft Rottenburg (FH)",
     "Name":"Max Reger",
     "Funktion":"",
     "Unternehmen":"ForstBW ",
@@ -2729,7 +2705,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Esslingen",
+    "Uni":"Hochschule Esslingen (FH)",
     "Name":"Klaus Freytag",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Siemens",
@@ -2737,7 +2713,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Esslingen",
+    "Uni":"Hochschule Esslingen (FH)",
     "Name":"Markus Heßbrüggen",
     "Funktion":"",
     "Unternehmen":"EMAG Holding GmbH",
@@ -2745,7 +2721,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Esslingen",
+    "Uni":"Hochschule Esslingen (FH)",
     "Name":"Heidi Stock",
     "Funktion":"",
     "Unternehmen":"Bosch",
@@ -2753,7 +2729,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Esslingen",
+    "Uni":"Hochschule Esslingen (FH)",
     "Name":"Georg Weiberg",
     "Funktion":"",
     "Unternehmen":"Daimler",
@@ -2953,7 +2929,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Karlsruhe",
+    "Uni":"Hochschule Karlsruhe (FH)",
     "Name":"Brigitte Almaschi",
     "Funktion":"stellvertr. Vorsitzende",
     "Unternehmen":"Hewlett-Packard GmbH",
@@ -2961,7 +2937,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Karlsruhe",
+    "Uni":"Hochschule Karlsruhe (FH)",
     "Name":"Bernd Bechtold",
     "Funktion":"stellvertr. Vorsitzender",
     "Unternehmen":"b.i.g.-Gruppe",
@@ -2969,7 +2945,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Karlsruhe",
+    "Uni":"Hochschule Karlsruhe (FH)",
     "Name":"Hans Dietrich",
     "Funktion":"",
     "Unternehmen":"DV Bern Holding AG",
@@ -2977,7 +2953,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Karlsruhe",
+    "Uni":"Hochschule Karlsruhe (FH)",
     "Name":"Lorenz Kohlbecker",
     "Funktion":"",
     "Unternehmen":"Bilfinger Berger",
@@ -2985,7 +2961,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Karlsruhe",
+    "Uni":"Hochschule Karlsruhe (FH)",
     "Name":"Gerhard Oswald",
     "Funktion":"",
     "Unternehmen":"SAP",
@@ -2993,7 +2969,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Karlsruhe",
+    "Uni":"Hochschule Karlsruhe (FH)",
     "Name":"Frithjof Punke",
     "Funktion":"",
     "Unternehmen":"Daimler",
@@ -3001,7 +2977,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Karlsruhe",
+    "Uni":"Hochschule Karlsruhe (FH)",
     "Name":"Dr. Sabine Röser",
     "Funktion":"",
     "Unternehmen":"Rudolf Röser Verlag und Informationsdienste AG",
@@ -3009,15 +2985,15 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Konstanz",
+    "Uni":"Hochschule Konstanz (HTWG)",
     "Name":"Prof. h. c. Thomas Sigi",
     "Funktion":"Vorsitzender",
-    "Unternehmen":"AUDI AG",
+    "Unternehmen":"Audi",
     "Alternativname":""
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Konstanz",
+    "Uni":"Hochschule Konstanz (HTWG)",
     "Name":"Jaimi Cyrus",
     "Funktion":"stellvertr. Vorsitzende",
     "Unternehmen":"Hewlett-Packard GmbH",
@@ -3025,7 +3001,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Konstanz",
+    "Uni":"Hochschule Konstanz (HTWG)",
     "Name":"Christian Böllhoff",
     "Funktion":"",
     "Unternehmen":"Geschäftsführer Prognos AG",
@@ -3033,7 +3009,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Konstanz",
+    "Uni":"Hochschule Konstanz (HTWG)",
     "Name":"Dr. Andrea Leu",
     "Funktion":"",
     "Unternehmen":"Leu & Partner AG",
@@ -3265,7 +3241,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Karlsruher Institut für Technologie",
+    "Uni":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Name":"Dr. Andreas Kreimeyer",
     "Funktion":"Stellvertr. Vorsitzender",
     "Unternehmen":"BASF SE",
@@ -3273,7 +3249,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Karlsruher Institut für Technologie",
+    "Uni":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Name":"Susanne Kunschert",
     "Funktion":"",
     "Unternehmen":"Pilz GmbH & Co. KG",
@@ -3281,7 +3257,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Karlsruher Institut für Technologie",
+    "Uni":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Name":"Stefan Quandt",
     "Funktion":"",
     "Unternehmen":"AQTON SE",
@@ -3289,7 +3265,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Karlsruher Institut für Technologie",
+    "Uni":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Name":"Dr. Dieter Zetsche",
     "Funktion":"",
     "Unternehmen":"Daimler",
@@ -3297,7 +3273,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Pädagogische Hochschule Freiburg",
+    "Uni":"PH Freiburg i.Br.",
     "Name":"Anne-Kathrin Deutrich",
     "Funktion":"Vorsitzende",
     "Unternehmen":"Testo AG",
@@ -3305,7 +3281,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Pädagogische Hochschule Freiburg",
+    "Uni":"PH Freiburg i.Br.",
     "Name":"Dr. Anja Bauer-Harz",
     "Funktion":"",
     "Unternehmen":"Elektro-Schillinger GmbH",
@@ -3313,7 +3289,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Staatliche Akademie der Bildenden Künste Stuttgart",
+    "Uni":"Staatl. Akademie der Bildenden Künste Stuttgart",
     "Name":"Dr. Petra Kiedaisch",
     "Funktion":"",
     "Unternehmen":"avedition GmbH",
@@ -3321,7 +3297,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Staatliche Akademie der Bildenden Künste Stuttgart",
+    "Uni":"Staatl. Akademie der Bildenden Künste Stuttgart",
     "Name":"Dr. Volker Gerstenmaier",
     "Funktion":"",
     "Unternehmen":"Bankhaus Ellwanger & Geiger KG",
@@ -3329,7 +3305,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Universität Freiburg (ohne Klinikum)",
+    "Uni":"Universität Freiburg i.Br. (ohne Klinikum)",
     "Name":"Prof. Burkart Knospe",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Testo AG",
@@ -3337,7 +3313,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Universität Freiburg (ohne Klinikum)",
+    "Uni":"Universität Freiburg i.Br. (ohne Klinikum)",
     "Name":"Anne-Kathrin Deutrich",
     "Funktion":"",
     "Unternehmen":"Testo AG",
@@ -3345,7 +3321,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Universität Freiburg (ohne Klinikum)",
+    "Uni":"Universität Freiburg i.Br. (ohne Klinikum)",
     "Name":"Dr. Christian Fischer",
     "Funktion":"",
     "Unternehmen":"BASF SE",
@@ -3353,7 +3329,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"Universität Freiburg (ohne Klinikum)",
+    "Uni":"Universität Freiburg i.Br. (ohne Klinikum)",
     "Name":"Dr. Dieter Pauschinger",
     "Funktion":"",
     "Unternehmen":"Trumpf",
