@@ -421,7 +421,7 @@
     "Land":"Bremen",
     "Hochschule":"Universität Bremen",
     "Stiftungsprofessur":"Stiftungsprofessur für Verfahren zur Wertstoffrückgewinnung",
-    "Stifter":"Stifterverband für die deutsche Wissenschaft",
+    "Stifter":"Stifterverband für die Deutsche Wissenschaft",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"5 Jahre, vom Oktober 2001 bis zum September 2006",
@@ -443,7 +443,7 @@
     "Land":"Bremen",
     "Hochschule":"Universität Bremen",
     "Stiftungsprofessur":"Daimler-Stiftungsprofessur für Management mittelständiger Unternehmen im internationalen Geschäft",
-    "Stifter":"Stifterverband für die deutsche Wissenschaft",
+    "Stifter":"Stifterverband für die Deutsche Wissenschaft",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"3 Jahre, vom April 2001 bis zum März 2004",
@@ -465,7 +465,7 @@
     "Land":"Bremen",
     "Hochschule":"Universität Bremen",
     "Stiftungsprofessur":"Stiftungsprofessur Neuropharmakologie",
-    "Stifter":"Stifterverband",
+    "Stifter":"Stifterverband für die Deutsche Wissenschaft",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"3 Jahre, vom Februar 2000 bis zum Januar 2003",
@@ -498,7 +498,7 @@
     "Land":"Bremen",
     "Hochschule":"Universität Bremen",
     "Stiftungsprofessur":"Stiftungsprofessur für Keramische Werkstoffe",
-    "Stifter":"Stifterverband für die deutsche Wissenschaft",
+    "Stifter":"Stifterverband für die Deutsche Wissenschaft",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"5 Jahre, vom April 1994 bis zum März 1999",
@@ -520,7 +520,7 @@
     "Land":"Bremen",
     "Hochschule":"Universität Bremen",
     "Stiftungsprofessur":"Stiftungsprofessur für Mathematische Grundlagen der Logistik",
-    "Stifter":"Stifterverband für die deutsche Wissenschaft",
+    "Stifter":"Stifterverband für die Deutsche Wissenschaft",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"5 Jahre, vom November 1992 bis zum November 1997",
@@ -597,7 +597,7 @@
     "Land":"Bremen",
     "Hochschule":"Universität Bremen",
     "Stiftungsprofessur":"Stiftungsprofessur für Umweltverfahrenstechnik",
-    "Stifter":"Stifterverband für die deutsche Wissenschaft",
+    "Stifter":"Stifterverband für die Deutsche Wissenschaft",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"5 Jahre, vom Dezember 1989 bis zum Dezember 1994",
@@ -815,7 +815,7 @@
   },
   {
     "Land":"Rheinland-Pfalz",
-    "Hochschule":"Hochschule Ludwigshafen",
+    "Hochschule":"Hochschule Ludwigshafen am Rhein",
     "Stiftungsprofessur":"Diversity in Sozialwissenschaften",
     "Stifter":"H. Prof. Dr. jur. Carl-Heinrich Esser, Mannheim",
     "Fördersumme pro Jahr":"300000",
@@ -1145,7 +1145,7 @@
   },
   {
     "Land":"Mecklenburg-Vorpommern",
-    "Hochschule":"Universität Rostock",
+    "Hochschule":"Universität Rostock (ohne Klinikum)",
     "Stiftungsprofessur":"Windenergietechnik",
     "Stifter":"Nordex SE",
     "Fördersumme pro Jahr":"",
@@ -1156,7 +1156,7 @@
   },
   {
     "Land":"Mecklenburg-Vorpommern",
-    "Hochschule":"Universität Rostock",
+    "Hochschule":"Universität Rostock (ohne Klinikum)",
     "Stiftungsprofessur":"Wasserwirtschaft",
     "Stifter":"Eurawasser",
     "Fördersumme pro Jahr":"",
@@ -1167,7 +1167,7 @@
   },
   {
     "Land":"Mecklenburg-Vorpommern",
-    "Hochschule":"Universität Rostock",
+    "Hochschule":"Universität Rostock (ohne Klinikum)",
     "Stiftungsprofessur":"Herman-Schmitz-Professur für phänomenologische Philosophie",
     "Stifter":"Dr. Johannes Werhahn",
     "Fördersumme pro Jahr":"",
@@ -1178,7 +1178,7 @@
   },
   {
     "Land":"Mecklenburg-Vorpommern",
-    "Hochschule":"Universität Rostock",
+    "Hochschule":"Universität Rostock (ohne Klinikum)",
     "Stiftungsprofessur":"Lichtenberg-Professur für sensorische und kognitive ökologie",
     "Stifter":"Volkswagen",
     "Fördersumme pro Jahr":"",
@@ -1189,7 +1189,7 @@
   },
   {
     "Land":"Mecklenburg-Vorpommern",
-    "Hochschule":"Universität Rostock",
+    "Hochschule":"Universität Rostock (ohne Klinikum)",
     "Stiftungsprofessur":"Uwe-Johnson-Stiftungsprofessur für neuere deutsche Literaturwissenschaft des 20. Jahrhunderts",
     "Stifter":"Fries GmbH und Co. KG",
     "Fördersumme pro Jahr":"",
@@ -1211,7 +1211,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"Generali",
     "Fördersumme pro Jahr":"",
@@ -1222,7 +1222,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"NRS Norddeutsche Retail-Sevice AG (Haspa)",
     "Fördersumme pro Jahr":"25000",
@@ -1233,7 +1233,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"PPI AG",
     "Fördersumme pro Jahr":"25000",
@@ -1244,7 +1244,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"Steria Mummert Consulting AG",
     "Fördersumme pro Jahr":"25000",
@@ -1255,7 +1255,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"Deutsche Telekom",
     "Fördersumme pro Jahr":"25000",
@@ -1266,7 +1266,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"Vattenfall",
     "Fördersumme pro Jahr":"25000",
@@ -1277,7 +1277,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"Capgemini Deutschland GmbH",
     "Fördersumme pro Jahr":"5000",
@@ -1288,7 +1288,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"DAKOSY Datenkommunikationssystem AG",
     "Fördersumme pro Jahr":"5000",
@@ -1299,7 +1299,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"Dataport",
     "Fördersumme pro Jahr":"5000",
@@ -1310,7 +1310,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"DV-RATIO NORD GmbH",
     "Fördersumme pro Jahr":"5000",
@@ -1321,7 +1321,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"Fortis IT-Services GmbH",
     "Fördersumme pro Jahr":"5000",
@@ -1332,7 +1332,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"Hamburg Port Authority",
     "Fördersumme pro Jahr":"5000",
@@ -1343,7 +1343,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"HPC Aktiengesellschaft",
     "Fördersumme pro Jahr":"5000",
@@ -1354,7 +1354,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"itemis AG",
     "Fördersumme pro Jahr":"5000",
@@ -1365,7 +1365,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"iteratec GmbH",
     "Fördersumme pro Jahr":"5000",
@@ -1376,7 +1376,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"Lufthansa",
     "Fördersumme pro Jahr":"5000",
@@ -1387,7 +1387,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"Kühne + Nagel (AG & Co.) KG",
     "Fördersumme pro Jahr":"15000",
@@ -1398,7 +1398,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"vero projects - Kopsch Projektmanagement GmbH",
     "Fördersumme pro Jahr":"5000",
@@ -1409,7 +1409,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"www Bitmanager AG",
     "Fördersumme pro Jahr":"5000",
@@ -1420,7 +1420,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"IndiTango AG",
     "Fördersumme pro Jahr":"15000",
@@ -1431,7 +1431,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"EDEKA ZENTRALE AG & Co. KG",
     "Fördersumme pro Jahr":"25000",
@@ -1442,7 +1442,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur IT-Management und -Consulting (ITMC)",
     "Stifter":"INFO AG",
     "Fördersumme pro Jahr":"15000",
@@ -1453,7 +1453,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"Rudolf-Augstein-Stiftungsprofessur für Praxis des Qualitätsjournalismus",
     "Stifter":"Rudolf Augstein Stiftung",
     "Fördersumme pro Jahr":"200000",
@@ -1464,7 +1464,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Universität Hamburg",
+    "Hochschule":"Universität Hamburg (ohne Klinikum)",
     "Stiftungsprofessur":"SVI-Stiftungsprofessur",
     "Stifter":"Siegfried Vögele Institut - Internationale Gesellschaft für Dialogmarketing GmbH (SVI)",
     "Fördersumme pro Jahr":"250000",
@@ -1475,7 +1475,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Hochschule für Musik und Theater",
+    "Hochschule":"Hochschule für Musik und Theater Hamburg",
     "Stiftungsprofessur":"Jazz-Gesang",
     "Stifter":"Gemeinnützige Dr. E.A. Langner-Stiftung",
     "Fördersumme pro Jahr":"30000",
@@ -1486,7 +1486,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Hochschule für Musik und Theater",
+    "Hochschule":"Hochschule für Musik und Theater Hamburg",
     "Stiftungsprofessur":"Jazz-Percussion",
     "Stifter":"Gemeinnützige Dr. E.A. Langner-Stiftung",
     "Fördersumme pro Jahr":"30000",
@@ -1499,7 +1499,7 @@
     "Land":"Hamburg",
     "Hochschule":"Hochschule für Angewandte Wissenschaften Hamburg",
     "Stiftungsprofessur":"Multichannel Trade Management in Textile Business",
-    "Stifter":"OTTO Group",
+    "Stifter":"Otto Gruppe",
     "Fördersumme pro Jahr":"70000",
     "Fördersumme insgesamt":350000,
     "Laufzeit":"5 Jahre",
@@ -1541,7 +1541,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Technische Universität Hamburg-Harburg",
+    "Hochschule":"TU Hamburg-Harburg",
     "Stiftungsprofessur":"Flugzeug-Kabinensysteme",
     "Stifter":"Airbus Deutschland GmbH",
     "Fördersumme pro Jahr":"300000",
@@ -1552,7 +1552,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Technische Universität Hamburg-Harburg",
+    "Hochschule":"TU Hamburg-Harburg",
     "Stiftungsprofessur":"Rekonfigurierbare Multiprozessor-Architekturen  ",
     "Stifter":"Nordmetall",
     "Fördersumme pro Jahr":"70000",
@@ -1563,7 +1563,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Technische Universität Hamburg-Harburg",
+    "Hochschule":"TU Hamburg-Harburg",
     "Stiftungsprofessur":"Abfallressourcenwirtschaft",
     "Stifter":"Stadtreinigung Hamburg",
     "Fördersumme pro Jahr":"230000",
@@ -1574,7 +1574,7 @@
   },
   {
     "Land":"Hamburg",
-    "Hochschule":"Technische Universität Hamburg-Harburg",
+    "Hochschule":"TU Hamburg-Harburg",
     "Stiftungsprofessur":"Baumechatronik",
     "Stifter":"Werner Möbius-Stiftung",
     "Fördersumme pro Jahr":"100000",
@@ -1585,7 +1585,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Universität Freiburg",
+    "Hochschule":"Universität Freiburg i.Br. (ohne Klinikum)",
     "Stiftungsprofessur":"Wald- und Forstgeschichte",
     "Stifter":"Andreas Stihl AG",
     "Fördersumme pro Jahr":"100000",
@@ -1596,7 +1596,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Universität Freiburg",
+    "Hochschule":"Universität Freiburg i.Br. (ohne Klinikum)",
     "Stiftungsprofessur":"Wilfried Guth Stiftungsprofessur für Volkswirtschaftslehre",
     "Stifter":"Baden Badener Unternehmensgespräche",
     "Fördersumme pro Jahr":"450000",
@@ -1937,7 +1937,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Karlsruher Institut für Technologie (KIT)",
+    "Hochschule":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Stiftungsprofessur":"Financial Engineering und Derivate",
     "Stifter":"GZ-Bank AG Frankfurt/ Stuttgart und SGZ-Bank-",
     "Fördersumme pro Jahr":"150000",
@@ -1948,7 +1948,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Karlsruher Institut für Technologie (KIT)",
+    "Hochschule":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Stiftungsprofessur":"Interaktive Echtzeitsys-teme (Analoge Anwen-dung)",
     "Stifter":"Fraunhofer-Gesellschaft",
     "Fördersumme pro Jahr":"80000",
@@ -1959,7 +1959,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Karlsruher Institut für Technologie (KIT)",
+    "Hochschule":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Stiftungsprofessur":"Mobile Arbeitsmaschinen",
     "Stifter":"Förderverein für Mobile Arbeitsmaschinen e.V.",
     "Fördersumme pro Jahr":"150000",
@@ -1970,7 +1970,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Karlsruher Institut für Technologie (KIT)",
+    "Hochschule":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Stiftungsprofessur":"Tektonik und Strukturgeologie mit technischen Anwendungen in der Geothermie",
     "Stifter":"EnBW",
     "Fördersumme pro Jahr":"400000",
@@ -1981,7 +1981,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Karlsruher Institut für Technologie (KIT)",
+    "Hochschule":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Stiftungsprofessur":"Bahnsystemtechnik",
     "Stifter":"Bombardier Transportation",
     "Fördersumme pro Jahr":"120000",
@@ -1992,7 +1992,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Karlsruher Institut für Technologie (KIT)",
+    "Hochschule":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Stiftungsprofessur":"Hybridelektrische Fahrzeuge",
     "Stifter":"Daimler",
     "Fördersumme pro Jahr":"660000",
@@ -2003,7 +2003,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Karlsruher Institut für Technologie (KIT)",
+    "Hochschule":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Stiftungsprofessur":"Technische Petrophysik",
     "Stifter":"Herrenknecht AG",
     "Fördersumme pro Jahr":"480000",
@@ -2542,7 +2542,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Universität Ulm",
+    "Hochschule":"Universität Ulm (ohne Klinikum)",
     "Stiftungsprofessur":"Strategische Unternehmensführung und Finanzierung",
     "Stifter":"Kress, Ulm",
     "Fördersumme pro Jahr":"200000",
@@ -2553,7 +2553,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Universität Ulm",
+    "Hochschule":"Universität Ulm (ohne Klinikum)",
     "Stiftungsprofessur":"Hybride Quantensysteme",
     "Stifter":"Carl Zeiss",
     "Fördersumme pro Jahr":"200000",
@@ -2564,7 +2564,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Universität Ulm",
+    "Hochschule":"Universität Ulm (ohne Klinikum)",
     "Stiftungsprofessur":"Multiskalenmodellierung in den computergestützten Materialwissenschaften",
     "Stifter":"Dr. Barbara-Mez-Starck-Stiftung",
     "Fördersumme pro Jahr":"100000",
@@ -2575,7 +2575,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Universität Ulm",
+    "Hochschule":"Universität Ulm (ohne Klinikum)",
     "Stiftungsprofessur":"Nachhaltiges Wissen, nachhaltige Bildung, nachhaltiges Wirtschaften",
     "Stifter":"verschiedene Stifter",
     "Fördersumme pro Jahr":"100000",
@@ -2586,7 +2586,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Universität Ulm",
+    "Hochschule":"Universität Ulm (ohne Klinikum)",
     "Stiftungsprofessur":"Theoretische Quanteninformationsverarbeitung",
     "Stifter":"Alexander von Humboldt Stiftung",
     "Fördersumme pro Jahr":"700000",
@@ -2597,7 +2597,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"Universität Ulm",
+    "Hochschule":"Universität Ulm (ohne Klinikum)",
     "Stiftungsprofessur":"Elektronen- und Ionen-Mikroskopie",
     "Stifter":"Carl Zeiss",
     "Fördersumme pro Jahr":"150000",
@@ -4359,7 +4359,7 @@
     "Land":"Sachsen",
     "Hochschule":"Universität Leipzig (Klinikum)",
     "Stiftungsprofessur":"Genomik von Vorhofflimmern",
-    "Stifter":"Stifterverband für die Deutsche Wissenschaft - Fritz und Hildegard Berg-Stiftung",
+    "Stifter":"Fritz und Hildegard Berg-Stiftung",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"01.02.2009-31.01.2015",
@@ -4788,7 +4788,7 @@
     "Land":"Hessen",
     "Hochschule":"Universität Frankfurt a.M. (Klinikum)",
     "Stiftungsprofessur":"Stiftungsprofessur Interdisziplinäre Onkologie",
-    "Stifter":"Stiftung Hospital zum heiligen Geist",
+    "Stifter":"Stiftung Hospital zum Heiligen Geist",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"",
@@ -5943,7 +5943,7 @@
     "Land":"Niedersachsen",
     "Hochschule":"Universität Oldenburg",
     "Stiftungsprofessur":"ökonomische Bildung / Institut für ökonomische Bildung",
-    "Stifter":"Vierol AG",
+    "Stifter":"VIEROL AG",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"",
@@ -5987,7 +5987,7 @@
     "Land":"Niedersachsen",
     "Hochschule":"Universität Osnabrück",
     "Stiftungsprofessur":"Verteilte Systeme",
-    "Stifter":"Stifterverband für die Wissenschaft",
+    "Stifter":"Stifterverband für die Deutsche Wissenschaft",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"",
@@ -6361,7 +6361,7 @@
     "Land":"Niedersachsen",
     "Hochschule":"Universität Lüneburg",
     "Stiftungsprofessur":"Strategisches Management",
-    "Stifter":"Otto Group",
+    "Stifter":"Otto Gruppe",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"01.08.2008-30.09.2013",
@@ -7131,7 +7131,7 @@
     "Land":"Bayern",
     "Hochschule":"Hochschule Coburg",
     "Stiftungsprofessur":"Entwicklung und Auslegung moderner Werkzeugmaschinen",
-    "Stifter":"Werkzeugmaschinenfabrik WALDRICH",
+    "Stifter":"Werkzeugmaschinenfabrik Waldrich",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"",
@@ -8702,7 +8702,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Atomistische Modellierung und Simulation",
     "Stifter":"ThyssenKrupp",
     "Fördersumme pro Jahr":"",
@@ -8713,7 +8713,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Atomistische Modellierung und Simulation",
     "Stifter":"Bayer",
     "Fördersumme pro Jahr":"",
@@ -8724,7 +8724,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Atomistische Modellierung und Simulation",
     "Stifter":"Bayer",
     "Fördersumme pro Jahr":"",
@@ -8735,7 +8735,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Atomistische Modellierung und Simulation",
     "Stifter":"Mannesmann",
     "Fördersumme pro Jahr":"",
@@ -8746,7 +8746,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Atomistische Modellierung und Simulation",
     "Stifter":"Bosch",
     "Fördersumme pro Jahr":"",
@@ -8757,7 +8757,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Werkstoffwissenschaften",
     "Stifter":"ThyssenKrupp",
     "Fördersumme pro Jahr":"",
@@ -8768,7 +8768,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Werkstoffwissenschaften",
     "Stifter":"Bayer",
     "Fördersumme pro Jahr":"",
@@ -8779,7 +8779,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Werkstoffwissenschaften",
     "Stifter":"Bayer",
     "Fördersumme pro Jahr":"",
@@ -8790,7 +8790,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Werkstoffwissenschaften",
     "Stifter":"Mannesmann",
     "Fördersumme pro Jahr":"",
@@ -8801,7 +8801,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Werkstoffwissenschaften",
     "Stifter":"Bosch",
     "Fördersumme pro Jahr":"",
@@ -8812,7 +8812,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Skalenübergreifende Thermodynamische und Kinetische Simulation",
     "Stifter":"ThyssenKrupp",
     "Fördersumme pro Jahr":"",
@@ -8823,7 +8823,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Skalenübergreifende Thermodynamische und Kinetische Simulation",
     "Stifter":"Bayer",
     "Fördersumme pro Jahr":"",
@@ -8834,7 +8834,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Skalenübergreifende Thermodynamische und Kinetische Simulation",
     "Stifter":"Bayer",
     "Fördersumme pro Jahr":"",
@@ -8845,7 +8845,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Skalenübergreifende Thermodynamische und Kinetische Simulation",
     "Stifter":"Mannesmann",
     "Fördersumme pro Jahr":"",
@@ -8856,7 +8856,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Skalenübergreifende Thermodynamische und Kinetische Simulation",
     "Stifter":"Bosch",
     "Fördersumme pro Jahr":"",
@@ -8867,7 +8867,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Religionsforschung",
     "Stifter":"BMBF",
     "Fördersumme pro Jahr":"",
@@ -8878,7 +8878,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Funktionelle Architektur",
     "Stifter":"Stiftung Mercator",
     "Fördersumme pro Jahr":"",
@@ -8889,7 +8889,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Neurobiologie",
     "Stifter":"Stiftung Mercator",
     "Fördersumme pro Jahr":"",
@@ -8900,7 +8900,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Theorie des Gedächtnisses",
     "Stifter":"Stiftung Mercator",
     "Fördersumme pro Jahr":"",
@@ -8911,7 +8911,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Theorie des Gedächtnisses",
     "Stifter":"Emmy-Nöther oder Heisenberg-Programm",
     "Fördersumme pro Jahr":"",
@@ -9615,7 +9615,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Energiewirtschaft",
     "Stifter":"E.ON",
     "Fördersumme pro Jahr":"",
@@ -9626,7 +9626,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Energiewirtschaft",
     "Stifter":"RWE",
     "Fördersumme pro Jahr":"",
@@ -9637,7 +9637,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Allgemeine Betriebswirtschaftslehre und Unternehmensentwicklung",
     "Stifter":"Ernst & Young",
     "Fördersumme pro Jahr":"",
@@ -9648,7 +9648,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Finanzmarktforschung",
     "Stifter":"Fördergesellschaft Finanzmarktforschung e.V.",
     "Fördersumme pro Jahr":"",
@@ -9659,7 +9659,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Marketing und Handel",
     "Stifter":"Baumarkt Obi",
     "Fördersumme pro Jahr":"",
@@ -9670,7 +9670,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Wirtschaftsinformatik und Informations System Technology",
     "Stifter":"SQS AG",
     "Fördersumme pro Jahr":"",
@@ -9681,7 +9681,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Internationales Investitionsrecht",
     "Stifter":"Generali",
     "Fördersumme pro Jahr":"",
@@ -9692,7 +9692,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Geriatrie",
     "Stifter":"St. Marien-Hospital GmbH",
     "Fördersumme pro Jahr":"",
@@ -9703,7 +9703,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Palliativmedizin",
     "Stifter":"Deutsche Krebshilfe",
     "Fördersumme pro Jahr":"",
@@ -9714,7 +9714,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Immunpathologie des Auges",
     "Stifter":"Hans und Marlies Stock-Stiftung",
     "Fördersumme pro Jahr":"",
@@ -9725,7 +9725,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Klinische und Molekulare Onkologie",
     "Stifter":"Volkswagen",
     "Fördersumme pro Jahr":"",
@@ -9736,7 +9736,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Alte Geschichte",
     "Stifter":"Alfried Krupp von Bohlen und Halbach-Stiftung",
     "Fördersumme pro Jahr":"",
@@ -9747,7 +9747,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Zoologie",
     "Stifter":"Deutsche Forschungsgemeinschaft",
     "Fördersumme pro Jahr":"",
@@ -9758,7 +9758,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Köln",
+    "Hochschule":"Universität zu Köln (ohne Klinikum)",
     "Stiftungsprofessur":"Bioinformatik",
     "Stifter":"Max-Planck-Gesellschaft",
     "Fördersumme pro Jahr":"",
@@ -10638,7 +10638,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Christliche Archäologie",
     "Stifter":"Gielen-Leyendecker-Stiftung",
     "Fördersumme pro Jahr":"",
@@ -10649,7 +10649,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Juniorprofessur  Nachhaltige Nutzung natürlicher Ressourcen",
     "Stifter":"Bosch",
     "Fördersumme pro Jahr":"",
@@ -10660,7 +10660,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Juniorprofessur Nachhaltige Nutzung natürlicher Ressourcen",
     "Stifter":"Bosch",
     "Fördersumme pro Jahr":"",
@@ -10671,7 +10671,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Schumpeter Fellowship Mikroökonomik",
     "Stifter":"Volkswagen",
     "Fördersumme pro Jahr":"",
@@ -10682,7 +10682,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Juniorprofessur Altamerikanistik",
     "Stifter":"Deutsche Altamerika-Stiftung",
     "Fördersumme pro Jahr":"",
@@ -10693,7 +10693,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Astrophysik",
     "Stifter":"Alexander von Humboldt Stiftung",
     "Fördersumme pro Jahr":"",
@@ -10704,7 +10704,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Schwerpunktprofessur: Genomic Bioinformatics and Mathematics",
     "Stifter":"Ministerium für Innovation, Wissenschaft und Forschung NRW",
     "Fördersumme pro Jahr":"",
@@ -10715,7 +10715,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Heisenberg-Professur für Bildgebung in der Neuroökonomie",
     "Stifter":"Deutsche Forschungsgemeinschaft",
     "Fördersumme pro Jahr":"",
@@ -10726,7 +10726,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Heisenberg-Professur für Astrophysik",
     "Stifter":"Deutsche Forschungsgemeinschaft",
     "Fördersumme pro Jahr":"",
@@ -10737,7 +10737,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Alexander von Humboldt-Professur Atom- und Molekülphysik",
     "Stifter":"Alexander von Humboldt Stiftung",
     "Fördersumme pro Jahr":"",
@@ -10748,7 +10748,7 @@
   },
   {
     "Land":"NRW",
-    "Hochschule":"Universität Bochum (ohne Klinikum)",
+    "Hochschule":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Stiftungsprofessur":"Alexander von Humboldt-Professur Philosophie",
     "Stifter":"Alexander von Humboldt Stiftung",
     "Fördersumme pro Jahr":"",
@@ -11135,7 +11135,7 @@
     "Land":"NRW",
     "Hochschule":"Hochschule Ostwestfalen-Lippe",
     "Stiftungsprofessur":"Technologie und  Analytik der Waschmittel- und Körperpflegeprodukte",
-    "Stifter":"Stifterverband für die Deutsche Wissenschaft e.V.",
+    "Stifter":"Stifterverband für die Deutsche Wissenschaft",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"5 Jahre ab Berufung, Ausschreibung in Planung",
@@ -11355,7 +11355,7 @@
     "Land":"Sachsen-Anhalt",
     "Hochschule":"Hochschule Merseburg (FH)",
     "Stiftungsprofessur":"Kunststofftechnik/Verfahrenstechnik",
-    "Stifter":"Dow Olefinverbund GmbH",
+    "Stifter":"DOW OLEFINVERBUND GmbH",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"",
@@ -11551,7 +11551,7 @@
   },
   {
     "Land":"Berlin",
-    "Hochschule":"HU Berlin",
+    "Hochschule":"Humboldt-Universität zu Berlin",
     "Stiftungsprofessur":"Theoretische Physik, Mathematische Physik",
     "Stifter":"Alexander von Humboldt Stiftung",
     "Fördersumme pro Jahr":"",
@@ -11562,7 +11562,7 @@
   },
   {
     "Land":"Berlin",
-    "Hochschule":"HU Berlin",
+    "Hochschule":"Humboldt-Universität zu Berlin",
     "Stiftungsprofessur":"Stochastische Analysis und Stochastik der Finanzmärkte",
     "Stifter":"Deutsche Forschungsgemeinschaft",
     "Fördersumme pro Jahr":"",
@@ -11573,7 +11573,7 @@
   },
   {
     "Land":"Berlin",
-    "Hochschule":"HU Berlin",
+    "Hochschule":"Humboldt-Universität zu Berlin",
     "Stiftungsprofessur":"Alfred-Freiherr von Oppenheim-Professur für Geschichte Preußen-Professur",
     "Stifter":"Alfred-Freiherr von Oppenheim-Stiftung",
     "Fördersumme pro Jahr":"",
@@ -11584,7 +11584,7 @@
   },
   {
     "Land":"Berlin",
-    "Hochschule":"HU Berlin",
+    "Hochschule":"Humboldt-Universität zu Berlin",
     "Stiftungsprofessur":"Klassische Altertumswissenschaften und Wissenschaftsgeschichte",
     "Stifter":"Alexander von Humboldt Stiftung",
     "Fördersumme pro Jahr":"",
@@ -11595,7 +11595,7 @@
   },
   {
     "Land":"Berlin",
-    "Hochschule":"HU Berlin",
+    "Hochschule":"Humboldt-Universität zu Berlin",
     "Stiftungsprofessur":"Ernst Fraenkel Professorship in Comparative Studies of Democracy",
     "Stifter":"Deutsche Forschungsgemeinschaft",
     "Fördersumme pro Jahr":"",
@@ -11606,7 +11606,7 @@
   },
   {
     "Land":"Berlin",
-    "Hochschule":"HU Berlin",
+    "Hochschule":"Humboldt-Universität zu Berlin",
     "Stiftungsprofessur":"G.Simmel Prof. Comparative Studies on Diversity/Social Conflicts",
     "Stifter":"Deutsche Forschungsgemeinschaft",
     "Fördersumme pro Jahr":"",
@@ -11617,7 +11617,7 @@
   },
   {
     "Land":"Berlin",
-    "Hochschule":"HU Berlin",
+    "Hochschule":"Humboldt-Universität zu Berlin",
     "Stiftungsprofessur":"Betriebswirtschaftliche Steuerlehre",
     "Stifter":"KPMG",
     "Fördersumme pro Jahr":"",
