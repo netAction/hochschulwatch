@@ -35,7 +35,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#"><img src="images/logo-kompakt.png" class="img-responsive"></a>
+				<a class="navbar-brand" href="../"><img src="../images/logo-kompakt.png" class="img-responsive"></a>
 			</div>
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
@@ -44,9 +44,9 @@
 					<li><a href="#contact">Kontakt</a></li>
 				</ul>
 				<div class="navbar-form navbar-right hidden-xs">
-					<input type="text" class="form-control hochschulsuche" data-result="#navbar-results" data-hochschulpath="" placeholder="Hochschule suchen">
+					<input type="text" class="form-control" id="search-input" data-hochschulpath="" placeholder="Hochschule suchen">
 					<div class="relative">
-						<ul id="navbar-results" class="absolute list-unstyled well">
+						<ul id="search-results" class="absolute list-unstyled well">
 						</ul>
 					</div>
 				</div>
@@ -385,7 +385,7 @@
 	<footer class="footer navbar navbar-default navbar-fixed-bottom">
 		<div class="container">
 			<div class="navbar-header">
-				<a class="navbar-creativecommons" href="#"><img src="images/cc-by-sa.png" class="img-responsive"></a>
+				<a class="navbar-creativecommons" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img src="../images/cc-by-sa.png" class="img-responsive"></a>
 			</div>
 
 			<ul class="nav navbar-nav">
@@ -398,6 +398,8 @@
 
 	<script src="../js/jquery-2.1.1.min.js"></script>
 	<script src="../js/bootstrap.min.js"></script>
+	<script src="../js/fuse.min.js"></script>
+	<script src="../js/searchdb.js"></script>
 	<script src="../js/hochschulwatch.js"></script>
 </body>
 

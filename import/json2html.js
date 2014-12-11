@@ -100,9 +100,6 @@ importFoerderer('sponsoring', 'Universität', 'Name des Gebers');
 importFoerderer('stiftungsprofessuren', 'Hochschule', 'Stifter');
 
 
-// jf.writeFileSync('hochschulen.json', hochschulenTable);
-// jf.writeFileSync('foerderer.json', foerdererTable);
-
 
 // #################### Index für Suchfunktion erstellen
 
@@ -115,8 +112,10 @@ function generateSearchIndex() {
 			'slug': slugify(hochschulenTable[name].Name),
 		});
 	}
-	if (fs.existsSync('../searchdb.json')) fs.unlinkSync('../searchdb.json');
-	jf.writeFileSync('../searchdb.json', searchdb);
+	if (fs.existsSync('../js/searchdb.json')) fs.unlinkSync('../js/searchdb.json');
+	searchdb = 'var searchdb = '+ JSON.stringify(searchdb, null,"\t") + ';\n';
+	fs.writeFileSync('../js/searchdb.js', searchdb);
+
 }
 generateSearchIndex();
 
