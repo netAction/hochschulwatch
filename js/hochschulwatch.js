@@ -1,15 +1,13 @@
 var data = [];
-$.getJSON('data.json', function(datei) {
+$.getJSON('searchdb.json', function(datei) {
 	data = datei;
 });
 
 
 $(function() {
-
-
-
 	$('input.hochschulsuche').on('propertychange keyup input paste change', function() {
 		var resultSelector = $(this).attr('data-result');
+		var hochschulPath = $(this).attr('data-hochschulpath');
 
 		if ($(this).val() == '') {
 			// input empty
@@ -28,7 +26,7 @@ $(function() {
 			if (i > 10) return;
 			$(resultSelector).append(
 				'<li>'+
-				'<a href="#">'+
+				'<a href="'+hochschulPath+hochschule.slug+'">'+
 				hochschule.name+
 				'</a>'+
 				'</li>'
