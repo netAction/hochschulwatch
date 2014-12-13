@@ -1,20 +1,20 @@
 	<footer class="footer navbar navbar-default navbar-fixed-bottom">
 		<div class="container">
 			<div class="navbar-header">
-				<a class="navbar-creativecommons navbar-brand" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img src="{{ srcpath }}images/cc-by-sa.png" class="img-responsive"></a>
+				<a class="navbar-creativecommons navbar-brand" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img src="{{{ srcpath }}}images/cc-by-sa.png" class="img-responsive"></a>
 			</div>
 
 			<ul class="nav navbar-nav hidden-xs">
-				<li><a href="#">Kontakt</a></li>
+				<li{{ #activeContact }} class="active"{{ /activeContact }}><a href="{{{ srcpath }}}kontakt.html">Kontakt</a></li>
 			</ul>
 		</div>
 	</footer>
 
-	<script src="{{ srcpath }}js/jquery-2.1.1.min.js"></script>
-	<script src="{{ srcpath }}js/bootstrap.min.js"></script>
-	<script src="{{ srcpath }}js/fuse.min.js"></script>
-	<script src="{{ srcpath }}js/searchdb.js"></script>
-	<script src="{{ srcpath }}js/hochschulwatch.js"></script>
+	<script src="{{{ srcpath }}}js/jquery-2.1.1.min.js"></script>
+	<script src="{{{ srcpath }}}js/bootstrap.min.js"></script>
+	<script src="{{{ srcpath }}}js/fuse.min.js"></script>
+	<script src="{{{ srcpath }}}js/searchdb.js"></script>
+	<script src="{{{ srcpath }}}js/hochschulwatch.js"></script>
 </body>
 
 </html>

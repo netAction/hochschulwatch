@@ -102,7 +102,7 @@ importFoerderungen('sponsoring', 'Universität', 'Name des Gebers');
 importFoerderungen('stiftungsprofessuren', 'Hochschule', 'Stifter');
 
 
-jf.writeFileSync('hochschulen.json', hochschulenTable);
+// jf.writeFileSync('hochschulen.json', hochschulenTable);
 
 
 // #################### Header und Footer vom HTML-Template laden
@@ -118,6 +118,14 @@ fs.writeFileSync('../index.html', ms.render(
 	{srcpath: './', activeHome: true }
 ));
 
+fs.writeFileSync('../about.html', ms.render(
+	templateHeader+ fs.readFileSync('templates/about.html').toString() + templateFooter,
+	{srcpath: './', activeAbout: true }
+));
+fs.writeFileSync('../kontakt.html', ms.render(
+	templateHeader+ fs.readFileSync('templates/kontakt.html').toString() + templateFooter,
+	{srcpath: './', activeContact: true }
+));
 
 // #################### Themenseiten
 
