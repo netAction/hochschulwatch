@@ -1500,7 +1500,7 @@ var searchdb = [
 		"slug": "macromedia-fh-der-medien-muenchen-priv-fh"
 	},
 	{
-		"name": "Hochschule für Angewandte Sprachen – Fachhochschule des SDI München",
+		"name": "Hochschule für Angewandte Sprachen - Fachhochschule des SDI München",
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-angewandte-sprachen-fachhochschule-des-sdi-muenchen"
 	},
@@ -1960,7 +1960,7 @@ var searchdb = [
 		"slug": "hochschule-fuer-musik-und-theater-rostock"
 	},
 	{
-		"name": "Baltic College – FHM Schwerin",
+		"name": "Baltic College - FHM Schwerin",
 		"bundesland": "Mecklenburg-Vorpommern",
 		"slug": "baltic-college-fhm-schwerin"
 	},

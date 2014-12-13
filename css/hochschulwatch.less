@@ -11,16 +11,33 @@ body {
 	padding-bottom: 60px;
 }
 
+
+.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+	// fix https://github.com/twbs/bootstrap/issues/10028
+	max-height: none;
+}
+
 .navbar-brand {
 	img {
 	margin-top: -5px;
-	width: 50px;
+	width: 45px;
 	}
 }
+
+
+.land-selector {
+	line-height: 1.1em;
+	padding-top: 0;
+	padding-bottom: 0;
+	min-height: 3em;
+	display: flex;
+	align-items: center; // vertical
+}
+
 .navbar-creativecommons {
+
 	img {
-	margin-top: 10px;
-	width: 80px;
+		width: 80px;
 	}
 }
 .navbar-form input.form-control {
@@ -36,8 +53,6 @@ body {
 }
 
 img.img-icon {
-	margin-top: 8px;
-	margin-bottom: 9px;
 	width: 20px;
 
 	&.pull-left {

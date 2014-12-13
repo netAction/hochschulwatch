@@ -83,7 +83,7 @@ $(function() {
 	});
 
 	$('#hochschulen-land-selektion').change( function() {
-		window.location.href = 'hochschulen/' + $(this).val() + '.html';
+		window.location.href = 'hochschule/' + $(this).val() + '.html';
 	});
 
 

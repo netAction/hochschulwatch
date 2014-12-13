@@ -1,0 +1,184 @@
+
+	<div class="container">
+		<h1>{{ Name }}</h1>
+
+
+		<div class="row">
+			<div class="col-sm-6">
+				<h2>Drittmittel</h2>
+				<p>Aus der privaten Wirtschaft und insgesamt in Millionen Euro</p>
+				<div class="row">
+					<div class="col-md-1">
+						<label>2010</label>
+					</div>
+					<div class="col-md-11">
+						<div class="progress">
+							<div class="progress-bar progress-bar-danger" role="progressbar" style="width: 15%;">
+								<span>0,87</span>
+							</div>
+							<div class="progress-bar progress-bar-warning" role="progressbar" style="width: 70%;">
+								<span>146 M</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-1">
+						<label>2011</label>
+					</div>
+					<div class="col-md-11">
+						<div class="progress">
+							<div class="progress-bar progress-bar-danger" role="progressbar" style="width: 10%;">
+								<span>0,56</span>
+							</div>
+							<div class="progress-bar progress-bar-warning" role="progressbar" style="width: 90%;">
+								<span>159 M</span>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-1">
+						<label>2012</label>
+					</div>
+					<div class="col-md-11">
+						<div class="progress">
+							<div class="progress-bar progress-bar-danger" role="progressbar" style="width: 12%;">
+								<span>20 M</span>
+							</div>
+							<div class="progress-bar progress-bar-warning" role="progressbar" style="width: 85%;">
+								<span>148 M</span>
+							</div>
+						</div>
+					</div><!-- row -->
+				</div>
+			</div>
+
+			<div class="col-sm-6 col-md-5 col-md-offset-1 col-lg-4 col-lg-offset-2">
+				<table class="table table-striped table-bordered">
+					<tr>
+						<td>Hochschulschlüssel</td>
+						<td>{{ uID }}</td>
+					</tr>
+					{{ #addi.length }}
+					<tr>
+						<td>Adresse</td>
+						<td>{{ addi }}</td>
+					</tr>
+					{{ /addi.length }}
+					<tr>
+						<td>Land</td>
+						<td><a href="../bundesland/{{ #bundesland }}{{ slugify }}{{ /bundesland }}.html">{{ bundesland }}</a></td>
+					</tr>
+					<tr>
+						<td>Art</td>
+						<td>{{ hs-art }}</td>
+					</tr>
+					<tr>
+						<td>Orientierung</td>
+						<td>{{ orientierung }}</td>
+					</tr>
+				</table>
+			</div>
+		</div><!-- row -->
+
+		<p class="lead">
+			{{{ text }}}
+		</p>
+
+		{{ #kooperation.length }}
+		<h2>Kooperationen</h2>
+		<div class="table-responsive">
+			<table class="table table-striped">
+				{{ #kooperation }}
+				<tr>
+					<td><a href="../foerderer/{{ #Förderer }}{{ slugify }}{{ /Förderer }}.html">{{ Förderer }}</a></td>
+					<td>{{ FIELD5 }}</td>
+				</tr>
+				{{ /kooperation }}
+			</table>
+		</div>
+		<p><em><a href="../themen/forschungskooperationen.html">Hintergrund-Informationen über Forschungskooperationen</a></em></p>
+		{{ /kooperation.length }}
+
+		{{ #sponsoring.length }}
+		<h2>Zuwendungen</h2>
+		<div class="table-responsive">
+			<table class="table table-striped">
+				<tr>
+					<th>Jahr</th>
+					<th>Geber</th>
+					<th>Leistung</th>
+					<th>Art</th>
+					<th>Wert</th>
+					<th>Hinweis</th>
+				</tr>
+				{{ #sponsoring }}
+				<tr>
+					<td>{{ Jahr }}</td>
+					<td><a href="../foerderer/{{ #Name des Gebers }}{{ slugify }}{{ /Name des Gebers }}.html">{{ Name des Gebers }}</a></td>
+					<td>{{ Geld-/Sachspende }}</td>
+					<td>{{ Art der Leistung }}</td>
+					<td>{{ Wert }}</td>
+					<td>{{ Hinweis }}</td>
+				</tr>
+				{{ /sponsoring }}
+			</table>
+		</div>
+		<p><em><a href="../themen/sponsoring.html">Hintergrund-Informationen über Sponsoring</a></em></p>
+		{{ /sponsoring.length }}
+
+
+		{{ #stiftungsprofessuren.length }}
+		<h2>Stiftungsprofessuren</h2>
+		{{ #stiftungsprofessuren }}
+		<dl>
+			<dt>{{ Stiftungsprofessur }}</dt>
+			<dd><em>Stifter:</em> <a href="../foerderer/{{ #Stifter }}{{ slugify }}{{ /Stifter }}.html">{{ Stifter }}</a></dd>
+			{{ #Laufzeit.length }}
+				<dd><em>Laufzeit:</em> {{ Laufzeit }}</dd>
+			{{ /Laufzeit.length }}
+			{{ #Fördersumme pro Jahr }}
+				<dd><em>Fördersumme pro Jahr:</em> {{ Fördersumme pro Jahr }}</dd>
+			{{ /Fördersumme pro Jahr }}
+			{{ #Fördersumme insgesamt }}
+				<dd><em>Fördersumme insgesamt:</em> {{ Fördersumme insgesamt }}</dd>
+			{{ /Fördersumme insgesamt }}
+		</dl>
+		{{ /stiftungsprofessuren }}
+		<p><em><a href="../themen/stiftungsprofessuren.html">Hintergrund-Informationen über Stiftungsprofessuren</a></em></p>
+		{{ /stiftungsprofessuren.length }}
+
+
+
+		{{ #deutschlandstipendien.length }}
+		<h2>Deutschlandstipendien</h2>
+		<div class="table-responsive">
+			<table class="table table-striped">
+				{{ #deutschlandstipendien }}
+				<tr>
+					<td><a href="../foerderer/{{ #Firma }}{{ slugify }}{{ /Firma }}.html">{{ Firma }}</a></td>
+				</tr>
+				{{ /deutschlandstipendien }}
+			</table>
+		</div>
+		<p><em><a href="../themen/stipendien.html">Hintergrund-Informationen über Stipendien</a></em></p>
+		{{ /deutschlandstipendien.length }}
+
+
+		{{ #hochschulraete.length }}
+		<h2>Hochschulräte</h2>
+		<div class="table-responsive">
+			<table class="table table-striped">
+				{{ #hochschulraete }}
+				<tr>
+					<td>{{ Name }}</td>
+					<td><a href="../foerderer/{{ #Unternehmen }}{{ slugify }}{{ /Unternehmen }}.html">{{ Unternehmen }}</a></td>
+				</tr>
+				{{ /hochschulraete }}
+			</table>
+		</div>
+		<p><em><a href="../themen/hochschulraete.html">Hintergrund-Informationen über Hochschulräte</a></em></p>
+		{{ /hochschulraete.length }}
+
+
+	</div><!-- container -->
+
