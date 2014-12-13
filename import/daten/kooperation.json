@@ -3530,41 +3530,9 @@
   {
     "uID":"1319",
     "Name":"Universität Erlangen-Nürnberg (Klinikum)",
-    "Förderer":"Teambank AG",
+    "Förderer":"",
     "FIELD4":null,
-    "FIELD5":"Hörsaalsponsoring",
-    "Alternativname":""
-  },
-  {
-    "uID":"1319",
-    "Name":"Universität Erlangen-Nürnberg (Klinikum)",
-    "Förderer":"Siemens",
-    "FIELD4":null,
-    "FIELD5":"Hörsaalsponsoring",
-    "Alternativname":""
-  },
-  {
-    "uID":"1319",
-    "Name":"Universität Erlangen-Nürnberg (Klinikum)",
-    "Förderer":"Brose Gruppe",
-    "FIELD4":null,
-    "FIELD5":"Hörsaalsponsoring",
-    "Alternativname":""
-  },
-  {
-    "uID":"1319",
-    "Name":"Universität Erlangen-Nürnberg (Klinikum)",
-    "Förderer":"Clear Group",
-    "FIELD4":null,
-    "FIELD5":"Hörsaalsponsoring",
-    "Alternativname":""
-  },
-  {
-    "uID":"1319",
-    "Name":"Universität Erlangen-Nürnberg (Klinikum)",
-    "Förderer":"develop group",
-    "FIELD4":null,
-    "FIELD5":"Hörsaalsponsoring",
+    "FIELD5":"",
     "Alternativname":""
   },
   {
@@ -3624,18 +3592,50 @@
     "Alternativname":""
   },
   {
-    "uID":"1313",
+    "uID":"1314",
     "Name":"Universität Erlangen-Nürnberg",
-    "Förderer":"",
+    "Förderer":"Teambank AG",
+    "FIELD4":130000,
+    "FIELD5":"Hörsaalsponsoring",
+    "Alternativname":""
+  },
+  {
+    "uID":"1315",
+    "Name":"Universität Erlangen-Nürnberg",
+    "Förderer":"Siemens",
     "FIELD4":null,
-    "FIELD5":"",
+    "FIELD5":"Hörsaalsponsoring - 5 Jahre bis 2018, Erneuerung der Bestuhlung, farbliche Neugestaltung des Saals",
+    "Alternativname":""
+  },
+  {
+    "uID":"1316",
+    "Name":"Universität Erlangen-Nürnberg",
+    "Förderer":"Brose Gruppe",
+    "FIELD4":null,
+    "FIELD5":"Hörsaalsponsoring - 1 Jahr bis 2014, Malerarbeiten, Infotafel",
+    "Alternativname":""
+  },
+  {
+    "uID":"1317",
+    "Name":"Universität Erlangen-Nürnberg",
+    "Förderer":"Clear Group",
+    "FIELD4":null,
+    "FIELD5":"Hörsaalsponsoring - 3 Jahre bis 2015, Infotafel",
+    "Alternativname":""
+  },
+  {
+    "uID":"1318",
+    "Name":"Universität Erlangen-Nürnberg",
+    "Förderer":"develop group",
+    "FIELD4":null,
+    "FIELD5":"Hörsaalsponsoring - 5 Jahre bis 2018, Erneuerung der Bestuhlung, farbliche Neugestaltung des Saals",
     "Alternativname":""
   },
   {
     "uID":"1321",
     "Name":"Universität München (ohne Klinikum)",
     "Förderer":"Bundesarbeitgeberverband Chemie",
-    "FIELD4":null,
+    "FIELD4":18000000,
     "FIELD5":"An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht\"",
     "Alternativname":""
   },
@@ -3643,7 +3643,7 @@
     "uID":"1321",
     "Name":"Universität München (ohne Klinikum)",
     "Förderer":"Arbeitgeberverband der bayerischen Metallindustrie",
-    "FIELD4":null,
+    "FIELD4":18000000,
     "FIELD5":"An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht\"",
     "Alternativname":""
   },
@@ -3651,7 +3651,7 @@
     "uID":"1321",
     "Name":"Universität München (ohne Klinikum)",
     "Förderer":"Arbeitgeberverband der baden-württembergischen Metallindustrie",
-    "FIELD4":null,
+    "FIELD4":18000000,
     "FIELD5":"An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht\"",
     "Alternativname":""
   },
@@ -3852,7 +3852,7 @@
     "Name":"Hochschule Augsburg",
     "Förderer":"Euro Engineering",
     "FIELD4":null,
-    "FIELD5":"Hörsaalsponsoring",
+    "FIELD5":"Hörsaalsponsoring seit 2009",
     "Alternativname":""
   },
   {
@@ -3860,7 +3860,7 @@
     "Name":"Hochschule Augsburg",
     "Förderer":"Verein deutscher Ingenieure e.V.",
     "FIELD4":null,
-    "FIELD5":"Hörsaalsponsoring",
+    "FIELD5":"Hörsaalsponsoring seit 2008",
     "Alternativname":""
   },
   {
@@ -3868,7 +3868,7 @@
     "Name":"Hochschule Augsburg",
     "Förderer":"Lechwerke AG",
     "FIELD4":null,
-    "FIELD5":"Hörsaalsponsoring",
+    "FIELD5":"Hörsaalsponsoring seit 2008",
     "Alternativname":""
   },
   {
