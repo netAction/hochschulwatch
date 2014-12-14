@@ -110,7 +110,7 @@
 		</p>
 
 		{{ #kooperation.length }}
-		<h2>Kooperationen</h2>
+		<h2>Kooperationen <sup><a href="../themen/forschungskooperationen.html" class="badge">Infos</a></sup></h2>
 		<div class="table-responsive">
 			<table class="table table-striped">
 				{{ #kooperation }}
@@ -121,11 +121,10 @@
 				{{ /kooperation }}
 			</table>
 		</div>
-		<p><em><a href="../themen/forschungskooperationen.html">Hintergrund-Informationen über Forschungskooperationen</a></em></p>
 		{{ /kooperation.length }}
 
 		{{ #sponsoring.length }}
-		<h2>Zuwendungen</h2>
+		<h2>Zuwendungen <sup><a href="../themen/sponsoring.html" class="badge">Infos</a></sup></h2>
 		<div class="table-responsive">
 			<table class="table table-striped">
 				<tr>
@@ -142,18 +141,17 @@
 					<td><a href="../foerderer/{{ #Name des Gebers }}{{ slugify }}{{ /Name des Gebers }}.html">{{ Name des Gebers }}</a></td>
 					<td>{{ Geld-/Sachspende }}</td>
 					<td>{{ Art der Leistung }}</td>
-					<td>{{ Wert }}</td>
+					<td class="text-right">{{ Wert }}</td>
 					<td>{{ Hinweis }}</td>
 				</tr>
 				{{ /sponsoring }}
 			</table>
 		</div>
-		<p><em><a href="../themen/sponsoring.html">Hintergrund-Informationen über Sponsoring</a></em></p>
 		{{ /sponsoring.length }}
 
 
 		{{ #stiftungsprofessuren.length }}
-		<h2>Stiftungsprofessuren</h2>
+		<h2>Stiftungsprofessuren <sup><a href="../themen/stiftungsprofessuren.html" class="badge">Infos</a></sup></h2>
 		{{ #stiftungsprofessuren }}
 		<dl>
 			<dt>{{ Stiftungsprofessur }}</dt>
@@ -169,28 +167,11 @@
 			{{ /Fördersumme insgesamt }}
 		</dl>
 		{{ /stiftungsprofessuren }}
-		<p><em><a href="../themen/stiftungsprofessuren.html">Hintergrund-Informationen über Stiftungsprofessuren</a></em></p>
 		{{ /stiftungsprofessuren.length }}
 
 
-
-		{{ #deutschlandstipendien.length }}
-		<h2>Deutschlandstipendien</h2>
-		<div class="table-responsive">
-			<table class="table table-striped">
-				{{ #deutschlandstipendien }}
-				<tr>
-					<td><a href="../foerderer/{{ #Firma }}{{ slugify }}{{ /Firma }}.html">{{ Firma }}</a></td>
-				</tr>
-				{{ /deutschlandstipendien }}
-			</table>
-		</div>
-		<p><em><a href="../themen/stipendien.html">Hintergrund-Informationen über Stipendien</a></em></p>
-		{{ /deutschlandstipendien.length }}
-
-
 		{{ #hochschulraete.length }}
-		<h2>Hochschulräte</h2>
+		<h2>Hochschulräte <sup><a href="../themen/hochschulraete.html" class="badge">Infos</a></sup></h2>
 		<div class="table-responsive">
 			<table class="table table-striped">
 				{{ #hochschulraete }}
@@ -201,8 +182,18 @@
 				{{ /hochschulraete }}
 			</table>
 		</div>
-		<p><em><a href="../themen/hochschulraete.html">Hintergrund-Informationen über Hochschulräte</a></em></p>
 		{{ /hochschulraete.length }}
+
+
+
+		{{ #deutschlandstipendien.length }}
+		<h2>Deutschlandstipendien <sup><a href="../themen/stipendien.html" class="badge">Infos</a></sup></h2>
+		<ul>
+			{{ #deutschlandstipendien }}
+			<li><a href="../foerderer/{{ #Firma }}{{ slugify }}{{ /Firma }}.html">{{ Firma }}</a></li>
+			{{ /deutschlandstipendien }}
+		</ul>
+		{{ /deutschlandstipendien.length }}
 
 
 	</div><!-- container -->
