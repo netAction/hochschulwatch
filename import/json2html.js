@@ -102,7 +102,9 @@ importFoerderungen('sponsoring', 'Universität', 'Name des Gebers');
 importFoerderungen('stiftungsprofessuren', 'Hochschule', 'Stifter');
 
 
+// Debug output
 // jf.writeFileSync('hochschulen.json', hochschulenTable);
+// jf.writeFileSync('foerderer.json', foerdererTable);
 
 
 // #################### Header und Footer vom HTML-Template laden
