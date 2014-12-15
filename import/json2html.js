@@ -166,6 +166,8 @@ function generateSearchIndex() {
 			'name': hochschulenTable[name].Name,
 			'bundesland': hochschulenTable[name].bundesland,
 			'slug': slugify(hochschulenTable[name].Name),
+			'absolut': hochschulenTable[name]['absolut-2012'],
+			'wirtschaft': hochschulenTable[name]['wirtschaft-2012'],
 		});
 	}
 
