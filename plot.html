@@ -150,7 +150,7 @@
 				if (hochschule.absolut > 110000000) hochschule.anzeigeName = hochschule.name; else hochschule.anzeigeName = '';
 				$('#plot').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft/1000000) +'%; left: '+ (hochschule.absolut/4000000) +'%;">&nbsp;&nbsp;'+ hochschule.anzeigeName +'</a>');
 
-				$('#plot2').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft*90/hochschule.absolut) +'%; left: '+ (hochschule.absolut/4000000) +'%;">&nbsp;&nbsp;'+ hochschule.anzeigeName +'</a>');
+				$('#plot2').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft*99/hochschule.absolut) +'%; left: '+ (hochschule.absolut/4000000) +'%;">&nbsp;&nbsp;'+ hochschule.anzeigeName +'</a>');
 
 			});
 		});
