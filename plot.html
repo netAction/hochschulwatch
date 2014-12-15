@@ -124,6 +124,7 @@
 	<script type="application/javascript">
 		$(function() {
 			$.each(searchdb, function(i, hochschule) {
+				if (hochschule.absolut < 110000000) hochschule.name = '';
 				$('#plot').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft/1000000) +'%; left: '+ (hochschule.absolut/4000000) +'%;">&nbsp;&nbsp;'+ hochschule.name +'</a>');
 			});
 		});
