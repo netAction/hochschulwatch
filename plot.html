@@ -78,7 +78,7 @@
 
 
 	<div class="container">
-		<h1>Drittmittel aus der Wirtschaft über Gesamt-Drittmittel</h1>
+		<h1>Drittmittel im Plot</h1>
 		<style type="text/css">
 			#plot {
 				width: 100%;
@@ -98,9 +98,32 @@
 				display: block;
 				line-height: 0;
 			}
+
+			#plot2 {
+				width: 100%;
+				padding-top: 25%;
+				background-color: #ccc;
+				position: relative;
+			}
+			#plot2 .dot {
+				position: absolute;
+				width: 0.25%;
+				height: 1%;
+				border-radius: 5px;
+				background-color: black;
+				white-space: nowrap;
+				font-size: 9px;
+				color: #555;
+				display: block;
+				line-height: 0;
+			}
 		</style>
-		<div id="plot">
-		</div>
+		<div id="plot"></div>
+		<p>Drittmittel aus der Wirtschaft über Gesamt-Drittmittel</p>
+		<p></p>
+		<div id="plot2"></div>
+		<p>Quotient Wirtschaft/Absolut über Gesamt-Drittmittel</p>
+
 
 	</div><!-- container -->
 
@@ -124,8 +147,11 @@
 	<script type="application/javascript">
 		$(function() {
 			$.each(searchdb, function(i, hochschule) {
-				if (hochschule.absolut < 110000000) hochschule.name = '';
-				$('#plot').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft/1000000) +'%; left: '+ (hochschule.absolut/4000000) +'%;">&nbsp;&nbsp;'+ hochschule.name +'</a>');
+				if (hochschule.absolut > 110000000) hochschule.anzeigeName = hochschule.name; else hochschule.anzeigeName = '';
+				$('#plot').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft/1000000) +'%; left: '+ (hochschule.absolut/4000000) +'%;">&nbsp;&nbsp;'+ hochschule.anzeigeName +'</a>');
+
+				$('#plot2').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft*90/hochschule.absolut) +'%; left: '+ (hochschule.absolut/4000000) +'%;">&nbsp;&nbsp;'+ hochschule.anzeigeName +'</a>');
+
 			});
 		});
 	</script>
