@@ -80,13 +80,14 @@
 	<div class="container">
 		<h1>Drittmittel im Plot</h1>
 		<style type="text/css">
-			#plot {
+			.plot {
 				width: 100%;
 				padding-top: 25%;
 				background-color: #ccc;
 				position: relative;
 			}
-			#plot .dot {
+
+			.dot {
 				position: absolute;
 				width: 0.25%;
 				height: 1%;
@@ -99,31 +100,19 @@
 				line-height: 0;
 			}
 
-			#plot2 {
-				width: 100%;
-				padding-top: 25%;
-				background-color: #ccc;
-				position: relative;
-			}
-			#plot2 .dot {
-				position: absolute;
-				width: 0.25%;
-				height: 1%;
-				border-radius: 5px;
-				background-color: black;
-				white-space: nowrap;
-				font-size: 9px;
-				color: #555;
-				display: block;
-				line-height: 0;
+			#plot3 {
+				background: linear-gradient(170deg, #E8D7D7 37%, #D0E5D1 70%);
 			}
 		</style>
-		<div id="plot"></div>
+		<div class="plot" id="plot"></div>
 		<p>Drittmittel aus der Wirtschaft über Gesamt-Drittmittel</p>
 		<p></p>
-		<div id="plot2"></div>
+		<div class="plot" id="plot2"></div>
 		<p>Quotient Wirtschaft/Absolut über Gesamt-Drittmittel</p>
-
+		<p></p>
+		<div class="plot" id="plot3"></div>
+		<p>Drittmittel aus der Wirtschaft über <a href="https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&selectionname=21311-0002">Studierendenzahl</a></p>
+		<p></p>
 
 	</div><!-- container -->
 
@@ -151,6 +140,11 @@
 				$('#plot').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft/1000000) +'%; left: '+ (hochschule.absolut/4000000) +'%;">&nbsp;&nbsp;'+ hochschule.anzeigeName +'</a>');
 
 				$('#plot2').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft*99/hochschule.absolut) +'%; left: '+ (hochschule.absolut/4000000) +'%;">&nbsp;&nbsp;'+ hochschule.anzeigeName +'</a>');
+
+				if (hochschule.wirtschaft > 5000000) hochschule.anzeigeName = hochschule.name; else hochschule.anzeigeName = '';
+				if (hochschule.studierendenzahl)
+					$('#plot3').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft/400000) +'%; left: '+ (hochschule.studierendenzahl/400) +'%;">&nbsp;&nbsp;'+ hochschule.anzeigeName +'</a>');
+
 
 			});
 		});

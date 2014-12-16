@@ -39,6 +39,22 @@ function slugify(name) {
 }
 
 
+// #################### Studierenden-Zahlen einlesen
+// https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&selectionname=21311-0002
+
+function studierendenzahlLookup() {
+	var studierendenzahl = fs.readFileSync('studierendenzahl.csv').toString();
+	studierendenzahl = studierendenzahl.split("\n");
+	studierendenzahlTable = {};
+	for (var i = 0, len = studierendenzahl.length; i < len; i++) {
+		studierendenzahl[i] = beautify(studierendenzahl[i]);
+		studierendenzahl[i] = studierendenzahl[i].split('@');
+		studierendenzahlTable[studierendenzahl[i][1]] = studierendenzahl[i][0];
+	}
+	return studierendenzahlTable;
+}
+studierendenzahlTable = studierendenzahlLookup();
+
 
 // #################### jSon-Daten in Variable hochschulenTable und foerdererTable einlesen
 
@@ -46,7 +62,8 @@ function hochschulenLookup() {
 	var hochschulen = jf.readFileSync('daten/drittmittel.json');
 	var hochschulenLookup = {};
 	for (var i = 0, len = hochschulen.length; i < len; i++) {
-		hochschulenLookup[hochschulen[i].Name] = hochschulen[i].addi = beautify( hochschulen[i].addi );
+		hochschulen[i].addi = beautify( hochschulen[i].addi );
+		hochschulen[i].studierendenzahl = studierendenzahlTable['HS'+hochschulen[i].uID];
 
 		hochschulenLookup[hochschulen[i].Name] = hochschulen[i];
 	}
@@ -168,6 +185,7 @@ function generateSearchIndex() {
 			'slug': slugify(hochschulenTable[name].Name),
 			'absolut': hochschulenTable[name]['absolut-2012'],
 			'wirtschaft': hochschulenTable[name]['wirtschaft-2012'],
+			'studierendenzahl': hochschulenTable[name]['studierendenzahl'],
 		});
 	}
 
@@ -247,6 +265,7 @@ for(var name in hochschulenTable ) {
 	var data = hochschulenTable[name];
 	data.srcpath = '../';
 	data.slugify = function(){ return slugify(this.toString()); };
+	data.encodeURIComponent = function(){ return encodeURIComponent(this.toString()); };
 	var html = ms.render(template, data);
 	fs.writeFileSync('../hochschule/'+slugify(data.Name)+'.html', html);
 };

@@ -13,7 +13,7 @@
 					{{ #addi.length }}
 					<tr>
 						<td>Adresse</td>
-						<td>{{ addi }}</td>
+						<td><a href="https://maps.google.de/?q={{ #encodeURIComponent }}{{ addi }}{{ /encodeURIComponent }}">{{ addi }}</a></td>
 					</tr>
 					{{ /addi.length }}
 					<tr>

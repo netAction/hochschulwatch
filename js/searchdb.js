@@ -25,70 +25,80 @@ var searchdb = [
 		"bundesland": "Schleswig-Holstein",
 		"slug": "universitaet-flensburg",
 		"absolut": 3130589,
-		"wirtschaft": 101499
+		"wirtschaft": 101499,
+		"studierendenzahl": "4810"
 	},
 	{
 		"name": "Musikhochschule Lübeck",
 		"bundesland": "Schleswig-Holstein",
 		"slug": "musikhochschule-luebeck",
 		"absolut": 507247,
-		"wirtschaft": 202754
+		"wirtschaft": 202754,
+		"studierendenzahl": "411"
 	},
 	{
 		"name": "Muthesius Kunsthochschule Kiel",
 		"bundesland": "Schleswig-Holstein",
 		"slug": "muthesius-kunsthochschule-kiel",
 		"absolut": 424407,
-		"wirtschaft": 73134
+		"wirtschaft": 73134,
+		"studierendenzahl": "407"
 	},
 	{
 		"name": "Priv. FH Wedel",
 		"bundesland": "Schleswig-Holstein",
 		"slug": "priv-fh-wedel",
 		"absolut": 238802,
-		"wirtschaft": 238802
+		"wirtschaft": 238802,
+		"studierendenzahl": "981"
 	},
 	{
 		"name": "AKAD Hochschule Pinneberg",
 		"bundesland": "Schleswig-Holstein",
 		"slug": "akad-hochschule-pinneberg",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1710"
 	},
 	{
 		"name": "Nordakademie Hochschule der Wirtschaft",
 		"bundesland": "Schleswig-Holstein",
 		"slug": "nordakademie-hochschule-der-wirtschaft",
 		"absolut": 495000,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1456"
 	},
 	{
 		"name": "FH Flensburg",
 		"bundesland": "Schleswig-Holstein",
 		"slug": "fh-flensburg",
 		"absolut": 2048621,
-		"wirtschaft": 169784
+		"wirtschaft": 169784,
+		"studierendenzahl": "4114"
 	},
 	{
 		"name": "FH Kiel",
 		"bundesland": "Schleswig-Holstein",
 		"slug": "fh-kiel",
 		"absolut": 2631837,
-		"wirtschaft": 179925
+		"wirtschaft": 179925,
+		"studierendenzahl": "6852"
 	},
 	{
 		"name": "FH Lübeck",
 		"bundesland": "Schleswig-Holstein",
 		"slug": "fh-luebeck",
 		"absolut": 5034566,
-		"wirtschaft": 133879
+		"wirtschaft": 133879,
+		"studierendenzahl": "4303"
 	},
 	{
 		"name": "FH Westküste, Heide",
 		"bundesland": "Schleswig-Holstein",
 		"slug": "fh-westkueste-heide",
 		"absolut": 2081902,
-		"wirtschaft": 1305638
+		"wirtschaft": 1305638,
+		"studierendenzahl": "693"
 	},
 	{
 		"name": "FH für Verwaltung und Dienstleistung Altenholz",
@@ -102,7 +112,8 @@ var searchdb = [
 		"bundesland": "Hamburg",
 		"slug": "bucerius-law-school-hamburg-priv-h",
 		"absolut": 2197075,
-		"wirtschaft": 1669749
+		"wirtschaft": 1669749,
+		"studierendenzahl": "954"
 	},
 	{
 		"name": "Universität Hamburg (Klinikum)",
@@ -137,7 +148,8 @@ var searchdb = [
 		"bundesland": "Hamburg",
 		"slug": "tu-hamburg-harburg",
 		"absolut": 46734966,
-		"wirtschaft": 12592357
+		"wirtschaft": 12592357,
+		"studierendenzahl": "6577"
 	},
 	{
 		"name": "Helmut-Schmidt-Universität Hamburg",
@@ -151,14 +163,16 @@ var searchdb = [
 		"bundesland": "Hamburg",
 		"slug": "hochschule-fuer-musik-und-theater-hamburg",
 		"absolut": 627228,
-		"wirtschaft": 147559
+		"wirtschaft": 147559,
+		"studierendenzahl": "1272"
 	},
 	{
 		"name": "Hochschule für Bildende Künste Hamburg",
 		"bundesland": "Hamburg",
 		"slug": "hochschule-fuer-bildende-kuenste-hamburg",
 		"absolut": 234240,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "870"
 	},
 	{
 		"name": "EBC Euro Business College Hamburg (Priv. FH)",
@@ -179,56 +193,64 @@ var searchdb = [
 		"bundesland": "Hamburg",
 		"slug": "hfh-hamburger-fern-hochschule",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "9254"
 	},
 	{
 		"name": "Europäische Fernhochschule Hamburg",
 		"bundesland": "Hamburg",
 		"slug": "europaeische-fernhochschule-hamburg",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "6152"
 	},
 	{
 		"name": "AMD Akademie Mode und Design",
 		"bundesland": "Hessen",
 		"slug": "amd-akademie-mode-und-design",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "HSBA Hamburg School of Business Admin. (Priv. FH)",
 		"bundesland": "Hamburg",
 		"slug": "hsba-hamburg-school-of-business-admin-priv-fh",
 		"absolut": 31700,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "360"
 	},
 	{
 		"name": "Hochschule für Angewandte Wissenschaften Hamburg",
 		"bundesland": "Hamburg",
 		"slug": "hochschule-fuer-angewandte-wissenschaften-hamburg",
 		"absolut": 8107046,
-		"wirtschaft": 812976
+		"wirtschaft": 812976,
+		"studierendenzahl": "15798"
 	},
 	{
 		"name": "Evang. Hochschule für Soziale Arbeit und Diakonie, Hamburg (FH)",
 		"bundesland": "Hamburg",
 		"slug": "evang-hochschule-fuer-soziale-arbeit-und-diakonie-hamburg-fh",
 		"absolut": 75100,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "473"
 	},
 	{
 		"name": "Hochschule der Polizei, Hamburg (Verw-FH)",
 		"bundesland": "Hamburg",
 		"slug": "hochschule-der-polizei-hamburg-verw-fh",
 		"absolut": 5513,
-		"wirtschaft": 5513
+		"wirtschaft": 5513,
+		"studierendenzahl": "251"
 	},
 	{
 		"name": "Norddeutsche Akademie für Finanzen und Steuerrecht Hamburg",
 		"bundesland": "Hamburg",
 		"slug": "norddeutsche-akademie-fuer-finanzen-und-steuerrecht-hamburg",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "408"
 	},
 	{
 		"name": "Universität Göttingen (Klinikum)",
@@ -291,63 +313,72 @@ var searchdb = [
 		"bundesland": "Niedersachsen",
 		"slug": "tu-braunschweig",
 		"absolut": 76788879,
-		"wirtschaft": 23162334
+		"wirtschaft": 23162334,
+		"studierendenzahl": "17194"
 	},
 	{
 		"name": "TU Clausthal",
 		"bundesland": "Niedersachsen",
 		"slug": "tu-clausthal",
 		"absolut": 29723122,
-		"wirtschaft": 12973066
+		"wirtschaft": 12973066,
+		"studierendenzahl": "4534"
 	},
 	{
 		"name": "Universität Hannover",
 		"bundesland": "Niedersachsen",
 		"slug": "universitaet-hannover",
 		"absolut": 89936902,
-		"wirtschaft": 27344875
+		"wirtschaft": 27344875,
+		"studierendenzahl": "23135"
 	},
 	{
 		"name": "Tierärztliche Hochschule Hannover",
 		"bundesland": "Niedersachsen",
 		"slug": "tieraerztliche-hochschule-hannover",
 		"absolut": 12102506,
-		"wirtschaft": 3013007
+		"wirtschaft": 3013007,
+		"studierendenzahl": "2413"
 	},
 	{
 		"name": "Hochschule für Musik, Theater und Medien Hannover",
 		"bundesland": "Niedersachsen",
 		"slug": "hochschule-fuer-musik-theater-und-medien-hannover",
 		"absolut": 837935,
-		"wirtschaft": 133464
+		"wirtschaft": 133464,
+		"studierendenzahl": "710"
 	},
 	{
 		"name": "Hochschule für Bildende Künste Braunschweig",
 		"bundesland": "Niedersachsen",
 		"slug": "hochschule-fuer-bildende-kuenste-braunschweig",
 		"absolut": 723356,
-		"wirtschaft": 69112
+		"wirtschaft": 69112,
+		"studierendenzahl": "1091"
 	},
 	{
 		"name": "Hochschule Weserbergland (HSW), Hameln (Priv. FH)",
 		"bundesland": "Niedersachsen",
 		"slug": "hochschule-weserbergland-hsw-hameln-priv-fh",
 		"absolut": 38301,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "149"
 	},
 	{
 		"name": "Priv. FH der Wirtschaft Hannover",
 		"bundesland": "Niedersachsen",
 		"slug": "priv-fh-der-wirtschaft-hannover",
 		"absolut": 76000,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Priv. FH Göttingen",
 		"bundesland": "Niedersachsen",
 		"slug": "priv-fh-goettingen",
 		"absolut": 181836,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1891"
 	},
 	{
 		"name": "Priv. FH für Wirtschaft und Technik Vechta/Diepholz/Oldenburg",
@@ -361,14 +392,16 @@ var searchdb = [
 		"bundesland": "Niedersachsen",
 		"slug": "hochschule-fuer-kuenste-im-sozialen-ottersberg",
 		"absolut": 616009,
-		"wirtschaft": 1250
+		"wirtschaft": 1250,
+		"studierendenzahl": "451"
 	},
 	{
 		"name": "Hochschule21, Buxtehude (Priv. FH)",
 		"bundesland": "Niedersachsen",
 		"slug": "hochschule21-buxtehude-priv-fh",
 		"absolut": 117094,
-		"wirtschaft": 24100
+		"wirtschaft": 24100,
+		"studierendenzahl": "374"
 	},
 	{
 		"name": "Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH)",
@@ -396,7 +429,8 @@ var searchdb = [
 		"bundesland": "Niedersachsen",
 		"slug": "hochschule-hannover-fh",
 		"absolut": 6434053,
-		"wirtschaft": 402613
+		"wirtschaft": 402613,
+		"studierendenzahl": "8914"
 	},
 	{
 		"name": "Hochschule Hildesheim/Holzminden/Göttingen (FH)",
@@ -438,14 +472,16 @@ var searchdb = [
 		"bundesland": "Bremen",
 		"slug": "universitaet-bremen",
 		"absolut": 89159987,
-		"wirtschaft": 11565833
+		"wirtschaft": 11565833,
+		"studierendenzahl": "18687"
 	},
 	{
 		"name": "Hochschule für Künste Bremen",
 		"bundesland": "Bremen",
 		"slug": "hochschule-fuer-kuenste-bremen",
 		"absolut": 141633,
-		"wirtschaft": 141633
+		"wirtschaft": 141633,
+		"studierendenzahl": "898"
 	},
 	{
 		"name": "APOLLON Hochschule der Gesundheitswirtschaft",
@@ -459,21 +495,24 @@ var searchdb = [
 		"bundesland": "Bremen",
 		"slug": "hochschule-bremerhaven",
 		"absolut": 6443103,
-		"wirtschaft": 235747
+		"wirtschaft": 235747,
+		"studierendenzahl": "3219"
 	},
 	{
 		"name": "Hochschule Bremen",
 		"bundesland": "Bremen",
 		"slug": "hochschule-bremen",
 		"absolut": 8751131,
-		"wirtschaft": 8751131
+		"wirtschaft": 8751131,
+		"studierendenzahl": "8925"
 	},
 	{
 		"name": "Hochschule für öffentliche Verwaltung Bremen",
 		"bundesland": "Bremen",
 		"slug": "hochschule-fuer-oeffentliche-verwaltung-bremen",
 		"absolut": 18806,
-		"wirtschaft": 18806
+		"wirtschaft": 18806,
+		"studierendenzahl": "338"
 	},
 	{
 		"name": "Priv. wiss. Hochschule Witten-Herdecke (ohne Klinikum)",
@@ -613,21 +652,24 @@ var searchdb = [
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "technische-universitaet-dortmund",
 		"absolut": 63897304,
-		"wirtschaft": 9114632
+		"wirtschaft": 9114632,
+		"studierendenzahl": "31095"
 	},
 	{
 		"name": "Universität Bielefeld",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "universitaet-bielefeld",
 		"absolut": 57566735,
-		"wirtschaft": 6653505
+		"wirtschaft": 6653505,
+		"studierendenzahl": "21552"
 	},
 	{
 		"name": "Deutsche Sporthochschule Köln",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "deutsche-sporthochschule-koeln",
 		"absolut": 10581051,
-		"wirtschaft": 6232448
+		"wirtschaft": 6232448,
+		"studierendenzahl": "5104"
 	},
 	{
 		"name": "RWTH Aachen (ohne Klinikum)",
@@ -655,21 +697,24 @@ var searchdb = [
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "theol-fakultaet-paderborn-rk",
 		"absolut": 20000,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "94"
 	},
 	{
 		"name": "Philosophisch-Theologische Hochschule SVD St. Augustin",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "philosophisch-theologische-hochschule-svd-st-augustin",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "98"
 	},
 	{
 		"name": "Phil.-Theol. Hochschule Münster (rk)",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "phil-theol-hochschule-muenster-rk",
 		"absolut": 155463,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "63"
 	},
 	{
 		"name": "Kirchliche Hochschule Wuppertal / Bethel (ev)",
@@ -683,7 +728,8 @@ var searchdb = [
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "alanus-hochschule-alfter-priv-h",
 		"absolut": 1558890,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "700"
 	},
 	{
 		"name": "Hochschule für Musik Detmold",
@@ -711,28 +757,32 @@ var searchdb = [
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "kunstakademie-duesseldorf",
 		"absolut": 186716,
-		"wirtschaft": 115764
+		"wirtschaft": 115764,
+		"studierendenzahl": "631"
 	},
 	{
 		"name": "Robert-Schumann-Hochschule Düsseldorf",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "robert-schumann-hochschule-duesseldorf",
 		"absolut": 622667,
-		"wirtschaft": 267052
+		"wirtschaft": 267052,
+		"studierendenzahl": "804"
 	},
 	{
 		"name": "Kunsthochschule für Medien Köln",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "kunsthochschule-fuer-medien-koeln",
 		"absolut": 360964,
-		"wirtschaft": 84721
+		"wirtschaft": 84721,
+		"studierendenzahl": "320"
 	},
 	{
 		"name": "Kunstakademie Münster",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "kunstakademie-muenster",
 		"absolut": 42891,
-		"wirtschaft": 7770
+		"wirtschaft": 7770,
+		"studierendenzahl": "333"
 	},
 	{
 		"name": "EBZ Business School",
@@ -746,63 +796,72 @@ var searchdb = [
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "hochschule-der-sparkassen-finanzgruppe-bonn-priv-fh",
 		"absolut": 100900,
-		"wirtschaft": 100000
+		"wirtschaft": 100000,
+		"studierendenzahl": "974"
 	},
 	{
 		"name": "Hochschule Neuss für Internationale Wirtschaft (Priv. FH)",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "hochschule-neuss-fuer-internationale-wirtschaft-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "268"
 	},
 	{
 		"name": "Mathias Hochschule Rheine",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "mathias-hochschule-rheine",
 		"absolut": 159924,
-		"wirtschaft": 52350
+		"wirtschaft": 52350,
+		"studierendenzahl": "310"
 	},
 	{
 		"name": "EBC Düsseldorf HS für Int. Management (Priv. FH)",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "ebc-duesseldorf-hs-fuer-int-management-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "20"
 	},
 	{
 		"name": "Cologne Business School",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "cologne-business-school",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "710"
 	},
 	{
 		"name": "Priv. FH International School of Management, Dortmund",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "priv-fh-international-school-of-management-dortmund",
 		"absolut": 163950,
-		"wirtschaft": 86832
+		"wirtschaft": 86832,
+		"studierendenzahl": "1236"
 	},
 	{
 		"name": "Intern. FH (IFH) Bad Honnef-Bonn (Priv. FH)",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "intern-fh-ifh-bad-honnef-bonn-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "3660"
 	},
 	{
 		"name": "Business and Information Technology School Iserlohn (Priv. FH)",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "business-and-information-technology-school-iserlohn-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1614"
 	},
 	{
 		"name": "FH des Mittelstandes Bielefeld (Priv. FH)",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "fh-des-mittelstandes-bielefeld-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1984"
 	},
 	{
 		"name": "Fachhochschule der Wirtschaft Paderborn",
@@ -816,21 +875,24 @@ var searchdb = [
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "technische-fh-tfh-georg-agricola-zu-bochum-priv-fh",
 		"absolut": 237740,
-		"wirtschaft": 200312
+		"wirtschaft": 200312,
+		"studierendenzahl": "2367"
 	},
 	{
 		"name": "Priv. Rheinische FH Köln",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "priv-rheinische-fh-koeln",
 		"absolut": 6249404,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "5302"
 	},
 	{
 		"name": "Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH)",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "europaeische-fh-eufh-rheinerft-bruehl-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Priv. FH für Ökonomie und Management Essen",
@@ -893,21 +955,24 @@ var searchdb = [
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "hochschule-bochum",
 		"absolut": 2616867,
-		"wirtschaft": 867872
+		"wirtschaft": 867872,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "FH Dortmund",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "fh-dortmund",
 		"absolut": 4502081,
-		"wirtschaft": 2027622
+		"wirtschaft": 2027622,
+		"studierendenzahl": "12268"
 	},
 	{
 		"name": "FH Düsseldorf",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "fh-duesseldorf",
 		"absolut": 3852476,
-		"wirtschaft": 833648
+		"wirtschaft": 833648,
+		"studierendenzahl": "8953"
 	},
 	{
 		"name": "FH Köln",
@@ -956,7 +1021,8 @@ var searchdb = [
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "evang-fh-rheinland-westfalen-lippe-bochum",
 		"absolut": 175571,
-		"wirtschaft": 57371
+		"wirtschaft": 57371,
+		"studierendenzahl": "2200"
 	},
 	{
 		"name": "Kath. Hochschule Nordrhein-Westfalen",
@@ -977,42 +1043,48 @@ var searchdb = [
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "fh-fuer-rechtspflege-nw-bad-muenstereifel",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "166"
 	},
 	{
 		"name": "FH für Finanzen NW, Nordkirchen",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "fh-fuer-finanzen-nw-nordkirchen",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "921"
 	},
 	{
 		"name": "FH Bund, FB Allgemeine innere Verwaltung, Brühl",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "fh-bund-fb-allgemeine-innere-verwaltung-bruehl",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "133"
 	},
 	{
 		"name": "FH Bund, FB Finanzen, Münster",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "fh-bund-fb-finanzen-muenster",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "492"
 	},
 	{
 		"name": "Priv. wiss. Hochschule Oestrich-Winkel (E.B.S.)",
 		"bundesland": "Hessen",
 		"slug": "priv-wiss-hochschule-oestrich-winkel-ebs",
 		"absolut": 9871951,
-		"wirtschaft": 3950709
+		"wirtschaft": 3950709,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Frankfurt School of Finance and Management",
 		"bundesland": "Hessen",
 		"slug": "frankfurt-school-of-finance-and-management",
 		"absolut": 1998734,
-		"wirtschaft": 373542
+		"wirtschaft": 373542,
+		"studierendenzahl": "1425"
 	},
 	{
 		"name": "Universität Frankfurt a.M. (Klinikum)",
@@ -1054,7 +1126,8 @@ var searchdb = [
 		"bundesland": "Hessen",
 		"slug": "tu-darmstadt",
 		"absolut": 117259727,
-		"wirtschaft": 34247419
+		"wirtschaft": 34247419,
+		"studierendenzahl": "25114"
 	},
 	{
 		"name": "Universitätsklinikum Gießen und Marburg, Abt. Gießen",
@@ -1082,77 +1155,88 @@ var searchdb = [
 		"bundesland": "Hessen",
 		"slug": "evangelische-hochschule-tabor-marburg",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "112"
 	},
 	{
 		"name": "Theol. Fakultät Fulda (rk)",
 		"bundesland": "Hessen",
 		"slug": "theol-fakultaet-fulda-rk",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "40"
 	},
 	{
 		"name": "Phil.-Theol. Hochschule Frankfurt a.M. (rk)",
 		"bundesland": "Hessen",
 		"slug": "phil-theol-hochschule-frankfurt-am-rk",
 		"absolut": 969330,
-		"wirtschaft": 754434
+		"wirtschaft": 754434,
+		"studierendenzahl": "360"
 	},
 	{
 		"name": "Luth.-Theol. Hochschule Oberursel (ev)",
 		"bundesland": "Hessen",
 		"slug": "luth-theol-hochschule-oberursel-ev",
 		"absolut": 74732,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "33"
 	},
 	{
 		"name": "Hochschule für Musik und Darstellende Kunst Frankfurt a.M.",
 		"bundesland": "Hessen",
 		"slug": "hochschule-fuer-musik-und-darstellende-kunst-frankfurt-am",
 		"absolut": 1147878,
-		"wirtschaft": 19780
+		"wirtschaft": 19780,
+		"studierendenzahl": "914"
 	},
 	{
 		"name": "Hochschule für Bildende Künste Frankfurt a.M. (Städelschule)",
 		"bundesland": "Hessen",
 		"slug": "hochschule-fuer-bildende-kuenste-frankfurt-am-staedelschule",
 		"absolut": 462183,
-		"wirtschaft": 262150
+		"wirtschaft": 262150,
+		"studierendenzahl": "176"
 	},
 	{
 		"name": "Hochschule für Gestaltung Offenbach",
 		"bundesland": "Hessen",
 		"slug": "hochschule-fuer-gestaltung-offenbach",
 		"absolut": 524705,
-		"wirtschaft": 138046
+		"wirtschaft": 138046,
+		"studierendenzahl": "683"
 	},
 	{
 		"name": "CVJM-Hochschule",
 		"bundesland": "Hessen",
 		"slug": "cvjm-hochschule",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "329"
 	},
 	{
 		"name": "Hochschule Fresenius Idstein (Priv. FH)",
 		"bundesland": "Hessen",
 		"slug": "hochschule-fresenius-idstein-priv-fh",
 		"absolut": 1144715,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Priv. FH des Bundesverbandes der Unfallvers., Bad Hersfeld",
 		"bundesland": "Hessen",
 		"slug": "priv-fh-des-bundesverbandes-der-unfallvers-bad-hersfeld",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "134"
 	},
 	{
 		"name": "Wilhelm Büchner Hochschule",
 		"bundesland": "Hessen",
 		"slug": "wilhelm-buechner-hochschule",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "5772"
 	},
 	{
 		"name": "DIPLOMA Fachhochschule Nordhessen",
@@ -1166,28 +1250,32 @@ var searchdb = [
 		"bundesland": "Hessen",
 		"slug": "provadis-international-school-of-management-and-technology",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "779"
 	},
 	{
 		"name": "accadis Hochschule Bad Homburg",
 		"bundesland": "Hessen",
 		"slug": "accadis-hochschule-bad-homburg",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "517"
 	},
 	{
 		"name": "h_da - Hochschule Darmstadt (FH)",
 		"bundesland": "Hessen",
 		"slug": "h_da-hochschule-darmstadt-fh",
 		"absolut": 4261821,
-		"wirtschaft": 1621354
+		"wirtschaft": 1621354,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "FH Frankfurt a.M.",
 		"bundesland": "Hessen",
 		"slug": "fh-frankfurt-am",
 		"absolut": 4167846,
-		"wirtschaft": 386011
+		"wirtschaft": 386011,
+		"studierendenzahl": "11601"
 	},
 	{
 		"name": "Technische Hochschule Mittelhessen, FH (THM)",
@@ -1208,28 +1296,32 @@ var searchdb = [
 		"bundesland": "Hessen",
 		"slug": "hochschule-fulda",
 		"absolut": 3332717,
-		"wirtschaft": 114794
+		"wirtschaft": 114794,
+		"studierendenzahl": "7096"
 	},
 	{
 		"name": "Evangelische Hochschule Darmstadt (EHD)",
 		"bundesland": "Hessen",
 		"slug": "evangelische-hochschule-darmstadt-ehd",
 		"absolut": 457777,
-		"wirtschaft": 150195
+		"wirtschaft": 150195,
+		"studierendenzahl": "1641"
 	},
 	{
 		"name": "FH für Archivwesen Marburg",
 		"bundesland": "Hessen",
 		"slug": "fh-fuer-archivwesen-marburg",
 		"absolut": 107600,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "62"
 	},
 	{
 		"name": "VerwFH Rotenburg",
 		"bundesland": "Hessen",
 		"slug": "verwfh-rotenburg",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "953"
 	},
 	{
 		"name": "VerwFH Wiesbaden",
@@ -1243,7 +1335,8 @@ var searchdb = [
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "whu-otto-beisheim-school-of-management",
 		"absolut": 255591,
-		"wirtschaft": 79240
+		"wirtschaft": 79240,
+		"studierendenzahl": "250"
 	},
 	{
 		"name": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
@@ -1257,14 +1350,16 @@ var searchdb = [
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "universitaet-trier",
 		"absolut": 11768705,
-		"wirtschaft": 1951387
+		"wirtschaft": 1951387,
+		"studierendenzahl": "14796"
 	},
 	{
 		"name": "TU Kaiserslautern",
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "tu-kaiserslautern",
 		"absolut": 50355926,
-		"wirtschaft": 4843487
+		"wirtschaft": 4843487,
+		"studierendenzahl": "13965"
 	},
 	{
 		"name": "Universität Mainz",
@@ -1278,7 +1373,8 @@ var searchdb = [
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "hochschule-fuer-verwaltungswissenschaften-speyer",
 		"absolut": 187074,
-		"wirtschaft": 30700
+		"wirtschaft": 30700,
+		"studierendenzahl": "355"
 	},
 	{
 		"name": "Universität Koblenz-Landau",
@@ -1292,21 +1388,24 @@ var searchdb = [
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "theol-fakultaet-trier",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "350"
 	},
 	{
 		"name": "Theol. H Vallendar",
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "theol-h-vallendar",
 		"absolut": 664118,
-		"wirtschaft": 421675
+		"wirtschaft": 421675,
+		"studierendenzahl": "232"
 	},
 	{
 		"name": "FH Bingen",
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "fh-bingen",
 		"absolut": 760634,
-		"wirtschaft": 452297
+		"wirtschaft": 452297,
+		"studierendenzahl": "2659"
 	},
 	{
 		"name": "FH Kaiserslautern",
@@ -1334,28 +1433,32 @@ var searchdb = [
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "hochschule-ludwigshafen-am-rhein",
 		"absolut": 1014711,
-		"wirtschaft": 184916
+		"wirtschaft": 184916,
+		"studierendenzahl": "4280"
 	},
 	{
 		"name": "FH Worms",
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "fh-worms",
 		"absolut": 1010969,
-		"wirtschaft": 476181
+		"wirtschaft": 476181,
+		"studierendenzahl": "3213"
 	},
 	{
 		"name": "FH Mainz",
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "fh-mainz",
 		"absolut": 2259575,
-		"wirtschaft": 1162669
+		"wirtschaft": 1162669,
+		"studierendenzahl": "4959"
 	},
 	{
 		"name": "Kath. FH Mainz",
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "kath-fh-mainz",
 		"absolut": 364230,
-		"wirtschaft": 1374
+		"wirtschaft": 1374,
+		"studierendenzahl": "1181"
 	},
 	{
 		"name": "FH für öffentliche Verwaltung, FB Innere Verwaltung in Mayen",
@@ -1369,42 +1472,48 @@ var searchdb = [
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "fh-fuer-finanzen-edenkoben",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "480"
 	},
 	{
 		"name": "Hochschule der Deutschen Bundesbank",
 		"bundesland": "Rheinland-Pfalz",
 		"slug": "hochschule-der-deutschen-bundesbank",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "313"
 	},
 	{
 		"name": "Priv. wiss. Hochschule Bierbronnen",
 		"bundesland": "Baden-Württemberg",
 		"slug": "priv-wiss-hochschule-bierbronnen",
 		"absolut": 110168,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "AKAD, Wissenschaftliche Hochschule Lahr (Priv. Fern-H für Berufstätige)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "akad-wissenschaftliche-hochschule-lahr-priv-fern-h-fuer-berufstaetige",
 		"absolut": 53439,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "122"
 	},
 	{
 		"name": "Zeppelin Universität (ZU)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "zeppelin-universitaet-zu",
 		"absolut": 2845796,
-		"wirtschaft": 810732
+		"wirtschaft": 810732,
+		"studierendenzahl": "919"
 	},
 	{
 		"name": "Priv. wiss. Hochschule Stuttgart, Seminar für Waldorfpädagogik",
 		"bundesland": "Baden-Württemberg",
 		"slug": "priv-wiss-hochschule-stuttgart-seminar-fuer-waldorfpaedagogik",
 		"absolut": 23449,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "176"
 	},
 	{
 		"name": "Universität Freiburg i.Br. (Klinikum)",
@@ -1460,7 +1569,8 @@ var searchdb = [
 		"bundesland": "Baden-Württemberg",
 		"slug": "universitaet-konstanz",
 		"absolut": 65612071,
-		"wirtschaft": 3657248
+		"wirtschaft": 3657248,
+		"studierendenzahl": "11410"
 	},
 	{
 		"name": "Universität Tübingen (ohne Klinikum)",
@@ -1474,28 +1584,32 @@ var searchdb = [
 		"bundesland": "Baden-Württemberg",
 		"slug": "karlsruher-institut-fuer-technologie-kit-bereich-hochschule",
 		"absolut": 160421218,
-		"wirtschaft": 23896639
+		"wirtschaft": 23896639,
+		"studierendenzahl": "6556"
 	},
 	{
 		"name": "Universität Stuttgart",
 		"bundesland": "Baden-Württemberg",
 		"slug": "universitaet-stuttgart",
 		"absolut": 161872602,
-		"wirtschaft": 33358677
+		"wirtschaft": 33358677,
+		"studierendenzahl": "26052"
 	},
 	{
 		"name": "Universität Hohenheim",
 		"bundesland": "Baden-Württemberg",
 		"slug": "universitaet-hohenheim",
 		"absolut": 26961695,
-		"wirtschaft": 3229547
+		"wirtschaft": 3229547,
+		"studierendenzahl": "9680"
 	},
 	{
 		"name": "Universität Mannheim",
 		"bundesland": "Baden-Württemberg",
 		"slug": "universitaet-mannheim",
 		"absolut": 19790903,
-		"wirtschaft": 3177292
+		"wirtschaft": 3177292,
+		"studierendenzahl": "11735"
 	},
 	{
 		"name": "Universität Ulm (ohne Klinikum)",
@@ -1509,35 +1623,40 @@ var searchdb = [
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-fuer-juedische-studien-heidelberg",
 		"absolut": 1822908,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "100"
 	},
 	{
 		"name": "PH Freiburg i.Br.",
 		"bundesland": "Baden-Württemberg",
 		"slug": "ph-freiburg-ibr",
 		"absolut": 2868009,
-		"wirtschaft": 321026
+		"wirtschaft": 321026,
+		"studierendenzahl": "4973"
 	},
 	{
 		"name": "PH Heidelberg",
 		"bundesland": "Baden-Württemberg",
 		"slug": "ph-heidelberg",
 		"absolut": 3084651,
-		"wirtschaft": 352469
+		"wirtschaft": 352469,
+		"studierendenzahl": "4527"
 	},
 	{
 		"name": "PH Karlsruhe",
 		"bundesland": "Baden-Württemberg",
 		"slug": "ph-karlsruhe",
 		"absolut": 1139348,
-		"wirtschaft": 311759
+		"wirtschaft": 311759,
+		"studierendenzahl": "3849"
 	},
 	{
 		"name": "PH Schwäbisch Gmünd",
 		"bundesland": "Baden-Württemberg",
 		"slug": "ph-schwaebisch-gmuend",
 		"absolut": 1001933,
-		"wirtschaft": 68027
+		"wirtschaft": 68027,
+		"studierendenzahl": "2659"
 	},
 	{
 		"name": "PH Ludwigsburg",
@@ -1551,63 +1670,72 @@ var searchdb = [
 		"bundesland": "Baden-Württemberg",
 		"slug": "ph-weingarten",
 		"absolut": 714584,
-		"wirtschaft": 200987
+		"wirtschaft": 200987,
+		"studierendenzahl": "3281"
 	},
 	{
 		"name": "Staatl. Hochschule für Musik Freiburg i.Br.",
 		"bundesland": "Baden-Württemberg",
 		"slug": "staatl-hochschule-fuer-musik-freiburg-ibr",
 		"absolut": 101472,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "520"
 	},
 	{
 		"name": "Staatl. Hochschule für Musik und Darstellende Kunst Mannheim",
 		"bundesland": "Baden-Württemberg",
 		"slug": "staatl-hochschule-fuer-musik-und-darstellende-kunst-mannheim",
 		"absolut": 286168,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "638"
 	},
 	{
 		"name": "Staatl. Hochschule für Musik Karlsruhe",
 		"bundesland": "Baden-Württemberg",
 		"slug": "staatl-hochschule-fuer-musik-karlsruhe",
 		"absolut": 405426,
-		"wirtschaft": 244943
+		"wirtschaft": 244943,
+		"studierendenzahl": "647"
 	},
 	{
 		"name": "Staatl. Hochschule für Musik und Darstellende Kunst Stuttgart",
 		"bundesland": "Baden-Württemberg",
 		"slug": "staatl-hochschule-fuer-musik-und-darstellende-kunst-stuttgart",
 		"absolut": 264989,
-		"wirtschaft": 2750
+		"wirtschaft": 2750,
+		"studierendenzahl": "749"
 	},
 	{
 		"name": "Staatl. Hochschule für Musik Trossingen",
 		"bundesland": "Baden-Württemberg",
 		"slug": "staatl-hochschule-fuer-musik-trossingen",
 		"absolut": 274939,
-		"wirtschaft": 38525
+		"wirtschaft": 38525,
+		"studierendenzahl": "488"
 	},
 	{
 		"name": "Staatl. Hochschule für Gestaltung Karlsruhe",
 		"bundesland": "Baden-Württemberg",
 		"slug": "staatl-hochschule-fuer-gestaltung-karlsruhe",
 		"absolut": 1002330,
-		"wirtschaft": 326112
+		"wirtschaft": 326112,
+		"studierendenzahl": "434"
 	},
 	{
 		"name": "Staatl. Akademie der Bildenden Künste Karlsruhe",
 		"bundesland": "Baden-Württemberg",
 		"slug": "staatl-akademie-der-bildenden-kuenste-karlsruhe",
 		"absolut": 29000,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "319"
 	},
 	{
 		"name": "Staatl. Akademie der Bildenden Künste Stuttgart",
 		"bundesland": "Baden-Württemberg",
 		"slug": "staatl-akademie-der-bildenden-kuenste-stuttgart",
 		"absolut": 391367,
-		"wirtschaft": 105820
+		"wirtschaft": 105820,
+		"studierendenzahl": "803"
 	},
 	{
 		"name": "German Graduate School of Management and Law",
@@ -1628,84 +1756,96 @@ var searchdb = [
 		"bundesland": "Baden-Württemberg",
 		"slug": "internationale-hochschule-calw-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Naturwissenschaftlich-Technische Akademie Isny (nta)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "naturwissenschaftlich-technische-akademie-isny-nta",
 		"absolut": 219279,
-		"wirtschaft": 2050
+		"wirtschaft": 2050,
+		"studierendenzahl": "184"
 	},
 	{
 		"name": "Priv. FH für Gestaltung Stuttgart (Merz-Akademie)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "priv-fh-fuer-gestaltung-stuttgart-merz-akademie",
 		"absolut": 18466,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "23"
 	},
 	{
 		"name": "Priv. FH für Kunsttherapie Nürtingen",
 		"bundesland": "Baden-Württemberg",
 		"slug": "priv-fh-fuer-kunsttherapie-nuertingen",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "291"
 	},
 	{
 		"name": "AKAD, FH Stuttgart (Priv. Fern-FH für Berufstätige)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "akad-fh-stuttgart-priv-fern-fh-fuer-berufstaetige",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "2500"
 	},
 	{
 		"name": "SRH Hochschule Heidelberg",
 		"bundesland": "Baden-Württemberg",
 		"slug": "srh-hochschule-heidelberg",
 		"absolut": 299881,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "2941"
 	},
 	{
 		"name": "Fernhochschule Riedlingen (Priv. FH)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "fernhochschule-riedlingen-priv-fh",
 		"absolut": 50000,
-		"wirtschaft": 50000
+		"wirtschaft": 50000,
+		"studierendenzahl": "2405"
 	},
 	{
 		"name": "Hochschule für Gestaltung Schwäbisch Hall",
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-fuer-gestaltung-schwaebisch-hall",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Priv. FH Calw - H für Wirtschaft und Medien",
 		"bundesland": "Baden-Württemberg",
 		"slug": "priv-fh-calw-h-fuer-wirtschaft-und-medien",
 		"absolut": 34700,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "322"
 	},
 	{
 		"name": "Karlshochschule International University, Karlsruhe (Priv. FH)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "karlshochschule-international-university-karlsruhe-priv-fh",
 		"absolut": 10500,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "464"
 	},
 	{
 		"name": "FH Aalen",
 		"bundesland": "Baden-Württemberg",
 		"slug": "fh-aalen",
 		"absolut": 5825759,
-		"wirtschaft": 2379943
+		"wirtschaft": 2379943,
+		"studierendenzahl": "5392"
 	},
 	{
 		"name": "Hochschule Biberach",
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-biberach",
 		"absolut": 2503768,
-		"wirtschaft": 723458
+		"wirtschaft": 723458,
+		"studierendenzahl": "2339"
 	},
 	{
 		"name": "Hochschule Esslingen (FH)",
@@ -1733,21 +1873,24 @@ var searchdb = [
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-karlsruhe-fh",
 		"absolut": 6963671,
-		"wirtschaft": 808068
+		"wirtschaft": 808068,
+		"studierendenzahl": "8052"
 	},
 	{
 		"name": "Hochschule Konstanz (HTWG)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-konstanz-htwg",
 		"absolut": 3307472,
-		"wirtschaft": 1688171
+		"wirtschaft": 1688171,
+		"studierendenzahl": "4764"
 	},
 	{
 		"name": "Hochschule Mannheim (FH)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-mannheim-fh",
 		"absolut": 5150000,
-		"wirtschaft": 1207000
+		"wirtschaft": 1207000,
+		"studierendenzahl": "5236"
 	},
 	{
 		"name": "Hochschule für Wirtschaft und Umwelt Nürtingen",
@@ -1761,28 +1904,32 @@ var searchdb = [
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-offenburg",
 		"absolut": 3788598,
-		"wirtschaft": 1621940
+		"wirtschaft": 1621940,
+		"studierendenzahl": "4332"
 	},
 	{
 		"name": "Hochschule Pforzheim",
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-pforzheim",
 		"absolut": 2096324,
-		"wirtschaft": 1144672
+		"wirtschaft": 1144672,
+		"studierendenzahl": "5841"
 	},
 	{
 		"name": "FH Ravensburg-Weingarten",
 		"bundesland": "Baden-Württemberg",
 		"slug": "fh-ravensburg-weingarten",
 		"absolut": 601646,
-		"wirtschaft": 71821
+		"wirtschaft": 71821,
+		"studierendenzahl": "3465"
 	},
 	{
 		"name": "Hochschule Reutlingen",
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-reutlingen",
 		"absolut": 4532910,
-		"wirtschaft": 1099604
+		"wirtschaft": 1099604,
+		"studierendenzahl": "5480"
 	},
 	{
 		"name": "Hochschule Albstadt-Sigmaringen (FH)",
@@ -1796,35 +1943,40 @@ var searchdb = [
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-fuer-technik-stuttgart",
 		"absolut": 3571241,
-		"wirtschaft": 499943
+		"wirtschaft": 499943,
+		"studierendenzahl": "3917"
 	},
 	{
 		"name": "FH Stuttgart, H der Medien",
 		"bundesland": "Baden-Württemberg",
 		"slug": "fh-stuttgart-h-der-medien",
 		"absolut": 2537534,
-		"wirtschaft": 1079611
+		"wirtschaft": 1079611,
+		"studierendenzahl": "4199"
 	},
 	{
 		"name": "Hochschule Ulm",
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-ulm",
 		"absolut": 1446361,
-		"wirtschaft": 417327
+		"wirtschaft": 417327,
+		"studierendenzahl": "4156"
 	},
 	{
 		"name": "Hochschule für Gestaltung Schwäbisch Gmünd",
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-fuer-gestaltung-schwaebisch-gmuend",
 		"absolut": 487763,
-		"wirtschaft": 201393
+		"wirtschaft": 201393,
+		"studierendenzahl": "622"
 	},
 	{
 		"name": "Hochschule für Forstwirtschaft Rottenburg (FH)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-fuer-forstwirtschaft-rottenburg-fh",
 		"absolut": 668424,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "942"
 	},
 	{
 		"name": "Duale Hochschule Baden Württemberg",
@@ -1838,56 +1990,64 @@ var searchdb = [
 		"bundesland": "Baden-Württemberg",
 		"slug": "evang-hochschule-freiburg-fh",
 		"absolut": 21701,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "887"
 	},
 	{
 		"name": "Katholische Hochschule Freiburg i.Br.",
 		"bundesland": "Baden-Württemberg",
 		"slug": "katholische-hochschule-freiburg-ibr",
 		"absolut": 531379,
-		"wirtschaft": 59380
+		"wirtschaft": 59380,
+		"studierendenzahl": "1338"
 	},
 	{
 		"name": "Evangelische Hochschule Ludwigsburg (FH)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "evangelische-hochschule-ludwigsburg-fh",
 		"absolut": 2732509,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1123"
 	},
 	{
 		"name": "Theologische Hochschule Reutlingen",
 		"bundesland": "Baden-Württemberg",
 		"slug": "theologische-hochschule-reutlingen",
 		"absolut": 61361,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "63"
 	},
 	{
 		"name": "FH für öffentliche Verwaltung Kehl",
 		"bundesland": "Baden-Württemberg",
 		"slug": "fh-fuer-oeffentliche-verwaltung-kehl",
 		"absolut": 181880,
-		"wirtschaft": 75515
+		"wirtschaft": 75515,
+		"studierendenzahl": "993"
 	},
 	{
 		"name": "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg",
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-fuer-oeffentliche-verwaltung-und-finanzen-ludwigsburg",
 		"absolut": 484741,
-		"wirtschaft": 6562
+		"wirtschaft": 6562,
+		"studierendenzahl": "2003"
 	},
 	{
 		"name": "FH für Rechtspflege Schwetzingen",
 		"bundesland": "Baden-Württemberg",
 		"slug": "fh-fuer-rechtspflege-schwetzingen",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "445"
 	},
 	{
 		"name": "Staatl. FH für Polizei Villingen-Schwenningen",
 		"bundesland": "Baden-Württemberg",
 		"slug": "staatl-fh-fuer-polizei-villingen-schwenningen",
 		"absolut": 5333,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1270"
 	},
 	{
 		"name": "FH Bund, FB Bundeswehrverwaltung, Mannheim",
@@ -1985,7 +2145,8 @@ var searchdb = [
 		"bundesland": "Bayern",
 		"slug": "universitaet-augsburg",
 		"absolut": 15602500,
-		"wirtschaft": 4664652
+		"wirtschaft": 4664652,
+		"studierendenzahl": "19006"
 	},
 	{
 		"name": "TU München (ohne Klinikum)",
@@ -1999,7 +2160,8 @@ var searchdb = [
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-politik-muenchen",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "535"
 	},
 	{
 		"name": "Universität der Bundeswehr München (FB Universitätsstudiengänge)",
@@ -2027,49 +2189,56 @@ var searchdb = [
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-philosophie-muenchen-rk",
 		"absolut": 813707,
-		"wirtschaft": 336230
+		"wirtschaft": 336230,
+		"studierendenzahl": "385"
 	},
 	{
 		"name": "Phil.-Theol. H Benediktbeuern (rk)",
 		"bundesland": "Bayern",
 		"slug": "phil-theol-h-benediktbeuern-rk",
 		"absolut": 730330,
-		"wirtschaft": 632000
+		"wirtschaft": 632000,
+		"studierendenzahl": "19"
 	},
 	{
 		"name": "Hochschule für Musik Würzburg",
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-musik-wuerzburg",
 		"absolut": 399727,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "652"
 	},
 	{
 		"name": "Hochschule für Musik und Theater München",
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-musik-und-theater-muenchen",
 		"absolut": 504493,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1084"
 	},
 	{
 		"name": "Hochschule für Fernsehen und Film München",
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-fernsehen-und-film-muenchen",
 		"absolut": 181879,
-		"wirtschaft": 130779
+		"wirtschaft": 130779,
+		"studierendenzahl": "391"
 	},
 	{
 		"name": "Akademie der Bildenden Künste München",
 		"bundesland": "Bayern",
 		"slug": "akademie-der-bildenden-kuenste-muenchen",
 		"absolut": 253629,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "676"
 	},
 	{
 		"name": "Akademie der Bildenden Künste Nürnberg",
 		"bundesland": "Bayern",
 		"slug": "akademie-der-bildenden-kuenste-nuernberg",
 		"absolut": 126705,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "336"
 	},
 	{
 		"name": "Hochschule für Musik Nürnberg",
@@ -2083,14 +2252,16 @@ var searchdb = [
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-evangelische-kirchenmusik-bayreuth",
 		"absolut": 730000,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "31"
 	},
 	{
 		"name": "Hochschule für Kath. Kirchenmusik und Musikpädagogik, Regensburg",
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-kath-kirchenmusik-und-musikpaedagogik-regensburg",
 		"absolut": 1628048,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "99"
 	},
 	{
 		"name": "Macromedia FH der Medien, München (Priv. FH)",
@@ -2111,70 +2282,80 @@ var searchdb = [
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-angewandte-wissenschaften-bamberg-private-hochschule-fuer-gesundheit-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Hochschule Fresenius Idstein in München (Priv. FH)",
 		"bundesland": "Bayern",
 		"slug": "hochschule-fresenius-idstein-in-muenchen-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1315"
 	},
 	{
 		"name": "Hochschule für angewandtes Management",
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-angewandtes-management",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1128"
 	},
 	{
 		"name": "Munich Business School München (Priv. FH)",
 		"bundesland": "Bayern",
 		"slug": "munich-business-school-muenchen-priv-fh",
 		"absolut": 166244,
-		"wirtschaft": 166244
+		"wirtschaft": 166244,
+		"studierendenzahl": "573"
 	},
 	{
 		"name": "Hochschule Augsburg",
 		"bundesland": "Bayern",
 		"slug": "hochschule-augsburg",
 		"absolut": 1298701,
-		"wirtschaft": 62369
+		"wirtschaft": 62369,
+		"studierendenzahl": "5775"
 	},
 	{
 		"name": "Hochschule Coburg",
 		"bundesland": "Bayern",
 		"slug": "hochschule-coburg",
 		"absolut": 2764850,
-		"wirtschaft": 868120
+		"wirtschaft": 868120,
+		"studierendenzahl": "4708"
 	},
 	{
 		"name": "Hochschule München",
 		"bundesland": "Bayern",
 		"slug": "hochschule-muenchen",
 		"absolut": 6584382,
-		"wirtschaft": 1415481
+		"wirtschaft": 1415481,
+		"studierendenzahl": "17710"
 	},
 	{
 		"name": "Technische Hochschule Nürnberg Georg Simon Ohm",
 		"bundesland": "Bayern",
 		"slug": "technische-hochschule-nuernberg-georg-simon-ohm",
 		"absolut": 6426836,
-		"wirtschaft": 2302588
+		"wirtschaft": 2302588,
+		"studierendenzahl": "12234"
 	},
 	{
 		"name": "FH Regensburg",
 		"bundesland": "Bayern",
 		"slug": "fh-regensburg",
 		"absolut": 3804270,
-		"wirtschaft": 1196243
+		"wirtschaft": 1196243,
+		"studierendenzahl": "9636"
 	},
 	{
 		"name": "FH Rosenheim",
 		"bundesland": "Bayern",
 		"slug": "fh-rosenheim",
 		"absolut": 3798641,
-		"wirtschaft": 1450275
+		"wirtschaft": 1450275,
+		"studierendenzahl": "5505"
 	},
 	{
 		"name": "Hochschule Weihenstephan-Triesdorf",
@@ -2195,35 +2376,40 @@ var searchdb = [
 		"bundesland": "Bayern",
 		"slug": "hochschule-kempten",
 		"absolut": 2233383,
-		"wirtschaft": 528710
+		"wirtschaft": 528710,
+		"studierendenzahl": "5310"
 	},
 	{
 		"name": "Hochschule Landshut",
 		"bundesland": "Bayern",
 		"slug": "hochschule-landshut",
 		"absolut": 1200765,
-		"wirtschaft": 90600
+		"wirtschaft": 90600,
+		"studierendenzahl": "4746"
 	},
 	{
 		"name": "Technische Hochschule Deggendorf",
 		"bundesland": "Bayern",
 		"slug": "technische-hochschule-deggendorf",
 		"absolut": 3847654,
-		"wirtschaft": 562733
+		"wirtschaft": 562733,
+		"studierendenzahl": "5044"
 	},
 	{
 		"name": "Hochschule für Angewandte Wissenschaften Hof",
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-angewandte-wissenschaften-hof",
 		"absolut": 1411901,
-		"wirtschaft": 288128
+		"wirtschaft": 288128,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Hochschule für angewandte Wissenschaft Ingolstadt",
 		"bundesland": "Bayern",
 		"slug": "hochschule-fuer-angewandte-wissenschaft-ingolstadt",
 		"absolut": 4509385,
-		"wirtschaft": 2383889
+		"wirtschaft": 2383889,
+		"studierendenzahl": "4928"
 	},
 	{
 		"name": "Hochschule Amberg-Weiden",
@@ -2237,28 +2423,32 @@ var searchdb = [
 		"bundesland": "Bayern",
 		"slug": "fh-ansbach",
 		"absolut": 3276651,
-		"wirtschaft": 2296234
+		"wirtschaft": 2296234,
+		"studierendenzahl": "2757"
 	},
 	{
 		"name": "Hochschule Neu-Ulm",
 		"bundesland": "Bayern",
 		"slug": "hochschule-neu-ulm",
 		"absolut": 174622,
-		"wirtschaft": 600
+		"wirtschaft": 600,
+		"studierendenzahl": "3442"
 	},
 	{
 		"name": "Hochschule Aschaffenburg",
 		"bundesland": "Bayern",
 		"slug": "hochschule-aschaffenburg",
 		"absolut": 2427922,
-		"wirtschaft": 924328
+		"wirtschaft": 924328,
+		"studierendenzahl": "3141"
 	},
 	{
 		"name": "Evang. Hochschule Nürnberg (FH)",
 		"bundesland": "Bayern",
 		"slug": "evang-hochschule-nuernberg-fh",
 		"absolut": 4091718,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1271"
 	},
 	{
 		"name": "Kath. Stiftungs FH München in München",
@@ -2300,14 +2490,16 @@ var searchdb = [
 		"bundesland": "Saarland",
 		"slug": "hochschule-fuer-musik-saarbruecken",
 		"absolut": 61100,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "420"
 	},
 	{
 		"name": "Hochschule der Bildenden Künste Saarbrücken",
 		"bundesland": "Saarland",
 		"slug": "hochschule-der-bildenden-kuenste-saarbruecken",
 		"absolut": 2990,
-		"wirtschaft": 2990
+		"wirtschaft": 2990,
+		"studierendenzahl": "404"
 	},
 	{
 		"name": "Deutsche Hochschule für Prävention und Gesundheitsmanagement",
@@ -2321,14 +2513,16 @@ var searchdb = [
 		"bundesland": "Saarland",
 		"slug": "hochschule-fuer-technik-und-wirtschaft-des-saarlandes-saarbruecken",
 		"absolut": 2621610,
-		"wirtschaft": 455653
+		"wirtschaft": 455653,
+		"studierendenzahl": "5690"
 	},
 	{
 		"name": "FH für Verwaltung Saarbrücken",
 		"bundesland": "Saarland",
 		"slug": "fh-fuer-verwaltung-saarbruecken",
 		"absolut": 862057,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "432"
 	},
 	{
 		"name": "Europ. School of Management and Technology, Berlin (Priv. H)",
@@ -2356,28 +2550,32 @@ var searchdb = [
 		"bundesland": "Berlin",
 		"slug": "international-psychoanalytic-university-berlin-priv",
 		"absolut": 109370,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "480"
 	},
 	{
 		"name": "ESCP Europe Wirtschaftshochschule, Berlin (Priv. H)",
 		"bundesland": "Berlin",
 		"slug": "escp-europe-wirtschaftshochschule-berlin-priv-h",
 		"absolut": 154869,
-		"wirtschaft": 154869
+		"wirtschaft": 154869,
+		"studierendenzahl": "182"
 	},
 	{
 		"name": "Psychologische Hochschule Berlin (Priv. H)",
 		"bundesland": "Berlin",
 		"slug": "psychologische-hochschule-berlin-priv-h",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "78"
 	},
 	{
 		"name": "Steinbeis-Hochschule Berlin (Priv. H)",
 		"bundesland": "Berlin",
 		"slug": "steinbeis-hochschule-berlin-priv-h",
 		"absolut": 326176,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "6129"
 	},
 	{
 		"name": "Charite - Universitätsmedizin Berlin",
@@ -2405,35 +2603,40 @@ var searchdb = [
 		"bundesland": "Berlin",
 		"slug": "tu-berlin",
 		"absolut": 153010000,
-		"wirtschaft": 20290000
+		"wirtschaft": 20290000,
+		"studierendenzahl": "31490"
 	},
 	{
 		"name": "Weißensee Kunsthochschule Berlin",
 		"bundesland": "Berlin",
 		"slug": "weissensee-kunsthochschule-berlin",
 		"absolut": 474947,
-		"wirtschaft": 158514
+		"wirtschaft": 158514,
+		"studierendenzahl": "798"
 	},
 	{
 		"name": "Hochschule für Musik Berlin Hanns Eisler",
 		"bundesland": "Berlin",
 		"slug": "hochschule-fuer-musik-berlin-hanns-eisler",
 		"absolut": 335211,
-		"wirtschaft": 16070
+		"wirtschaft": 16070,
+		"studierendenzahl": "494"
 	},
 	{
 		"name": "Hochschule für Schauspielkunst Berlin Ernst Busch",
 		"bundesland": "Berlin",
 		"slug": "hochschule-fuer-schauspielkunst-berlin-ernst-busch",
 		"absolut": 205179,
-		"wirtschaft": 29090
+		"wirtschaft": 29090,
+		"studierendenzahl": "224"
 	},
 	{
 		"name": "Universität der Künste Berlin",
 		"bundesland": "Berlin",
 		"slug": "universitaet-der-kuenste-berlin",
 		"absolut": 4139709,
-		"wirtschaft": 481109
+		"wirtschaft": 481109,
+		"studierendenzahl": "3442"
 	},
 	{
 		"name": "Berliner Technische Kunsthochschule",
@@ -2503,98 +2706,112 @@ var searchdb = [
 		"bundesland": "Berlin",
 		"slug": "hs-fuer-medien-kommunikation-und-wirtschaft-berlin-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Quadriga Hochschule Berlin (Priv. FH)",
 		"bundesland": "Berlin",
 		"slug": "quadriga-hochschule-berlin-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "102"
 	},
 	{
 		"name": "DEKRA Hochschule Berlin (Priv. FH)",
 		"bundesland": "Berlin",
 		"slug": "dekra-hochschule-berlin-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "370"
 	},
 	{
 		"name": "hdpk Hochschule der populären Künste",
 		"bundesland": "Berlin",
 		"slug": "hdpk-hochschule-der-populaeren-kuenste",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Mediadesign Hochschule für Design und Informatik",
 		"bundesland": "Berlin",
 		"slug": "mediadesign-hochschule-fuer-design-und-informatik",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1270"
 	},
 	{
 		"name": "SRH Hochschule Berlin (Priv. FH)",
 		"bundesland": "Berlin",
 		"slug": "srh-hochschule-berlin-priv-fh",
 		"absolut": 49941,
-		"wirtschaft": 10100
+		"wirtschaft": 10100,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Hochschule für Technik und Wirtschaft Berlin",
 		"bundesland": "Berlin",
 		"slug": "hochschule-fuer-technik-und-wirtschaft-berlin",
 		"absolut": 5771533,
-		"wirtschaft": 427575
+		"wirtschaft": 427575,
+		"studierendenzahl": "12856"
 	},
 	{
 		"name": "Beuth-Hochschule für Technik Berlin",
 		"bundesland": "Berlin",
 		"slug": "beuth-hochschule-fuer-technik-berlin",
 		"absolut": 7122877,
-		"wirtschaft": 693034
+		"wirtschaft": 693034,
+		"studierendenzahl": "11951"
 	},
 	{
 		"name": "Hochschule für Wirtschaft und Recht Berlin",
 		"bundesland": "Berlin",
 		"slug": "hochschule-fuer-wirtschaft-und-recht-berlin",
 		"absolut": 3295745,
-		"wirtschaft": 297904
+		"wirtschaft": 297904,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "ASH für Sozialarbeit und Sozialpädagogik Berlin",
 		"bundesland": "Berlin",
 		"slug": "ash-fuer-sozialarbeit-und-sozialpaedagogik-berlin",
 		"absolut": 2280595,
-		"wirtschaft": 881871
+		"wirtschaft": 881871,
+		"studierendenzahl": "3296"
 	},
 	{
 		"name": "Katholische Hochschule für Sozialwesen Berlin (FH)",
 		"bundesland": "Berlin",
 		"slug": "katholische-hochschule-fuer-sozialwesen-berlin-fh",
 		"absolut": 1798130,
-		"wirtschaft": 145725
+		"wirtschaft": 145725,
+		"studierendenzahl": "1445"
 	},
 	{
 		"name": "Evangelische Hochschule Berlin (FH)",
 		"bundesland": "Berlin",
 		"slug": "evangelische-hochschule-berlin-fh",
 		"absolut": 139371,
-		"wirtschaft": 25000
+		"wirtschaft": 25000,
+		"studierendenzahl": "1323"
 	},
 	{
 		"name": "FH Bund, FB Sozialversicherung in Berlin",
 		"bundesland": "Berlin",
 		"slug": "fh-bund-fb-sozialversicherung-in-berlin",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "115"
 	},
 	{
 		"name": "FH Bund, FB Akademie Auswärtige Angelegenheiten in Berlin",
 		"bundesland": "Berlin",
 		"slug": "fh-bund-fb-akademie-auswaertige-angelegenheiten-in-berlin",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "33"
 	},
 	{
 		"name": "Europa-Universität Viadrina Frankfurt (Oder)",
@@ -2615,42 +2832,48 @@ var searchdb = [
 		"bundesland": "Brandenburg",
 		"slug": "universitaet-potsdam",
 		"absolut": 49759875,
-		"wirtschaft": 4891525
+		"wirtschaft": 4891525,
+		"studierendenzahl": "19994"
 	},
 	{
 		"name": "Hochschule für Film und Fernsehen in Potsdam-Babelsberg",
 		"bundesland": "Brandenburg",
 		"slug": "hochschule-fuer-film-und-fernsehen-in-potsdam-babelsberg",
 		"absolut": 1746449,
-		"wirtschaft": 166218
+		"wirtschaft": 166218,
+		"studierendenzahl": "579"
 	},
 	{
 		"name": "Fachhochschule für Sport und Management Potsdam",
 		"bundesland": "Brandenburg",
 		"slug": "fachhochschule-fuer-sport-und-management-potsdam",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "36"
 	},
 	{
 		"name": "Business School Berlin Potsdam (BSP)",
 		"bundesland": "Berlin",
 		"slug": "business-school-berlin-potsdam-bsp",
 		"absolut": 49191,
-		"wirtschaft": 49191
+		"wirtschaft": 49191,
+		"studierendenzahl": "472"
 	},
 	{
 		"name": "FH Brandenburg",
 		"bundesland": "Brandenburg",
 		"slug": "fh-brandenburg",
 		"absolut": 3333851,
-		"wirtschaft": 750828
+		"wirtschaft": 750828,
+		"studierendenzahl": "2780"
 	},
 	{
 		"name": "Hochschule für nachhaltige Entwicklung Eberswalde (FH)",
 		"bundesland": "Brandenburg",
 		"slug": "hochschule-fuer-nachhaltige-entwicklung-eberswalde-fh",
 		"absolut": 5318850,
-		"wirtschaft": 689155
+		"wirtschaft": 689155,
+		"studierendenzahl": "2022"
 	},
 	{
 		"name": "Hochschule Lausitz, University of Applied Sciences (FH)",
@@ -2664,35 +2887,40 @@ var searchdb = [
 		"bundesland": "Brandenburg",
 		"slug": "technische-hochschule-wildau-fh",
 		"absolut": 6657361,
-		"wirtschaft": 1233080
+		"wirtschaft": 1233080,
+		"studierendenzahl": "4209"
 	},
 	{
 		"name": "FH Potsdam",
 		"bundesland": "Brandenburg",
 		"slug": "fh-potsdam",
 		"absolut": 2605260,
-		"wirtschaft": 761524
+		"wirtschaft": 761524,
+		"studierendenzahl": "3353"
 	},
 	{
 		"name": "Theol. Seminar (FH) der Evang. Freikirche Elstal",
 		"bundesland": "Brandenburg",
 		"slug": "theol-seminar-fh-der-evang-freikirche-elstal",
 		"absolut": 58471,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "63"
 	},
 	{
 		"name": "FH für Finanzen Brandenburg (VerwFH) Königs Wusterhausen",
 		"bundesland": "Brandenburg",
 		"slug": "fh-fuer-finanzen-brandenburg-verwfh-koenigs-wusterhausen",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "625"
 	},
 	{
 		"name": "FH der Polizei Brandenburg (VerwFH) in Oranienburg",
 		"bundesland": "Brandenburg",
 		"slug": "fh-der-polizei-brandenburg-verwfh-in-oranienburg",
 		"absolut": 134739,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "326"
 	},
 	{
 		"name": "Universität Rostock (Klinikum)",
@@ -2741,42 +2969,48 @@ var searchdb = [
 		"bundesland": "Mecklenburg-Vorpommern",
 		"slug": "hochschule-fuer-musik-und-theater-rostock",
 		"absolut": 205819,
-		"wirtschaft": 17629
+		"wirtschaft": 17629,
+		"studierendenzahl": "302"
 	},
 	{
 		"name": "Baltic College - FHM Schwerin",
 		"bundesland": "Mecklenburg-Vorpommern",
 		"slug": "baltic-college-fhm-schwerin",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Hochschule Neubrandenburg",
 		"bundesland": "Mecklenburg-Vorpommern",
 		"slug": "hochschule-neubrandenburg",
 		"absolut": 1873705,
-		"wirtschaft": 281840
+		"wirtschaft": 281840,
+		"studierendenzahl": "2074"
 	},
 	{
 		"name": "FH Stralsund",
 		"bundesland": "Mecklenburg-Vorpommern",
 		"slug": "fh-stralsund",
 		"absolut": 2792766,
-		"wirtschaft": 243420
+		"wirtschaft": 243420,
+		"studierendenzahl": "2373"
 	},
 	{
 		"name": "FH Wismar",
 		"bundesland": "Mecklenburg-Vorpommern",
 		"slug": "fh-wismar",
 		"absolut": 6917879,
-		"wirtschaft": 573476
+		"wirtschaft": 573476,
+		"studierendenzahl": "8026"
 	},
 	{
 		"name": "Verwaltungs-FH Güstrow",
 		"bundesland": "Mecklenburg-Vorpommern",
 		"slug": "verwaltungs-fh-guestrow",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "412"
 	},
 	{
 		"name": "HHL Leipzig Graduate School of Management",
@@ -2790,7 +3024,8 @@ var searchdb = [
 		"bundesland": "Sachsen",
 		"slug": "diu-dresden-intern-university-gmbh-dresden-priv-h",
 		"absolut": 824260,
-		"wirtschaft": 115040
+		"wirtschaft": 115040,
+		"studierendenzahl": "1675"
 	},
 	{
 		"name": "Universität Leipzig (Klinikum)",
@@ -2846,91 +3081,104 @@ var searchdb = [
 		"bundesland": "Sachsen",
 		"slug": "palucca-hochschule-fuer-tanz-dresden",
 		"absolut": 189136,
-		"wirtschaft": 12401
+		"wirtschaft": 12401,
+		"studierendenzahl": "157"
 	},
 	{
 		"name": "Hochschule für Bildende Künste Dresden",
 		"bundesland": "Sachsen",
 		"slug": "hochschule-fuer-bildende-kuenste-dresden",
 		"absolut": 733961,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "617"
 	},
 	{
 		"name": "Hochschule für Grafik und Buchkunst Leipzig",
 		"bundesland": "Sachsen",
 		"slug": "hochschule-fuer-grafik-und-buchkunst-leipzig",
 		"absolut": 274438,
-		"wirtschaft": 6468
+		"wirtschaft": 6468,
+		"studierendenzahl": "559"
 	},
 	{
 		"name": "Hochschule für Musik und Theater Leipzig",
 		"bundesland": "Sachsen",
 		"slug": "hochschule-fuer-musik-und-theater-leipzig",
 		"absolut": 257197,
-		"wirtschaft": 13390
+		"wirtschaft": 13390,
+		"studierendenzahl": "946"
 	},
 	{
 		"name": "Hochschule für Musik Dresden",
 		"bundesland": "Sachsen",
 		"slug": "hochschule-fuer-musik-dresden",
 		"absolut": 955233,
-		"wirtschaft": 77833
+		"wirtschaft": 77833,
+		"studierendenzahl": "591"
 	},
 	{
 		"name": "Hochschule für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden",
 		"bundesland": "Sachsen",
 		"slug": "hochschule-fuer-kirchenmusik-der-evang-luth-landeskirche-sachsens-dresden",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "12"
 	},
 	{
 		"name": "Fachochschule Dresden",
 		"bundesland": "Sachsen",
 		"slug": "fachochschule-dresden",
 		"absolut": 83392,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "260"
 	},
 	{
 		"name": "Euro-Business-College Dresden (Priv. FH)",
 		"bundesland": "Sachsen",
 		"slug": "euro-business-college-dresden-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": ""
 	},
 	{
 		"name": "Hochschule für Kommunikation Leipzig",
 		"bundesland": "Sachsen",
 		"slug": "hochschule-fuer-kommunikation-leipzig",
 		"absolut": 158086,
-		"wirtschaft": 41954
+		"wirtschaft": 41954,
+		"studierendenzahl": "183"
 	},
 	{
 		"name": "AKAD Hochschule Leipzig",
 		"bundesland": "Sachsen",
 		"slug": "akad-hochschule-leipzig",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1388"
 	},
 	{
 		"name": "Hochschule für Technik und Wirtschaft Dresden",
 		"bundesland": "Sachsen",
 		"slug": "hochschule-fuer-technik-und-wirtschaft-dresden",
 		"absolut": 3902906,
-		"wirtschaft": 815449
+		"wirtschaft": 815449,
+		"studierendenzahl": "5206"
 	},
 	{
 		"name": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
 		"bundesland": "Sachsen",
 		"slug": "hochschule-fuer-technik-wirtschaft-und-kultur-leipzig",
 		"absolut": 5621985,
-		"wirtschaft": 878897
+		"wirtschaft": 878897,
+		"studierendenzahl": "2160"
 	},
 	{
 		"name": "Hochschule Mittweida (University of Applied Sciences)",
 		"bundesland": "Sachsen",
 		"slug": "hochschule-mittweida-university-of-applied-sciences",
 		"absolut": 5222902,
-		"wirtschaft": 957300
+		"wirtschaft": 957300,
+		"studierendenzahl": "6252"
 	},
 	{
 		"name": "Hochschule Zittau/Görlitz (FH)",
@@ -2951,21 +3199,24 @@ var searchdb = [
 		"bundesland": "Sachsen",
 		"slug": "evang-hochschule-fuer-soziale-arbeit-dresden-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "701"
 	},
 	{
 		"name": "Evangelische Hochschule Moritzburg (FH)",
 		"bundesland": "Sachsen",
 		"slug": "evangelische-hochschule-moritzburg-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "102"
 	},
 	{
 		"name": "Hochschule der Sächsischen Polizei, Rothenburg/OL. (FH)",
 		"bundesland": "Sachsen",
 		"slug": "hochschule-der-saechsischen-polizei-rothenburgol-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "104"
 	},
 	{
 		"name": "FH der Sächsischen Verwaltung Meißen",
@@ -3007,28 +3258,32 @@ var searchdb = [
 		"bundesland": "Sachsen-Anhalt",
 		"slug": "theol-hochschule-friedensau",
 		"absolut": 41072,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "177"
 	},
 	{
 		"name": "Burg Giebichenstein Kunsthochschule, Halle",
 		"bundesland": "Sachsen-Anhalt",
 		"slug": "burg-giebichenstein-kunsthochschule-halle",
 		"absolut": 669852,
-		"wirtschaft": 57878
+		"wirtschaft": 57878,
+		"studierendenzahl": "1011"
 	},
 	{
 		"name": "Evang. Hochschule für Kirchenmusik Halle",
 		"bundesland": "Sachsen-Anhalt",
 		"slug": "evang-hochschule-fuer-kirchenmusik-halle",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "47"
 	},
 	{
 		"name": "Hochschule Merseburg (FH)",
 		"bundesland": "Sachsen-Anhalt",
 		"slug": "hochschule-merseburg-fh",
 		"absolut": 2940602,
-		"wirtschaft": 929394
+		"wirtschaft": 929394,
+		"studierendenzahl": "2901"
 	},
 	{
 		"name": "Hochschule Magdeburg-Stendal (FH)",
@@ -3056,7 +3311,8 @@ var searchdb = [
 		"bundesland": "Sachsen-Anhalt",
 		"slug": "fh-polizei-sachsen-anhalt-aschersleben",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "88"
 	},
 	{
 		"name": "Universität Jena (Klinikum)",
@@ -3098,7 +3354,8 @@ var searchdb = [
 		"bundesland": "Thüringen",
 		"slug": "hochschule-fuer-musik-franz-liszt-weimar",
 		"absolut": 800560,
-		"wirtschaft": 70435
+		"wirtschaft": 70435,
+		"studierendenzahl": "792"
 	},
 	{
 		"name": "SRH FH für Gesundheit Gera (Priv. FH)",
@@ -3126,35 +3383,40 @@ var searchdb = [
 		"bundesland": "Thüringen",
 		"slug": "fh-erfurt",
 		"absolut": 1751870,
-		"wirtschaft": 223763
+		"wirtschaft": 223763,
+		"studierendenzahl": "4572"
 	},
 	{
 		"name": "Ernst Abbe Fachhochschule Jena",
 		"bundesland": "Thüringen",
 		"slug": "ernst-abbe-fachhochschule-jena",
 		"absolut": 5039764,
-		"wirtschaft": 508741
+		"wirtschaft": 508741,
+		"studierendenzahl": "4554"
 	},
 	{
 		"name": "FH Schmalkalden",
 		"bundesland": "Thüringen",
 		"slug": "fh-schmalkalden",
 		"absolut": 876610,
-		"wirtschaft": 24323
+		"wirtschaft": 24323,
+		"studierendenzahl": "2918"
 	},
 	{
 		"name": "FH Nordhausen",
 		"bundesland": "Thüringen",
 		"slug": "fh-nordhausen",
 		"absolut": 1572880,
-		"wirtschaft": 244234
+		"wirtschaft": 244234,
+		"studierendenzahl": "2364"
 	},
 	{
 		"name": "Thüringer FH für öffentliche Verwaltung Gotha",
 		"bundesland": "Thüringen",
 		"slug": "thueringer-fh-fuer-oeffentliche-verwaltung-gotha",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "360"
 	},
 	{
 		"name": "FH Bund, FB Bundespolizei, Lübeck",
@@ -3168,28 +3430,32 @@ var searchdb = [
 		"bundesland": "Hamburg",
 		"slug": "kuehne-logistics-university-the-klu-hamburg-priv-h",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "169"
 	},
 	{
 		"name": "Hochschule für intern. Wirtschaft und Logistik (HIWL), Bremen (Priv. FH)",
 		"bundesland": "Bremen",
 		"slug": "hochschule-fuer-intern-wirtschaft-und-logistik-hiwl-bremen-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "95"
 	},
 	{
 		"name": "Hochschule für Gesundheit",
 		"bundesland": "Nordrhein-Westfalen",
 		"slug": "hochschule-fuer-gesundheit",
 		"absolut": 92607,
-		"wirtschaft": 15049
+		"wirtschaft": 15049,
+		"studierendenzahl": "579"
 	},
 	{
 		"name": "FH Bund, FB Wetterdienst in Langen",
 		"bundesland": "Hessen",
 		"slug": "fh-bund-fb-wetterdienst-in-langen",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "7"
 	},
 	{
 		"name": "FH Bund, FB Landwirtschaftliche Sozialversicherung in Kassel",
@@ -3203,41 +3469,47 @@ var searchdb = [
 		"bundesland": "Baden-Württemberg",
 		"slug": "internationale-hochschule-liebenzell-fh-bad-liebenzell",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "112"
 	},
 	{
 		"name": "ECLA of Bard, a Liberal Arts University, Berlin (Priv. H)",
 		"bundesland": "Berlin",
 		"slug": "ecla-of-bard-a-liberal-arts-university-berlin-priv-h",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "45"
 	},
 	{
 		"name": "German open Business School, Hochschule für Wirtschaft und Verwaltung, Berlin (Priv. FH)",
 		"bundesland": "Berlin",
 		"slug": "german-open-business-school-hochschule-fuer-wirtschaft-und-verwaltung-berlin-priv-fh",
 		"absolut": 0,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "771"
 	},
 	{
 		"name": "MSH Medical School Hamburg (Priv. FH)",
 		"bundesland": "Hamburg",
 		"slug": "msh-medical-school-hamburg-priv-fh",
 		"absolut": 34723,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "1124"
 	},
 	{
 		"name": "Hochschule der Wirtschaft für Management (HdWM) Mannheim (Priv. FH)",
 		"bundesland": "Baden-Württemberg",
 		"slug": "hochschule-der-wirtschaft-fuer-management-hdwm-mannheim-priv-fh",
 		"absolut": 336700,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "368"
 	},
 	{
 		"name": "DPFA Hochschule Zwickau",
 		"bundesland": "Sachsen",
 		"slug": "dpfa-hochschule-zwickau",
 		"absolut": 2229,
-		"wirtschaft": 0
+		"wirtschaft": 0,
+		"studierendenzahl": "39"
 	}
 ];
