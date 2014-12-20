@@ -1,0 +1,322 @@
+[
+  {
+    "Bundesland":"Baden-Württemberg",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"76"
+  },
+  {
+    "Bundesland":"Baden-Württemberg",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Baden-Württemberg",
+    "Kategorie":"Hochschulräte",
+    "Information":"Analog zu Aufsichtsrat in der Wirtschaft"
+  },
+  {
+    "Bundesland":"Baden-Württemberg",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"2014 beschlossen"
+  },
+  {
+    "Bundesland":"Bayern",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"56"
+  },
+  {
+    "Bundesland":"Bayern",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Bayern",
+    "Kategorie":"Hochschulräte",
+    "Information":"Weitreichende Kompetenzen"
+  },
+  {
+    "Bundesland":"Bayern",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Berlin ",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"41"
+  },
+  {
+    "Bundesland":"Berlin ",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"ja"
+  },
+  {
+    "Bundesland":"Berlin ",
+    "Kategorie":"Hochschulräte",
+    "Information":"Keine Hochschulräte, aber Kuratorien"
+  },
+  {
+    "Bundesland":"Berlin ",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Brandenburg",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"14"
+  },
+  {
+    "Bundesland":"Brandenburg",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"ja"
+  },
+  {
+    "Bundesland":"Brandenburg",
+    "Kategorie":"Hochschulräte",
+    "Information":"lediglich hochschulübergreifender Landeshochschulrat"
+  },
+  {
+    "Bundesland":"Brandenburg",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"ja"
+  },
+  {
+    "Bundesland":"Bremen ",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"8"
+  },
+  {
+    "Bundesland":"Bremen ",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Bremen ",
+    "Kategorie":"Hochschulräte",
+    "Information":"Keine"
+  },
+  {
+    "Bundesland":"Bremen ",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"ja"
+  },
+  {
+    "Bundesland":"Hamburg ",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"20"
+  },
+  {
+    "Bundesland":"Hamburg ",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"ja"
+  },
+  {
+    "Bundesland":"Hamburg ",
+    "Kategorie":"Hochschulräte",
+    "Information":"Zentrale Steuerungsaufgaben an den Hochschulen"
+  },
+  {
+    "Bundesland":"Hamburg ",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"ja, allerdings größtenteils anonymisiert"
+  },
+  {
+    "Bundesland":"Hessen",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"37"
+  },
+  {
+    "Bundesland":"Hessen",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Hessen",
+    "Kategorie":"Hochschulräte",
+    "Information":"Rein extern besetzte Hochschulräte"
+  },
+  {
+    "Bundesland":"Hessen",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Mecklenburg-Vorpommern",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"11"
+  },
+  {
+    "Bundesland":"Mecklenburg-Vorpommern",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"ja"
+  },
+  {
+    "Bundesland":"Mecklenburg-Vorpommern",
+    "Kategorie":"Hochschulräte",
+    "Information":"fakultativ"
+  },
+  {
+    "Bundesland":"Mecklenburg-Vorpommern",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Niedersachsen",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"28"
+  },
+  {
+    "Bundesland":"Niedersachsen",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Niedersachsen",
+    "Kategorie":"Hochschulräte",
+    "Information":"Mehrheitlich extern besetzte Hochschulräte"
+  },
+  {
+    "Bundesland":"Niedersachsen",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"ja"
+  },
+  {
+    "Bundesland":"Nordrhein-Westfalen",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"76"
+  },
+  {
+    "Bundesland":"Nordrhein-Westfalen",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Nordrhein-Westfalen",
+    "Kategorie":"Hochschulräte",
+    "Information":"Hochschulräte mindestens zur Hälfte extern besetzt"
+  },
+  {
+    "Bundesland":"Nordrhein-Westfalen",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Rheinland-Pfalz",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"20"
+  },
+  {
+    "Bundesland":"Rheinland-Pfalz",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Rheinland-Pfalz",
+    "Kategorie":"Hochschulräte",
+    "Information":"Hochschulräte zur Hälfte extern besetzt"
+  },
+  {
+    "Bundesland":"Rheinland-Pfalz",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Saarland",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"6"
+  },
+  {
+    "Bundesland":"Saarland",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Saarland",
+    "Kategorie":"Hochschulräte",
+    "Information":"An der Uni Saarland"
+  },
+  {
+    "Bundesland":"Saarland",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Sachsen",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"29"
+  },
+  {
+    "Bundesland":"Sachsen",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Sachsen",
+    "Kategorie":"Hochschulräte",
+    "Information":"Größtenteils extern besetzt"
+  },
+  {
+    "Bundesland":"Sachsen",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Sachsen-Anhalt",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"12"
+  },
+  {
+    "Bundesland":"Sachsen-Anhalt",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Sachsen-Anhalt",
+    "Kategorie":"Hochschulräte",
+    "Information":"Kuratorien mit fünf externen Mitgliedern"
+  },
+  {
+    "Bundesland":"Sachsen-Anhalt",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Schleswig-Holstein",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"15"
+  },
+  {
+    "Bundesland":"Schleswig-Holstein",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"ja"
+  },
+  {
+    "Bundesland":"Schleswig-Holstein",
+    "Kategorie":"Hochschulräte",
+    "Information":"Rein extern besetzte Hochschulräte"
+  },
+  {
+    "Bundesland":"Schleswig-Holstein",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Thüringen",
+    "Kategorie":"Anzahl der Hochschulen",
+    "Information":"14"
+  },
+  {
+    "Bundesland":"Thüringen",
+    "Kategorie":"Hochschulen Teil des Informationsgesetzes",
+    "Information":"nein"
+  },
+  {
+    "Bundesland":"Thüringen",
+    "Kategorie":"Hochschulräte",
+    "Information":"Zu zwei Dritteln oder vollständig extern besetzt"
+  },
+  {
+    "Bundesland":"Thüringen",
+    "Kategorie":"Regelmäßige Sponsoringberichte für Hochschulen",
+    "Information":"ja"
+  }
+]
