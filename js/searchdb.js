@@ -7118,14 +7118,6 @@ var searchdb = {
 			"slug": "fa-licher-medizintechnologie"
 		},
 		{
-			"name": "Fa. MAGNET-SCHULTZ GmbH & Co. Fabrikations- und Vertriebs-KG",
-			"slug": "fa-magnet-schultz-gmbh-co-fabrikations-und-vertriebs-kg"
-		},
-		{
-			"name": "Fa. Multivac Sepp Haggenmüller GmbH & Co. KG",
-			"slug": "fa-multivac-sepp-haggenmueller-gmbh-co-kg"
-		},
-		{
 			"name": "Fa. Sommer Corporate Media - Elanders GmbH",
 			"slug": "fa-sommer-corporate-media-elanders-gmbh"
 		},
@@ -8832,10 +8824,6 @@ var searchdb = {
 		{
 			"name": "Hüttenwerke Krupp Mannesmann",
 			"slug": "huettenwerke-krupp-mannesmann"
-		},
-		{
-			"name": "Hüttenwerke Krupp Mannesmann GmbH",
-			"slug": "huettenwerke-krupp-mannesmann-gmbh"
 		},
 		{
 			"name": "Haarmann Holding GmbH",
