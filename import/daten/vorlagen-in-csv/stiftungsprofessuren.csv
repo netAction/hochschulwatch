@@ -142,7 +142,7 @@ Hamburg;Hochschule für Angewandte Wissenschaften Hamburg;Navigationstechnologie
 Hamburg;TU Hamburg-Harburg;Flugzeug-Kabinensysteme;Airbus Deutschland GmbH;300000;1500000;5 Jahre;;
 Hamburg;TU Hamburg-Harburg;Rekonfigurierbare Multiprozessor-Architekturen  ;Nordmetall;70000;420000;2*3 Jahre (Juniorprofessur);;
 Hamburg;TU Hamburg-Harburg;Abfallressourcenwirtschaft;Stadtreinigung Hamburg;230000;1150000;5 Jahre;;
-Hamburg;TU Hamburg-Harburg;Baumechatronik;Werner Möbius-Stiftung;100000;500000;"5 Jahre ab Einstellung der Professorin/des Professors; Berufungsverfahren läuft noch.";;
+Hamburg;TU Hamburg-Harburg;Baumechatronik;Werner Möbius-Stiftung;100000;500000;5 Jahre ab Einstellung der Professorin/des Professors, Berufungsverfahren läuft noch.;;
 Baden-Württemberg;Universität Freiburg i.Br. (ohne Klinikum);Wald- und Forstgeschichte;Andreas Stihl AG;100000;1000000;10 Jahre;;Andreas-Stihl-Stiftung
 Baden-Württemberg;Universität Freiburg i.Br. (ohne Klinikum);Wilfried Guth Stiftungsprofessur für Volkswirtschaftslehre;Baden Badener Unternehmensgespräche;450000;4500000;10 Jahre;;
 Baden-Württemberg;Universität Freiburg i.Br. (Klinikum);Zelluläre und Systemische Neurophysioloige;Volkswagen;220000;1120000;5 Jahre;;Volkswagen-Stiftung (Lichtenberg)
@@ -243,7 +243,7 @@ Baden-Württemberg;FH Aalen;Werkzeugmaschinen und spanende Fertigungstechnologie
 Baden-Württemberg;FH Aalen;Werkzeugmaschinen und spanende Fertigungstechnologie;MAPAL Präzisionswerkzeuge;;;;;
 Baden-Württemberg;FH Aalen;Werkzeugmaschinen und spanende Fertigungstechnologie;Kessler & Co.;;;;;
 Baden-Württemberg;FH Aalen;Werkzeugmaschinen und spanende Fertigungstechnologie;Leitz Werkzeugfabrik;;;;;
-Baden-Württemberg;FH Aalen;"Studienschwerpunkt Automotive ; Lehrgebiet Konstruktion, Maschinenbau und Getriebetechnik";Firma Voith Turbo GmbH;;770000;10 Jahre;;
+Baden-Württemberg;FH Aalen;Studienschwerpunkt Automotive , Lehrgebiet Konstruktion, Maschinenbau und Getriebetechnik;Firma Voith Turbo GmbH;;770000;10 Jahre;;
 Baden-Württemberg;FH Aalen;Gesundheitsökonomie und Management 1;Gmünder Ersatzkasse GEK;;670000;10 Jahre;;
 Baden-Württemberg;FH Aalen;Gesundheitsökonomie und Management 2;Gmünder Ersatzkasse GEK;;670000;10 Jahre;;
 Baden-Württemberg;FH Aalen;Gesundheit und Sozialwissenschaften;Gmünder Ersatzkasse GEK;;670000;10 Jahre;;
@@ -295,7 +295,7 @@ Baden-Württemberg;Hochschule für Wirtschaft und Umwelt Nürtingen;Betriebswirt
 Baden-Württemberg;Hochschule für Wirtschaft und Umwelt Nürtingen;Unternehmenskommunikation;Alb-Elektrizitätswerk Geislingen eG;;350000;10 Jahre;;
 Baden-Württemberg;Hochschule für Wirtschaft und Umwelt Nürtingen;Forensisches Sachverständigenwesen;Gundolf Beier Stiftung;;450000;10 Jahre;;
 Baden-Württemberg;Hochschule für Wirtschaft und Umwelt Nürtingen;Online-Marketing;Fa. Sommer Corporate Media - Elanders GmbH;;230000;5 Jahre;;
-Baden-Württemberg;Hochschule Offenburg;"Transportlogistik, insbesondere nationaler und internationaler Logistik-Dienstleistungsunternehmen; innerbetriebliche Logistik und Supply-Chain-Management von Unternehmen der Industrie und des Handels";Georg und Maria Dietrich Logistik-Stiftung Offenburg;;500000;10 (7?);;
+Baden-Württemberg;Hochschule Offenburg;Transportlogistik, insbesondere nationaler und internationaler Logistik-Dienstleistungsunternehmen, innerbetriebliche Logistik und Supply-Chain-Management von Unternehmen der Industrie und des Handels;Georg und Maria Dietrich Logistik-Stiftung Offenburg;;500000;10 (7?);;
 Baden-Württemberg;Hochschule Offenburg;Energiesystemtechnik;EnBW;;700000;8 Jahre;;
 Baden-Württemberg;Hochschule Offenburg;Material Engineering;Unternehmenskonsortium von elf Unternehmen aus der Region Ortenau und dem Verein der Freunde und Förderer der HS Offenburg e.V.;;430000;5 Jahre;;
 Baden-Württemberg;Hochschule Offenburg;Biomedizinische Technik;Peter-Osypka-Stiftung Grenzach;;700000;8 Jahre;;
@@ -611,8 +611,8 @@ Bayern;Hochschule Amberg-Weiden;Instandhaltungs- und Servicemanagement;BHS Corru
 Bayern;Hochschule Amberg-Weiden;Fertigungstechnologien für die Medizintechnik;Gerresheimer Regensburg GmbH;;450000;5 Jahre;;
 Bayern;Hochschule Amberg-Weiden;Fertigungstechnologien für die Medizintechnik;IMA Automation Amberg GmbH;;;;;
 Bayern;Hochschule Augsburg;Professur für Mechatronik;Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries;;600000;6 Jahre, seit 2008;;
-Bayern;Hochschule Augsburg;Professur für Mechatronik;Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries;;300000;"6 Jahre; Februar 2014";;
-Bayern;Hochschule Augsburg;Professur für Mechatronik;Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries;;600000;"6 Jahre; wird z.Zt. ausgeschrieben";;
+Bayern;Hochschule Augsburg;Professur für Mechatronik;Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries;;300000;6 Jahre, Februar 2014;;
+Bayern;Hochschule Augsburg;Professur für Mechatronik;Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries;;600000;6 Jahre, wird z.Zt. ausgeschrieben;;
 Bayern;Hochschule Aschaffenburg;Ressourceneffiziente Konstruktion von Produkten sowie ingenieurwissenschaftliche Grundlagen;N.N.;100000;;5 Jahre ab 2014;;
 Bayern;Universität München (ohne Klinikum);Managementausbildung;Dr. Rochus Mummert;;;15 Jahren;;
 Bayern;Universität München (ohne Klinikum);Altägyptische Kulturgeschichte in ptolemäisch-römischer Zeit;Deutsche Forschungsgemeinschaft;;;01.11.2011 - 31.10.2016;;
@@ -730,7 +730,7 @@ Bayern;Universität Bayreuth;Entwicklung und Politik Afrikas;Deutsche Forschungs
 Bayern;Universität Bayreuth;Material Physics and Technology at Extreme Conditions;Deutsche Forschungsgemeinschaft;;320000;3 Jahre, seit 2011;;
 Bayern;Universität Bayreuth;Materialsimulation;Oberfrankenstiftung Bayreuth;;1500000;5 Jahre, seit 2010;;
 Bayern;Universität Bayreuth;Pflanzengenetik/Populatiosgenetik;Stifterverband für die Deutsche Wissenschaft;;470000;6 Jahre, seit 2010;;
-Bayern;Universität Bayreuth;"Nonlinear dynamics in high temperature magnetized plasmas; Physics understanding through computing";Volkswagen;;943700;5 Jahre, seit 2010;;VolkswagenStiftung
+Bayern;Universität Bayreuth;Nonlinear dynamics in high temperature magnetized plasmas, Physics understanding through computing;Volkswagen;;943700;5 Jahre, seit 2010;;VolkswagenStiftung
 Bayern;Universität Bayreuth;Islamwissenschaften;Deutsche Forschungsgemeinschaft;;380000;3 Jahre, seit 2011;;
 Bayern;Universität Bayreuth;Clustering of micro- and nanoscopic drug delivery agents in human blood flow;Volkswagen;;1085400;5 Jahre, seit 2013;;VolkswagenStiftung
 Bayern;Akademie der Bildenden Künste München;Malerei und Grafik;Stiftung Kunstakademie;;;2010-2015;;
@@ -747,7 +747,7 @@ Bayern;Universität Erlangen-Nürnberg;GfK-Lehrstuhl für Marketing Intelligence
 Bayern;Universität Erlangen-Nürnberg;Lehrstuhl für Volkswirtschaftslehre, insb. Empirische Mikroökonomie (Jülicher Modell);Bundesagentur für Arbeit;;;5 Jahre: 05.05.2009-04.05.2014;;
 Bayern;Universität Erlangen-Nürnberg;Lehrstuhl für Volkswirtschaftslehre, insb. Arbeitsökonomie (Jülicher Modell);Bundesagentur für Arbeit;;;5 Jahre: 05.05.2009-04.05.2014;;
 Bayern;Universität Erlangen-Nürnberg;Stiftungsprofessur für Personalmanagement und Arbeitsorganisation technologieorientierter Unternehmen;Audi;;;5 Jahre ab Besetzung der Stiftungsprofessur;;
-Bayern;Universität Erlangen-Nürnberg;Theo und Friedl Schöller-Stiftungsprofessur für klinische Ernährung im Alter;Theo und Friedl Schöller-Stiftung;;;"5 Jahre ab Besetzung; seit 01.04.2009 bis 31.03.2014";;
+Bayern;Universität Erlangen-Nürnberg;Theo und Friedl Schöller-Stiftungsprofessur für klinische Ernährung im Alter;Theo und Friedl Schöller-Stiftung;;;5 Jahre ab Besetzung, seit 01.04.2009 bis 31.03.2014;;
 Bayern;Universität Erlangen-Nürnberg;Stiftungsprofessur für Orthopädische und Rheumatologische Rehabilitation;Landesversicherungsanstalt Oberbayern (LVA);;;19.03.1997-(unbefristet);;
 Bayern;Universität Erlangen-Nürnberg;Henriette Schmidt-Burkhardt Lehrstuhl für Lebesmittelchemie;Henriette Schmidt-Burkhardt;;;bis zum Ausscheiden von Prof. Pischetsrieder;;
 Bayern;Universität Erlangen-Nürnberg;Juniorprofessur für Mathematische Optimierung (Stiftungsprofessur Exzellenzcluster);;;;;;
@@ -755,7 +755,7 @@ Bayern;Universität Erlangen-Nürnberg;Professur für Theoretische Physik (Stift
 Bayern;Universität Erlangen-Nürnberg;Juniorprofessur für Experimentalphysik (Rasterelektronenmikroskopie) (Stiftungsprofessur Exzellenzcluster);Biotronik SE & Co.KG, vormals Biotronik GmbH & Co., Berlin;;;;;
 Bayern;Universität Erlangen-Nürnberg;Professur für Physik (SAOT) (Stiftungsprofessur Exzellenzinitiative);Fraunhofer-Gesellschaft;;;;;
 Bayern;Universität Erlangen-Nürnberg;Max-Schaldach-Stiftungsprofessur für Biomedizinische Technik;Biotronik SE & Co.KG, vormals Biotronik GmbH & Co., Berlin;;;weitere 6 Jahre bis 29.12.2017;;
-Bayern;Universität Erlangen-Nürnberg;Stiftungslehrstuhl für Informationstechnik mit dem Schwerpunkt Kommunikationselektronik;Fraunhofer-Gesellschaft;;;"unbefristet; Kündigungsfrist 1 Jahr zum Ende des Kalenderjahres";;
+Bayern;Universität Erlangen-Nürnberg;Stiftungslehrstuhl für Informationstechnik mit dem Schwerpunkt Kommunikationselektronik;Fraunhofer-Gesellschaft;;;unbefristet, Kündigungsfrist 1 Jahr zum Ende des Kalenderjahres;;
 Bayern;Universität Erlangen-Nürnberg;Professor für Aromaforschung;Frauenhofergesellschaft;;;5 Jahre ab Besezung;;
 Bayern;Universität Erlangen-Nürnberg;Juniorprofessur für Optofluidics  (Stiftungsprofessur Exzellenzinitiative);Alexander von Humboldt Stiftung;;;;;
 Bayern;Universität Erlangen-Nürnberg;Professur f. Nanomaterialcharakterisierung (Streumethoden) CENEM  (Stiftungsprofessur Exzellenzinitiative);;;;;;
@@ -776,7 +776,7 @@ Bayern;Universität Erlangen-Nürnberg;Professur für Nano - Elektronik (Stiftun
 Bayern;Universität Erlangen-Nürnberg;Lehrstuhl für Multiscale Simulation of Particulate Systems (Stiftungsprofessur Exzellenzinitiative);;;;;;
 Bayern;Universität Erlangen-Nürnberg;(Stiftungsprofessur Exzellenzcluster);;;;;;
 Bayern;Universität Erlangen-Nürnberg;Biomedizin des Alterns;Barmherzige Brüder;;;ab 01.04.2013;;
-Bayern;Universität Erlangen-Nürnberg (Klinikum);"Juniorprofessur für chronisch - entzündliche Darmerkrankungen; Medizinischen Klinik 1 - Gastroenterologie, Pneumologie und Endokrinologie";AbbVie (AbbVie Deutschland GmbH & Co. KG);;;01.08.2010-31.07.2013;;
+Bayern;Universität Erlangen-Nürnberg (Klinikum);Juniorprofessur für chronisch - entzündliche Darmerkrankungen, Medizinischen Klinik 1 - Gastroenterologie, Pneumologie und Endokrinologie;AbbVie (AbbVie Deutschland GmbH & Co. KG);;;01.08.2010-31.07.2013;;
 Bayern;Universität Erlangen-Nürnberg (Klinikum);W1-Stiftungs-Juniorprofessur für Molekulare Endoskopie an der Medizinischen Klinik 1 - Gastroenterologie, Pneumologie und Endokrinologie;Pentax Europe GmbH;;;01.03.2011-28.02.2014 ggf. Verlängerung 3 Jahre;;
 Bayern;Universität Erlangen-Nürnberg (Klinikum);Stiftungsprofessur für Klinische und Experimentelle Ernährungsmedizin;Nestlé;;;6 Jahre;;
 Bayern;Universität Erlangen-Nürnberg (Klinikum);Stiftungsprofessur für Klinische und Experimentelle Ernährungsmedizin;GHD;;;;;
