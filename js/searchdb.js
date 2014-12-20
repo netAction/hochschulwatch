@@ -3762,6 +3762,10 @@ var searchdb = {
 			"slug": "bct"
 		},
 		{
+			"name": "BDC Consulting GmbH & Co.KG",
+			"slug": "bdc-consulting-gmbh-cokg"
+		},
+		{
 			"name": "BDO AG Wirtschaftsprüfungsgesellschaft",
 			"slug": "bdo-ag-wirtschaftspruefungsgesellschaft"
 		},
@@ -5012,6 +5016,10 @@ var searchdb = {
 		{
 			"name": "community bremen e.V.",
 			"slug": "community-bremen-ev"
+		},
+		{
+			"name": "Comparex",
+			"slug": "comparex"
 		},
 		{
 			"name": "Competence Consulting",
@@ -6858,8 +6866,8 @@ var searchdb = {
 			"slug": "ersatec-gmbh"
 		},
 		{
-			"name": "Erste Group Bank; UNIQA Versicherungen AG",
-			"slug": "erste-group-bank-uniqa-versicherungen-ag"
+			"name": "Erste Group Bank",
+			"slug": "erste-group-bank"
 		},
 		{
 			"name": "Erzdiözese München und Freising",
@@ -10194,8 +10202,8 @@ var searchdb = {
 			"slug": "innovas"
 		},
 		{
-			"name": "InnovationCity Management GmbH; BDC Consulting GmbH & Co.KG",
-			"slug": "innovationcity-management-gmbh-bdc-consulting-gmbh-cokg"
+			"name": "InnovationCity Management GmbH",
+			"slug": "innovationcity-management-gmbh"
 		},
 		{
 			"name": "Innovationsgesellschaft Technische Universität Braunschweig mbH",
@@ -13846,8 +13854,8 @@ var searchdb = {
 			"slug": "pck-schwedt"
 		},
 		{
-			"name": "PC-Ware Information Technologies GmbH/AG; Comparex",
-			"slug": "pc-ware-information-technologies-gmbhag-comparex"
+			"name": "PC-Ware Information Technologies GmbH/AG",
+			"slug": "pc-ware-information-technologies-gmbhag"
 		},
 		{
 			"name": "P-D ChemiePark Bitterfeld Wolfen GmbH",
@@ -15934,8 +15942,8 @@ var searchdb = {
 			"slug": "sig-combibloc-gmbh"
 		},
 		{
-			"name": "SIGNAL Versicherungen; SIGNAL IDUNA Gruppe",
-			"slug": "signal-versicherungen-signal-iduna-gruppe"
+			"name": "SIGNAL IDUNA Gruppe",
+			"slug": "signal-iduna-gruppe"
 		},
 		{
 			"name": "Signon Deutschland GmbH",
@@ -17944,6 +17952,10 @@ var searchdb = {
 		{
 			"name": "Universitätsklinikum Mannheim gGmbH",
 			"slug": "universitaetsklinikum-mannheim-ggmbh"
+		},
+		{
+			"name": "UNIQA Versicherungen AG",
+			"slug": "uniqa-versicherungen-ag"
 		},
 		{
 			"name": "Unternehmensgruppe Aschendorff",
