@@ -261,6 +261,17 @@ function generateBundeslaender() {
 			);
 		}
 
+		data.infobox = [];
+		var infoboxData = jf.readFileSync('daten/bundeslaender.json');
+		for(var infoboxDataEntry in infoboxData) {
+			if (infoboxData[infoboxDataEntry].Bundesland == bundeslaender[bundesland]) {
+				data.infobox.push({
+					'key': infoboxData[infoboxDataEntry].Kategorie,
+					'value': infoboxData[infoboxDataEntry].Information
+				});
+			}
+		}
+
 		data.srcpath = '../';
 		data.activeBundesland = true;
 		data.slugify = function(){ return slugify(this.toString()); };
