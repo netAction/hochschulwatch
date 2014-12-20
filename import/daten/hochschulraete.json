@@ -164,8 +164,8 @@
     "Uni":"Universität zu Köln (ohne Klinikum)",
     "Name":"Dr. Richard Pott",
     "Funktion":"Vorsitzender",
-    "Unternehmen":"Bayer AG",
-    "Alternativname":""
+    "Unternehmen":"Bayer",
+    "Alternativname":"Bayer AG"
   },
   {
     "Bundesland":"Nordrhein-Westfalen",
@@ -1476,7 +1476,7 @@
     "Uni":"Hochschule Kempten",
     "Name":"Schultz, Wolfgang E.",
     "Funktion":"Vorsitzender",
-    "Unternehmen":"Fa. MAGNET-SCHULTZ GmbH & Co. Fabrikations- und Vertriebs-KG",
+    "Unternehmen":"Magnet Schultz GmbH",
     "Alternativname":""
   },
   {
@@ -1516,7 +1516,7 @@
     "Uni":"Hochschule Kempten",
     "Name":"Hesemann, Friedrich",
     "Funktion":"",
-    "Unternehmen":"Liebherr-Verzahntechnik GmbH",
+    "Unternehmen":"Liebherr-Holding",
     "Alternativname":""
   },
   {
@@ -1532,7 +1532,7 @@
     "Uni":"Hochschule Kempten",
     "Name":"Traumann, Christian",
     "Funktion":"",
-    "Unternehmen":"Fa. Multivac Sepp Haggenmüller GmbH & Co. KG",
+    "Unternehmen":"Multivac Sepp Haggenmüller GmbH",
     "Alternativname":""
   },
   {
