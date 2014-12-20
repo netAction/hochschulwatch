@@ -10,12 +10,13 @@ $(function() {
 		if ($(this).data('oldvalue') == $(this).val()) return;
 		$(this).data('oldvalue', $(this).val());
 
-		var f = new Fuse(searchdb, {
+		var f = new Fuse(searchdb.hochschulen, {
 			keys: ['name'],
 			threshold: 0.4
 		});
 
 		var result = f.search( $(this).val() );
+
 		$('#search-results').empty().fadeIn();
 		$(result).each(function(i, hochschule) {
 			if (i > 10) return;
@@ -51,6 +52,50 @@ $(function() {
 	$('#search-results').hide();
 
 
+
+	var foerdererFuse = new Fuse(searchdb.foerderer, {
+		keys: ['name'],
+		threshold: 0.4
+	});
+	$('input#foerderer-search-input').on('propertychange keyup input paste change', function() {
+		var foerdererPath = $(this).attr('data-foerdererPath');
+
+		if ($(this).val() == '') {
+			// input empty
+			$('#foerderer-search-results').hide();
+			return;
+		}
+		if ($(this).data('oldvalue') == $(this).val()) return;
+		$(this).data('oldvalue', $(this).val());
+
+		var result = foerdererFuse.search( $(this).val() );
+
+		$('#foerderer-search-results').empty().fadeIn();
+		$(result).each(function(i, foerderer) {
+			if (i > 10) return;
+			$('#foerderer-search-results').append(
+				'<li>'+
+				'<a href="'+foerdererPath+foerderer.slug+'.html">'+
+				foerderer.name+
+				'</a>'+
+				'</li>'
+			);
+		});
+
+		if (result.length == 0) {
+			$('#foerderer-search-results').append(
+				'<li>'+
+				'<em>'+
+				'nichts gefunden'+
+				'</em>'+
+				'</li>'
+			);
+		}
+
+	});
+
+
+
 	// Disable all nonsense links <a href="#">
 	$('body').on('click','a[href="#"]',function(e) {
 		e.preventDefault();
@@ -65,7 +110,7 @@ $(function() {
 
 		$('#hochschulen-land-selektion-wrapper').slideDown();
 		var selektionHtml = '<option selected="selected" disabled="disabled">Hochschule auswählen</option>';
-		$.each(searchdb, function(i, hochschule) {
+		$.each(searchdb.hochschulen, function(i, hochschule) {
 			if(hochschule.bundesland == land) {
 				selektionHtml += '<option value="'+ hochschule.slug +'">'+ hochschule.name +'</option>';
 			}
@@ -86,5 +131,11 @@ $(function() {
 		window.location.href = 'hochschule/' + $(this).val() + '.html';
 	});
 
+
+	$('.sortable').tablesorter({
+		textExtraction: function(cell) {
+			return $(cell).attr('data-number') || $(cell).html();
+		} 
+	});
 
 });

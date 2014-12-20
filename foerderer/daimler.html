@@ -39,8 +39,8 @@
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
 					<li><a href="../">Home</a></li>
-					<li><a href="../about.html">Über</a></li>
 					<li><a href="../kontakt.html">Kontakt</a></li>
+					<li class="active"><a href="../foerderer.html">Förderer</a></li>
 					<li class="dropdown ">
 						<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
 							Bundesländer <span class="caret"></span>
@@ -96,47 +96,51 @@
 
 		<h2>Zuwendungen <sup><a href="../themen/sponsoring.html" class="badge">Infos</a></sup></h2>
 		<div class="table-responsive">
-			<table class="table table-striped">
-				<tr>
-					<th>Jahr</th>
-					<th>Empfänger</th>
-					<th>Leistung</th>
-					<th>Art</th>
-					<th>Wert</th>
-					<th>Hinweis</th>
-				</tr>
-				<tr>
-					<td>2012</td>
-					<td><a href="../hochschule/medizinische-hochschule-hannover.html">Medizinische Hochschule Hannover</a></td>
-					<td>Geldleistung</td>
-					<td>Sponsoring</td>
-					<td class="text-right">5000</td>
-					<td>Veranstaltung</td>
-				</tr>
-				<tr>
-					<td>2012</td>
-					<td><a href="../hochschule/tu-braunschweig.html">TU Braunschweig</a></td>
-					<td>Sachleistung</td>
-					<td>Spende</td>
-					<td class="text-right">5600</td>
-					<td>2 Motoren dienen zu Forschungszwecken 3 Motoren dienen zur Ausstellung</td>
-				</tr>
-				<tr>
-					<td>2012</td>
-					<td><a href="../hochschule/universitaet-bremen.html">Universität Bremen</a></td>
-					<td>Geldspende</td>
-					<td>Finanzmittel</td>
-					<td class="text-right">221000</td>
-					<td>Stiftungsprofessur Prozessgerechte Technologiegestaltung</td>
-				</tr>
-				<tr>
-					<td>2013</td>
-					<td><a href="../hochschule/universitaet-bremen.html">Universität Bremen</a></td>
-					<td>Geldspende</td>
-					<td>Finanzmittel</td>
-					<td class="text-right">221000</td>
-					<td>Stiftungsprofessur Prozessgerechte Technologiegestaltung</td>
-				</tr>
+			<table class="table table-striped sortable">
+				<thead>
+					<tr>
+						<th>Jahr</th>
+						<th>Empfänger</th>
+						<th>Leistung</th>
+						<th>Art</th>
+						<th>Wert <span class="caret"></span></th>
+						<th>Hinweis</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>2012</td>
+						<td><a href="../hochschule/medizinische-hochschule-hannover.html">Medizinische Hochschule Hannover</a></td>
+						<td>Geldleistung</td>
+						<td>Sponsoring</td>
+						<td class="text-right" data-number="5000">5 000 €</td>
+						<td>Veranstaltung</td>
+					</tr>
+					<tr>
+						<td>2012</td>
+						<td><a href="../hochschule/tu-braunschweig.html">TU Braunschweig</a></td>
+						<td>Sachleistung</td>
+						<td>Spende</td>
+						<td class="text-right" data-number="5600">5 600 €</td>
+						<td>2 Motoren dienen zu Forschungszwecken 3 Motoren dienen zur Ausstellung</td>
+					</tr>
+					<tr>
+						<td>2012</td>
+						<td><a href="../hochschule/universitaet-bremen.html">Universität Bremen</a></td>
+						<td>Geldspende</td>
+						<td>Finanzmittel</td>
+						<td class="text-right" data-number="221000">221 000 €</td>
+						<td>Stiftungsprofessur Prozessgerechte Technologiegestaltung</td>
+					</tr>
+					<tr>
+						<td>2013</td>
+						<td><a href="../hochschule/universitaet-bremen.html">Universität Bremen</a></td>
+						<td>Geldspende</td>
+						<td>Finanzmittel</td>
+						<td class="text-right" data-number="221000">221 000 €</td>
+						<td>Stiftungsprofessur Prozessgerechte Technologiegestaltung</td>
+					</tr>
+				</tbody>
 			</table>
 		</div>
 
@@ -273,6 +277,7 @@
 	<script src="../js/jquery-2.1.1.min.js"></script>
 	<script src="../js/bootstrap.min.js"></script>
 	<script src="../js/fuse.min.js"></script>
+	<script src="../js/jquery.tablesorter.min.js"></script>
 	<script src="../js/searchdb.js"></script>
 	<script src="../js/hochschulwatch.js"></script>
 </body>

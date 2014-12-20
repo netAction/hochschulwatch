@@ -23,6 +23,11 @@ function beautify(input) {
 }
 
 
+function beautifyCurrency(number) {
+	return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ") + ' €';
+}
+
+
 
 function slugify(name) {
 	name = name
@@ -39,22 +44,6 @@ function slugify(name) {
 }
 
 
-// #################### Studierenden-Zahlen einlesen
-// https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&selectionname=21311-0002
-
-function studierendenzahlLookup() {
-	var studierendenzahl = fs.readFileSync('studierendenzahl.csv').toString();
-	studierendenzahl = studierendenzahl.split("\n");
-	studierendenzahlTable = {};
-	for (var i = 0, len = studierendenzahl.length; i < len; i++) {
-		studierendenzahl[i] = beautify(studierendenzahl[i]);
-		studierendenzahl[i] = studierendenzahl[i].split('@');
-		studierendenzahlTable[studierendenzahl[i][1]] = studierendenzahl[i][0];
-	}
-	return studierendenzahlTable;
-}
-studierendenzahlTable = studierendenzahlLookup();
-
 
 // #################### jSon-Daten in Variable hochschulenTable und foerdererTable einlesen
 
@@ -63,7 +52,12 @@ function hochschulenLookup() {
 	var hochschulenLookup = {};
 	for (var i = 0, len = hochschulen.length; i < len; i++) {
 		hochschulen[i].addi = beautify( hochschulen[i].addi );
-		hochschulen[i].studierendenzahl = studierendenzahlTable['HS'+hochschulen[i].uID];
+		hochschulen[i]['absolut-2010-string'] = beautifyCurrency( hochschulen[i]['absolut-2010'] );
+		hochschulen[i]['wirtschaft-2010-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2010'] );
+		hochschulen[i]['absolut-2011-string'] = beautifyCurrency( hochschulen[i]['absolut-2011'] );
+		hochschulen[i]['wirtschaft-2011-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2011'] );
+		hochschulen[i]['absolut-2012-string'] = beautifyCurrency( hochschulen[i]['absolut-2012'] );
+		hochschulen[i]['wirtschaft-2012-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2012'] );
 
 		hochschulenLookup[hochschulen[i].Name] = hochschulen[i];
 	}
@@ -102,6 +96,12 @@ function importFoerderungen(filename, hochschulBezeichner, foerdererBezeichner) 
 			return;
 		}
 
+		// Bei Zuwendungen-Daten den Wert als Zahl angeben.
+		if (filename == 'sponsoring') {
+			foerderung.Wert = foerderung.Wert.toString().replace(/,/g , ".") * 1;
+			foerderung.WertString = beautifyCurrency(Math.round(foerderung.Wert));
+		}
+
 		var hochschule = hochschulenTable[foerderung[hochschulBezeichner]];
 		hochschule[filename] = hochschule[filename] || [];
 		hochschule[filename].push( foerderung );
@@ -137,10 +137,11 @@ fs.writeFileSync('../index.html', ms.render(
 	{srcpath: './', activeHome: true }
 ));
 
-fs.writeFileSync('../about.html', ms.render(
-	templateHeader+ fs.readFileSync('templates/about.html').toString() + templateFooter,
-	{srcpath: './', activeAbout: true }
+fs.writeFileSync('../foerderer.html', ms.render(
+	templateHeader+ fs.readFileSync('templates/foerdererUebersicht.html').toString() + templateFooter,
+	{srcpath: './', activeFoerderer: true }
 ));
+
 fs.writeFileSync('../kontakt.html', ms.render(
 	templateHeader+ fs.readFileSync('templates/kontakt.html').toString() + templateFooter,
 	{srcpath: './', activeContact: true }
@@ -177,17 +178,27 @@ fs.writeFileSync('../themen/stipendien.html', ms.render(
 // #################### Index für Suchfunktion erstellen
 
 function generateSearchIndex() {
-	var searchdb = [];
+	var searchdb = {
+		hochschulen: [],
+		foerderer: []
+	};
+
 	for(var name in hochschulenTable ) {
-		searchdb.push({
+		searchdb.hochschulen.push({
 			'name': hochschulenTable[name].Name,
 			'bundesland': hochschulenTable[name].bundesland,
 			'slug': slugify(hochschulenTable[name].Name),
-			'absolut': hochschulenTable[name]['absolut-2012'],
-			'wirtschaft': hochschulenTable[name]['wirtschaft-2012'],
-			'studierendenzahl': hochschulenTable[name]['studierendenzahl'],
 		});
 	}
+
+	var searchFoerderer = [];
+	for(var name in foerdererTable ) {
+		searchdb.foerderer.push({
+			'name': foerdererTable[name].Firma,
+			'slug': slugify(foerdererTable[name].Firma),
+		});
+	}
+
 
 	searchdb = 'var searchdb = '+ JSON.stringify(searchdb, null,"\t") + ';\n';
 	fs.writeFileSync('../js/searchdb.js', searchdb);
@@ -266,6 +277,7 @@ for(var name in hochschulenTable ) {
 	data.srcpath = '../';
 	data.slugify = function(){ return slugify(this.toString()); };
 	data.encodeURIComponent = function(){ return encodeURIComponent(this.toString()); };
+
 	var html = ms.render(template, data);
 	fs.writeFileSync('../hochschule/'+slugify(data.Name)+'.html', html);
 };
@@ -275,6 +287,7 @@ template = templateHeader + template + templateFooter;
 for(var name in foerdererTable ) {
 	var data = foerdererTable[name];
 	data.srcpath = '../';
+	data.activeFoerderer = true;
 	data.slugify = function(){ return slugify(this.toString()); };
 	var html = ms.render(template, data);
 	fs.writeFileSync('../foerderer/'+slugify(data.Firma)+'.html', html);

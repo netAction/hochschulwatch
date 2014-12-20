@@ -39,8 +39,8 @@
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
 					<li><a href="../">Home</a></li>
-					<li><a href="../about.html">Über</a></li>
 					<li><a href="../kontakt.html">Kontakt</a></li>
+					<li><a href="../foerderer.html">Förderer</a></li>
 					<li class="dropdown ">
 						<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
 							Bundesländer <span class="caret"></span>
@@ -115,50 +115,54 @@
 					</div>
 					<div class="col-sm-12 col-md-5 col-lg-4">
 						<table class="table table-striped above20px">
-							<tr>
-								<th>
-									Jahr
-								</th>
-								<th>
-									Wirtschaft
-								</th>
-								<th>
-									Absolut
-								</th>
-							</tr>
-							<tr>
-								<th>
-									2010
-								</th>
-								<td class="text-right">
-									920742
-								</td>
-								<td class="text-right">
-									4977565
-								</td>
-							</tr>
-							<tr>
-								<th>
-									2011
-								</th>
-								<td class="text-right">
-									637350
-								</td>
-								<td class="text-right">
-									5458681
-								</td>
-							</tr>
-							<tr>
-								<th>
-									2012
-								</th>
-								<td class="text-right">
-									812976
-								</td>
-								<td class="text-right">
-									8107046
-								</td>
-							</tr>
+							<thead>
+								<tr>
+									<th>
+										Jahr
+									</th>
+									<th>
+										Wirtschaft
+									</th>
+									<th>
+										Absolut
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<th>
+										2010
+									</th>
+									<td class="text-right">
+										920 742 €
+									</td>
+									<td class="text-right">
+										4 977 565 €
+									</td>
+								</tr>
+								<tr>
+									<th>
+										2011
+									</th>
+									<td class="text-right">
+										637 350 €
+									</td>
+									<td class="text-right">
+										5 458 681 €
+									</td>
+								</tr>
+								<tr>
+									<th>
+										2012
+									</th>
+									<td class="text-right">
+										812 976 €
+									</td>
+									<td class="text-right">
+										8 107 046 €
+									</td>
+								</tr>
+							</tbody>
 						</table>
 					</div>
 				</div>
@@ -186,51 +190,8 @@
 		</p>
 
 
-		<h2>Zuwendungen <sup><a href="../themen/sponsoring.html" class="badge">Infos</a></sup></h2>
-		<div class="table-responsive">
-			<table class="table table-striped">
-				<tr>
-					<th>Jahr</th>
-					<th>Geber</th>
-					<th>Leistung</th>
-					<th>Art</th>
-					<th>Wert</th>
-					<th>Hinweis</th>
-				</tr>
-				<tr>
-					<td>2013-1</td>
-					<td><a href="../foerderer/anonym.html">Anonym</a></td>
-					<td>Spende</td>
-					<td>Geldleistung</td>
-					<td class="text-right">5000</td>
-					<td>Allgemeine Wissenschaftsförderung Fakultät Life Sciences</td>
-				</tr>
-				<tr>
-					<td>2014-1</td>
-					<td><a href="../foerderer/anonym.html">Anonym</a></td>
-					<td>Spende</td>
-					<td>Geldleistung</td>
-					<td class="text-right">5000</td>
-					<td>Allgemeine Wissenschaftsförderung Fakultät Life Sciences</td>
-				</tr>
-				<tr>
-					<td>2014-1</td>
-					<td><a href="../foerderer/saling-werkzeugmaschinen-industriestr6-22885-barsbuettel.html">Saling Werkzeugmaschinen, Industriestr.6, 22885 Barsbüttel</a></td>
-					<td>Spende</td>
-					<td>Geldleistung</td>
-					<td class="text-right">5700</td>
-					<td>Allgemeine Wissenschaftsförderung Fakultät Life Sciences</td>
-				</tr>
-				<tr>
-					<td>2014-1</td>
-					<td><a href="../foerderer/anonym.html">Anonym</a></td>
-					<td>Spende</td>
-					<td>Sachleistung</td>
-					<td class="text-right">Unklar, Einwilligung des Mittelgebers liegt nicht vor</td>
-					<td>Allgemeine Wissenschaftsförderung Fakultät Design, Medien und Information</td>
-				</tr>
-			</table>
-		</div>
+
+
 
 
 		<h2>Stiftungsprofessuren <sup><a href="../themen/stiftungsprofessuren.html" class="badge">Infos</a></sup></h2>
@@ -266,6 +227,65 @@
 
 
 
+
+		<h2>Zuwendungen <sup><a href="../themen/sponsoring.html" class="badge">Infos</a></sup></h2>
+		<div class="table-responsive">
+			<table class="table table-striped sortable">
+				<thead>
+					<tr>
+						<th>Jahr</th>
+						<th>Geber</th>
+						<th>Leistung</th>
+						<th>Art</th>
+						<th>Wert <span class="caret"></span></th>
+						<th>Hinweis</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr data-wert="5000">
+						<td>2013-1</td>
+						<td><a href="../foerderer/anonym.html">Anonym</a></td>
+						<td>Spende</td>
+						<td>Geldleistung</td>
+						<td class="text-right" data-number="5000">5 000 €</td>
+						<td>Allgemeine Wissenschaftsförderung Fakultät Life Sciences</td>
+					</tr>
+					<tr data-wert="5000">
+						<td>2014-1</td>
+						<td><a href="../foerderer/anonym.html">Anonym</a></td>
+						<td>Spende</td>
+						<td>Geldleistung</td>
+						<td class="text-right" data-number="5000">5 000 €</td>
+						<td>Allgemeine Wissenschaftsförderung Fakultät Life Sciences</td>
+					</tr>
+					<tr data-wert="5700">
+						<td>2014-1</td>
+						<td><a href="../foerderer/saling-werkzeugmaschinen-industriestr6-22885-barsbuettel.html">Saling Werkzeugmaschinen, Industriestr.6, 22885 Barsbüttel</a></td>
+						<td>Spende</td>
+						<td>Geldleistung</td>
+						<td class="text-right" data-number="5700">5 700 €</td>
+						<td>Allgemeine Wissenschaftsförderung Fakultät Life Sciences</td>
+					</tr>
+					<tr data-wert="NaN">
+						<td>2014-1</td>
+						<td><a href="../foerderer/anonym.html">Anonym</a></td>
+						<td>Spende</td>
+						<td>Sachleistung</td>
+						<td class="text-right" data-number="NaN">NaN €</td>
+						<td>Allgemeine Wissenschaftsförderung Fakultät Design, Medien und Information</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+
+
+		<hr class="above40px">
+		<p>Haben Sie Ergänzungen, Korrekturen, Hinweise?
+			<a href="kontakt.html">Schreiben Sie uns!</a> Auch gerne an den
+			<a href="https://informant.taz.de/">Briefkasten für sensible Daten</a> der taz.
+		</p>
+
 	</div><!-- container -->
 
 	<footer class="footer navbar navbar-inverse navbar-fixed-bottom">
@@ -283,6 +303,7 @@
 	<script src="../js/jquery-2.1.1.min.js"></script>
 	<script src="../js/bootstrap.min.js"></script>
 	<script src="../js/fuse.min.js"></script>
+	<script src="../js/jquery.tablesorter.min.js"></script>
 	<script src="../js/searchdb.js"></script>
 	<script src="../js/hochschulwatch.js"></script>
 </body>

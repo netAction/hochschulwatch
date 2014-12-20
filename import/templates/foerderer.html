@@ -19,25 +19,29 @@
 		{{ #sponsoring.length }}
 		<h2>Zuwendungen <sup><a href="../themen/sponsoring.html" class="badge">Infos</a></sup></h2>
 		<div class="table-responsive">
-			<table class="table table-striped">
-				<tr>
-					<th>Jahr</th>
-					<th>Empfänger</th>
-					<th>Leistung</th>
-					<th>Art</th>
-					<th>Wert</th>
-					<th>Hinweis</th>
-				</tr>
-				{{ #sponsoring }}
-				<tr>
-					<td>{{ Jahr }}</td>
-					<td><a href="../hochschule/{{ #Universität }}{{ slugify }}{{ /Universität }}.html">{{ Universität }}</a></td>
-					<td>{{ Geld-/Sachspende }}</td>
-					<td>{{ Art der Leistung }}</td>
-					<td class="text-right">{{ Wert }}</td>
-					<td>{{ Hinweis }}</td>
-				</tr>
-				{{ /sponsoring }}
+			<table class="table table-striped sortable">
+				<thead>
+					<tr>
+						<th>Jahr</th>
+						<th>Empfänger</th>
+						<th>Leistung</th>
+						<th>Art</th>
+						<th>Wert <span class="caret"></span></th>
+						<th>Hinweis</th>
+					</tr>
+				</thead>
+				<tbody>
+					{{ #sponsoring }}
+					<tr>
+						<td>{{ Jahr }}</td>
+						<td><a href="../hochschule/{{ #Universität }}{{ slugify }}{{ /Universität }}.html">{{ Universität }}</a></td>
+						<td>{{ Geld-/Sachspende }}</td>
+						<td>{{ Art der Leistung }}</td>
+						<td class="text-right" data-number="{{ Wert }}">{{ WertString }}</td>
+						<td>{{ Hinweis }}</td>
+					</tr>
+					{{ /sponsoring }}
+				</tbody>
 			</table>
 		</div>
 		{{ /sponsoring.length }}

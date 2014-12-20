@@ -25,7 +25,7 @@
 
 <body role="document">
 
-	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 		<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -39,8 +39,8 @@
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
 					<li><a href="./">Home</a></li>
-					<li><a href="./about.html">Über</a></li>
 					<li><a href="./kontakt.html">Kontakt</a></li>
+					<li class="active"><a href="./foerderer.html">Förderer</a></li>
 					<li class="dropdown ">
 						<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
 							Bundesländer <span class="caret"></span>
@@ -78,45 +78,20 @@
 
 
 	<div class="container">
-		<h1>Drittmittel im Plot</h1>
-		<style type="text/css">
-			.plot {
-				width: 100%;
-				padding-top: 25%;
-				background-color: #ccc;
-				position: relative;
-			}
+		<h1>Förderer</h1>
+		<div class="row">
+			<div class="col-sm-4">
+				<input type="text" class="form-control" id="foerderer-search-input" data-foerdererpath="foerderer/" placeholder="Förderer suchen">
+				<ul id="foerderer-search-results" class="list-unstyled well" style="display: none;">
+				</ul>
+			</div>
+			<div class="col-sm-8">
+				<p>Disclaimer: Bitte beachten Sie, dass wir keine Beratung im Einzelfall geben können und nicht befugt sind, Rechtshilfe zu geben.</p>
+			</div>
+		</div><!-- row -->
+	</div>
 
-			.dot {
-				position: absolute;
-				width: 0.25%;
-				height: 1%;
-				border-radius: 5px;
-				background-color: black;
-				white-space: nowrap;
-				font-size: 9px;
-				color: #555;
-				display: block;
-				line-height: 0;
-			}
-
-			#plot3 {
-				background: linear-gradient(170deg, #E8D7D7 37%, #D0E5D1 70%);
-			}
-		</style>
-		<div class="plot" id="plot"></div>
-		<p>Drittmittel aus der Wirtschaft über Gesamt-Drittmittel</p>
-		<p></p>
-		<div class="plot" id="plot2"></div>
-		<p>Quotient Wirtschaft/Absolut über Gesamt-Drittmittel</p>
-		<p></p>
-		<div class="plot" id="plot3"></div>
-		<p>Drittmittel aus der Wirtschaft über <a href="https://www-genesis.destatis.de/genesis/online/logon?sequenz=tabelleErgebnis&selectionname=21311-0002">Studierendenzahl</a></p>
-		<p></p>
-
-	</div><!-- container -->
-
-	<footer class="footer navbar navbar-default navbar-fixed-bottom">
+	<footer class="footer navbar navbar-inverse navbar-fixed-bottom">
 		<div class="container">
 			<div class="navbar-header">
 				<a class="navbar-creativecommons navbar-brand" href="http://creativecommons.org/licenses/by-sa/3.0/de/"><img src="./images/cc-by-sa.png" class="img-responsive"></a>
@@ -131,24 +106,9 @@
 	<script src="./js/jquery-2.1.1.min.js"></script>
 	<script src="./js/bootstrap.min.js"></script>
 	<script src="./js/fuse.min.js"></script>
+	<script src="./js/jquery.tablesorter.min.js"></script>
 	<script src="./js/searchdb.js"></script>
 	<script src="./js/hochschulwatch.js"></script>
-	<script type="application/javascript">
-		$(function() {
-			$.each(searchdb, function(i, hochschule) {
-				if (hochschule.absolut > 110000000) hochschule.anzeigeName = hochschule.name; else hochschule.anzeigeName = '';
-				$('#plot').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft/1000000) +'%; left: '+ (hochschule.absolut/4000000) +'%;">&nbsp;&nbsp;'+ hochschule.anzeigeName +'</a>');
-
-				$('#plot2').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft*99/hochschule.absolut) +'%; left: '+ (hochschule.absolut/4000000) +'%;">&nbsp;&nbsp;'+ hochschule.anzeigeName +'</a>');
-
-				if (hochschule.wirtschaft > 5000000) hochschule.anzeigeName = hochschule.name; else hochschule.anzeigeName = '';
-				if (hochschule.studierendenzahl)
-					$('#plot3').append('<a href="hochschule/'+ hochschule.slug +'.html" class="dot" title="'+ hochschule.name +'" style="top: '+ (99-hochschule.wirtschaft/400000) +'%; left: '+ (hochschule.studierendenzahl/400) +'%;">&nbsp;&nbsp;'+ hochschule.anzeigeName +'</a>');
-
-
-			});
-		});
-	</script>
 </body>
 
 </html>
