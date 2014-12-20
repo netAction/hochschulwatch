@@ -806,7 +806,7 @@
   {
     "uID":"520",
     "Name":"Universität Oldenburg",
-    "Firma":"MLP Finanzdienstleistungen AG",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -890,7 +890,7 @@
   {
     "uID":"520",
     "Name":"Universität Oldenburg",
-    "Firma":"Sparkasse LeerWittmund",
+    "Firma":"Sparkasse Leer/Wittmund",
     "Alternativname":""
   },
   {
@@ -1748,7 +1748,7 @@
   {
     "uID":"4980",
     "Name":"Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH)",
-    "Firma":"MLP",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -1821,7 +1821,7 @@
     "uID":"4990",
     "Name":"Hochschule Emden/Leer (FH)",
     "Firma":"Deutsche Seereederei GmbH",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"4990",
@@ -1959,7 +1959,7 @@
     "uID":"5310",
     "Name":"Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
     "Firma":"Elektronik-Produkt Recycling GmbH",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"5310",
@@ -2570,7 +2570,7 @@
   {
     "uID":"5500",
     "Name":"Hochschule Osnabrück (FH)",
-    "Firma":"MLP Finanzdienstleistungen AG",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -4227,7 +4227,7 @@
     "uID":"5660",
     "Name":"Hochschule Bremerhaven",
     "Firma":"Frosta",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"5660",
@@ -4400,7 +4400,7 @@
   {
     "uID":"5680",
     "Name":"Hochschule Bremen",
-    "Firma":"MLP Finanzdienstleistungen AG, Wiesloch",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -4965,7 +4965,7 @@
     "uID":"121",
     "Name":"Universität Paderborn",
     "Firma":"beauty alliance Deutschland GmbH & Co KG",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"121",
@@ -5715,7 +5715,7 @@
     "uID":"130",
     "Name":"Universität Siegen",
     "Firma":"Ferchau Engineering ",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"130",
@@ -5919,7 +5919,7 @@
     "uID":"140",
     "Name":"Universität Wuppertal",
     "Firma":"LOI Italimpianti",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"140",
@@ -6129,7 +6129,7 @@
     "uID":"1081",
     "Name":"Ruhr-Universität Bochum (ohne Klinikum)",
     "Firma":"Bürger-Spannel, Marion und Helmut Spannel",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"1081",
@@ -6386,7 +6386,7 @@
   {
     "uID":"1081",
     "Name":"Ruhr-Universität Bochum (ohne Klinikum)",
-    "Firma":"MLP Finanzdienstleistungen AG",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -7214,7 +7214,7 @@
   {
     "uID":"1121",
     "Name":"WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
-    "Firma":"MLP AG, Geschäftsstelle Münster 5",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -8078,7 +8078,7 @@
   {
     "uID":"5700",
     "Name":"Westfälische Hochschule Gelsenkirchen Bocholt Recklinghausen",
-    "Firma":"MLP Finanzdienstleistungen AG",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -8504,7 +8504,7 @@
   {
     "uID":"5770",
     "Name":"FH Dortmund",
-    "Firma":"WILO SE",
+    "Firma":"WILO",
     "Alternativname":""
   },
   {
@@ -8792,7 +8792,7 @@
   {
     "uID":"5830",
     "Name":"FH Köln",
-    "Firma":"MLP Finanzdienstleistungen AG",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -9387,7 +9387,7 @@
     "uID":"1161",
     "Name":"Universität Frankfurt a.M. (ohne Klinikum)",
     "Firma":"Alumni-Verein der Psychologie e.V.",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"1161",
@@ -10179,7 +10179,7 @@
     "uID":"1210",
     "Name":"TU Kaiserslautern",
     "Firma":"vision electric",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"1210",
@@ -10394,7 +10394,7 @@
   {
     "uID":"1223",
     "Name":"Universität Mainz",
-    "Firma":"MLP Finanzdienstleistungen AG",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -10544,7 +10544,7 @@
   {
     "uID":"6650",
     "Name":"Hochschule Ludwigshafen am Rhein",
-    "Firma":"MLP Finanzdienstleistungen",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -10815,7 +10815,7 @@
     "uID":"1251",
     "Name":"Universität Heidelberg (ohne Klinikum)",
     "Firma":"Santander Bank",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"1260",
@@ -11637,7 +11637,7 @@
     "uID":"1821",
     "Name":"Universität Ulm (ohne Klinikum)",
     "Firma":"GFD Gesellschaft für Diamantprodukte mbH",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"1821",
@@ -11702,7 +11702,7 @@
   {
     "uID":"1821",
     "Name":"Universität Ulm (ohne Klinikum)",
-    "Firma":"MLP Finanzdienstleistungen AG",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -13269,7 +13269,7 @@
     "uID":"1321",
     "Name":"Universität München (ohne Klinikum)",
     "Firma":"Baker & McKenzie",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"1321",
@@ -13557,7 +13557,7 @@
     "uID":"1331",
     "Name":"Universität Würzburg (ohne Klinikum)",
     "Firma":"Sparkasse Mainfranken Würzburg",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"1331",
@@ -13611,7 +13611,7 @@
     "uID":"1341",
     "Name":"Universität Regensburg (ohne Klinikum)",
     "Firma":"Maschinenfabrik Reinhausen GmbH",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"1341",
@@ -14768,8 +14768,8 @@
   {
     "uID":"7440",
     "Name":"Hochschule Kempten",
-    "Firma":"Alois Goldhofer Stiftung",
-    "Alternativname":""
+    "Firma":"Goldhofer",
+    "Alternativname":"Alois-Goldhofer-Stiftung"
   },
   {
     "uID":"7440",
@@ -16616,7 +16616,7 @@
   {
     "uID":"7910",
     "Name":"FH Brandenburg",
-    "Firma":"MLP",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -16797,7 +16797,7 @@
     "uID":"261",
     "Name":"Universität Rostock (ohne Klinikum)",
     "Firma":"Deutsche Seereederei GmbH",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"261",
@@ -17336,7 +17336,7 @@
   {
     "uID":"379",
     "Name":"TU Dresden (Klinikum)",
-    "Firma":"MLP Finanzdienstleistungen AG",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -17535,7 +17535,7 @@
     "uID":"361",
     "Name":"Universität Leipzig (ohne Klinikum)",
     "Firma":"Datenlotsen Informationssysteme GmbH",
-    "Alternativname":" "
+    "Alternativname":""
   },
   {
     "uID":"361",
@@ -17666,7 +17666,7 @@
   {
     "uID":"361",
     "Name":"Universität Leipzig (ohne Klinikum)",
-    "Firma":"MLP Finanzdienstleistungen AG",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -18134,7 +18134,7 @@
   {
     "uID":"5130",
     "Name":"Hochschule für Technik, Wirtschaft und Kultur Leipzig",
-    "Firma":"MLP AG Geschäftsstelle Leipzig VI",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -18374,7 +18374,7 @@
   {
     "uID":"5160",
     "Name":"Westsächsische Hochschule Zwickau",
-    "Firma":"MLP Finanzdienstleistungs-AG",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -18566,7 +18566,7 @@
   {
     "uID":"301",
     "Name":"Universität Halle (ohne Klinikum)",
-    "Firma":"MLP Finanzdienstleistungen AG",
+    "Firma":"MLP AG",
     "Alternativname":""
   },
   {
@@ -19667,4 +19667,3 @@
     "Firma":"",
     "Alternativname":""
   }
-]
