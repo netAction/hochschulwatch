@@ -303,6 +303,9 @@ template = templateHeader + template + templateFooter;
 for(var name in hochschulenTable ) {
 	var data = hochschulenTable[name];
 	data.srcpath = '../';
+	if (data['wirtschaft-2012']) {
+		data.wirtschaftPercent = data['wirtschaft-2012'] * 100 / data['absolut-2012'];
+	}
 	data.slugify = function(){ return slugify(this.toString()); };
 	data.encodeURIComponent = function(){ return encodeURIComponent(this.toString()); };
 
