@@ -5,6 +5,7 @@ $(function() {
 		if ($(this).val() == '') {
 			// input empty
 			$('#search-results').hide();
+			$(this).data('oldvalue', $(this).val());
 			return;
 		}
 		if ($(this).data('oldvalue') == $(this).val()) return;
@@ -62,6 +63,7 @@ $(function() {
 
 		if ($(this).val() == '') {
 			// input empty
+			$(this).data('oldvalue', $(this).val());
 			$('#foerderer-search-results').hide();
 			return;
 		}
