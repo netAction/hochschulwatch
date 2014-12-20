@@ -2486,6 +2486,10 @@ var searchdb = {
 			"slug": "aconso-ag"
 		},
 		{
+			"name": "ACREDO BAU GmbH",
+			"slug": "acredo-bau-gmbh"
+		},
+		{
 			"name": "act! Consulting GmbH",
 			"slug": "act-consulting-gmbh"
 		},
@@ -2634,10 +2638,6 @@ var searchdb = {
 			"slug": "airbus-deutschland-gmbh"
 		},
 		{
-			"name": "Airbus Deutschland GmbH, Bremen",
-			"slug": "airbus-deutschland-gmbh-bremen"
-		},
-		{
 			"name": "aixigo AG",
 			"slug": "aixigo-ag"
 		},
@@ -2704,10 +2704,6 @@ var searchdb = {
 		{
 			"name": "ALDI",
 			"slug": "aldi"
-		},
-		{
-			"name": "Aldi Süd",
-			"slug": "aldi-sued"
 		},
 		{
 			"name": "Alere Technologies GmbH",
@@ -2778,6 +2774,10 @@ var searchdb = {
 			"slug": "allerheiligen-dieter-und-rosemarie"
 		},
 		{
+			"name": "Allgäuer Überlandwerk GmbH",
+			"slug": "allgaeuer-ueberlandwerk-gmbh"
+		},
+		{
 			"name": "Allgäuer Werkstätten GmbH",
 			"slug": "allgaeuer-werkstaetten-gmbh"
 		},
@@ -2810,8 +2810,8 @@ var searchdb = {
 			"slug": "almirall-hermal-gmbh"
 		},
 		{
-			"name": "Alois Goldhofer Stiftung",
-			"slug": "alois-goldhofer-stiftung"
+			"name": "Alois Berger GmbH",
+			"slug": "alois-berger-gmbh"
 		},
 		{
 			"name": "Alpha Industrial Service GmbH",
@@ -3722,10 +3722,6 @@ var searchdb = {
 			"slug": "bayer"
 		},
 		{
-			"name": "Bayer AG",
-			"slug": "bayer-ag"
-		},
-		{
 			"name": "Bayerische BauAkademie",
 			"slug": "bayerische-bauakademie"
 		},
@@ -4014,8 +4010,8 @@ var searchdb = {
 			"slug": "bhs-corrugated-gmbh"
 		},
 		{
-			"name": "BHS Corrugated Maschinen- und Anlagenbau GmbH",
-			"slug": "bhs-corrugated-maschinen-und-anlagenbau-gmbh"
+			"name": "BHS Sonthofen GmbH",
+			"slug": "bhs-sonthofen-gmbh"
 		},
 		{
 			"name": "BHW Immobilien GmbH",
@@ -4482,6 +4478,10 @@ var searchdb = {
 			"slug": "buhck-umweltservices-gmbh"
 		},
 		{
+			"name": "Buhmann Systeme GmbH",
+			"slug": "buhmann-systeme-gmbh"
+		},
+		{
 			"name": "Bund der öffentlich bestellten Vermessungsingenieure e.V. (BDVI)",
 			"slug": "bund-der-oeffentlich-bestellten-vermessungsingenieure-ev-bdvi"
 		},
@@ -4784,6 +4784,14 @@ var searchdb = {
 		{
 			"name": "CEO Osypka AG",
 			"slug": "ceo-osypka-ag"
+		},
+		{
+			"name": "CeramTec GmbH",
+			"slug": "ceramtec-gmbh"
+		},
+		{
+			"name": "Ceratiziz Deutschland",
+			"slug": "ceratiziz-deutschland"
 		},
 		{
 			"name": "Cetoni GmbH",
@@ -5310,6 +5318,10 @@ var searchdb = {
 			"slug": "debis-immobilienmanagement"
 		},
 		{
+			"name": "DECKEL MAHO Pfronten GmbH",
+			"slug": "deckel-maho-pfronten-gmbh"
+		},
+		{
 			"name": "Deere & Company",
 			"slug": "deere-company"
 		},
@@ -5360,6 +5372,10 @@ var searchdb = {
 		{
 			"name": "Deloitte & Touche",
 			"slug": "deloitte-touche"
+		},
+		{
+			"name": "Delphi, Raithel + Co. GmbH",
+			"slug": "delphi-raithel-co-gmbh"
 		},
 		{
 			"name": "DENSO GmbH",
@@ -5752,10 +5768,6 @@ var searchdb = {
 		{
 			"name": "Dittmer, Jan Christian",
 			"slug": "dittmer-jan-christian"
-		},
-		{
-			"name": "Diverse",
-			"slug": "diverse"
 		},
 		{
 			"name": "DLA Piper",
@@ -6622,12 +6634,8 @@ var searchdb = {
 			"slug": "endo-klinik"
 		},
 		{
-			"name": "Endress + Hauser Conducta GmbH + Co. KG",
-			"slug": "endress-hauser-conducta-gmbh-co-kg"
-		},
-		{
-			"name": "Endress + Hauser Wetzer GmbH & Co. KG",
-			"slug": "endress-hauser-wetzer-gmbh-co-kg"
+			"name": "Endress + Hauser",
+			"slug": "endress-hauser"
 		},
 		{
 			"name": "ENEL",
@@ -6724,6 +6732,10 @@ var searchdb = {
 		{
 			"name": "E-Plus Mobilfunk GmbH & Co. KG",
 			"slug": "e-plus-mobilfunk-gmbh-co-kg"
+		},
+		{
+			"name": "ept",
+			"slug": "ept"
 		},
 		{
 			"name": "Equicon Software GmbH",
@@ -7070,6 +7082,10 @@ var searchdb = {
 			"slug": "executive-packaging-dr-ing-ulrich-reiners"
 		},
 		{
+			"name": "EXTENDO GmbH",
+			"slug": "extendo-gmbh"
+		},
+		{
 			"name": "eXXcellent solutions",
 			"slug": "exxcellent-solutions"
 		},
@@ -7368,6 +7384,10 @@ var searchdb = {
 		{
 			"name": "fbbS",
 			"slug": "fbbs"
+		},
+		{
+			"name": "Federnfabrik Dietz",
+			"slug": "federnfabrik-dietz"
 		},
 		{
 			"name": "Feinchemie Schwebda",
@@ -8542,6 +8562,10 @@ var searchdb = {
 			"slug": "gns-gesellschaft-fuer-nuklear-sicherheit-mbh"
 		},
 		{
+			"name": "Göbel GmbH",
+			"slug": "goebel-gmbh"
+		},
+		{
 			"name": "Goldbeck Ost GmbH",
 			"slug": "goldbeck-ost-gmbh"
 		},
@@ -8556,6 +8580,10 @@ var searchdb = {
 		{
 			"name": "Goldbeck-Stiftung",
 			"slug": "goldbeck-stiftung"
+		},
+		{
+			"name": "Goldhofer",
+			"slug": "goldhofer"
 		},
 		{
 			"name": "Goldmedia Political & Staff Advising GmbH",
@@ -8644,6 +8672,10 @@ var searchdb = {
 		{
 			"name": "Grimme Landmaschinenfabrik GmbH & Co. KG, Damme",
 			"slug": "grimme-landmaschinenfabrik-gmbh-co-kg-damme"
+		},
+		{
+			"name": "GROB-WERKE",
+			"slug": "grob-werke"
 		},
 		{
 			"name": "Groökraftwerk Mannheim AG",
@@ -8958,6 +8990,10 @@ var searchdb = {
 			"slug": "hans-hermann-voss-stiftung"
 		},
 		{
+			"name": "Hans-Hundegger Maschinenbau",
+			"slug": "hans-hundegger-maschinenbau"
+		},
+		{
 			"name": "Hans Hussmann GmbH",
 			"slug": "hans-hussmann-gmbh"
 		},
@@ -9072,6 +9108,10 @@ var searchdb = {
 		{
 			"name": "Haverich, Prof.Dr. Axel",
 			"slug": "haverich-profdr-axel"
+		},
+		{
+			"name": "HAWE Hydraulik",
+			"slug": "hawe-hydraulik"
 		},
 		{
 			"name": "Hays AG",
@@ -9506,8 +9546,16 @@ var searchdb = {
 			"slug": "hinrich-w-risken"
 		},
 		{
+			"name": "Hirsch KG",
+			"slug": "hirsch-kg"
+		},
+		{
 			"name": "Hirschmann Laborgeräte GmbH & Co.KG",
 			"slug": "hirschmann-laborgeraete-gmbh-cokg"
+		},
+		{
+			"name": "Hirschvogel Holding",
+			"slug": "hirschvogel-holding"
 		},
 		{
 			"name": "HIS GmbH",
@@ -10510,6 +10558,10 @@ var searchdb = {
 			"slug": "j-danielzik-baumanagement-gmbh"
 		},
 		{
+			"name": "J. Dobler GmbH",
+			"slug": "j-dobler-gmbh"
+		},
+		{
 			"name": "J. Hübner Fabrik elektrische Geräte GmbH",
 			"slug": "j-huebner-fabrik-elektrische-geraete-gmbh"
 		},
@@ -10528,6 +10580,10 @@ var searchdb = {
 		{
 			"name": "J.C.General Services CVBA Belgium",
 			"slug": "jcgeneral-services-cvba-belgium"
+		},
+		{
+			"name": "J.N. Eberle Federnfabrik",
+			"slug": "jn-eberle-federnfabrik"
 		},
 		{
 			"name": "J.P.Sauer & Sohn Maschinenbau GmbH, Kiel",
@@ -11046,6 +11102,10 @@ var searchdb = {
 			"slug": "kemmner-gesellschaft-fuer-unternehmensberatung-mbh"
 		},
 		{
+			"name": "Kennametal Sintec Keramik",
+			"slug": "kennametal-sintec-keramik"
+		},
+		{
 			"name": "Kerckhoff-Stiftung",
 			"slug": "kerckhoff-stiftung"
 		},
@@ -11180,6 +11240,10 @@ var searchdb = {
 		{
 			"name": "Klinik am See",
 			"slug": "klinik-am-see"
+		},
+		{
+			"name": "Kliniken Kempten-Oberallgäu",
+			"slug": "kliniken-kempten-oberallgaeu"
 		},
 		{
 			"name": "Kliniken Maria Hilf GmbH",
@@ -11532,6 +11596,10 @@ var searchdb = {
 		{
 			"name": "KSPG AG",
 			"slug": "kspg-ag"
+		},
+		{
+			"name": "KUKA AG",
+			"slug": "kuka-ag"
 		},
 		{
 			"name": "Kulturstiftung Essen",
@@ -11902,6 +11970,10 @@ var searchdb = {
 			"slug": "lidl-dienstleistung-gmbh-cokg"
 		},
 		{
+			"name": "Liebherr-Holding",
+			"slug": "liebherr-holding"
+		},
+		{
 			"name": "Liebherr-Verzahntechnik GmbH",
 			"slug": "liebherr-verzahntechnik-gmbh"
 		},
@@ -12270,6 +12342,10 @@ var searchdb = {
 			"slug": "magdeburg"
 		},
 		{
+			"name": "Magnet Schultz GmbH",
+			"slug": "magnet-schultz-gmbh"
+		},
+		{
 			"name": "Mahle GmbH",
 			"slug": "mahle-gmbh"
 		},
@@ -12316,6 +12392,10 @@ var searchdb = {
 		{
 			"name": "MAN SE",
 			"slug": "man-se"
+		},
+		{
+			"name": "Management Centrum Schloss Lautrach GmbH",
+			"slug": "management-centrum-schloss-lautrach-gmbh"
 		},
 		{
 			"name": "Management im Handel e.V., Bremen",
@@ -12894,36 +12974,8 @@ var searchdb = {
 			"slug": "mkm-mittelstands-kapital-management-gmbh"
 		},
 		{
-			"name": "MLP",
-			"slug": "mlp"
-		},
-		{
 			"name": "MLP AG",
 			"slug": "mlp-ag"
-		},
-		{
-			"name": "MLP AG Geschäftsstelle Leipzig VI",
-			"slug": "mlp-ag-geschaeftsstelle-leipzig-vi"
-		},
-		{
-			"name": "MLP AG, Geschäftsstelle Münster 5",
-			"slug": "mlp-ag-geschaeftsstelle-muenster-5"
-		},
-		{
-			"name": "MLP Finanzdienstleistungen",
-			"slug": "mlp-finanzdienstleistungen"
-		},
-		{
-			"name": "MLP Finanzdienstleistungen AG",
-			"slug": "mlp-finanzdienstleistungen-ag"
-		},
-		{
-			"name": "MLP Finanzdienstleistungen AG, Wiesloch",
-			"slug": "mlp-finanzdienstleistungen-ag-wiesloch"
-		},
-		{
-			"name": "MLP Finanzdienstleistungs-AG",
-			"slug": "mlp-finanzdienstleistungs-ag"
 		},
 		{
 			"name": "MLR",
@@ -12988,6 +13040,10 @@ var searchdb = {
 		{
 			"name": "Multi-Media Berufsbildende Schulen (MM-BbS)",
 			"slug": "multi-media-berufsbildende-schulen-mm-bbs"
+		},
+		{
+			"name": "Multivac Sepp Haggenmüller GmbH",
+			"slug": "multivac-sepp-haggenmueller-gmbh"
 		},
 		{
 			"name": "Mundipharma GmbH",
@@ -13626,8 +13682,16 @@ var searchdb = {
 			"slug": "ott-goebel-jugend-stiftung"
 		},
 		{
+			"name": "Otto Bihler Maschinenfabrik",
+			"slug": "otto-bihler-maschinenfabrik"
+		},
+		{
 			"name": "Otto Bock HealthCare GmbH",
 			"slug": "otto-bock-healthcare-gmbh"
+		},
+		{
+			"name": "Otto Christ AG",
+			"slug": "otto-christ-ag"
 		},
 		{
 			"name": "Otto Dörner Hamburg",
@@ -13914,6 +13978,10 @@ var searchdb = {
 			"slug": "pfeier-dieter"
 		},
 		{
+			"name": "Pfeifer Holding",
+			"slug": "pfeifer-holding"
+		},
+		{
 			"name": "Pfeiffer-Stiftung für Architektur",
 			"slug": "pfeiffer-stiftung-fuer-architektur"
 		},
@@ -14008,6 +14076,10 @@ var searchdb = {
 		{
 			"name": "Plansecur-Stiftung",
 			"slug": "plansecur-stiftung"
+		},
+		{
+			"name": "Plansee Group Service GmbH",
+			"slug": "plansee-group-service-gmbh"
 		},
 		{
 			"name": "plantIng GmbH",
@@ -15366,6 +15438,10 @@ var searchdb = {
 			"slug": "sasol-germany-gmbh"
 		},
 		{
+			"name": "Saxonia Systems AG",
+			"slug": "saxonia-systems-ag"
+		},
+		{
 			"name": "sbi schicho ingenieure GmbH & Co. KG",
 			"slug": "sbi-schicho-ingenieure-gmbh-co-kg"
 		},
@@ -15452,6 +15528,10 @@ var searchdb = {
 		{
 			"name": "Schellenberger Bürstenfabrik GmbH",
 			"slug": "schellenberger-buerstenfabrik-gmbh"
+		},
+		{
+			"name": "Scherdel Waldershof GmbH",
+			"slug": "scherdel-waldershof-gmbh"
 		},
 		{
 			"name": "Schlösser",
@@ -15606,8 +15686,8 @@ var searchdb = {
 			"slug": "schwenk"
 		},
 		{
-			"name": "Schwenninger BKK (bis 31.12.2011), danach von den Evangelischen Kliniken Gelsenkirchen",
-			"slug": "schwenninger-bkk-bis-31122011-danach-von-den-evangelischen-kliniken-gelsenkirchen"
+			"name": "Schwenninger BKK",
+			"slug": "schwenninger-bkk"
 		},
 		{
 			"name": "Schwering & Hasse Elektrodraht GmbH",
@@ -15966,8 +16046,16 @@ var searchdb = {
 			"slug": "solitem-group"
 		},
 		{
+			"name": "Soloplan GmbH",
+			"slug": "soloplan-gmbh"
+		},
+		{
 			"name": "Solvay GmbH",
 			"slug": "solvay-gmbh"
+		},
+		{
+			"name": "Sontheim Industrie Elektronik GmbH",
+			"slug": "sontheim-industrie-elektronik-gmbh"
 		},
 		{
 			"name": "Sophia Kindergeneeskunde",
@@ -16062,8 +16150,8 @@ var searchdb = {
 			"slug": "sparda-bank-muenster-eg"
 		},
 		{
-			"name": "Sparkasse",
-			"slug": "sparkasse"
+			"name": "Sparkasse Allgäu",
+			"slug": "sparkasse-allgaeu"
 		},
 		{
 			"name": "Sparkasse Aachen",
@@ -16102,12 +16190,8 @@ var searchdb = {
 			"slug": "sparkasse-bremen-bremen"
 		},
 		{
-			"name": "Sparkasse Bremerhaven Anstalt des öffentlichen Rechts, Bremerhaven",
-			"slug": "sparkasse-bremerhaven-anstalt-des-oeffentlichen-rechts-bremerhaven"
-		},
-		{
-			"name": "Sparkasse Bremerhaven, Anstalt des öffentlichen Rechts, Bremerhaven",
-			"slug": "sparkasse-bremerhaven-anstalt-des-oeffentlichen-rechts-bremerhaven"
+			"name": "Sparkasse Bremerhaven",
+			"slug": "sparkasse-bremerhaven"
 		},
 		{
 			"name": "Sparkasse Coburg � Lichtenfels",
@@ -16186,10 +16270,6 @@ var searchdb = {
 			"slug": "sparkasse-leerwittmund"
 		},
 		{
-			"name": "Sparkasse LeerWittmund",
-			"slug": "sparkasse-leerwittmund"
-		},
-		{
 			"name": "Sparkasse Leipzig",
 			"slug": "sparkasse-leipzig"
 		},
@@ -16236,10 +16316,6 @@ var searchdb = {
 		{
 			"name": "Sparkasse Oberpfalz Nord",
 			"slug": "sparkasse-oberpfalz-nord"
-		},
-		{
-			"name": "Sparkasse Oder- Spree",
-			"slug": "sparkasse-oder-spree"
 		},
 		{
 			"name": "Sparkasse Oder-Spree",
@@ -16722,6 +16798,10 @@ var searchdb = {
 			"slug": "steinbeis-transferzentrum-projektmanagement"
 		},
 		{
+			"name": "Steinel Aktivelemente",
+			"slug": "steinel-aktivelemente"
+		},
+		{
 			"name": "Stenger2 Architekten München",
 			"slug": "stenger2-architekten-muenchen"
 		},
@@ -17076,6 +17156,10 @@ var searchdb = {
 		{
 			"name": "Still GmbH",
 			"slug": "still-gmbh"
+		},
+		{
+			"name": "STM Stahl Vertriebs GmbH",
+			"slug": "stm-stahl-vertriebs-gmbh"
 		},
 		{
 			"name": "Stoll, Dr. Hartmut",
@@ -18506,6 +18590,10 @@ var searchdb = {
 			"slug": "volksbanken-im-kreis-siegen-wittgenstein"
 		},
 		{
+			"name": "Volksbanken im Allgäu",
+			"slug": "volksbanken-im-allgaeu"
+		},
+		{
 			"name": "Volkswagen",
 			"slug": "volkswagen"
 		},
@@ -18696,6 +18784,14 @@ var searchdb = {
 		{
 			"name": "Walter Hunger GmbH & Co.KG",
 			"slug": "walter-hunger-gmbh-cokg"
+		},
+		{
+			"name": "Walter Seitz GmbH",
+			"slug": "walter-seitz-gmbh"
+		},
+		{
+			"name": "Walther Metallwaren GmbH",
+			"slug": "walther-metallwaren-gmbh"
 		},
 		{
 			"name": "Walzen Irle GmbH",
@@ -19046,12 +19142,12 @@ var searchdb = {
 			"slug": "willenbrock-foerdertechnik-holding-gmbh-co-kg"
 		},
 		{
-			"name": "WILO AG",
-			"slug": "wilo-ag"
+			"name": "Willy-Scharnow-Stiftung für Touristik",
+			"slug": "willy-scharnow-stiftung-fuer-touristik"
 		},
 		{
-			"name": "WILO SE",
-			"slug": "wilo-se"
+			"name": "WILO",
+			"slug": "wilo"
 		},
 		{
 			"name": "WINCOR NIXDORF International GmbH",
@@ -19200,6 +19296,10 @@ var searchdb = {
 		{
 			"name": "Wittenberg-Zentrum für Globale Ethik e.V.",
 			"slug": "wittenberg-zentrum-fuer-globale-ethik-ev"
+		},
+		{
+			"name": "Wittenstein AG",
+			"slug": "wittenstein-ag"
 		},
 		{
 			"name": "Witzenmann GmbH",
@@ -19418,6 +19518,10 @@ var searchdb = {
 			"slug": "zeit-stiftung"
 		},
 		{
+			"name": "Zeller + Gmelin GmbH",
+			"slug": "zeller-gmelin-gmbh"
+		},
+		{
 			"name": "ZeMA/Land",
 			"slug": "zemaland"
 		},
@@ -19552,6 +19656,10 @@ var searchdb = {
 		{
 			"name": "Zweckverband Mittelhessische Wasserwerke",
 			"slug": "zweckverband-mittelhessische-wasserwerke"
+		},
+		{
+			"name": "Zwick GmbH",
+			"slug": "zwick-gmbh"
 		},
 		{
 			"name": "Zwickauer Energieversorgung",

@@ -102,6 +102,16 @@ function importFoerderungen(filename, hochschulBezeichner, foerdererBezeichner) 
 			foerderung.WertString = beautifyCurrency(Math.round(foerderung.Wert));
 		}
 
+		// Bei Stiftungsprofessuren-Daten den Wert als Zahl angeben.
+		if (filename == 'stiftungsprofessuren') {
+			if (foerderung['Fördersumme pro Jahr'])
+				foerderung['Fördersumme pro Jahr'] =
+					beautifyCurrency(Math.round(foerderung['Fördersumme pro Jahr'].toString().replace(/,/g , ".") * 1));
+			if (foerderung['Fördersumme insgesamt'])
+				foerderung['Fördersumme insgesamt'] =
+					beautifyCurrency(Math.round(foerderung['Fördersumme insgesamt'].toString().replace(/,/g , ".") * 1));
+		}
+
 		var hochschule = hochschulenTable[foerderung[hochschulBezeichner]];
 		hochschule[filename] = hochschule[filename] || [];
 		hochschule[filename].push( foerderung );
