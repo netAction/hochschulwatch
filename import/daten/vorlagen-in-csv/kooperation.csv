@@ -453,9 +453,9 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname
 1316;Universität Erlangen-Nürnberg;Brose Gruppe;;Hörsaalsponsoring - 1 Jahr bis 2014, Malerarbeiten, Infotafel;
 1317;Universität Erlangen-Nürnberg;Clear Group;;Hörsaalsponsoring - 3 Jahre bis 2015, Infotafel;
 1318;Universität Erlangen-Nürnberg;develop group;;Hörsaalsponsoring - 5 Jahre bis 2018, Erneuerung der Bestuhlung, farbliche Neugestaltung des Saals;
-1321;Universität München (ohne Klinikum);Bundesarbeitgeberverband Chemie;18000000;"An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht""";
-1321;Universität München (ohne Klinikum);Arbeitgeberverband der bayerischen Metallindustrie;18000000;"An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht""";
-1321;Universität München (ohne Klinikum);Arbeitgeberverband der baden-württembergischen Metallindustrie;18000000;"An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht""";
+1321;Universität München (ohne Klinikum);Bundesarbeitgeberverband Chemie;18000000;An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht;
+1321;Universität München (ohne Klinikum);Arbeitgeberverband der bayerischen Metallindustrie;18000000;An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht;
+1321;Universität München (ohne Klinikum);Arbeitgeberverband der baden-württembergischen Metallindustrie;18000000;An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht;
 1331;Universität Würzburg (ohne Klinikum);;;;
 1341;Universität Regensburg (ohne Klinikum);;;;
 1350;Universität Augsburg;;;;
