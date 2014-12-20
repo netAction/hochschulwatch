@@ -60,7 +60,15 @@
     "Uni":"FH Westliches Ruhrgebiet",
     "Name":"Burkhard Drescher",
     "Funktion":"stellvertretender Vorsitzender",
-    "Unternehmen":"InnovationCity Management GmbH; BDC Consulting GmbH & Co.KG",
+    "Unternehmen":"InnovationCity Management GmbH",
+    "Alternativname":""
+  },
+  {
+    "Bundesland":"Nordrhein-Westfalen",
+    "Uni":"FH Westliches Ruhrgebiet",
+    "Name":"Burkhard Drescher",
+    "Funktion":"stellvertretender Vorsitzender",
+    "Unternehmen":"BDC Consulting GmbH & Co.KG",
     "Alternativname":""
   },
   {
@@ -220,7 +228,7 @@
     "Uni":"Technische Universität Dortmund",
     "Name":"Reinhold Schulte",
     "Funktion":"",
-    "Unternehmen":"SIGNAL Versicherungen; SIGNAL IDUNA Gruppe",
+    "Unternehmen":"SIGNAL IDUNA Gruppe",
     "Alternativname":""
   },
   {
@@ -660,7 +668,15 @@
     "Uni":"Universität Leipzig (ohne Klinikum)",
     "Name":"Knut Löschke",
     "Funktion":"",
-    "Unternehmen":"PC-Ware Information Technologies GmbH/AG; Comparex",
+    "Unternehmen":"PC-Ware Information Technologies GmbH/AG",
+    "Alternativname":""
+  },
+  {
+    "Bundesland":"Sachsen",
+    "Uni":"Universität Leipzig (ohne Klinikum)",
+    "Name":"Knut Löschke",
+    "Funktion":"",
+    "Unternehmen":"Comparex",
     "Alternativname":""
   },
   {
@@ -2292,7 +2308,15 @@
     "Uni":"TU Darmstadt",
     "Name":"Herr Professor Dr. Georg Winckler",
     "Funktion":"",
-    "Unternehmen":"Erste Group Bank; UNIQA Versicherungen AG",
+    "Unternehmen":"Erste Group Bank",
+    "Alternativname":""
+  },
+  {
+    "Bundesland":"Hessen",
+    "Uni":"TU Darmstadt",
+    "Name":"Herr Professor Dr. Georg Winckler",
+    "Funktion":"",
+    "Unternehmen":"UNIQA Versicherungen AG",
     "Alternativname":""
   },
   {
