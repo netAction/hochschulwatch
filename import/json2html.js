@@ -169,27 +169,27 @@ fs.writeFileSync('../kontakt.html', ms.render(
 
 fs.writeFileSync('../themen/forschungskooperationen.html', ms.render(
 	templateHeader+ fs.readFileSync('templates/forschungskooperationen.html').toString() + templateFooter,
-	{srcpath: '../'}
+	{srcpath: '../', activeThemen: true }
 ));
 
 fs.writeFileSync('../themen/hochschulraete.html', ms.render(
 	templateHeader+ fs.readFileSync('templates/hochschulraete.html').toString() + templateFooter,
-	{srcpath: '../'}
+	{srcpath: '../', activeThemen: true }
 ));
 
 fs.writeFileSync('../themen/sponsoring.html', ms.render(
 	templateHeader+ fs.readFileSync('templates/sponsoring.html').toString() + templateFooter,
-	{srcpath: '../'}
+	{srcpath: '../', activeThemen: true }
 ));
 
 fs.writeFileSync('../themen/stiftungsprofessuren.html', ms.render(
 	templateHeader+ fs.readFileSync('templates/stiftungsprofessuren.html').toString() + templateFooter,
-	{srcpath: '../'}
+	{srcpath: '../', activeThemen: true }
 ));
 
 fs.writeFileSync('../themen/stipendien.html', ms.render(
 	templateHeader+ fs.readFileSync('templates/stipendien.html').toString() + templateFooter,
-	{srcpath: '../'}
+	{srcpath: '../', activeThemen: true }
 ));
 
 // #################### Index für Suchfunktion erstellen
@@ -304,8 +304,11 @@ for(var name in hochschulenTable ) {
 	var data = hochschulenTable[name];
 	data.srcpath = '../';
 	if (data['wirtschaft-2012']) {
-		data.wirtschaftPercent = data['wirtschaft-2012'] * 100 / data['absolut-2012'];
+		data.wirtschaftPercent = Math.round(data['wirtschaft-2012'] * 100 / data['absolut-2012']);
+	} else {
+		data.wirtschaftPercent = 0;
 	}
+
 	data.slugify = function(){ return slugify(this.toString()); };
 	data.encodeURIComponent = function(){ return encodeURIComponent(this.toString()); };
 

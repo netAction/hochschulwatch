@@ -138,4 +138,22 @@ $(function() {
 		} 
 	});
 
+
+
+	$('.piechart').each( function() {
+		// https://github.com/lugolabs/circles
+		var myCircle = Circles.create({
+			id:           $(this).attr('id'),
+			radius:       60,
+			value:        $(this).attr('data-wirtschaftpercent'),
+			text:         function(value){return value + '%';},
+			colors:       ['#AAD8E7', '#008CBA'],
+			duration:       400,
+			wrpClass:     'circles-wrp',
+			textClass:      'circles-text',
+			styleWrapper: true,
+			styleText:    true
+		});
+	});
+
 });
