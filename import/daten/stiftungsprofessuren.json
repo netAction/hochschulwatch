@@ -25,7 +25,7 @@
     "Land":"Bremen",
     "Hochschule":"Hochschule Bremen",
     "Stiftungsprofessur":"Stiftungsprofessur zum Masterstudiengang Zukunftsfähige Energiesysteme",
-    "Stifter":"EWE AG",
+    "Stifter":"EWE",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"",
@@ -1524,7 +1524,7 @@
     "Stifter":"Aesculap AG",
     "Fördersumme pro Jahr":"90000",
     "Fördersumme insgesamt":450000,
-    "Laufzeit":"5 Jahre ab Einstellung der Professorin/des Professors; Berufungsverfahren läuft noch.",
+    "Laufzeit":"5 Jahre ab Einstellung der Professorin/des Professors, Berufungsverfahren läuft noch.",
     "Quelle":"",
     "Alternativname":""
   },
@@ -1579,7 +1579,7 @@
     "Stifter":"Werner Möbius-Stiftung",
     "Fördersumme pro Jahr":"100000",
     "Fördersumme insgesamt":500000,
-    "Laufzeit":"5 Jahre ab Einstellung der Professorin/des Professors; Berufungsverfahren läuft noch.",
+    "Laufzeit":"5 Jahre ab Einstellung der Professorin/des Professors, Berufungsverfahren läuft noch.",
     "Quelle":"",
     "Alternativname":""
   },
@@ -2686,7 +2686,7 @@
   {
     "Land":"Baden-Württemberg",
     "Hochschule":"FH Aalen",
-    "Stiftungsprofessur":"Studienschwerpunkt Automotive ; Lehrgebiet Konstruktion, Maschinenbau und Getriebetechnik",
+    "Stiftungsprofessur":"Studienschwerpunkt Automotive , Lehrgebiet Konstruktion, Maschinenbau und Getriebetechnik",
     "Stifter":"Firma Voith Turbo GmbH",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":770000,
@@ -3258,7 +3258,7 @@
   {
     "Land":"Baden-Württemberg",
     "Hochschule":"Hochschule Offenburg",
-    "Stiftungsprofessur":"Transportlogistik, insbesondere nationaler und internationaler Logistik-Dienstleistungsunternehmen; innerbetriebliche Logistik und Supply-Chain-Management von Unternehmen der Industrie und des Handels",
+    "Stiftungsprofessur":"Transportlogistik, insbesondere nationaler und internationaler Logistik-Dienstleistungsunternehmen, innerbetriebliche Logistik und Supply-Chain-Management von Unternehmen der Industrie und des Handels",
     "Stifter":"Georg und Maria Dietrich Logistik-Stiftung Offenburg",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":500000,
@@ -5745,7 +5745,7 @@
     "Land":"Niedersachsen",
     "Hochschule":"TU Clausthal",
     "Stiftungsprofessur":"Geothermale Energiesysteme",
-    "Stifter":"EWE AG",
+    "Stifter":"EWE",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"1.10.2011-30.09.2016",
@@ -5954,7 +5954,7 @@
     "Land":"Niedersachsen",
     "Hochschule":"Universität Oldenburg",
     "Stiftungsprofessur":"Windenergiesysteme",
-    "Stifter":"EWE AG",
+    "Stifter":"EWE",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
     "Laufzeit":"01.04.2010-31-03-2020",
@@ -6738,7 +6738,7 @@
     "Stifter":"Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":300000,
-    "Laufzeit":"6 Jahre; Februar 2014",
+    "Laufzeit":"6 Jahre, Februar 2014",
     "Quelle":"",
     "Alternativname":""
   },
@@ -6749,7 +6749,7 @@
     "Stifter":"Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":600000,
-    "Laufzeit":"6 Jahre; wird z.Zt. ausgeschrieben",
+    "Laufzeit":"6 Jahre, wird z.Zt. ausgeschrieben",
     "Quelle":"",
     "Alternativname":""
   },
@@ -8043,7 +8043,7 @@
   {
     "Land":"Bayern",
     "Hochschule":"Universität Bayreuth",
-    "Stiftungsprofessur":"Nonlinear dynamics in high temperature magnetized plasmas; Physics understanding through computing",
+    "Stiftungsprofessur":"Nonlinear dynamics in high temperature magnetized plasmas, Physics understanding through computing",
     "Stifter":"Volkswagen",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":943700,
@@ -8234,7 +8234,7 @@
     "Stifter":"Theo und Friedl Schöller-Stiftung",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
-    "Laufzeit":"5 Jahre ab Besetzung; seit 01.04.2009 bis 31.03.2014",
+    "Laufzeit":"5 Jahre ab Besetzung, seit 01.04.2009 bis 31.03.2014",
     "Quelle":"",
     "Alternativname":""
   },
@@ -8322,7 +8322,7 @@
     "Stifter":"Fraunhofer-Gesellschaft",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
-    "Laufzeit":"unbefristet; Kündigungsfrist 1 Jahr zum Ende des Kalenderjahres",
+    "Laufzeit":"unbefristet, Kündigungsfrist 1 Jahr zum Ende des Kalenderjahres",
     "Quelle":"",
     "Alternativname":""
   },
@@ -8549,7 +8549,7 @@
   {
     "Land":"Bayern",
     "Hochschule":"Universität Erlangen-Nürnberg (Klinikum)",
-    "Stiftungsprofessur":"Juniorprofessur für chronisch - entzündliche Darmerkrankungen; Medizinischen Klinik 1 - Gastroenterologie, Pneumologie und Endokrinologie",
+    "Stiftungsprofessur":"Juniorprofessur für chronisch - entzündliche Darmerkrankungen, Medizinischen Klinik 1 - Gastroenterologie, Pneumologie und Endokrinologie",
     "Stifter":"AbbVie (AbbVie Deutschland GmbH & Co. KG)",
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":null,
