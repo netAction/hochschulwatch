@@ -7074,12 +7074,8 @@ var searchdb = {
 			"slug": "ew-group-gmbh-visbek"
 		},
 		{
-			"name": "EWE AG",
-			"slug": "ewe-ag"
-		},
-		{
-			"name": "EWE VERTRIEB GmbH",
-			"slug": "ewe-vertrieb-gmbh"
+			"name": "EWE",
+			"slug": "ewe"
 		},
 		{
 			"name": "EWR",
