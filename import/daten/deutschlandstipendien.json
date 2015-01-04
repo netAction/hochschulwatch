@@ -140,7 +140,7 @@
   {
     "uID":"5030",
     "Name":"FH Lübeck",
-    "Firma":"IHK LLübeck",
+    "Firma":"IHK Lübeck",
     "Alternativname":""
   },
   {
@@ -230,8 +230,8 @@
   {
     "uID":"5090",
     "Name":"FH Westküste, Heide",
-    "Firma":"TOTAL Bitumen Deutschland GmbH",
-    "Alternativname":""
+    "Firma":"TOTAL",
+    "Alternativname":"TOTAL Bitumen Deutschland GmbH"
   },
   {
     "uID":"5060",
@@ -434,7 +434,7 @@
   {
     "uID":"1039",
     "Name":"Universität Göttingen (Klinikum)",
-    "Firma":"Evangelisch-reformierte Kirche",
+    "Firma":"Evangelische Kirche Deutschland (EKD)",
     "Alternativname":""
   },
   {
@@ -464,8 +464,8 @@
   {
     "uID":"1039",
     "Name":"Universität Göttingen (Klinikum)",
-    "Firma":"Heraeus Kulzer GmbH",
-    "Alternativname":""
+    "Firma":"Heraeus",
+    "Alternativname":"Heraeus Kulzer GmbH"
   },
   {
     "uID":"1039",
@@ -476,8 +476,8 @@
   {
     "uID":"1039",
     "Name":"Universität Göttingen (Klinikum)",
-    "Firma":"KWS Saat AG",
-    "Alternativname":""
+    "Firma":"KWS",
+    "Alternativname":"KWS Saat AG"
   },
   {
     "uID":"1039",
@@ -524,7 +524,7 @@
   {
     "uID":"1039",
     "Name":"Universität Göttingen (Klinikum)",
-    "Firma":"Sartorius AG",
+    "Firma":"Sartorius",
     "Alternativname":""
   },
   {
@@ -560,7 +560,7 @@
   {
     "uID":"1039",
     "Name":"Universität Göttingen (Klinikum)",
-    "Firma":"Stadtwerke Göttingen AG",
+    "Firma":"Stadtwerke Göttingen",
     "Alternativname":""
   },
   {
@@ -602,8 +602,8 @@
   {
     "uID":"1739",
     "Name":"Medizinische Hochschule Hannover",
-    "Firma":"Heraeus Kulzer GmbH",
-    "Alternativname":""
+    "Firma":"Heraeus",
+    "Alternativname":"Heraeus Kulzer GmbH"
   },
   {
     "uID":"1739",
@@ -740,7 +740,7 @@
   {
     "uID":"520",
     "Name":"Universität Oldenburg",
-    "Firma":"J. Bünting-Stiftung",
+    "Firma":"Johann Bünting-Stiftung",
     "Alternativname":""
   },
   {
@@ -752,7 +752,7 @@
   {
     "uID":"520",
     "Name":"Universität Oldenburg",
-    "Firma":"Klinikum Oldenburg gGmbH",
+    "Firma":"Klinikum Oldenburg",
     "Alternativname":""
   },
   {
@@ -824,7 +824,7 @@
   {
     "uID":"520",
     "Name":"Universität Oldenburg",
-    "Firma":"Pius Hospital",
+    "Firma":"Pius-Hospital Oldenburg",
     "Alternativname":""
   },
   {
@@ -896,7 +896,7 @@
   {
     "uID":"520",
     "Name":"Universität Oldenburg",
-    "Firma":"Dr. Beate Schuler",
+    "Firma":"Beate Schuler",
     "Alternativname":""
   },
   {
@@ -914,7 +914,7 @@
   {
     "uID":"520",
     "Name":"Universität Oldenburg",
-    "Firma":"Stiftung der Metallindustrie im Nord-Westen",
+    "Firma":"Stiftung der Metallindustrie Nord-Westen",
     "Alternativname":""
   },
   {
@@ -932,7 +932,7 @@
   {
     "uID":"520",
     "Name":"Universität Oldenburg",
-    "Firma":"VGH Landschaftliche Brandkasse",
+    "Firma":"Landschaftliche Brandkasse, Hannover",
     "Alternativname":""
   },
   {
@@ -980,7 +980,7 @@
   {
     "uID":"960",
     "Name":"Universität Vechta",
-    "Firma":"Landesparkasse Oldenburg",
+    "Firma":"Landessparkasse zu Oldenburg",
     "Alternativname":""
   },
   {
@@ -1027,7 +1027,7 @@
   },
   {
     "uID":"990",
-    "Name":"Universität Lüneburg",
+    "Name":"Leuphana Universität Lüneburg",
     "Firma":"Abraham Schinken GmbH",
     "Alternativname":""
   },
@@ -1196,8 +1196,8 @@
   {
     "uID":"1440",
     "Name":"TU Clausthal",
-    "Firma":"Sartorius Stedim Biotech GmbH",
-    "Alternativname":""
+    "Firma":"Sartorius",
+    "Alternativname":"Sartorius Stedim Biotech GmbH"
   },
   {
     "uID":"1450",
@@ -1250,7 +1250,7 @@
   {
     "uID":"1450",
     "Name":"Universität Hannover",
-    "Firma":"Dirk Rossmann GmbH",
+    "Firma":"Rossmann GmbH",
     "Alternativname":""
   },
   {
@@ -1340,13 +1340,13 @@
   {
     "uID":"1450",
     "Name":"Universität Hannover",
-    "Firma":"Komatsu Hanomag GmbH",
-    "Alternativname":""
+    "Firma":"Komatsu",
+    "Alternativname":"Komatsu Hanomag GmbH"
   },
   {
     "uID":"1450",
     "Name":"Universität Hannover",
-    "Firma":"Herr Prof. Dr. phil. Alexander Kosenina",
+    "Firma":"Kosenina, Alexander",
     "Alternativname":""
   },
   {
@@ -1370,7 +1370,7 @@
   {
     "uID":"1450",
     "Name":"Universität Hannover",
-    "Firma":"Madsack-Media-Store GmbH & Co. KG",
+    "Firma":"Madsack GmbH & Co.KG",
     "Alternativname":""
   },
   {
@@ -1430,8 +1430,8 @@
   {
     "uID":"1450",
     "Name":"Universität Hannover",
-    "Firma":"Sartorius Corporate Administration GmbH",
-    "Alternativname":""
+    "Firma":"Sartorius",
+    "Alternativname":"Sartorius Corporate Administration GmbH"
   },
   {
     "uID":"1450",
@@ -1484,7 +1484,7 @@
   {
     "uID":"1450",
     "Name":"Universität Hannover",
-    "Firma":"Unternehmer Verbände Niedersachsen e. V.",
+    "Firma":"Unternehmerverbände Niedersachsen e.V.",
     "Alternativname":""
   },
   {
@@ -1760,7 +1760,7 @@
   {
     "uID":"4980",
     "Name":"Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH)",
-    "Firma":"Nietiedt Verwaltungs GmbH",
+    "Firma":"Nietiedt-Gruppe",
     "Alternativname":""
   },
   {
@@ -1934,8 +1934,8 @@
   {
     "uID":"5310",
     "Name":"Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
-    "Firma":"Bertrandt Ingenieurbüro GmbH",
-    "Alternativname":""
+    "Firma":"Bertrandt",
+    "Alternativname":"Bertrandt Ingenieurbüro GmbH"
   },
   {
     "uID":"5310",
@@ -1976,7 +1976,7 @@
   {
     "uID":"5310",
     "Name":"Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
-    "Firma":"Fachhochschulstiftung der Sparkasse Gifhorn-Wolfsburg",
+    "Firma":"Stiftung der Sparkasse Gifhorn-Wolfsburg",
     "Alternativname":""
   },
   {
@@ -2030,8 +2030,8 @@
   {
     "uID":"5310",
     "Name":"Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
-    "Firma":"Sartorius Corporate Administrative GmbH",
-    "Alternativname":""
+    "Firma":"Sartorius",
+    "Alternativname":"Sartorius Corporate Administrative GmbH"
   },
   {
     "uID":"5310",
@@ -2042,13 +2042,13 @@
   {
     "uID":"5310",
     "Name":"Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
-    "Firma":"Sparda Bank Hannover-Stiftung",
+    "Firma":"Sparda Bank, Hannover",
     "Alternativname":""
   },
   {
     "uID":"5310",
     "Name":"Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
-    "Firma":"Sport Thieme GmbH",
+    "Firma":"Sport-Thieme GmbH",
     "Alternativname":""
   },
   {
@@ -2126,7 +2126,7 @@
   {
     "uID":"5310",
     "Name":"Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
-    "Firma":"Wolfenbüttler Baugesellschaft mbH",
+    "Firma":"Wolfenbütteler Baugesellschaft mbH",
     "Alternativname":""
   },
   {
@@ -2144,7 +2144,7 @@
   {
     "uID":"5380",
     "Name":"Hochschule Hildesheim/Holzminden/Göttingen (FH)",
-    "Firma":"ALPHA Industrial Service GmbH und ALPHA Vermögensverwaltung GmbH",
+    "Firma":"Alpha Industrial Service GmbH",
     "Alternativname":""
   },
   {
@@ -2330,7 +2330,7 @@
   {
     "uID":"5380",
     "Name":"Hochschule Hildesheim/Holzminden/Göttingen (FH)",
-    "Firma":"Sartorius Konzern",
+    "Firma":"Sartorius",
     "Alternativname":""
   },
   {
@@ -2348,7 +2348,7 @@
   {
     "uID":"5380",
     "Name":"Hochschule Hildesheim/Holzminden/Göttingen (FH)",
-    "Firma":"Stadtwerke Göttingen AG",
+    "Firma":"Stadtwerke Göttingen",
     "Alternativname":""
   },
   {
@@ -2672,7 +2672,7 @@
   {
     "uID":"5500",
     "Name":"Hochschule Osnabrück (FH)",
-    "Firma":"VGH - Landschaftliche Brandkasse Hannover",
+    "Firma":"Landschaftliche Brandkasse, Hannover",
     "Alternativname":""
   },
   {
@@ -2780,7 +2780,7 @@
   {
     "uID":"1050",
     "Name":"Universität Bremen",
-    "Firma":"Airbus Deutschland GmbH",
+    "Firma":"Airbus Group",
     "Alternativname":""
   },
   {
@@ -3368,7 +3368,7 @@
   {
     "uID":"1050",
     "Name":"Universität Bremen",
-    "Firma":"Henry Lamotte Oils GmbH",
+    "Firma":"Henry Lamotte Food GmbH ",
     "Alternativname":""
   },
   {
@@ -4382,7 +4382,7 @@
   {
     "uID":"5680",
     "Name":"Hochschule Bremen",
-    "Firma":"Ipsen Logistics GmbH, Bremen",
+    "Firma":"IPSEN LOGISTICS GmbH",
     "Alternativname":""
   },
   {
@@ -4466,7 +4466,7 @@
   {
     "uID":"5680",
     "Name":"Hochschule Bremen",
-    "Firma":"SV Werder Bremen Stiftung, Bremen",
+    "Firma":"SV Werder Bremen GmbH & Co. KG, Bremen",
     "Alternativname":""
   },
   {
@@ -4958,7 +4958,7 @@
   {
     "uID":"121",
     "Name":"Universität Paderborn",
-    "Firma":"Baxter GmbH",
+    "Firma":"Baxter",
     "Alternativname":""
   },
   {
@@ -4976,7 +4976,7 @@
   {
     "uID":"121",
     "Name":"Universität Paderborn",
-    "Firma":"Benteler AG, Paderborn",
+    "Firma":"Benteler",
     "Alternativname":""
   },
   {
@@ -5198,7 +5198,7 @@
   {
     "uID":"121",
     "Name":"Universität Paderborn",
-    "Firma":"GOLDBECK Stiftung, Bielefeld",
+    "Firma":"Goldbeck",
     "Alternativname":""
   },
   {
@@ -5234,7 +5234,7 @@
   {
     "uID":"121",
     "Name":"Universität Paderborn",
-    "Firma":"Hettich Holding GmbH & Co. oHG, Kirchlengern",
+    "Firma":"Hettich Holding GmbH & Co. oHG",
     "Alternativname":""
   },
   {
@@ -5432,7 +5432,7 @@
   {
     "uID":"121",
     "Name":"Universität Paderborn",
-    "Firma":"PHOENIX CONTACT GmbH & Co. KG",
+    "Firma":"Phoenix Contact",
     "Alternativname":""
   },
   {
@@ -5666,7 +5666,7 @@
   {
     "uID":"121",
     "Name":"Universität Paderborn",
-    "Firma":"Yamaha Music Europe GmbH, Hamburg",
+    "Firma":"Yamaha",
     "Alternativname":""
   },
   {
@@ -5780,7 +5780,7 @@
   {
     "uID":"130",
     "Name":"Universität Siegen",
-    "Firma":"Muhr & Bender KG",
+    "Firma":"Muhr und Bender KG",
     "Alternativname":""
   },
   {
@@ -6170,7 +6170,7 @@
   {
     "uID":"1081",
     "Name":"Ruhr-Universität Bochum (ohne Klinikum)",
-    "Firma":"Deutsche Bundesbank, Hauptverwaltung in Nordrhein-Westfalen",
+    "Firma":"Deutsche Bundesbank",
     "Alternativname":""
   },
   {
@@ -6230,7 +6230,7 @@
   {
     "uID":"1081",
     "Name":"Ruhr-Universität Bochum (ohne Klinikum)",
-    "Firma":"Gebr. Eickhoff Maschinenfabrik und Eisengieöerei GmbH",
+    "Firma":"Gebr. Eickhoff Maschinenfabrik und Eisengießerei GmbH",
     "Alternativname":""
   },
   {
@@ -6278,8 +6278,8 @@
   {
     "uID":"1081",
     "Name":"Ruhr-Universität Bochum (ohne Klinikum)",
-    "Firma":"Hochtief Solutions AG",
-    "Alternativname":""
+    "Firma":"Hochtief",
+    "Alternativname":"Hochtief Solutions AG"
   },
   {
     "uID":"1081",
@@ -6530,7 +6530,7 @@
   {
     "uID":"1081",
     "Name":"Ruhr-Universität Bochum (ohne Klinikum)",
-    "Firma":"Stadtwerke Bochum Holding GmbH",
+    "Firma":"Stadtwerke Bochum",
     "Alternativname":""
   },
   {
@@ -6578,8 +6578,8 @@
   {
     "uID":"1081",
     "Name":"Ruhr-Universität Bochum (ohne Klinikum)",
-    "Firma":"Vorwerk Elektrowerke GmbH & Co. KG",
-    "Alternativname":""
+    "Firma":"Vorwerk",
+    "Alternativname":"Vorwerk Elektrowerke GmbH & Co. KG"
   },
   {
     "uID":"1081",
@@ -6734,7 +6734,7 @@
   {
     "uID":"1111",
     "Name":"Universität zu Köln (ohne Klinikum)",
-    "Firma":"TüV Rheinland Holding AG",
+    "Firma":"TüV Rheinland",
     "Alternativname":""
   },
   {
@@ -6908,8 +6908,8 @@
   {
     "uID":"1111",
     "Name":"Universität zu Köln (ohne Klinikum)",
-    "Firma":"Meda Manufacturing GmbH",
-    "Alternativname":""
+    "Firma":"Meda",
+    "Alternativname":"Meda Manufacturing GmbH"
   },
   {
     "uID":"1111",
@@ -6950,8 +6950,8 @@
   {
     "uID":"1111",
     "Name":"Universität zu Köln (ohne Klinikum)",
-    "Firma":"REWE Zentralfinanz eG",
-    "Alternativname":""
+    "Firma":"REWE Group",
+    "Alternativname":"REWE Zentralfinanz eG"
   },
   {
     "uID":"1111",
@@ -7010,8 +7010,8 @@
   {
     "uID":"1121",
     "Name":"WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
-    "Firma":"BASF Coatings GmbH",
-    "Alternativname":""
+    "Firma":"BASF",
+    "Alternativname":"BASF Coatings GmbH"
   },
   {
     "uID":"1121",
@@ -7034,8 +7034,8 @@
   {
     "uID":"1121",
     "Name":"WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
-    "Firma":"buw Holding GmbH",
-    "Alternativname":""
+    "Firma":"buw",
+    "Alternativname":"buw Holding GmbH"
   },
   {
     "uID":"1121",
@@ -7220,7 +7220,7 @@
   {
     "uID":"1121",
     "Name":"WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
-    "Firma":"Muhr & Bender KG",
+    "Firma":"Muhr und Bender KG",
     "Alternativname":""
   },
   {
@@ -7622,8 +7622,8 @@
   {
     "uID":"6410",
     "Name":"Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH)",
-    "Firma":"Komatsu Mining Germany",
-    "Alternativname":""
+    "Firma":"Komatsu",
+    "Alternativname":"Komatsu Mining Germany"
   },
   {
     "uID":"6410",
@@ -8000,7 +8000,7 @@
   {
     "uID":"5700",
     "Name":"Westfälische Hochschule Gelsenkirchen Bocholt Recklinghausen",
-    "Firma":"Fördergesellschaft Westmünsterland, Bocholt",
+    "Firma":"Fördergesellschaft Westmünsterland der Fachhochschule in Bocholt/Ahaus",
     "Alternativname":""
   },
   {
@@ -8282,7 +8282,7 @@
   {
     "uID":"5710",
     "Name":"FH Aachen",
-    "Firma":"Industrie- und Handelskammer (IHK) Aachen",
+    "Firma":"IHK Aachen",
     "Alternativname":""
   },
   {
@@ -8558,7 +8558,13 @@
   {
     "uID":"5770",
     "Name":"FH Dortmund",
-    "Firma":"Rudolf-Chaudoire-StiftungSparkasse Dortmund   ",
+    "Firma":"Rudolf-Chaudoire-Stiftung",
+    "Alternativname":""
+  },
+  {
+    "uID":"5770",
+    "Name":"FH Dortmund",
+    "Firma":"Sparkasse Dortmund",
     "Alternativname":""
   },
   {
@@ -8612,8 +8618,8 @@
   {
     "uID":"5830",
     "Name":"FH Köln",
-    "Firma":"Bertrandt Services GmbH",
-    "Alternativname":""
+    "Firma":"Bertrandt",
+    "Alternativname":"Bertrandt Services GmbH"
   },
   {
     "uID":"5830",
@@ -8738,13 +8744,13 @@
   {
     "uID":"5830",
     "Name":"FH Köln",
-    "Firma":"Institut der deutschen Wirtschaft Köln Akademie GmbH",
+    "Firma":"Institut der deutschen Wirtschaft Köln",
     "Alternativname":""
   },
   {
     "uID":"5830",
     "Name":"FH Köln",
-    "Firma":"Institut der deutschen Wirtschaft Köln e.V.",
+    "Firma":"Institut der deutschen Wirtschaft Köln",
     "Alternativname":""
   },
   {
@@ -8846,7 +8852,7 @@
   {
     "uID":"5830",
     "Name":"FH Köln",
-    "Firma":"TüV Rheinland Group",
+    "Firma":"TüV Rheinland",
     "Alternativname":""
   },
   {
@@ -9080,7 +9086,7 @@
   {
     "uID":"5840",
     "Name":"Hochschule Niederrhein",
-    "Firma":"Schorch Elektrische Maschinen und Antriebe GmbH",
+    "Firma":"Schorch GmbH",
     "Alternativname":""
   },
   {
@@ -9146,7 +9152,7 @@
   {
     "uID":"5840",
     "Name":"Hochschule Niederrhein",
-    "Firma":"TüV Rheinland AG",
+    "Firma":"TüV Rheinland",
     "Alternativname":""
   },
   {
@@ -9164,8 +9170,8 @@
   {
     "uID":"5840",
     "Name":"Hochschule Niederrhein",
-    "Firma":"Voith Paper GmbH & Co. KG",
-    "Alternativname":""
+    "Firma":"Voith",
+    "Alternativname":"Voith Paper GmbH & Co. KG"
   },
   {
     "uID":"5840",
@@ -9542,14 +9548,14 @@
   {
     "uID":"1161",
     "Name":"Universität Frankfurt a.M. (ohne Klinikum)",
-    "Firma":"Heraeus Holding GmbH",
-    "Alternativname":""
+    "Firma":"Heraeus",
+    "Alternativname":"Heraeus Holding GmbH"
   },
   {
     "uID":"1161",
     "Name":"Universität Frankfurt a.M. (ohne Klinikum)",
-    "Firma":"Heraeus Infosystems GmbH",
-    "Alternativname":""
+    "Firma":"Heraeus",
+    "Alternativname":"Heraeus Infosystems GmbH"
   },
   {
     "uID":"1161",
@@ -9950,8 +9956,8 @@
   {
     "uID":"6240",
     "Name":"Hochschule RheinMain (FH)",
-    "Firma":"Bertrandt Ingenieurbüro GmbH",
-    "Alternativname":""
+    "Firma":"Bertrandt",
+    "Alternativname":"Bertrandt Ingenieurbüro GmbH"
   },
   {
     "uID":"6240",
@@ -9998,7 +10004,7 @@
   {
     "uID":"6240",
     "Name":"Hochschule RheinMain (FH)",
-    "Firma":"VivaKi Service GmbH",
+    "Firma":"VivaKi",
     "Alternativname":""
   },
   {
@@ -10250,7 +10256,7 @@
   {
     "uID":"1210",
     "Name":"TU Kaiserslautern",
-    "Firma":"Dcon",
+    "Firma":"DCON Software & Service AG",
     "Alternativname":""
   },
   {
@@ -10292,8 +10298,8 @@
   {
     "uID":"1210",
     "Name":"TU Kaiserslautern",
-    "Firma":"Dow Corning",
-    "Alternativname":""
+    "Firma":"Dow Chemical",
+    "Alternativname":"Dow Corning"
   },
   {
     "uID":"1210",
@@ -10838,8 +10844,8 @@
   {
     "uID":"1580",
     "Name":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
-    "Firma":"BBBank Stiftung",
-    "Alternativname":""
+    "Firma":"BBBank",
+    "Alternativname":"BBBank Stiftung"
   },
   {
     "uID":"1580",
@@ -10880,19 +10886,19 @@
   {
     "uID":"1590",
     "Name":"Universität Stuttgart",
-    "Firma":"Airbus Deutschland GmbH",
-    "Alternativname":"Airbus Defence and Space GmbH"
+    "Firma":"Airbus Group",
+    "Alternativname":"Airbus Deutschland GmbH"
   },
   {
     "uID":"1590",
     "Name":"Universität Stuttgart",
-    "Firma":"Airbus Deutschland GmbH",
-    "Alternativname":"Airbus Helicopters Deutschland GmbH"
+    "Firma":"Airbus Group",
+    "Alternativname":"Airbus Deutschland GmbH"
   },
   {
     "uID":"1590",
     "Name":"Universität Stuttgart",
-    "Firma":"ANDREAS STIHL AG & Co. KG",
+    "Firma":"Andreas Stihl",
     "Alternativname":""
   },
   {
@@ -11150,7 +11156,7 @@
   {
     "uID":"1590",
     "Name":"Universität Stuttgart",
-    "Firma":"ZF Lenksysteme GmbH",
+    "Firma":"ZF Lenksysteme",
     "Alternativname":""
   },
   {
@@ -11174,8 +11180,8 @@
   {
     "uID":"1800",
     "Name":"Universität Hohenheim",
-    "Firma":"BayWa Stiftung",
-    "Alternativname":""
+    "Firma":"BayWa",
+    "Alternativname":"BayWa Stiftung"
   },
   {
     "uID":"1800",
@@ -11390,7 +11396,7 @@
   {
     "uID":"1810",
     "Name":"Universität Mannheim",
-    "Firma":"Freudenberg & Co.KG",
+    "Firma":"Freudenberg & Co. KG",
     "Alternativname":""
   },
   {
@@ -11402,7 +11408,7 @@
   {
     "uID":"1810",
     "Name":"Universität Mannheim",
-    "Firma":"FUCHS PETROLUB SE",
+    "Firma":"Fuchs Petrolub",
     "Alternativname":""
   },
   {
@@ -11444,8 +11450,8 @@
   {
     "uID":"1810",
     "Name":"Universität Mannheim",
-    "Firma":"Heraeus GmbH",
-    "Alternativname":""
+    "Firma":"Heraeus",
+    "Alternativname":"Heraeus GmbH"
   },
   {
     "uID":"1810",
@@ -11540,7 +11546,7 @@
   {
     "uID":"1810",
     "Name":"Universität Mannheim",
-    "Firma":"Saint-Gobain Building Distribution Deutschland GmbH",
+    "Firma":"Saint Gobain",
     "Alternativname":""
   },
   {
@@ -11612,8 +11618,8 @@
   {
     "uID":"1821",
     "Name":"Universität Ulm (ohne Klinikum)",
-    "Firma":"Bertrandt AG",
-    "Alternativname":""
+    "Firma":"Bertrandt",
+    "Alternativname":"Bertrandt AG"
   },
   {
     "uID":"1821",
@@ -11756,8 +11762,8 @@
   {
     "uID":"1821",
     "Name":"Universität Ulm (ohne Klinikum)",
-    "Firma":"Voith GmbH",
-    "Alternativname":""
+    "Firma":"Voith",
+    "Alternativname":"Voith GmbH"
   },
   {
     "uID":"1821",
@@ -12122,7 +12128,7 @@
   {
     "uID":"6730",
     "Name":"Hochschule Esslingen (FH)",
-    "Firma":"Stiftung Kreissparkasse Esslingen-Nürtingen",
+    "Firma":"Stiftung der Kreissparkasse Esslingen-Nürtingen",
     "Alternativname":""
   },
   {
@@ -12170,7 +12176,7 @@
   {
     "uID":"6750",
     "Name":"Hochschule Heilbronn",
-    "Firma":"Bausparkasse Schwäbisch Hall AG",
+    "Firma":"Bausparkasse Schwäbisch Hall",
     "Alternativname":""
   },
   {
@@ -12362,7 +12368,7 @@
   {
     "uID":"6750",
     "Name":"Hochschule Heilbronn",
-    "Firma":"R + V Allgemeine Versicherung AG",
+    "Firma":"R+V Allgemeine Versicherung AG",
     "Alternativname":""
   },
   {
@@ -12464,13 +12470,19 @@
   {
     "uID":"6790",
     "Name":"Hochschule für Wirtschaft und Umwelt Nürtingen",
-    "Firma":"BayWa Stiftung",
+    "Firma":"BayWa",
+    "Alternativname":"BayWa Stiftung"
+  },
+  {
+    "uID":"6790",
+    "Name":"Hochschule für Wirtschaft und Umwelt Nürtingen",
+    "Firma":"Hans und Ottmar Binder GmbH",
     "Alternativname":""
   },
   {
     "uID":"6790",
     "Name":"Hochschule für Wirtschaft und Umwelt Nürtingen",
-    "Firma":"Hans und Ottmar Binder GmbH Süddeutsche Aluminium Manufaktur GmbH",
+    "Firma":"Süddeutsche Aluminium Manufaktur GmbH",
     "Alternativname":""
   },
   {
@@ -12764,7 +12776,7 @@
   {
     "uID":"6820",
     "Name":"FH Ravensburg-Weingarten",
-    "Firma":"Diehl AKO Stiftung & Co. KG",
+    "Firma":"Diehl",
     "Alternativname":""
   },
   {
@@ -13274,7 +13286,7 @@
   {
     "uID":"1321",
     "Name":"Universität München (ohne Klinikum)",
-    "Firma":"Baxter GmbH",
+    "Firma":"Baxter",
     "Alternativname":""
   },
   {
@@ -13364,8 +13376,8 @@
   {
     "uID":"1321",
     "Name":"Universität München (ohne Klinikum)",
-    "Firma":"GE Healthcare",
-    "Alternativname":""
+    "Firma":"General Electric",
+    "Alternativname":"GE Healthcare"
   },
   {
     "uID":"1321",
@@ -13724,7 +13736,7 @@
   {
     "uID":"1350",
     "Name":"Universität Augsburg",
-    "Firma":"Taylor Wessing Partnerschaftsgesellschaft",
+    "Firma":"Taylor Wessing",
     "Alternativname":""
   },
   {
@@ -14006,7 +14018,7 @@
   {
     "uID":"2730",
     "Name":"Hochschule für Fernsehen und Film München",
-    "Firma":"Noerr-Gruppe/Noerr LLP",
+    "Firma":"Noerr-Gruppe",
     "Alternativname":""
   },
   {
@@ -14246,8 +14258,8 @@
   {
     "uID":"7220",
     "Name":"Hochschule Coburg",
-    "Firma":"Valeo Klimasysteme GmbH",
-    "Alternativname":""
+    "Firma":"Valeo",
+    "Alternativname":"Valeo Klimasysteme GmbH"
   },
   {
     "uID":"7220",
@@ -14288,7 +14300,7 @@
   {
     "uID":"7240",
     "Name":"Hochschule München",
-    "Firma":"TüV SüD AG",
+    "Firma":"TüV Süd",
     "Alternativname":""
   },
   {
@@ -14342,7 +14354,7 @@
   {
     "uID":"7250",
     "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
-    "Firma":"Diehl Stiftung & Co. KG",
+    "Firma":"Diehl",
     "Alternativname":""
   },
   {
@@ -14468,7 +14480,7 @@
   {
     "uID":"7260",
     "Name":"FH Regensburg",
-    "Firma":"Goldbeck Ost GmbH",
+    "Firma":"Goldbeck",
     "Alternativname":""
   },
   {
@@ -14618,8 +14630,8 @@
   {
     "uID":"7310",
     "Name":"Hochschule Weihenstephan-Triesdorf",
-    "Firma":"BayWa Stiftung",
-    "Alternativname":""
+    "Firma":"BayWa",
+    "Alternativname":"BayWa Stiftung"
   },
   {
     "uID":"7310",
@@ -14870,8 +14882,8 @@
   {
     "uID":"7440",
     "Name":"Hochschule Kempten",
-    "Firma":"Voith Turbo BHS Getriebe GmbH",
-    "Alternativname":""
+    "Firma":"Voith",
+    "Alternativname":"Voith Turbo BHS Getriebe GmbH"
   },
   {
     "uID":"7440",
@@ -15350,8 +15362,8 @@
   {
     "uID":"7590",
     "Name":"Hochschule Aschaffenburg",
-    "Firma":"Heraeus GmbH",
-    "Alternativname":""
+    "Firma":"Heraeus",
+    "Alternativname":"Heraeus GmbH"
   },
   {
     "uID":"7590",
@@ -15932,7 +15944,7 @@
   {
     "uID":"201",
     "Name":"Humboldt-Universität zu Berlin",
-    "Firma":"Müsiad Berlin e.V.",
+    "Firma":"MüSIAD e.V.",
     "Alternativname":""
   },
   {
@@ -15944,8 +15956,8 @@
   {
     "uID":"201",
     "Name":"Humboldt-Universität zu Berlin",
-    "Firma":"Klaus Krone Stiftung",
-    "Alternativname":""
+    "Firma":"Krone",
+    "Alternativname":"Klaus Krone Stiftung"
   },
   {
     "uID":"201",
@@ -16166,7 +16178,7 @@
   {
     "uID":"2520",
     "Name":"Hochschule für Musik Berlin Hanns Eisler",
-    "Firma":"Yamaha Klavierabteilung",
+    "Firma":"Yamaha",
     "Alternativname":""
   },
   {
@@ -16538,7 +16550,7 @@
   {
     "uID":"190",
     "Name":"Europa-Universität Viadrina Frankfurt (Oder)",
-    "Firma":"Lions-Club Frankfurt (Oder) e.V.",
+    "Firma":"Lions-Club Frankfurt (Oder)",
     "Alternativname":""
   },
   {
@@ -17354,8 +17366,8 @@
   {
     "uID":"379",
     "Name":"TU Dresden (Klinikum)",
-    "Firma":"P-D Management Industries - Technologies GmbH",
-    "Alternativname":""
+    "Firma":"P-D group",
+    "Alternativname":"P-D Management Industries - Technologies GmbH"
   },
   {
     "uID":"379",
@@ -17378,8 +17390,8 @@
   {
     "uID":"379",
     "Name":"TU Dresden (Klinikum)",
-    "Firma":"ROHDE & SCHWARZ GmbH & Co. KG",
-    "Alternativname":""
+    "Firma":"Rohde Gruppe",
+    "Alternativname":"ROHDE & SCHWARZ GmbH & Co. KG"
   },
   {
     "uID":"379",
@@ -17438,7 +17450,7 @@
   {
     "uID":"379",
     "Name":"TU Dresden (Klinikum)",
-    "Firma":"TüV Süd Stiftung",
+    "Firma":"TüV Süd",
     "Alternativname":""
   },
   {
@@ -17456,7 +17468,7 @@
   {
     "uID":"379",
     "Name":"TU Dresden (Klinikum)",
-    "Firma":"Voith GmbH",
+    "Firma":"Voith",
     "Alternativname":""
   },
   {
@@ -18068,13 +18080,13 @@
   {
     "uID":"5130",
     "Name":"Hochschule für Technik, Wirtschaft und Kultur Leipzig",
-    "Firma":"Goldbeck Ost GmbH",
+    "Firma":"Goldbeck",
     "Alternativname":""
   },
   {
     "uID":"5130",
     "Name":"Hochschule für Technik, Wirtschaft und Kultur Leipzig",
-    "Firma":"GP Papenburg Entsorgung Ost GmbH",
+    "Firma":"GP Günter Papenburg AG",
     "Alternativname":""
   },
   {
@@ -18182,7 +18194,7 @@
   {
     "uID":"5130",
     "Name":"Hochschule für Technik, Wirtschaft und Kultur Leipzig",
-    "Firma":"Stadtwerke Leipzig GmbH",
+    "Firma":"Stadtwerke Leipzig",
     "Alternativname":""
   },
   {
@@ -18278,8 +18290,8 @@
   {
     "uID":"5160",
     "Name":"Westsächsische Hochschule Zwickau",
-    "Firma":"DEKRA Automobil GmbH",
-    "Alternativname":""
+    "Firma":"DEKRA",
+    "Alternativname":"DEKRA Automobil GmbH"
   },
   {
     "uID":"5160",
@@ -18506,7 +18518,7 @@
   {
     "uID":"301",
     "Name":"Universität Halle (ohne Klinikum)",
-    "Firma":"GP Günter Papenburg AG, Halle",
+    "Firma":"GP Günter Papenburg AG",
     "Alternativname":""
   },
   {
@@ -18632,8 +18644,8 @@
   {
     "uID":"311",
     "Name":"Otto-von-Guericke-Universität Magdeburg (ohne Klinikum)",
-    "Firma":"DOW OLEFINVERBUND GmbH",
-    "Alternativname":""
+    "Firma":"Dow Chemical",
+    "Alternativname":"DOW OLEFINVERBUND GmbH"
   },
   {
     "uID":"311",
@@ -18686,7 +18698,7 @@
   {
     "uID":"8010",
     "Name":"Hochschule Magdeburg-Stendal (FH)",
-    "Firma":"Frau Dr. Doris Schawaller",
+    "Firma":"Dr. Doris Schawaller",
     "Alternativname":""
   },
   {
@@ -18830,8 +18842,8 @@
   {
     "uID":"8010",
     "Name":"Hochschule Magdeburg-Stendal (FH)",
-    "Firma":"TOTAL Raffinerie Mitteldeutschland GmbH",
-    "Alternativname":""
+    "Firma":"TOTAL",
+    "Alternativname":"TOTAL Raffinerie Mitteldeutschland GmbH"
   },
   {
     "uID":"8010",
@@ -19100,8 +19112,8 @@
   {
     "uID":"8030",
     "Name":"Hochschule Anhalt (FH)",
-    "Firma":"KWS Mais GmbH, Einbeck",
-    "Alternativname":""
+    "Firma":"KWS",
+    "Alternativname":"KWS Mais GmbH, Einbeck"
   },
   {
     "uID":"8030",
@@ -19502,7 +19514,7 @@
   {
     "uID":"7810",
     "Name":"FH Erfurt",
-    "Firma":"IHK Erfurt",
+    "Firma":"Industrie- und Handelskammer Erfurt",
     "Alternativname":""
   },
   {
@@ -19568,7 +19580,7 @@
   {
     "uID":"7880",
     "Name":"FH Nordhausen",
-    "Firma":"IHK Erfurt",
+    "Firma":"Industrie- und Handelskammer Erfurt",
     "Alternativname":""
   },
   {
