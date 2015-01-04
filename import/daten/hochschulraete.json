@@ -12,7 +12,7 @@
     "Uni":"Hochschule Hamm-Lippstadt",
     "Name":"Jörg Hegemann",
     "Funktion":"stellvertretender Vorsitzender",
-    "Unternehmen":"Stadtwerke Hamm GmbH",
+    "Unternehmen":"Stadtwerke Hamm",
     "Alternativname":""
   },
   {
@@ -132,7 +132,7 @@
     "Uni":"Universität Paderborn",
     "Name":"Hubertus Benteler",
     "Funktion":"",
-    "Unternehmen":"Benteler International AG",
+    "Unternehmen":"Benteler",
     "Alternativname":""
   },
   {
@@ -220,7 +220,7 @@
     "Uni":"Technische Universität Dortmund",
     "Name":"Ulrich Reitz",
     "Funktion":"",
-    "Unternehmen":"WAZ Westdeutsche Allgemeine Zeitung",
+    "Unternehmen":"WAZ",
     "Alternativname":""
   },
   {
@@ -244,7 +244,7 @@
     "Uni":"FH Bielefeld",
     "Name":"Lothar Kriszun",
     "Funktion":"stellv. Vorsitzender",
-    "Unternehmen":"CLAAS KGaA mbH",
+    "Unternehmen":"CLAAS",
     "Alternativname":""
   },
   {
@@ -452,7 +452,7 @@
     "Uni":"Universität Osnabrück",
     "Name":"Hans-Wolf Sievert",
     "Funktion":"",
-    "Unternehmen":"Sievert AG",
+    "Unternehmen":"Sievert",
     "Alternativname":""
   },
   {
@@ -468,7 +468,7 @@
     "Uni":"Universität Oldenburg",
     "Name":"Jörg Waskönig",
     "Funktion":"Vorsitzender",
-    "Unternehmen":"Fa. Waskönig + Walter Kabelwerke",
+    "Unternehmen":"Waskönig",
     "Alternativname":""
   },
   {
@@ -476,16 +476,16 @@
     "Uni":"FH Bingen",
     "Name":"Michael Heß",
     "Funktion":"",
-    "Unternehmen":"BASF SE",
-    "Alternativname":""
+    "Unternehmen":"BASF",
+    "Alternativname":"BASF SE"
   },
   {
     "Bundesland":"Rheinland-Pfalz",
     "Uni":"FH Worms",
     "Name":"Dr. Robert Blackburn",
     "Funktion":"",
-    "Unternehmen":"BASF SE",
-    "Alternativname":""
+    "Unternehmen":"BASF",
+    "Alternativname":"BASF SE"
   },
   {
     "Bundesland":"Rheinland-Pfalz",
@@ -516,7 +516,7 @@
     "Uni":"Hochschule Trier",
     "Name":"Theo Scholtes",
     "Funktion":"Vorsitzender",
-    "Unternehmen":"Bitburger Braugruppe GmbH",
+    "Unternehmen":"Bitburger",
     "Alternativname":""
   },
   {
@@ -540,7 +540,7 @@
     "Uni":"Universität Mainz",
     "Name":"Dr. Leopold von Heimendahl",
     "Funktion":"",
-    "Unternehmen":"Schott Glas Konzerns",
+    "Unternehmen":"Schott Glas",
     "Alternativname":""
   },
   {
@@ -708,8 +708,8 @@
     "Uni":"FH Lübeck",
     "Name":"Dr. Erik Larsson",
     "Funktion":"Vorsitzender",
-    "Unternehmen":"Glaxo Wellcome GmbH & Co., Bad Oldesloe",
-    "Alternativname":""
+    "Unternehmen":"Glaxo-Smith-Kline GmbH & Co. KG",
+    "Alternativname":"Glaxo Wellcome GmbH & Co., Bad Oldesloe"
   },
   {
     "Bundesland":"Schleswig-Holstein",
@@ -796,8 +796,8 @@
     "Uni":"Hochschule Anhalt (FH)",
     "Name":"Matthias Gabriel",
     "Funktion":"",
-    "Unternehmen":"P-D ChemiePark Bitterfeld Wolfen GmbH",
-    "Alternativname":""
+    "Unternehmen":"P-D group",
+    "Alternativname":"P-D ChemiePark Bitterfeld Wolfen GmbH"
   },
   {
     "Bundesland":"Sachsen-Anhalt",
@@ -1004,7 +1004,7 @@
     "Uni":"FH Wismar",
     "Name":"Herr Tom Streicher, Dipl.-Ing.",
     "Funktion":"",
-    "Unternehmen":"ECOVIS Grieger Mallison Management AG",
+    "Unternehmen":"ECOVIS Grieger Mallison",
     "Alternativname":""
   },
   {
@@ -1396,7 +1396,7 @@
     "Uni":"Hochschule Coburg",
     "Name":"Dipl.-Wirt.-Ing. Klaus Jürgen Heitmann",
     "Funktion":"",
-    "Unternehmen":"HUK-COBURG Versicherungsgruppe",
+    "Unternehmen":"HUK Coburg",
     "Alternativname":""
   },
   {
@@ -1556,8 +1556,8 @@
     "Uni":"Hochschule Landshut",
     "Name":"Dr. Karl Ambrus",
     "Funktion":"",
-    "Unternehmen":"EADS",
-    "Alternativname":""
+    "Unternehmen":"Airbus Group",
+    "Alternativname":"EADS"
   },
   {
     "Bundesland":"Bayern",
@@ -1644,7 +1644,7 @@
     "Uni":"FH Rosenheim",
     "Name":"Prof. Dr. Thomas Sesselmann",
     "Funktion":"",
-    "Unternehmen":"Johannes Heidenhain GmbH",
+    "Unternehmen":"Dr. Johannes Heidenhain GmbH",
     "Alternativname":""
   },
   {
@@ -1676,8 +1676,8 @@
     "Uni":"Hochschule Weihenstephan-Triesdorf",
     "Name":"Dr. Josef Krapf",
     "Funktion":"",
-    "Unternehmen":"BayWa AG",
-    "Alternativname":""
+    "Unternehmen":"BayWa",
+    "Alternativname":"BayWa AG"
   },
   {
     "Bundesland":"Bayern",
@@ -1741,7 +1741,7 @@
     "Name":"Dr. Jürgen Dornbach",
     "Funktion":"",
     "Unternehmen":"Deutsche Bahn",
-    "Alternativname":"DB RegioNetz Verkehrs GmbH; DB RegioNetz Infrastruktur GmbH"
+    "Alternativname":"DB RegioNetz Verkehrs GmbH, DB RegioNetz Infrastruktur GmbH"
   },
   {
     "Bundesland":"Bayern",
@@ -1770,7 +1770,7 @@
   {
     "Bundesland":"Bayern",
     "Uni":"Hochschule für angewandte Wissenschaft Ingolstadt",
-    "Name":"Prof. Dr.-Ing. Sebastian Bauer;",
+    "Name":"Prof. Dr.-Ing. Sebastian Bauer",
     "Funktion":"",
     "Unternehmen":"Bauer Maschinen GmbH",
     "Alternativname":""
@@ -1788,8 +1788,8 @@
     "Uni":"Hochschule für angewandte Wissenschaft Ingolstadt",
     "Name":"Dr. Gerlinde Honold",
     "Funktion":"",
-    "Unternehmen":"Eurocopter Deutschland GmbH",
-    "Alternativname":""
+    "Unternehmen":"Airbus Group",
+    "Alternativname":"Eurocopter Deutschland GmbH"
   },
   {
     "Bundesland":"Bayern",
@@ -2124,16 +2124,16 @@
     "Uni":"Universität Mannheim",
     "Name":"Dr. John Feldmann",
     "Funktion":"Vorsitzender",
-    "Unternehmen":"BASF SE",
-    "Alternativname":""
+    "Unternehmen":"BASF",
+    "Alternativname":"BASF SE"
   },
   {
     "Bundesland":"Hessen",
     "Uni":"Universität Mannheim",
     "Name":"Dr. h.c. Eggert Voscherau",
     "Funktion":"",
-    "Unternehmen":"BASF SE",
-    "Alternativname":""
+    "Unternehmen":"BASF",
+    "Alternativname":"BASF SE"
   },
   {
     "Bundesland":"Hessen",
@@ -2364,15 +2364,15 @@
     "Uni":"Universität Marburg",
     "Name":"Dr. h. c. Dipl.-Kfm. Beate Heraeus",
     "Funktion":"",
-    "Unternehmen":"Bertha Heraeus und Kathinka Platzhoff Stiftung",
-    "Alternativname":""
+    "Unternehmen":"Heraeus",
+    "Alternativname":"Bertha Heraeus und Kathinka Platzhoff Stiftung"
   },
   {
     "Bundesland":"Hessen",
     "Uni":"Universität Marburg",
     "Name":"Prof. Dr. Jochen Maas",
     "Funktion":"",
-    "Unternehmen":"Sanofi-Aventis Deutschland GmbH",
+    "Unternehmen":"Sanofi Aventis",
     "Alternativname":""
   },
   {
@@ -2396,8 +2396,8 @@
     "Uni":"Universität Heidelberg (ohne Klinikum)",
     "Name":"Margret Suckale",
     "Funktion":"",
-    "Unternehmen":"BASF SE",
-    "Alternativname":""
+    "Unternehmen":"BASF",
+    "Alternativname":"BASF SE"
   },
   {
     "Bundesland":"Baden-Württemberg",
@@ -2412,8 +2412,8 @@
     "Uni":"Duale Hochschule Baden Württemberg",
     "Name":"Gabrielle Kellermann",
     "Funktion":"",
-    "Unternehmen":"BBBank eG",
-    "Alternativname":""
+    "Unternehmen":"BBBank",
+    "Alternativname":"BBBank eG"
   },
   {
     "Bundesland":"Baden-Württemberg",
@@ -2492,7 +2492,7 @@
     "Uni":"Hochschule Biberach",
     "Name":"Dr. Nikolaus F. Rentschler",
     "Funktion":"Vorsitzender",
-    "Unternehmen":"Dr. Rentschler Holding GmbH & Co.KG",
+    "Unternehmen":"Rentschler",
     "Alternativname":""
   },
   {
@@ -2516,7 +2516,7 @@
     "Uni":"Hochschule Albstadt-Sigmaringen (FH)",
     "Name":"Udo J. Vetter",
     "Funktion":"",
-    "Unternehmen":"Firmengruppe VETTER",
+    "Unternehmen":"Vetter",
     "Alternativname":""
   },
   {
@@ -2548,15 +2548,15 @@
     "Uni":"FH Aalen",
     "Name":"Martin Hennerici",
     "Funktion":"",
-    "Unternehmen":"Voith Industrial Service Holding GmbH",
-    "Alternativname":""
+    "Unternehmen":"Voith",
+    "Alternativname":"Voith Industrial Service Holding GmbH"
   },
   {
     "Bundesland":"Baden-Württemberg",
     "Uni":"FH Aalen",
     "Name":"Dr. Dieter Kress",
     "Funktion":"",
-    "Unternehmen":"MAPAL Präzisionswerkzeuge KG",
+    "Unternehmen":"MAPAL Präzisionswerkzeuge",
     "Alternativname":""
   },
   {
@@ -2612,8 +2612,8 @@
     "Uni":"Hochschule für Wirtschaft und Umwelt Nürtingen",
     "Name":"Roland Schuler",
     "Funktion":"",
-    "Unternehmen":"BayWa AG",
-    "Alternativname":""
+    "Unternehmen":"BayWa",
+    "Alternativname":"BayWa AG"
   },
   {
     "Bundesland":"Baden-Württemberg",
@@ -2796,7 +2796,7 @@
     "Uni":"Universität Ulm (ohne Klinikum)",
     "Name":"Renate Pilz",
     "Funktion":"",
-    "Unternehmen":"Pilz GmbH & Co.KG",
+    "Unternehmen":"Pilz GmbH & Co. KG",
     "Alternativname":""
   },
   {
@@ -2940,8 +2940,8 @@
     "Uni":"Hochschule Heilbronn",
     "Name":"Ehrhard Steffen",
     "Funktion":"Vorsitzender",
-    "Unternehmen":"Schwäbisch Hall Kredit Service AG",
-    "Alternativname":""
+    "Unternehmen":"Schwäbisch Hall",
+    "Alternativname":"Schwäbisch Hall Kredit Service AG"
   },
   {
     "Bundesland":"Baden-Württemberg",
@@ -3052,7 +3052,7 @@
     "Uni":"Hochschule Offenburg",
     "Name":"Dr. Nicola M. Osypka",
     "Funktion":"",
-    "Unternehmen":"CEO Osypka AG",
+    "Unternehmen":"Osypka",
     "Alternativname":""
   },
   {
@@ -3164,8 +3164,8 @@
     "Uni":"Hochschule Ulm",
     "Name":"Bärbel Hörger",
     "Funktion":"",
-    "Unternehmen":"Mercedes-Benz Vans",
-    "Alternativname":""
+    "Unternehmen":"Mercedes-Benz AG, Bielefeld",
+    "Alternativname":"Mercedes-Benz Vans"
   },
   {
     "Bundesland":"Baden-Württemberg",
@@ -3228,8 +3228,8 @@
     "Uni":"Duale Hochschule Baden Württemberg",
     "Name":"Gabrielle Kellermann",
     "Funktion":"",
-    "Unternehmen":"BBBank eG",
-    "Alternativname":""
+    "Unternehmen":"BBBank",
+    "Alternativname":"BBBank eG"
   },
   {
     "Bundesland":"Baden-Württemberg",
@@ -3268,8 +3268,8 @@
     "Uni":"Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
     "Name":"Dr. Andreas Kreimeyer",
     "Funktion":"Stellvertr. Vorsitzender",
-    "Unternehmen":"BASF SE",
-    "Alternativname":""
+    "Unternehmen":"BASF",
+    "Alternativname":"BASF SE"
   },
   {
     "Bundesland":"Baden-Württemberg",
@@ -3348,8 +3348,8 @@
     "Uni":"Universität Freiburg i.Br. (ohne Klinikum)",
     "Name":"Dr. Christian Fischer",
     "Funktion":"",
-    "Unternehmen":"BASF SE",
-    "Alternativname":""
+    "Unternehmen":"BASF",
+    "Alternativname":"BASF SE"
   },
   {
     "Bundesland":"Baden-Württemberg",
@@ -3364,7 +3364,7 @@
     "Uni":"Universität Hohenheim",
     "Name":"Dr. Wolfgang Kuhn",
     "Funktion":"",
-    "Unternehmen":"Südwestbank AG",
+    "Unternehmen":"Südwestbank",
     "Alternativname":""
   },
   {
@@ -3380,8 +3380,8 @@
     "Uni":"Universität Konstanz",
     "Name":"Prof. Dr. Dieter Jahn",
     "Funktion":"Vorsitz",
-    "Unternehmen":"BASF SE",
-    "Alternativname":""
+    "Unternehmen":"BASF",
+    "Alternativname":"BASF SE"
   },
   {
     "Bundesland":"Baden-Württemberg",
