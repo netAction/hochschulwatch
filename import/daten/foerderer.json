@@ -316,8 +316,8 @@
     "Text":""
   },
   {
-    "Firma":"Airbus Deutschland GmbH",
-    "Text":"Airbus Defence and Space GmbH, Airbus Helicopters Deutschland GmbH"
+    "Firma":"Airbus Group",
+    "Text":"Airbus Defence and Space GmbH, Airbus Helicopters Deutschland GmbH, EADS, Eurocopter"
   },
   {
     "Firma":"aixigo AG",
@@ -340,10 +340,6 @@
     "Text":""
   },
   {
-    "Firma":"Akademie Psychotherapie und Interventionsforschung",
-    "Text":""
-  },
-  {
     "Firma":"Aker Wirth GmbH",
     "Text":""
   },
@@ -353,6 +349,10 @@
   },
   {
     "Firma":"Aktion Gemeinsinn e. V., Berlin",
+    "Text":""
+  },
+  {
+    "Firma":"Aktionsb�ndnis Patientensicherheit e.V. (APS)",
     "Text":""
   },
   {
@@ -385,7 +385,7 @@
   },
   {
     "Firma":"ALDI",
-    "Text":""
+    "Text":"Aldi Süd"
   },
   {
     "Firma":"Alere Technologies GmbH",
@@ -412,7 +412,7 @@
     "Text":""
   },
   {
-    "Firma":"Alfred Krupp von Bohlen und Halbach-Stiftung    ",
+    "Firma":"Alfred Doderer-Winkler",
     "Text":""
   },
   {
@@ -421,10 +421,6 @@
   },
   {
     "Firma":"Alfred Toepfer Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Alfred-Freiherr von Oppenheim-Stiftung",
     "Text":""
   },
   {
@@ -497,11 +493,7 @@
   },
   {
     "Firma":"Alpha Industrial Service GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"ALPHA Industrial Service GmbH und ALPHA Vermögensverwaltung GmbH",
-    "Text":""
+    "Text":"ALPHA Vermögensverwaltung GmbH"
   },
   {
     "Firma":"Alsleben, Gert",
@@ -596,12 +588,8 @@
     "Text":""
   },
   {
-    "Firma":"Andreas Stihl AG",
-    "Text":"Andreas Stihl-Stiftung"
-  },
-  {
-    "Firma":"ANDREAS STIHL AG & Co. KG",
-    "Text":""
+    "Firma":"Andreas Stihl",
+    "Text":"Andreas Stihl AG, Andreas Stihl-Stiftung"
   },
   {
     "Firma":"ANEDO Ltd.",
@@ -680,10 +668,6 @@
     "Text":""
   },
   {
-    "Firma":"APOGEPHA Arzneimittel GmbH ",
-    "Text":""
-  },
-  {
     "Firma":"Apothekerkammer Mecklenburg-Vorpommern",
     "Text":""
   },
@@ -725,10 +709,6 @@
   },
   {
     "Firma":"Arbeitgeberverband Oldenburg",
-    "Text":""
-  },
-  {
-    "Firma":"Arbeitgeberverband Oldenburg e.V.",
     "Text":""
   },
   {
@@ -789,10 +769,6 @@
   },
   {
     "Firma":"Architekturfabrik Neubrandenburg",
-    "Text":""
-  },
-  {
-    "Firma":"Arclor GmbH",
     "Text":""
   },
   {
@@ -885,10 +861,6 @@
   },
   {
     "Firma":"ASTA FFO",
-    "Text":""
-  },
-  {
-    "Firma":"Astellas GmbH",
     "Text":""
   },
   {
@@ -1096,10 +1068,6 @@
     "Text":""
   },
   {
-    "Firma":"B.Braun Melsungen AG",
-    "Text":""
-  },
-  {
     "Firma":"b.i.g.-Gruppe",
     "Text":""
   },
@@ -1292,28 +1260,12 @@
     "Text":""
   },
   {
-    "Firma":"Barthel-Stiftung",
-    "Text":""
-  },
-  {
     "Firma":"Bartos-Höppner-Stiftung",
     "Text":""
   },
   {
     "Firma":"BASF",
-    "Text":""
-  },
-  {
-    "Firma":"BASF Coatings GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"BASF Schwarzheide GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"BASF SE",
-    "Text":""
+    "Text":"BASF Coatings GmbH, BASF Schwarzheide GmbH, BASF SE"
   },
   {
     "Firma":"Basler Securitas",
@@ -1372,10 +1324,6 @@
     "Text":""
   },
   {
-    "Firma":"Bausparkasse Schwäbisch Hall AG",
-    "Text":""
-  },
-  {
     "Firma":"Baustoffkunde-Stipendium",
     "Text":""
   },
@@ -1396,11 +1344,7 @@
     "Text":""
   },
   {
-    "Firma":"Baxter Deutschland GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Baxter GmbH",
+    "Firma":"Baxter",
     "Text":""
   },
   {
@@ -1424,20 +1368,12 @@
     "Text":""
   },
   {
-    "Firma":"BayWa AG",
-    "Text":""
+    "Firma":"BayWa",
+    "Text":"BayWa AG, BayWa Stiftung"
   },
   {
-    "Firma":"BayWa Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"BBBank eG",
-    "Text":""
-  },
-  {
-    "Firma":"BBBank Stiftung",
-    "Text":""
+    "Firma":"BBBank",
+    "Text":"BBBank eG, BBBank Stiftung"
   },
   {
     "Firma":"BBV Mediengruppe, Bocholt",
@@ -1457,6 +1393,10 @@
   },
   {
     "Firma":"BDO Heßler Mosebach AG",
+    "Text":""
+  },
+  {
+    "Firma":"Beate Schuler",
     "Text":""
   },
   {
@@ -1508,10 +1448,6 @@
     "Text":""
   },
   {
-    "Firma":"Behrmann-Stiftung",
-    "Text":""
-  },
-  {
     "Firma":"bela-pharm GmbH & Co. KG",
     "Text":""
   },
@@ -1532,11 +1468,7 @@
     "Text":""
   },
   {
-    "Firma":"Benteler AG, Paderborn",
-    "Text":""
-  },
-  {
-    "Firma":"Benteler International AG",
+    "Firma":"Benteler",
     "Text":""
   },
   {
@@ -1628,24 +1560,12 @@
     "Text":""
   },
   {
-    "Firma":"Bertha Heraeus und Kathinka Platzhoff Stiftung",
-    "Text":""
-  },
-  {
     "Firma":"Berthold-Leibinger-Stiftung",
     "Text":""
   },
   {
-    "Firma":"Bertrandt AG",
-    "Text":""
-  },
-  {
-    "Firma":"Bertrandt Ingenieurbüro GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Bertrandt Services GmbH",
-    "Text":""
+    "Firma":"Bertrandt",
+    "Text":"Bertrandt AG, Bertrandt Ingenieurbüro GmbH, Bertrandt Services GmbH"
   },
   {
     "Firma":"Best Western Hotels Deutschland GmbH",
@@ -1772,11 +1692,7 @@
     "Text":""
   },
   {
-    "Firma":"Biotronik SE & Co.KG, vormals Biotronik GmbH & Co., Berlin",
-    "Text":""
-  },
-  {
-    "Firma":"Biotronik Vertriebs",
+    "Firma":"Biotronik",
     "Text":""
   },
   {
@@ -1808,10 +1724,6 @@
     "Text":""
   },
   {
-    "Firma":"Bitburger Braugruppe GmbH",
-    "Text":""
-  },
-  {
     "Firma":"Bitmarck Holding GmbH",
     "Text":""
   },
@@ -1820,11 +1732,7 @@
     "Text":""
   },
   {
-    "Firma":"BITZER Kühlmaschinenbau GmbH ",
-    "Text":""
-  },
-  {
-    "Firma":"Bitzer Kühlmaschinenbau GmbH Sindelfingen",
+    "Firma":"BITZER Kühlmaschinenbau GmbH",
     "Text":""
   },
   {
@@ -1865,10 +1773,6 @@
   },
   {
     "Firma":"Blofeld GmbH, Waldtraut Braun im Andenken an Günter Braun",
-    "Text":""
-  },
-  {
-    "Firma":"BMBF",
     "Text":""
   },
   {
@@ -2032,16 +1936,12 @@
     "Text":""
   },
   {
-    "Firma":"Bremer Bereederungsges. mbH",
-    "Text":""
-  },
-  {
-    "Firma":"Bremer Bereederungsgesellscha ft mbH & Co. KG, Bremen",
+    "Firma":"Bremer Bereederungsgesellschaft mbH & Co. KG",
     "Text":""
   },
   {
     "Firma":"Bremer Landesbank",
-    "Text":""
+    "Text":"Stiftung der Bremer Landesbank"
   },
   {
     "Firma":"Bremer Rhederverein e.V.",
@@ -2196,10 +2096,6 @@
     "Text":""
   },
   {
-    "Firma":"Bundesdruckerei GmbH",
-    "Text":""
-  },
-  {
     "Firma":"Bundesland Saarland",
     "Text":""
   },
@@ -2244,12 +2140,8 @@
     "Text":""
   },
   {
-    "Firma":"buw Consulting GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"buw Holding GmbH",
-    "Text":""
+    "Firma":"buw",
+    "Text":"buw Consulting GmbH, buw Holding GmbH"
   },
   {
     "Firma":"BVG",
@@ -2472,10 +2364,6 @@
     "Text":""
   },
   {
-    "Firma":"CEO Osypka AG",
-    "Text":""
-  },
-  {
     "Firma":"CeramTec GmbH",
     "Text":""
   },
@@ -2521,6 +2409,10 @@
   },
   {
     "Firma":"Chemnitzer Zahnradfabrik GmbH & Co. KG",
+    "Text":""
+  },
+  {
+    "Firma":"Chica und Heinz Schaller Stiftung",
     "Text":""
   },
   {
@@ -2601,10 +2493,6 @@
   },
   {
     "Firma":"CLAAS",
-    "Text":""
-  },
-  {
-    "Firma":"CLAAS KGaA mbH",
     "Text":""
   },
   {
@@ -2888,10 +2776,6 @@
     "Text":""
   },
   {
-    "Firma":"D.Oltmannn Reederei GmbH & Co.KG, Bremen",
-    "Text":""
-  },
-  {
     "Firma":"d.velop AG",
     "Text":""
   },
@@ -2948,6 +2832,10 @@
     "Text":""
   },
   {
+    "Firma":"Damp-Stiftung ",
+    "Text":""
+  },
+  {
     "Firma":"Daniel Kalisch Immobilienagentur, Leipzig",
     "Text":""
   },
@@ -2993,10 +2881,6 @@
   },
   {
     "Firma":"DCA Instruments",
-    "Text":""
-  },
-  {
-    "Firma":"Dcon",
     "Text":""
   },
   {
@@ -3052,12 +2936,8 @@
     "Text":""
   },
   {
-    "Firma":"DEKRA Automobil GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"DEKRA e.V. ",
-    "Text":""
+    "Firma":"DEKRA",
+    "Text":"DEKRA Automobil GmbH, DEKRA e.V. - DEKRA Hochschule Berlin"
   },
   {
     "Firma":"Dell Halle GmbH",
@@ -3164,10 +3044,6 @@
     "Text":""
   },
   {
-    "Firma":"Deutsche Bundesbank, Hauptverwaltung in Nordrhein-Westfalen",
-    "Text":""
-  },
-  {
     "Firma":"Deutsche Diabetes Stiftung",
     "Text":""
   },
@@ -3185,6 +3061,10 @@
   },
   {
     "Firma":"Deutsche Gesellschaft für Qualität GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Deutsche Gesetzliche Unfallversicherung (DGUV)",
     "Text":""
   },
   {
@@ -3229,6 +3109,10 @@
   },
   {
     "Firma":"Deutsche Solar GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Deutsche Stiftung Denkmalschutz",
     "Text":""
   },
   {
@@ -3300,6 +3184,10 @@
     "Text":""
   },
   {
+    "Firma":"Deutsch-Franz�sische Gesellschaft",
+    "Text":""
+  },
+  {
     "Firma":"Deutschsprachige Mykologische Gesellschaft e.V.",
     "Text":""
   },
@@ -3309,10 +3197,6 @@
   },
   {
     "Firma":"develop group",
-    "Text":""
-  },
-  {
-    "Firma":"DFG",
     "Text":""
   },
   {
@@ -3389,14 +3273,10 @@
   },
   {
     "Firma":"DIE ZEIT, Hamburg",
-    "Text":""
+    "Text":"Zeit-Stiftung, Ebelin und Gerd Bucerius"
   },
   {
     "Firma":"Dieckell-Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Dieckel-Stiftung Bremerhaven",
     "Text":""
   },
   {
@@ -3404,19 +3284,11 @@
     "Text":""
   },
   {
-    "Firma":"Diehl AKO Stiftung & Co. KG",
-    "Text":""
-  },
-  {
-    "Firma":"Diehl Stiftung & Co. KG",
-    "Text":""
+    "Firma":"Diehl",
+    "Text":"Diehl AKO Stiftung & Co. KG"
   },
   {
     "Firma":"Diersch & Schröder GmbH & Co. KG, Bremen",
-    "Text":""
-  },
-  {
-    "Firma":"Diersch & Schröder GmbH & Co.KG",
     "Text":""
   },
   {
@@ -3445,10 +3317,6 @@
   },
   {
     "Firma":"Dirk Harste",
-    "Text":""
-  },
-  {
-    "Firma":"Dirk Rossmann GmbH",
     "Text":""
   },
   {
@@ -3492,10 +3360,6 @@
     "Text":""
   },
   {
-    "Firma":"Doderer-Winkler, Alfred Dr.-Ing.",
-    "Text":""
-  },
-  {
     "Firma":"Dom Buchhandlung",
     "Text":""
   },
@@ -3528,31 +3392,11 @@
     "Text":""
   },
   {
-    "Firma":"Dow AgroSciences GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Dow Corning",
-    "Text":""
-  },
-  {
-    "Firma":"DOW OLEFINVERBUND GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Dr. Adolf Doderer, Melsbach",
-    "Text":""
-  },
-  {
-    "Firma":"Dr. Alfred W. Doderer-Winkler",
-    "Text":""
+    "Firma":"Dow Chemical",
+    "Text":"DOW OLEFINVERBUND GmbH, Dow AgroSciences GmbH, Dow Corning"
   },
   {
     "Firma":"Dr. August und Erika Appenrodt-Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Dr. B. Krone Stiftung GmbH",
     "Text":""
   },
   {
@@ -3561,10 +3405,6 @@
   },
   {
     "Firma":"Dr. Barbara-Mez-Starck-Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Dr. Beate Schuler",
     "Text":""
   },
   {
@@ -3593,10 +3433,6 @@
   },
   {
     "Firma":"Dr. Dirk Baier Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Dr. Doderer-Winkler",
     "Text":""
   },
   {
@@ -3640,10 +3476,6 @@
     "Text":""
   },
   {
-    "Firma":"Dr. h.c. Peter Waskönig-Stiftung",
-    "Text":""
-  },
-  {
     "Firma":"Dr. Hans Feith und Dr. Elisabeth Feith-Stiftung",
     "Text":""
   },
@@ -3653,10 +3485,6 @@
   },
   {
     "Firma":"Dr. Hans-Peter Hamm",
-    "Text":""
-  },
-  {
-    "Firma":"Dr. Hans-Wolf Sievert",
     "Text":""
   },
   {
@@ -3752,19 +3580,11 @@
     "Text":""
   },
   {
-    "Firma":"Dr. Peter Osypka-Stiftung",
-    "Text":""
-  },
-  {
     "Firma":"Dr. Regina Prenzel",
     "Text":""
   },
   {
     "Firma":"Dr. Reinfried-Pohl-Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Dr. Rentschler Holding GmbH & Co.KG",
     "Text":""
   },
   {
@@ -3817,11 +3637,7 @@
   },
   {
     "Firma":"Dräger",
-    "Text":""
-  },
-  {
-    "Firma":"Dräger Medical Deutschland GmbH",
-    "Text":""
+    "Text":"Dräger Medical Deutschland GmbH"
   },
   {
     "Firma":"Dräxlmaier Group",
@@ -4000,10 +3816,6 @@
     "Text":""
   },
   {
-    "Firma":"EADS",
-    "Text":"Eurocopter Deutschland GmbH"
-  },
-  {
     "Firma":"EAN - Energieanlagen Nord GmbH Neubrandenburg",
     "Text":""
   },
@@ -4013,10 +3825,6 @@
   },
   {
     "Firma":"Eaton Industries GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Ebelin und Gerd Bucerius",
     "Text":""
   },
   {
@@ -4056,11 +3864,11 @@
     "Text":""
   },
   {
-    "Firma":"ECOVIS Grieger Mallison",
+    "Firma":"Eco Rail Innovation",
     "Text":""
   },
   {
-    "Firma":"ECOVIS Grieger Mallison Management AG",
+    "Firma":"ECOVIS Grieger Mallison",
     "Text":""
   },
   {
@@ -4184,10 +3992,6 @@
     "Text":""
   },
   {
-    "Firma":"EKO-Stiftung Bildung Brandenburg",
-    "Text":""
-  },
-  {
     "Firma":"EKO-Stiftung Bildung Ostbrandenburg",
     "Text":""
   },
@@ -4289,10 +4093,6 @@
   },
   {
     "Firma":"EMKA Beschlagteile GmbH & Co. KG",
-    "Text":""
-  },
-  {
-    "Firma":"EML Research gGmbH (Tochtergesellschaft der Klaus Tschira Stiftung)",
     "Text":""
   },
   {
@@ -4501,27 +4301,7 @@
   },
   {
     "Firma":"Ernst & Young",
-    "Text":""
-  },
-  {
-    "Firma":"Ernst & Young AG",
-    "Text":""
-  },
-  {
-    "Firma":"Ernst & Young AG Wirtschsftsprüfungsgesellschft Steuerberatungsgesellschaft",
-    "Text":""
-  },
-  {
-    "Firma":"Ernst & Young GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Ernst & Young GmbH, Prof. Sven Hayn",
-    "Text":""
-  },
-  {
-    "Firma":"Ernst &Young Real Estate",
-    "Text":""
+    "Text":"Ernst & Young AG, Ernst & Young GmbH, Ernst &Young Real Estate"
   },
   {
     "Firma":"Ernst A. C. Lange-Stiftung",
@@ -4640,10 +4420,6 @@
     "Text":""
   },
   {
-    "Firma":"Eurocopter Deutschland GmbH",
-    "Text":""
-  },
-  {
     "Firma":"Eurocylinder systems AG",
     "Text":""
   },
@@ -4740,10 +4516,6 @@
     "Text":""
   },
   {
-    "Firma":"Evangelisch-reformierte Kirche",
-    "Text":""
-  },
-  {
     "Firma":"Every Angle Deutschland GmbH",
     "Text":""
   },
@@ -4792,19 +4564,11 @@
     "Text":""
   },
   {
-    "Firma":"Fa. Haraeus-Kulzer-GmbH",
-    "Text":""
-  },
-  {
     "Firma":"Fa. Licher, Medizintechnologie",
     "Text":""
   },
   {
     "Firma":"Fa. Sommer Corporate Media - Elanders GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Fa. Waskönig + Walter Kabelwerke",
     "Text":""
   },
   {
@@ -4841,10 +4605,6 @@
   },
   {
     "Firma":"Fördergesellschaft Westmünsterland der Fachhochschule in Bocholt/Ahaus",
-    "Text":""
-  },
-  {
-    "Firma":"Fördergesellschaft Westmünsterland, Bocholt",
     "Text":""
   },
   {
@@ -4908,15 +4668,7 @@
     "Text":""
   },
   {
-    "Firma":"Förderverein der BTU",
-    "Text":""
-  },
-  {
     "Firma":"Förderverein der BTU Cottbus",
-    "Text":""
-  },
-  {
-    "Firma":"Förderverein der BTU Cottbus e.V.",
     "Text":""
   },
   {
@@ -4993,10 +4745,6 @@
   },
   {
     "Firma":"Förstina-Sprudel Mineral- und Heilquelle - Ehrhardt & Sohn GmbH & Co.",
-    "Text":""
-  },
-  {
-    "Firma":"Fachhochschulstiftung der Sparkasse Gifhorn-Wolfsburg",
     "Text":""
   },
   {
@@ -5092,15 +4840,15 @@
     "Text":""
   },
   {
-    "Firma":"FERCHAU Engineering",
-    "Text":""
-  },
-  {
     "Firma":"Ferchau Engineering ",
     "Text":""
   },
   {
-    "Firma":"Ferchau Engineering GmbH",
+    "Firma":"Ferdinand-Braun-Institut",
+    "Text":""
+  },
+  {
+    "Firma":"FERRING Arzneimittel GmbH",
     "Text":""
   },
   {
@@ -5161,26 +4909,6 @@
   },
   {
     "Firma":"Firma Müller ",
-    "Text":""
-  },
-  {
-    "Firma":"Firma Rentschler",
-    "Text":""
-  },
-  {
-    "Firma":"Firma Vetter-Pharma-Fertigung GmbH und Co. KG",
-    "Text":""
-  },
-  {
-    "Firma":"Firma Voith Turbo GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Firmengruppe Dieter Conle",
-    "Text":""
-  },
-  {
-    "Firma":"Firmengruppe VETTER",
     "Text":""
   },
   {
@@ -5257,11 +4985,7 @@
   },
   {
     "Firma":"Ford",
-    "Text":""
-  },
-  {
-    "Firma":"Ford-Werke GmbH",
-    "Text":""
+    "Text":"Ford-Werke GmbH"
   },
   {
     "Firma":"Forschungs- und Entwicklungsgemeinschaft für Bauphysik e.V.",
@@ -5328,6 +5052,10 @@
     "Text":""
   },
   {
+    "Firma":"Frankfurter Allgemeine Zeitung",
+    "Text":""
+  },
+  {
     "Firma":"Frankfurter Förderverein für Physikalische Grundlagenforschung",
     "Text":""
   },
@@ -5341,10 +5069,6 @@
   },
   {
     "Firma":"Frankfurter Stiftung für krebskranke Kinder",
-    "Text":""
-  },
-  {
-    "Firma":"Frankfuter Allgemeine Zeitung",
     "Text":""
   },
   {
@@ -5376,19 +5100,11 @@
     "Text":""
   },
   {
-    "Firma":"Frau Dr. Doris Schawaller",
-    "Text":""
-  },
-  {
     "Firma":"Frau Prof. Dr.-Ing. Gabriele von Voigt",
     "Text":""
   },
   {
     "Firma":"Frau Roswitha Knopf (in Erinnerung an Günter Knopf, 1. Vizepräsident desADAC von 2000-2011)",
-    "Text":""
-  },
-  {
-    "Firma":"Frauenhofergesellschaft",
     "Text":""
   },
   {
@@ -5437,10 +5153,6 @@
   },
   {
     "Firma":"Freudenberg & Co. KG",
-    "Text":""
-  },
-  {
-    "Firma":"Freudenberg & Co.KG",
     "Text":""
   },
   {
@@ -5508,6 +5220,10 @@
     "Text":""
   },
   {
+    "Firma":"Friedrich Merz-Stiftung",
+    "Text":""
+  },
+  {
     "Firma":"Friedrich Schiedel-Stiftung",
     "Text":""
   },
@@ -5548,19 +5264,15 @@
     "Text":""
   },
   {
-    "Firma":"Fritz Thyssen Stiftung",
-    "Text":""
-  },
-  {
     "Firma":"Fritz und Dorothea Oppermann geb. Kerle Stiftung",
     "Text":""
   },
   {
-    "Firma":"Fritz Winter",
+    "Firma":"Fritz und Hildegard Berg-Stiftung",
     "Text":""
   },
   {
-    "Firma":"Fritz-Henkel-Stiftung",
+    "Firma":"Fritz Winter",
     "Text":""
   },
   {
@@ -5592,11 +5304,7 @@
     "Text":""
   },
   {
-    "Firma":"Fuchs Petrolub AG",
-    "Text":""
-  },
-  {
-    "Firma":"FUCHS PETROLUB SE",
+    "Firma":"Fuchs Petrolub",
     "Text":""
   },
   {
@@ -5648,6 +5356,10 @@
     "Text":""
   },
   {
+    "Firma":"Göbel GmbH",
+    "Text":""
+  },
+  {
     "Firma":"GöRG",
     "Text":""
   },
@@ -5673,10 +5385,6 @@
   },
   {
     "Firma":"Günter-Köhler- Institut f. Fügetechn. u.Werkstoffpr..",
-    "Text":""
-  },
-  {
-    "Firma":"Günther Cramer, Hübner GmbH",
     "Text":""
   },
   {
@@ -5748,18 +5456,6 @@
     "Text":""
   },
   {
-    "Firma":"GE Germany",
-    "Text":""
-  },
-  {
-    "Firma":"GE Healthcare",
-    "Text":""
-  },
-  {
-    "Firma":"GE U/S Deutschland GmbH",
-    "Text":""
-  },
-  {
     "Firma":"GEA Air Treatment GmbH",
     "Text":""
   },
@@ -5772,10 +5468,6 @@
     "Text":""
   },
   {
-    "Firma":"Gebr. Eickhoff Maschinenfabrik und Eisengieöerei GmbH",
-    "Text":""
-  },
-  {
     "Firma":"Gebr. Eickhoff Maschinenfabrik und Eisengießerei GmbH",
     "Text":""
   },
@@ -5785,10 +5477,6 @@
   },
   {
     "Firma":"Gebr. Heinemann SE & Co. KG",
-    "Text":""
-  },
-  {
-    "Firma":"Gebr. Heyl Analysentechnik GmbH & Co. KG",
     "Text":""
   },
   {
@@ -5868,6 +5556,10 @@
     "Text":""
   },
   {
+    "Firma":"General Electric",
+    "Text":"GE U/S Deutschland GmbH, GE Healthcare, GE Germany"
+  },
+  {
     "Firma":"Generali",
     "Text":""
   },
@@ -5941,10 +5633,6 @@
   },
   {
     "Firma":"Gerbstedter Agrar GmbH, Gerbstedt",
-    "Text":""
-  },
-  {
-    "Firma":"Gerda Henkel Stiftung",
     "Text":""
   },
   {
@@ -6028,10 +5716,6 @@
     "Text":""
   },
   {
-    "Firma":"Gesellschaft Deutscher Chemiker e.V.",
-    "Text":""
-  },
-  {
     "Firma":"Gesellschaft f. staatsbürgerl. Bildung, Saarbrücken",
     "Text":""
   },
@@ -6045,10 +5729,6 @@
   },
   {
     "Firma":"Gesellschaft für Wohn- und Gewerbeimmobilien",
-    "Text":""
-  },
-  {
-    "Firma":"Gesellschaft von Freunden der  HFF e.V. (hier: Förderung durch Medienboard Berlin-Brandenburg)",
     "Text":""
   },
   {
@@ -6120,10 +5800,6 @@
     "Text":""
   },
   {
-    "Firma":"GHD",
-    "Text":""
-  },
-  {
     "Firma":"GHD GesundHeits GmbH",
     "Text":""
   },
@@ -6188,12 +5864,8 @@
     "Text":""
   },
   {
-    "Firma":"Glaxo Wellcome GmbH & Co., Bad Oldesloe",
-    "Text":""
-  },
-  {
     "Firma":"Glaxo-Smith-Kline GmbH & Co. KG",
-    "Text":""
+    "Text":"Glaxo Wellcome GmbH & Co., Bad Oldesloe"
   },
   {
     "Firma":"Gleiss Lutz",
@@ -6248,24 +5920,8 @@
     "Text":""
   },
   {
-    "Firma":"Göbel GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Goldbeck Ost GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"GOLDBECK Stiftung, Bielefeld",
-    "Text":""
-  },
-  {
-    "Firma":"Goldbeck West GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Goldbeck-Stiftung",
-    "Text":""
+    "Firma":"Goldbeck",
+    "Text":"Goldbeck West GmbH, Goldbeck Ost GmbH, Goldbeck-Stiftung"
   },
   {
     "Firma":"Goldhofer",
@@ -6308,11 +5964,7 @@
     "Text":""
   },
   {
-    "Firma":"GP Günter Papenburg AG, Halle",
-    "Text":""
-  },
-  {
-    "Firma":"GP Papenburg Entsorgung Ost GmbH",
+    "Firma":"GP Günter Papenburg AG",
     "Text":""
   },
   {
@@ -6340,6 +5992,10 @@
     "Text":""
   },
   {
+    "Firma":"Green Way Systems GmbH",
+    "Text":""
+  },
+  {
     "Firma":"Greenworld",
     "Text":""
   },
@@ -6356,15 +6012,11 @@
     "Text":""
   },
   {
-    "Firma":"Grimme Landmaschinenfabrik GmbH & Co. KG, Damme",
+    "Firma":"Groökraftwerk Mannheim AG",
     "Text":""
   },
   {
     "Firma":"GROB-WERKE",
-    "Text":""
-  },
-  {
-    "Firma":"Groökraftwerk Mannheim AG",
     "Text":""
   },
   {
@@ -6584,10 +6236,6 @@
     "Text":""
   },
   {
-    "Firma":"Hamburger Stiftung zur Förderung von Wissenschaft",
-    "Text":""
-  },
-  {
     "Firma":"Hamburger Stiftung zur Förderung von Wissenschaft und Kultur",
     "Text":""
   },
@@ -6672,10 +6320,6 @@
     "Text":""
   },
   {
-    "Firma":"Hans-Hundegger Maschinenbau",
-    "Text":""
-  },
-  {
     "Firma":"Hans Hussmann GmbH",
     "Text":""
   },
@@ -6688,7 +6332,7 @@
     "Text":""
   },
   {
-    "Firma":"Hans und Ottmar Binder GmbH Süddeutsche Aluminium Manufaktur GmbH",
+    "Firma":"Hans und Ottmar Binder GmbH",
     "Text":""
   },
   {
@@ -6732,6 +6376,10 @@
     "Text":""
   },
   {
+    "Firma":"Hans-Hundegger Maschinenbau",
+    "Text":""
+  },
+  {
     "Firma":"Hans-Jürgen Schulz-Stiftung",
     "Text":""
   },
@@ -6741,6 +6389,10 @@
   },
   {
     "Firma":"Hans-Wilhelm-Renkhoff-Stiftung",
+    "Text":""
+  },
+  {
+    "Firma":"Hanwha Q Cells (Bitterfeld)",
     "Text":""
   },
   {
@@ -6837,10 +6489,6 @@
   },
   {
     "Firma":"HeidelbergCement AG",
-    "Text":""
-  },
-  {
-    "Firma":"Heidenhain, Dr. Johannes",
     "Text":""
   },
   {
@@ -6996,16 +6644,8 @@
     "Text":""
   },
   {
-    "Firma":"Hengeler Mueller Rechtsanwälte,  Herr Reinhold Ernst",
-    "Text":""
-  },
-  {
-    "Firma":"Henkel AG",
-    "Text":""
-  },
-  {
-    "Firma":"Henkel AG & Co. KGaA",
-    "Text":""
+    "Firma":"Henkel",
+    "Text":"Henkel AG, Fritz-Henkel-Stiftung, Gerda Henkel Stiftung"
   },
   {
     "Firma":"Henkelhausen GmbH & Co. KG",
@@ -7025,30 +6665,18 @@
   },
   {
     "Firma":"Henry Lamotte Food GmbH ",
-    "Text":""
+    "Text":"Henry Lamotte Oils GmbH"
   },
   {
-    "Firma":"Henry Lamotte Oils GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Heraeus GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Heraeus Holding GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Heraeus Infosystems GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Heraeus Kulzer GmbH",
-    "Text":""
+    "Firma":"Heraeus",
+    "Text":"Heraeus Kulzer GmbH, Heraeus Holding GmbH, Heraeus Infosystems GmbH"
   },
   {
     "Firma":"Herber & Petzel GmbH & Co. KG",
+    "Text":""
+  },
+  {
+    "Firma":"Herbert Kannegie�er GmbH",
     "Text":""
   },
   {
@@ -7148,10 +6776,6 @@
     "Text":""
   },
   {
-    "Firma":"Herr Prof. Dr. phil. Alexander Kosenina",
-    "Text":""
-  },
-  {
     "Firma":"Herr Prof. Dr.-Ing. Erich Barke",
     "Text":""
   },
@@ -7184,7 +6808,7 @@
     "Text":""
   },
   {
-    "Firma":"Hettich Holding GmbH & Co. oHG, Kirchlengern",
+    "Firma":"Hettich Holding GmbH & Co. oHG",
     "Text":""
   },
   {
@@ -7256,6 +6880,10 @@
     "Text":""
   },
   {
+    "Firma":"HLB Dr. St�ckmann & Partner mbB",
+    "Text":""
+  },
+  {
     "Firma":"hmmh multimediahaus AG",
     "Text":""
   },
@@ -7296,12 +6924,8 @@
     "Text":""
   },
   {
-    "Firma":"HOCHTIEF Concessions AG",
-    "Text":""
-  },
-  {
-    "Firma":"Hochtief Solutions AG",
-    "Text":""
+    "Firma":"Hochtief",
+    "Text":"HOCHTIEF Concessions AG, Hochtief Solutions AG"
   },
   {
     "Firma":"Hoechst",
@@ -7361,6 +6985,10 @@
   },
   {
     "Firma":"Horster, Hermann ",
+    "Text":""
+  },
+  {
+    "Firma":"HorstmannGroup",
     "Text":""
   },
   {
@@ -7441,10 +7069,6 @@
   },
   {
     "Firma":"HUK Coburg",
-    "Text":""
-  },
-  {
-    "Firma":"HUK-COBURG Versicherungsgruppe",
     "Text":""
   },
   {
@@ -7616,11 +7240,7 @@
     "Text":""
   },
   {
-    "Firma":"IHK Erfurt",
-    "Text":""
-  },
-  {
-    "Firma":"IHK LLübeck",
+    "Firma":"IHK Lübeck",
     "Text":""
   },
   {
@@ -7712,15 +7332,15 @@
     "Text":""
   },
   {
-    "Firma":"Industrie- und Handelskammer (IHK) Aachen",
-    "Text":""
-  },
-  {
-    "Firma":"Industrie- und Handelskammer Braunschweig",
-    "Text":""
-  },
-  {
     "Firma":"Industrie- und Handelskammer Erfurt",
+    "Text":""
+  },
+  {
+    "Firma":"Industrie- und Handelskammer Lippe",
+    "Text":""
+  },
+  {
+    "Firma":"Industrie- und Handelskammer Ostwestfalen zu Bielefeld",
     "Text":""
   },
   {
@@ -7812,10 +7432,6 @@
     "Text":""
   },
   {
-    "Firma":"Infraserv GmbH & Co. Knapsack KG",
-    "Text":""
-  },
-  {
     "Firma":"Ing.-büro Lange & Jürries",
     "Text":""
   },
@@ -7872,6 +7488,10 @@
     "Text":""
   },
   {
+    "Firma":"Innotec Solar (Halle)",
+    "Text":""
+  },
+  {
     "Firma":"innovas",
     "Text":""
   },
@@ -7904,11 +7524,7 @@
     "Text":""
   },
   {
-    "Firma":"Institut der deutschen Wirtschaft Köln Akademie GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Institut der deutschen Wirtschaft Köln e.V.",
+    "Firma":"Institut der deutschen Wirtschaft Köln",
     "Text":""
   },
   {
@@ -8017,11 +7633,7 @@
   },
   {
     "Firma":"Intel GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Intel Mobile Communications GmbH",
-    "Text":""
+    "Text":"Intel Mobile Communications GmbH"
   },
   {
     "Firma":"INTER Versicherungsgruppe",
@@ -8108,10 +7720,6 @@
     "Text":""
   },
   {
-    "Firma":"IPH - Inst. f. Integrierte Prod.G.",
-    "Text":""
-  },
-  {
     "Firma":"IPH - Institut für Integrierte Produktion Hannover GmbH",
     "Text":""
   },
@@ -8129,10 +7737,6 @@
   },
   {
     "Firma":"IPSEN LOGISTICS GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Ipsen Logistics GmbH, Bremen",
     "Text":""
   },
   {
@@ -8165,10 +7769,6 @@
   },
   {
     "Firma":"ISR Information Products AG",
-    "Text":""
-  },
-  {
-    "Firma":"Issendorf KG, Sarstedt",
     "Text":""
   },
   {
@@ -8212,10 +7812,6 @@
     "Text":""
   },
   {
-    "Firma":"IURS (Institut für Umwelttechnik und Recycling Senftenberg e.V.)",
-    "Text":""
-  },
-  {
     "Firma":"IURS Institut für Umwelttechnik und Recycling",
     "Text":""
   },
@@ -8229,10 +7825,6 @@
   },
   {
     "Firma":"IWW Rheinisch-Westfälisches Institut für Wasser Beratungs- und Entwicklungsgesellschaft mbH",
-    "Text":""
-  },
-  {
-    "Firma":"J. Bünting-Stiftung",
     "Text":""
   },
   {
@@ -8364,15 +7956,15 @@
     "Text":""
   },
   {
-    "Firma":"Joh. Bünting-Stiftung",
-    "Text":""
-  },
-  {
     "Firma":"Joh. Hübner Stiftung",
     "Text":""
   },
   {
     "Firma":"Joh. Winklhofer Beteiligungs GmbH & Co. KG",
+    "Text":""
+  },
+  {
+    "Firma":"Johann Bünting-Stiftung",
     "Text":""
   },
   {
@@ -8393,10 +7985,6 @@
   },
   {
     "Firma":"Johannes Fries GmbH & Co KG",
-    "Text":""
-  },
-  {
-    "Firma":"Johannes Heidenhain GmbH",
     "Text":""
   },
   {
@@ -8480,6 +8068,10 @@
     "Text":""
   },
   {
+    "Firma":"juris-GmbH",
+    "Text":""
+  },
+  {
     "Firma":"Juristisches Reptitorium hemmer Osnabrück GbR",
     "Text":""
   },
@@ -8521,10 +8113,6 @@
   },
   {
     "Firma":"Köhler-Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Kölner Gymnasial Stiftungsfond",
     "Text":""
   },
   {
@@ -8697,10 +8285,6 @@
   },
   {
     "Firma":"Karlheinz Föhlinger",
-    "Text":""
-  },
-  {
-    "Firma":"Karl-Heinz Foehlinger",
     "Text":""
   },
   {
@@ -8892,12 +8476,12 @@
     "Text":""
   },
   {
-    "Firma":"Klaus Krone Stiftung",
+    "Firma":"Klaus Schäfer Holding GmbH & Co. KG",
     "Text":""
   },
   {
-    "Firma":"Klaus Schäfer Holding GmbH & Co. KG",
-    "Text":""
+    "Firma":"Klaus Tschira Stiftung",
+    "Text":"EML Research gGmbH (Tochtergesellschaft der Klaus Tschira Stiftung)"
   },
   {
     "Firma":"Klavierhaus M. Fiech",
@@ -8965,10 +8549,6 @@
   },
   {
     "Firma":"Klinikum Oldenburg",
-    "Text":""
-  },
-  {
-    "Firma":"Klinikum Oldenburg gGmbH",
     "Text":""
   },
   {
@@ -9052,12 +8632,8 @@
     "Text":""
   },
   {
-    "Firma":"Komatsu Hanomag GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Komatsu Mining Germany",
-    "Text":""
+    "Firma":"Komatsu",
+    "Text":"Komatsu Hanomag GmbH, Komatsu Mining Germany"
   },
   {
     "Firma":"Komet Group GmbH",
@@ -9257,7 +8833,7 @@
   },
   {
     "Firma":"Krone",
-    "Text":""
+    "Text":"Krone Stiftung"
   },
   {
     "Firma":"Krones AG",
@@ -9324,12 +8900,8 @@
     "Text":""
   },
   {
-    "Firma":"KWS Mais GmbH, Einbeck",
-    "Text":""
-  },
-  {
-    "Firma":"KWS Saat AG",
-    "Text":""
+    "Firma":"KWS",
+    "Text":"KWS Saat AG, KWS Mais GmbH, Einbeck"
   },
   {
     "Firma":"KW-TV Wildau",
@@ -9432,19 +9004,7 @@
     "Text":""
   },
   {
-    "Firma":"Landesparkasse Oldenburg",
-    "Text":""
-  },
-  {
-    "Firma":"Landessparkasse Oldenburg",
-    "Text":""
-  },
-  {
     "Firma":"Landessparkasse zu Oldenburg",
-    "Text":""
-  },
-  {
-    "Firma":"Landessparkasse zu Oldenburg, Vechta",
     "Text":""
   },
   {
@@ -9465,10 +9025,6 @@
   },
   {
     "Firma":"Landkreis Vechta",
-    "Text":""
-  },
-  {
-    "Firma":"Landschaftliche Brandkasse",
     "Text":""
   },
   {
@@ -9653,11 +9209,7 @@
   },
   {
     "Firma":"Liebherr-Holding",
-    "Text":""
-  },
-  {
-    "Firma":"Liebherr-Verzahntechnik GmbH",
-    "Text":""
+    "Text":"Liebherr-Verzahntechnik GmbH"
   },
   {
     "Firma":"Lienstädt, Bernd ",
@@ -9768,10 +9320,6 @@
     "Text":""
   },
   {
-    "Firma":"Lions-Club Frankfurt (Oder) e.V.",
-    "Text":""
-  },
-  {
     "Firma":"Lionsclub Willa Thorade",
     "Text":""
   },
@@ -9853,10 +9401,6 @@
   },
   {
     "Firma":"Louise-Blackborne-Stiftung ",
-    "Text":""
-  },
-  {
-    "Firma":"LPI Ingenieurgesellsch. mbH",
     "Text":""
   },
   {
@@ -10000,10 +9544,6 @@
     "Text":""
   },
   {
-    "Firma":"Müsiad Berlin e.V.",
-    "Text":""
-  },
-  {
     "Firma":"MüSIAD e.V.",
     "Text":""
   },
@@ -10013,10 +9553,6 @@
   },
   {
     "Firma":"Madsack GmbH & Co.KG",
-    "Text":""
-  },
-  {
-    "Firma":"Madsack-Media-Store GmbH & Co. KG",
     "Text":""
   },
   {
@@ -10045,6 +9581,10 @@
   },
   {
     "Firma":"Mainsite GmbH & Co. KG",
+    "Text":""
+  },
+  {
+    "Firma":"Main-Tauber-Kreis",
     "Text":""
   },
   {
@@ -10112,10 +9652,6 @@
     "Text":""
   },
   {
-    "Firma":"MAPAL Präzisionswerkzeuge KG",
-    "Text":""
-  },
-  {
     "Firma":"Marburger Bund Bundesverband - Verband der angestellten und beamteten ärztinnen und ärzte Deutschlands e.V.",
     "Text":""
   },
@@ -10125,10 +9661,6 @@
   },
   {
     "Firma":"Margaretha- und Josephinen-Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Mariaan Steegmann Foundation, Vaduz",
     "Text":""
   },
   {
@@ -10308,10 +9840,6 @@
     "Text":""
   },
   {
-    "Firma":"Mecklenburgische Versicherungsgesellschaft AG",
-    "Text":""
-  },
-  {
     "Firma":"Mecklenburgische Versicherungsgruppe",
     "Text":""
   },
@@ -10324,12 +9852,8 @@
     "Text":""
   },
   {
-    "Firma":"Meda Manufacturing GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Meda Pharma GmbH",
-    "Text":""
+    "Firma":"Meda",
+    "Text":"Meda Manufacturing GmbH, Meda Pharma GmbH"
   },
   {
     "Firma":"Medac GmbH",
@@ -10424,6 +9948,10 @@
     "Text":""
   },
   {
+    "Firma":"Melitta Bentz GmbH & Co. KG",
+    "Text":""
+  },
+  {
     "Firma":"Mende Markenting GmbH",
     "Text":""
   },
@@ -10437,10 +9965,6 @@
   },
   {
     "Firma":"Mercedes-Benz AG, Bielefeld",
-    "Text":""
-  },
-  {
-    "Firma":"Mercedes-Benz Vans",
     "Text":""
   },
   {
@@ -10528,6 +10052,10 @@
     "Text":""
   },
   {
+    "Firma":"MEYTEC GmbH Informationssysteme",
+    "Text":""
+  },
+  {
     "Firma":"MFPA Leipzig GmbH",
     "Text":""
   },
@@ -10541,6 +10069,10 @@
   },
   {
     "Firma":"Mibrak",
+    "Text":""
+  },
+  {
+    "Firma":"Michael Otto Stiftung f�r Umweltschutz",
     "Text":""
   },
   {
@@ -10712,10 +10244,6 @@
     "Text":""
   },
   {
-    "Firma":"Muhr & Bender KG",
-    "Text":""
-  },
-  {
     "Firma":"Muhr und Bender KG",
     "Text":""
   },
@@ -10729,10 +10257,6 @@
   },
   {
     "Firma":"Mundipharma GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Mundstock Stiftung",
     "Text":""
   },
   {
@@ -10837,10 +10361,6 @@
   },
   {
     "Firma":"N-ERGIE AG",
-    "Text":""
-  },
-  {
-    "Firma":"Nesseler Grünzig Bau GmbH",
     "Text":""
   },
   {
@@ -10992,10 +10512,6 @@
     "Text":""
   },
   {
-    "Firma":"Nietiedt Verwaltungs GmbH",
-    "Text":""
-  },
-  {
     "Firma":"Nietiedt-Gruppe",
     "Text":""
   },
@@ -11012,11 +10528,11 @@
     "Text":""
   },
   {
-    "Firma":"Noerr LLP",
+    "Firma":"Nobilia-Werke J. Stickling GmbH & Co. KG",
     "Text":""
   },
   {
-    "Firma":"Noerr-Gruppe/Noerr LLP",
+    "Firma":"Noerr-Gruppe",
     "Text":""
   },
   {
@@ -11029,10 +10545,6 @@
   },
   {
     "Firma":"Nord LB",
-    "Text":""
-  },
-  {
-    "Firma":"Nord LB, Hannover",
     "Text":""
   },
   {
@@ -11053,7 +10565,7 @@
   },
   {
     "Firma":"Nordmetall",
-    "Text":"Nordmetall-Stiftung"
+    "Text":"Nordmetall-Stiftung, NORDMETALL- Verband der Metall- und Elektroindustrie e.V."
   },
   {
     "Firma":"Nordseezeitung",
@@ -11125,10 +10637,6 @@
   },
   {
     "Firma":"nugg.ad",
-    "Text":""
-  },
-  {
-    "Firma":"nugg.ad AG",
     "Text":""
   },
   {
@@ -11344,6 +10852,10 @@
     "Text":""
   },
   {
+    "Firma":"Osypka",
+    "Text":"Peter-Osypka-Stiftung"
+  },
+  {
     "Firma":"Oticon A/S",
     "Text":""
   },
@@ -11436,6 +10948,10 @@
     "Text":""
   },
   {
+    "Firma":"Péter Horváth",
+    "Text":""
+  },
+  {
     "Firma":"Pöllath+Partners",
     "Text":""
   },
@@ -11524,20 +11040,12 @@
     "Text":""
   },
   {
-    "Firma":"PCK Schwedt",
-    "Text":""
-  },
-  {
     "Firma":"PC-Ware Information Technologies GmbH/AG",
     "Text":""
   },
   {
-    "Firma":"P-D ChemiePark Bitterfeld Wolfen GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"P-D Management Industries - Technologies GmbH",
-    "Text":""
+    "Firma":"P-D group",
+    "Text":"P-D Management Industries - Technologies GmbH, P-D ChemiePark Bitterfeld Wolfen GmbH"
   },
   {
     "Firma":"Peace Factory Augsburg GbR",
@@ -11628,15 +11136,7 @@
     "Text":""
   },
   {
-    "Firma":"Peter Wefing Stiftung, Bremen",
-    "Text":""
-  },
-  {
     "Firma":"Peter-Lancier-Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Peter-Osypka-Stiftung Grenzach",
     "Text":""
   },
   {
@@ -11692,19 +11192,15 @@
     "Text":""
   },
   {
+    "Firma":"Philotech Systementwicklung und Software GmbH",
+    "Text":""
+  },
+  {
     "Firma":"Phoenix Contact",
     "Text":""
   },
   {
-    "Firma":"PHOENIX CONTACT GmbH & Co. KG",
-    "Text":""
-  },
-  {
     "Firma":"PHOENIX Pharmahandel GmbH & Co. KG",
-    "Text":""
-  },
-  {
-    "Firma":"Phoenix-Contact GmbH & Co KG",
     "Text":""
   },
   {
@@ -11733,14 +11229,6 @@
   },
   {
     "Firma":"Pilz GmbH & Co. KG",
-    "Text":""
-  },
-  {
-    "Firma":"Pilz GmbH & Co.KG",
-    "Text":""
-  },
-  {
-    "Firma":"Pius Hospital",
     "Text":""
   },
   {
@@ -11853,10 +11341,6 @@
   },
   {
     "Firma":"PricewaterhouseCoopers",
-    "Text":""
-  },
-  {
-    "Firma":"PrincewaterhouseCoopers",
     "Text":""
   },
   {
@@ -12056,10 +11540,6 @@
     "Text":""
   },
   {
-    "Firma":"Prof.Dr. Hans-Wolf Sievert",
-    "Text":""
-  },
-  {
     "Firma":"Prof.Dr. Jürgen Kriz",
     "Text":""
   },
@@ -12148,6 +11628,10 @@
     "Text":""
   },
   {
+    "Firma":"PV Crystalox (Erfurt)",
+    "Text":""
+  },
+  {
     "Firma":"PVS - Privatärztliche VerrechnungsStelle Rhein-Ruhr GmbH",
     "Text":""
   },
@@ -12192,10 +11676,6 @@
     "Text":""
   },
   {
-    "Firma":"R + V Allgemeine Versicherung AG",
-    "Text":""
-  },
-  {
     "Firma":"R,B & E Klinik GmbH, Pforzheim",
     "Text":""
   },
@@ -12232,12 +11712,8 @@
     "Text":""
   },
   {
-    "Firma":"Rücker AG",
-    "Text":""
-  },
-  {
-    "Firma":"Rücker GmbH",
-    "Text":""
+    "Firma":"Rücker",
+    "Text":"Rücker AG, Rücker GmbH"
   },
   {
     "Firma":"Rügenwalder Mühle",
@@ -12428,6 +11904,10 @@
     "Text":""
   },
   {
+    "Firma":"Rentschler",
+    "Text":"Dr. Rentschler Holding GmbH & Co.KG"
+  },
+  {
     "Firma":"Reply Deutschland GmbH & Co. KG, Gütersloh",
     "Text":""
   },
@@ -12449,11 +11929,7 @@
   },
   {
     "Firma":"REWE Group",
-    "Text":""
-  },
-  {
-    "Firma":"REWE Zentralfinanz eG",
-    "Text":""
+    "Text":"REWE Zentralfinanz eG"
   },
   {
     "Firma":"RF Forschungsschiffahrt GmbH",
@@ -12592,16 +12068,8 @@
     "Text":""
   },
   {
-    "Firma":"ROHDE & SCHWARZ GmbH & Co. KG",
-    "Text":""
-  },
-  {
-    "Firma":"Rohde Familien Holding",
-    "Text":""
-  },
-  {
-    "Firma":"Rohde Tief- u. Straßenbau GmbH",
-    "Text":""
+    "Firma":"Rohde Gruppe",
+    "Text":"Rohde Familien Holding, ROHDE & SCHWARZ GmbH & Co. KG, Rohde Tief- u. Straßenbau GmbH, Ulrich L. Rohde Stiftung"
   },
   {
     "Firma":"Roland Berger Strategy Consultants GmbH",
@@ -12804,10 +12272,6 @@
     "Text":""
   },
   {
-    "Firma":"Rotary International Dr. Pyritz",
-    "Text":""
-  },
-  {
     "Firma":"Rotary-Club",
     "Text":""
   },
@@ -12864,10 +12328,6 @@
     "Text":""
   },
   {
-    "Firma":"Rudolf Augstein Stiftung",
-    "Text":""
-  },
-  {
     "Firma":"Rudolf Chaudoire-Stiftung",
     "Text":""
   },
@@ -12892,15 +12352,11 @@
     "Text":""
   },
   {
-    "Firma":"Rudolf-Augstein-Stiftung Hamburg",
-    "Text":""
-  },
-  {
     "Firma":"Rudolf-Becker-Stiftung",
     "Text":""
   },
   {
-    "Firma":"Rudolf-Chaudoire-StiftungSparkasse Dortmund   ",
+    "Firma":"Rudolf-Chaudoire-Stiftung",
     "Text":""
   },
   {
@@ -12929,10 +12385,6 @@
   },
   {
     "Firma":"RWE",
-    "Text":""
-  },
-  {
-    "Firma":"RWE Deutschland AG",
     "Text":""
   },
   {
@@ -12992,11 +12444,11 @@
     "Text":""
   },
   {
-    "Firma":"Südwestbank",
+    "Firma":"Süddeutsche Aluminium Manufaktur GmbH",
     "Text":""
   },
   {
-    "Firma":"Südwestbank AG",
+    "Firma":"Südwestbank",
     "Text":""
   },
   {
@@ -13021,10 +12473,6 @@
   },
   {
     "Firma":"Saint Gobain",
-    "Text":""
-  },
-  {
-    "Firma":"Saint-Gobain Building Distribution Deutschland GmbH",
     "Text":""
   },
   {
@@ -13073,11 +12521,7 @@
   },
   {
     "Firma":"Sanofi Aventis",
-    "Text":""
-  },
-  {
-    "Firma":"Sanofi-Aventis Deutschland GmbH",
-    "Text":""
+    "Text":"Sanofi-Aventis Deutschland GmbH, Aventis Foundation"
   },
   {
     "Firma":"Santander Bank",
@@ -13096,24 +12540,8 @@
     "Text":""
   },
   {
-    "Firma":"Sartorius AG",
-    "Text":""
-  },
-  {
-    "Firma":"Sartorius Corporate Administration GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Sartorius Corporate Administrative GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Sartorius Konzern",
-    "Text":""
-  },
-  {
-    "Firma":"Sartorius Stedim Biotech GmbH",
-    "Text":""
+    "Firma":"Sartorius",
+    "Text":"Sartorius Corporate Administration GmbH, Sartorius Stedim Biotech GmbH"
   },
   {
     "Firma":"SASOL Germany GmbH ",
@@ -13280,10 +12708,6 @@
     "Text":""
   },
   {
-    "Firma":"Schorch Elektrische Maschinen und Antriebe GmbH",
-    "Text":""
-  },
-  {
     "Firma":"Schorch GmbH",
     "Text":""
   },
@@ -13292,11 +12716,7 @@
     "Text":""
   },
   {
-    "Firma":"Schott Glas Konzerns",
-    "Text":""
-  },
-  {
-    "Firma":"Schott Jenaer Glas GmbH",
+    "Firma":"Schott Glas",
     "Text":""
   },
   {
@@ -13313,10 +12733,6 @@
   },
   {
     "Firma":"Schubert, Ruediger",
-    "Text":""
-  },
-  {
-    "Firma":"Schuler, Beate",
     "Text":""
   },
   {
@@ -13337,11 +12753,7 @@
   },
   {
     "Firma":"Schwäbisch Hall",
-    "Text":""
-  },
-  {
-    "Firma":"Schwäbisch Hall Kredit Service AG",
-    "Text":""
+    "Text":"Schwäbisch Hall Kredit Service AG"
   },
   {
     "Firma":"SchwörerHaus KG",
@@ -13425,10 +12837,6 @@
   },
   {
     "Firma":"Selbsthilfeverein Nutzer i. L.",
-    "Text":""
-  },
-  {
-    "Firma":"Selbsthilfeverein Nutzer i.L.",
     "Text":""
   },
   {
@@ -13604,12 +13012,8 @@
     "Text":""
   },
   {
-    "Firma":"Sievert AG",
-    "Text":""
-  },
-  {
-    "Firma":"Sievert AG, Osnabrück",
-    "Text":""
+    "Firma":"Sievert",
+    "Text":"Sievert AG, Sievert Stiftung f�r Wissenschaft und Kultur, Hans-Wolf Sievert"
   },
   {
     "Firma":"SIG Combibloc GmbH",
@@ -13640,7 +13044,7 @@
     "Text":""
   },
   {
-    "Firma":"Simon Claussen-Stiftung",
+    "Firma":"Siltectra (Dresden)",
     "Text":""
   },
   {
@@ -13657,6 +13061,10 @@
   },
   {
     "Firma":"SisTeam Group",
+    "Text":""
+  },
+  {
+    "Firma":"SITEC Industrietechnologie (Chemnitz)",
     "Text":""
   },
   {
@@ -13681,6 +13089,10 @@
   },
   {
     "Firma":"SMA Solar Technology AG",
+    "Text":""
+  },
+  {
+    "Firma":"Smart Membranes (Halle)",
     "Text":""
   },
   {
@@ -13744,11 +13156,7 @@
     "Text":""
   },
   {
-    "Firma":"Sophien- und Hufeland-Klinikum gGmbH / Prof. Dr.-Ing. Jischa",
-    "Text":""
-  },
-  {
-    "Firma":"Sophien-Klinik",
+    "Firma":"Sophien- und Hufeland-Klinikum gGmbH",
     "Text":""
   },
   {
@@ -13808,16 +13216,8 @@
     "Text":""
   },
   {
-    "Firma":"Sparda Bank Hannover Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Sparda Bank Hannover-Stiftung",
-    "Text":""
-  },
-  {
     "Firma":"Sparda Bank, Hannover",
-    "Text":""
+    "Text":"Sparda Bank Hannover-Stiftung"
   },
   {
     "Firma":"Sparda-Bank Augsburg eG",
@@ -13832,11 +13232,11 @@
     "Text":""
   },
   {
-    "Firma":"Sparkasse Allgäu",
+    "Firma":"Sparkasse Aachen",
     "Text":""
   },
   {
-    "Firma":"Sparkasse Aachen",
+    "Firma":"Sparkasse Allgäu",
     "Text":""
   },
   {
@@ -13857,7 +13257,7 @@
   },
   {
     "Firma":"Sparkasse Bielefeld",
-    "Text":""
+    "Text":"Stiftung der Sparkasse Bielefeld"
   },
   {
     "Firma":"Sparkasse Bochum",
@@ -13881,6 +13281,10 @@
   },
   {
     "Firma":"Sparkasse Düren",
+    "Text":""
+  },
+  {
+    "Firma":"Sparkasse Dortmund",
     "Text":""
   },
   {
@@ -13933,10 +13337,14 @@
   },
   {
     "Firma":"Sparkasse Jena-Saale- Holzland",
-    "Text":""
+    "Text":"Sparkassenstiftung Jena- Saale-Holzland"
   },
   {
     "Firma":"Sparkasse KölnBonn",
+    "Text":""
+  },
+  {
+    "Firma":"Sparkasse Kassel",
     "Text":""
   },
   {
@@ -14001,7 +13409,7 @@
   },
   {
     "Firma":"Sparkasse Oder-Spree",
-    "Text":""
+    "Text":"Stiftung der Sparkasse Oder-Spree"
   },
   {
     "Firma":"Sparkasse Osnabrück",
@@ -14037,6 +13445,10 @@
   },
   {
     "Firma":"Sparkasse Spree-Neiße",
+    "Text":""
+  },
+  {
+    "Firma":"Sparkasse Tauberfranken",
     "Text":""
   },
   {
@@ -14080,11 +13492,11 @@
     "Text":""
   },
   {
-    "Firma":"Sparkassenstiftung Heilbronn",
+    "Firma":"Sparkassen-Finanzgruppe",
     "Text":""
   },
   {
-    "Firma":"Sparkassenstiftung Jena- Saale-Holzland",
+    "Firma":"Sparkassenstiftung Heilbronn",
     "Text":""
   },
   {
@@ -14101,10 +13513,6 @@
   },
   {
     "Firma":"Spedition Jakob Weets",
-    "Text":""
-  },
-  {
-    "Firma":"Spender möchte namentlich nicht genannt werden",
     "Text":""
   },
   {
@@ -14141,10 +13549,6 @@
   },
   {
     "Firma":"Sponsors Verlag GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Sport Thieme GmbH",
     "Text":""
   },
   {
@@ -14188,14 +13592,6 @@
     "Text":""
   },
   {
-    "Firma":"Städt. Klinikum Wolfenbüttel gGmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Städt. Sparkasse Bremerhaven",
-    "Text":""
-  },
-  {
     "Firma":"Städt.Klinikum BS",
     "Text":""
   },
@@ -14225,6 +13621,10 @@
   },
   {
     "Firma":"Stadt Bad Homburg",
+    "Text":""
+  },
+  {
+    "Firma":"Stadt Bad Mergentheim",
     "Text":""
   },
   {
@@ -14316,6 +13716,10 @@
     "Text":""
   },
   {
+    "Firma":"Stadtwerk Tauberfranken",
+    "Text":""
+  },
+  {
     "Firma":"Stadtwerke Amberg GmbH",
     "Text":""
   },
@@ -14328,12 +13732,8 @@
     "Text":""
   },
   {
-    "Firma":"Stadtwerke Bochum GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Stadtwerke Bochum Holding GmbH",
-    "Text":""
+    "Firma":"Stadtwerke Bochum",
+    "Text":"Stadtwerke Bochum Holding GmbH"
   },
   {
     "Firma":"Stadtwerke Coesfeld GmbH",
@@ -14356,10 +13756,6 @@
     "Text":""
   },
   {
-    "Firma":"Stadtwerke Göttingen AG",
-    "Text":""
-  },
-  {
     "Firma":"Stadtwerke Gieöen",
     "Text":""
   },
@@ -14372,10 +13768,6 @@
     "Text":""
   },
   {
-    "Firma":"Stadtwerke Hamm GmbH",
-    "Text":""
-  },
-  {
     "Firma":"Stadtwerke Hannover AG",
     "Text":""
   },
@@ -14385,10 +13777,6 @@
   },
   {
     "Firma":"Stadtwerke Leipzig",
-    "Text":""
-  },
-  {
-    "Firma":"Stadtwerke Leipzig GmbH",
     "Text":""
   },
   {
@@ -14428,15 +13816,7 @@
     "Text":""
   },
   {
-    "Firma":"Stadtwerke, Hannover",
-    "Text":""
-  },
-  {
     "Firma":"Stahl-Stiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Standortsicherung Kreis Lippe",
     "Text":""
   },
   {
@@ -14453,10 +13833,6 @@
   },
   {
     "Firma":"STAWAG - Stadtwerke Aachen AG",
-    "Text":""
-  },
-  {
-    "Firma":"Steegmann Foundation, Vaduz",
     "Text":""
   },
   {
@@ -14520,15 +13896,7 @@
     "Text":""
   },
   {
-    "Firma":"Stifterverband für die Deutsche Wirtschaft",
-    "Text":""
-  },
-  {
     "Firma":"Stifterverband für die Deutsche Wissenschaft",
-    "Text":""
-  },
-  {
-    "Firma":"Fritz und Hildegard Berg-Stiftung",
     "Text":""
   },
   {
@@ -14568,10 +13936,6 @@
     "Text":""
   },
   {
-    "Firma":"Stiftung der Bremer Landesbank",
-    "Text":""
-  },
-  {
     "Firma":"Stiftung der Georg-August-Universität",
     "Text":""
   },
@@ -14584,14 +13948,6 @@
     "Text":""
   },
   {
-    "Firma":"Stiftung der Metallindustrie im Nord-Westen",
-    "Text":""
-  },
-  {
-    "Firma":"Stiftung der Metallindustrie Nord-West Oldenburg",
-    "Text":""
-  },
-  {
     "Firma":"Stiftung der Metallindustrie Nord-Westen",
     "Text":""
   },
@@ -14601,10 +13957,6 @@
   },
   {
     "Firma":"Stiftung der Sparkasse Gifhorn-Wolfsburg",
-    "Text":""
-  },
-  {
-    "Firma":"Stiftung der Sparkasse Oder-Spree",
     "Text":""
   },
   {
@@ -14652,6 +14004,10 @@
     "Text":""
   },
   {
+    "Firma":"Stiftung Familienunternehmen",
+    "Text":""
+  },
+  {
     "Firma":"Stiftung Freundeskreis Immobilienwirtschaft",
     "Text":""
   },
@@ -14689,10 +14045,6 @@
   },
   {
     "Firma":"Stiftung Jugend, Natur und Heimat der Sparkasse Hohenlohekreis, Künzelsau",
-    "Text":""
-  },
-  {
-    "Firma":"Stiftung Kreissparkasse Esslingen-Nürtingen",
     "Text":""
   },
   {
@@ -14752,6 +14104,10 @@
     "Text":""
   },
   {
+    "Firma":"Stiftung Pro DHBW Mosbach",
+    "Text":""
+  },
+  {
     "Firma":"Stiftung Pro Duale Ausbildung der Handwerkskammer zu Köln",
     "Text":""
   },
@@ -14789,6 +14145,10 @@
   },
   {
     "Firma":"Stiftung Universitätsmedizin Essen",
+    "Text":""
+  },
+  {
+    "Firma":"Stiftung Urologische Forschung",
     "Text":""
   },
   {
@@ -14876,11 +14236,7 @@
     "Text":""
   },
   {
-    "Firma":"Stryker GmbH & Co. KG",
-    "Text":""
-  },
-  {
-    "Firma":"Stryker SA",
+    "Firma":"Stryker",
     "Text":""
   },
   {
@@ -14941,18 +14297,10 @@
   },
   {
     "Firma":"SV Werder Bremen GmbH & Co. KG, Bremen",
-    "Text":""
-  },
-  {
-    "Firma":"SV Werder Bremen Stiftung, Bremen",
-    "Text":""
+    "Text":"SV Werder Bremen Stiftung, Bremen"
   },
   {
     "Firma":"swb AG",
-    "Text":""
-  },
-  {
-    "Firma":"SWB AG, Bremen",
     "Text":""
   },
   {
@@ -15024,27 +14372,11 @@
     "Text":""
   },
   {
-    "Firma":"TüV Rheinland AG",
-    "Text":""
-  },
-  {
-    "Firma":"TüV Rheinland Group",
-    "Text":""
-  },
-  {
-    "Firma":"TüV Rheinland Holding AG",
+    "Firma":"TüV Rheinland",
     "Text":""
   },
   {
     "Firma":"TüV Süd",
-    "Text":""
-  },
-  {
-    "Firma":"TüV SüD AG",
-    "Text":""
-  },
-  {
-    "Firma":"TüV Süd Stiftung",
     "Text":""
   },
   {
@@ -15092,11 +14424,7 @@
     "Text":""
   },
   {
-    "Firma":"Taylor Wessing ",
-    "Text":""
-  },
-  {
-    "Firma":"Taylor Wessing Partnerschaftsgesellschaft",
+    "Firma":"Taylor Wessing",
     "Text":""
   },
   {
@@ -15336,12 +14664,8 @@
     "Text":""
   },
   {
-    "Firma":"Thyssen Krupp Steel AG",
-    "Text":""
-  },
-  {
     "Firma":"ThyssenKrupp",
-    "Text":""
+    "Text":"Thyssen Krupp Steel AG, Fritz Thyssen Stiftung"
   },
   {
     "Firma":"Tierkörperbeseitigungsanstalt Kraftisried",
@@ -15388,12 +14712,8 @@
     "Text":""
   },
   {
-    "Firma":"TOTAL Bitumen Deutschland GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"TOTAL Raffinerie Mitteldeutschland GmbH",
-    "Text":""
+    "Firma":"TOTAL",
+    "Text":"TOTAL Bitumen Deutschland GmbH, TOTAL Raffinerie Mitteldeutschland GmbH"
   },
   {
     "Firma":"TOX Pressotechnik GmbH & Co. KG",
@@ -15564,6 +14884,10 @@
     "Text":""
   },
   {
+    "Firma":"UNIQA Versicherungen AG",
+    "Text":""
+  },
+  {
     "Firma":"Unister Holding GmbH",
     "Text":""
   },
@@ -15588,11 +14912,7 @@
     "Text":""
   },
   {
-    "Firma":"UniversitätsGesellschaft Erfurt e.V.",
-    "Text":""
-  },
-  {
-    "Firma":"Universitäts-Gesellschaft Erfurt e.V.",
+    "Firma":"Universitätsgesellschaft Erfurt e.V.",
     "Text":""
   },
   {
@@ -15632,10 +14952,6 @@
     "Text":""
   },
   {
-    "Firma":"UNIQA Versicherungen AG",
-    "Text":""
-  },
-  {
     "Firma":"Unternehmensgruppe Aschendorff",
     "Text":""
   },
@@ -15653,10 +14969,6 @@
   },
   {
     "Firma":"Unternehmensverband Westfalen Mitte e.V.",
-    "Text":""
-  },
-  {
-    "Firma":"Unternehmer Verbände Niedersachsen e. V.",
     "Text":""
   },
   {
@@ -15696,16 +15008,8 @@
     "Text":""
   },
   {
-    "Firma":"Valeo Eclairage Signalisation",
-    "Text":""
-  },
-  {
-    "Firma":"Valeo Klimasysteme GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Valeo Schalter und Sensoren GmbH Bietigheim-Bissingen",
-    "Text":""
+    "Firma":"Valeo",
+    "Text":"Valeo Eclairage Signalisation, Valeo Klimasysteme GmbH, Valeo Schalter und Sensoren GmbH Bietigheim-Bissingen"
   },
   {
     "Firma":"Varus Gesellschaft",
@@ -15784,6 +15088,10 @@
     "Text":""
   },
   {
+    "Firma":"Verband der Automobilindustrie",
+    "Text":""
+  },
+  {
     "Firma":"Verband der Bahnindustrie in Deutschland (VDB) e.V.",
     "Text":""
   },
@@ -15821,10 +15129,6 @@
   },
   {
     "Firma":"Verein der Förderer der Fachhochschule Oldenburg e.V.",
-    "Text":""
-  },
-  {
-    "Firma":"Verein der Förderer der FH OL",
     "Text":""
   },
   {
@@ -15873,10 +15177,6 @@
   },
   {
     "Firma":"Verein deutscher Ingenieure e.V.",
-    "Text":""
-  },
-  {
-    "Firma":"Verein Deutscher Ingenieure, Osnabrück",
     "Text":""
   },
   {
@@ -16040,6 +15340,10 @@
     "Text":""
   },
   {
+    "Firma":"Vetter",
+    "Text":"Firma Vetter-Pharma-Fertigung GmbH und Co. KG"
+  },
+  {
     "Firma":"VFF Verwertungsgesellschaft der Film und Fernsehproduzenten mbH München",
     "Text":""
   },
@@ -16048,23 +15352,7 @@
     "Text":""
   },
   {
-    "Firma":"VGH - Landschaftliche Brandkasse Hannover",
-    "Text":""
-  },
-  {
-    "Firma":"VGH Landschaftliche Brandkasse",
-    "Text":""
-  },
-  {
-    "Firma":"VGH Stiftung und Sparkasse Hildesheim",
-    "Text":""
-  },
-  {
     "Firma":"VGH Versicherungen",
-    "Text":""
-  },
-  {
-    "Firma":"VGH, Hannover",
     "Text":""
   },
   {
@@ -16129,18 +15417,10 @@
   },
   {
     "Firma":"Visus GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Visus Technology Transfer",
-    "Text":""
+    "Text":"Visus Technology Transfer"
   },
   {
     "Firma":"VivaKi",
-    "Text":""
-  },
-  {
-    "Firma":"VivaKi Service GmbH",
     "Text":""
   },
   {
@@ -16168,24 +15448,8 @@
     "Text":""
   },
   {
-    "Firma":"Voith GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Voith Industrial Service Holding GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Voith Paper GmbH & Co. KG",
-    "Text":""
-  },
-  {
-    "Firma":"Voith Paper Holding GmbH & Co. KG",
-    "Text":""
-  },
-  {
-    "Firma":"Voith Turbo BHS Getriebe GmbH",
-    "Text":""
+    "Firma":"Voith",
+    "Text":"Voith Industrial Service Holding GmbH, Voith Paper Holding GmbH & Co. KG, Voith Turbo BHS Getriebe GmbH"
   },
   {
     "Firma":"Volksbank",
@@ -16272,15 +15536,11 @@
     "Text":""
   },
   {
-    "Firma":"Volksbank Vechta eG, Vechta",
+    "Firma":"Volksbanken im Allgäu",
     "Text":""
   },
   {
     "Firma":"Volksbanken im Kreis Siegen-Wittgenstein",
-    "Text":""
-  },
-  {
-    "Firma":"Volksbanken im Allgäu",
     "Text":""
   },
   {
@@ -16312,6 +15572,10 @@
     "Text":""
   },
   {
+    "Firma":"Von Bodelschwinghsche Stiftungen Bethel",
+    "Text":""
+  },
+  {
     "Firma":"Von Bonin Personalberatung GmbH",
     "Text":""
   },
@@ -16321,6 +15585,10 @@
   },
   {
     "Firma":"Von Mende Marketing GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"von Opel Hessischen Zoostiftung",
     "Text":""
   },
   {
@@ -16336,12 +15604,8 @@
     "Text":""
   },
   {
-    "Firma":"Vorwerk Autotec GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Vorwerk Elektrowerke GmbH & Co. KG",
-    "Text":""
+    "Firma":"Vorwerk",
+    "Text":"Vorwerk Autotec GmbH, Vorwerk Elektrowerke GmbH & Co. KG"
   },
   {
     "Firma":"Votum-Stiftung",
@@ -16456,10 +15720,6 @@
     "Text":""
   },
   {
-    "Firma":"Waldburg-Zeil Kliniken GmbH & Co. KG",
-    "Text":""
-  },
-  {
     "Firma":"Waldeck Rechtsanwälte Partnerschaft",
     "Text":""
   },
@@ -16500,6 +15760,10 @@
     "Text":""
   },
   {
+    "Firma":"Waskönig",
+    "Text":"Dr. h.c. Peter Waskönig-Stiftung, Fa. Waskönig + Walter Kabelwerke"
+  },
+  {
     "Firma":"Wassermann, Prof. Dr. Gordon und Brigitte",
     "Text":""
   },
@@ -16508,12 +15772,12 @@
     "Text":""
   },
   {
-    "Firma":"WAZ",
+    "Firma":"Wavelabs (Leipzig)",
     "Text":""
   },
   {
-    "Firma":"WAZ Westdeutsche Allgemeine Zeitung",
-    "Text":""
+    "Firma":"WAZ",
+    "Text":"WAZ Westdeutsche Allgemeine Zeitung"
   },
   {
     "Firma":"WBI PROFESSOR DR.-ING. W. WITTKE Beratende Ingenieure für GRUNDBAU UND FELSBAU GmbH",
@@ -16652,10 +15916,6 @@
     "Text":""
   },
   {
-    "Firma":"Werner Egerland, Automobillogistik GmbH & Co. KG",
-    "Text":""
-  },
-  {
     "Firma":"Werner Kimmig GmbH",
     "Text":""
   },
@@ -16709,6 +15969,10 @@
   },
   {
     "Firma":"WESTFALIA-Automotive GmbH, Rheda-Wiedenbrück",
+    "Text":""
+  },
+  {
+    "Firma":"Westf�lisch-Lippische Universit�tsgesellschaft e.V.",
     "Text":""
   },
   {
@@ -16808,6 +16072,10 @@
     "Text":""
   },
   {
+    "Firma":"Wilhelm Sander-Stiftung",
+    "Text":""
+  },
+  {
     "Firma":"Wilhelm Vogel GmbH",
     "Text":""
   },
@@ -16821,10 +16089,6 @@
   },
   {
     "Firma":"Wilkinson Sword GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Willborn, Kay",
     "Text":""
   },
   {
@@ -16885,10 +16149,6 @@
   },
   {
     "Firma":"Wintershall Holding AG",
-    "Text":""
-  },
-  {
-    "Firma":"Winzer, Liselotte",
     "Text":""
   },
   {
@@ -17032,10 +16292,6 @@
     "Text":""
   },
   {
-    "Firma":"Wolfenbüttler Baugesellschaft mbH",
-    "Text":""
-  },
-  {
     "Firma":"Wolff & Müller Holding GmbH & Co. KG",
     "Text":""
   },
@@ -17085,10 +16341,6 @@
   },
   {
     "Firma":"Wooga",
-    "Text":""
-  },
-  {
-    "Firma":"Wooga GmbH",
     "Text":""
   },
   {
@@ -17152,12 +16404,8 @@
     "Text":""
   },
   {
-    "Firma":"Yamaha Klavierabteilung",
-    "Text":""
-  },
-  {
-    "Firma":"Yamaha Music Europe GmbH, Hamburg",
-    "Text":""
+    "Firma":"Yamaha",
+    "Text":"Yamaha Klavierabteilung, Yamaha Music Europe GmbH"
   },
   {
     "Firma":"YIT German",
@@ -17201,10 +16449,6 @@
   },
   {
     "Firma":"Zeidler Forschungsstiftung",
-    "Text":""
-  },
-  {
-    "Firma":"Zeit-Stiftung",
     "Text":""
   },
   {
@@ -17261,10 +16505,6 @@
   },
   {
     "Firma":"ZF Lenksysteme",
-    "Text":""
-  },
-  {
-    "Firma":"ZF Lenksysteme GmbH",
     "Text":""
   },
   {
