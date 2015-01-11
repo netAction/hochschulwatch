@@ -5,7 +5,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1001",
@@ -13,7 +15,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1011",
@@ -21,7 +25,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3100",
@@ -29,7 +35,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2590",
@@ -37,7 +45,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5080",
@@ -45,7 +55,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5050",
@@ -53,7 +65,9 @@
     "Förderer":"Otto Gruppe",
     "Wert":"",
     "Hinweis":"Stipendienprogramm",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.fh-wedel.de/stipendien/grohe-treuhandstiftung/",
+    "Quelle 2":""
   },
   {
     "uID":"5050",
@@ -61,7 +75,9 @@
     "Förderer":"BIT-SERV",
     "Wert":"",
     "Hinweis":"Stipendienprogramm",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.fh-wedel.de/stipendien/grohe-treuhandstiftung/",
+    "Quelle 2":""
   },
   {
     "uID":"5050",
@@ -69,7 +85,9 @@
     "Förderer":"innovas",
     "Wert":"",
     "Hinweis":"Stipendienprogramm",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.fh-wedel.de/stipendien/grohe-treuhandstiftung/",
+    "Quelle 2":""
   },
   {
     "uID":"5050",
@@ -77,7 +95,9 @@
     "Förderer":"Hapag-LLoyd",
     "Wert":"",
     "Hinweis":"Stipendienprogramm",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.fh-wedel.de/stipendien/grohe-treuhandstiftung/",
+    "Quelle 2":""
   },
   {
     "uID":"5050",
@@ -85,7 +105,9 @@
     "Förderer":"Grohe-Treuhandstiftung",
     "Wert":"",
     "Hinweis":"Stipendienprogramm",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.fh-wedel.de/stipendien/grohe-treuhandstiftung/",
+    "Quelle 2":""
   },
   {
     "uID":"5070",
@@ -93,7 +115,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5280",
@@ -101,7 +125,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5010",
@@ -109,7 +135,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5020",
@@ -117,7 +145,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5030",
@@ -125,7 +155,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5090",
@@ -133,7 +165,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5060",
@@ -141,7 +175,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -149,7 +185,9 @@
     "Förderer":"Deutsche Bank",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -157,7 +195,9 @@
     "Förderer":"Claussen-Simon-Stiftung",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -165,7 +205,9 @@
     "Förderer":"Clifford Chance",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -173,7 +215,9 @@
     "Förderer":"DLA Piper",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -181,7 +225,9 @@
     "Förderer":"Freshfields Bruckhaus Deringer LLP",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -189,7 +235,9 @@
     "Förderer":"Gebr. Heinemann SE & Co. KG",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -197,7 +245,9 @@
     "Förderer":"Hengeler Mueller",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -205,7 +255,9 @@
     "Förderer":"Linklaters LLP",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -213,7 +265,9 @@
     "Förderer":"Siemens",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -221,7 +275,9 @@
     "Förderer":"The Boston Consulting Group GmbH",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -229,7 +285,9 @@
     "Förderer":"Allen & Overy LLP",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -237,7 +295,9 @@
     "Förderer":"Audi",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -245,7 +305,9 @@
     "Förderer":"CMS Hasche Sigle",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -253,7 +315,9 @@
     "Förderer":"Ernst & Young",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -261,7 +325,9 @@
     "Förderer":"Gleiss Lutz",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -269,7 +335,9 @@
     "Förderer":"Joachim Herz Stiftung",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -277,7 +345,9 @@
     "Förderer":"Hogan Lovells International LLP",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -285,7 +355,9 @@
     "Förderer":"Shearman & Sterling LLP",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -293,7 +365,9 @@
     "Förderer":"Taylor Wessing",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -301,7 +375,9 @@
     "Förderer":"Berenberg",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -309,7 +385,9 @@
     "Förderer":"Bird & Bird",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -317,7 +395,9 @@
     "Förderer":"Dabelstein & Passehl",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -325,7 +405,9 @@
     "Förderer":"Deloitte & Touche",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -333,7 +415,9 @@
     "Förderer":"Lufthansa",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":"Deutsche Lufthansa AG"
+    "Alternativname":"Deutsche Lufthansa AG",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -341,7 +425,9 @@
     "Förderer":"Deutsche Notarrechtliche Vereinigung",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -349,7 +435,9 @@
     "Förderer":"ECE Projektmanagement GmbH & Co. KG",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -357,7 +445,9 @@
     "Förderer":"Friede Springer-Stiftung",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -365,7 +455,9 @@
     "Förderer":"Friedrich Stiftung",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -373,7 +465,9 @@
     "Förderer":"Funk Gruppe GmbH",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -381,7 +475,9 @@
     "Förderer":"GöRG",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -389,7 +485,9 @@
     "Förderer":"Graf von Westphalen",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -397,7 +495,9 @@
     "Förderer":"Hamburger Sparkasse AG",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -405,7 +505,9 @@
     "Förderer":"Hamburgische Notarkammer",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -413,7 +515,9 @@
     "Förderer":"Heuking Kühn Lüer Wojtek",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -421,7 +525,9 @@
     "Förderer":"Hunck, Rolf und Sigrid",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -429,7 +535,9 @@
     "Förderer":"Huth Dietrich Hahn",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -437,7 +545,9 @@
     "Förderer":"Jahr, Heike",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -445,7 +555,9 @@
     "Förderer":"Johanna und Fritz Buch Gedächtnisstiftung",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -453,7 +565,9 @@
     "Förderer":"Karl-Schlecht-Stiftung",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -461,7 +575,9 @@
     "Förderer":"Latham & Watkins LLP",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -469,7 +585,9 @@
     "Förderer":"Max Kade Foundation",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -477,7 +595,9 @@
     "Förderer":"Noerr-Gruppe",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -485,7 +605,9 @@
     "Förderer":"Nörenberg Schröder",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -493,7 +615,9 @@
     "Förderer":"Norton Rose Fulbright LLP",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -501,7 +625,9 @@
     "Förderer":"Reimer Rechtsanwälte",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -509,7 +635,9 @@
     "Förderer":"Ruge Krömer Rechtsanwälte",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -517,7 +645,9 @@
     "Förderer":"Schomerus & Partner",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -525,7 +655,9 @@
     "Förderer":"White & Case LLP ",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -533,7 +665,9 @@
     "Förderer":"Ashurst",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -541,7 +675,9 @@
     "Förderer":"gürtlerbachmann Werbung GmbH",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -549,7 +685,9 @@
     "Förderer":"Humanistische Stiftung",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -557,7 +695,9 @@
     "Förderer":"Lindenpartners",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -565,7 +705,9 @@
     "Förderer":"Otterbach Group",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -573,7 +715,9 @@
     "Förderer":"Otto M. Schröder Bank AG",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -581,7 +725,9 @@
     "Förderer":"Sparda-Bank Hamburg eG",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1060",
@@ -589,7 +735,9 @@
     "Förderer":"von Saldern Gruppe",
     "Wert":"",
     "Hinweis":"Kooperationspartner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.law-school.de/freunde_foerderer.html?&L=0",
+    "Quelle 2":""
   },
   {
     "uID":"1029",
@@ -597,7 +745,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"690",
@@ -605,7 +755,9 @@
     "Förderer":"Holcim AG",
     "Wert":"2000",
     "Hinweis":"Preis",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hcu-hamburg.de/universitaet/services-und-kontakt/downloads/?no_cache=1&cid=5157&did=6901&sechash=9042abe4",
+    "Quelle 2":""
   },
   {
     "uID":"1021",
@@ -613,7 +765,9 @@
     "Förderer":"Max Hoffmann GmbH & Co. KG",
     "Wert":"",
     "Hinweis":"Investitionen",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1022",
@@ -621,7 +775,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1040",
@@ -629,7 +785,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"800",
@@ -637,7 +795,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2500",
@@ -645,7 +805,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2810",
@@ -653,7 +815,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"880",
@@ -661,7 +825,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"890",
@@ -669,7 +835,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5220",
@@ -677,7 +845,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5260",
@@ -685,7 +855,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8070",
@@ -693,7 +865,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8090",
@@ -701,7 +875,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5210",
@@ -709,7 +885,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5230",
@@ -717,7 +895,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5240",
@@ -725,7 +905,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7990",
@@ -733,7 +915,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1039",
@@ -741,7 +925,9 @@
     "Förderer":"BP",
     "Wert":"",
     "Hinweis":"Auftragsforschung zu Bürgerprotesten",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.demokratie-goettingen.de/aktuelles/studie-burgerproteste-in-deutschland",
+    "Quelle 2":"https://www.lobbycontrol.de/2013/02/bp-lasst-burgerproteste-untersuchen-was-steckt-dahinter/"
   },
   {
     "uID":"1739",
@@ -749,7 +935,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"520",
@@ -757,7 +945,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"530",
@@ -765,7 +955,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"960",
@@ -773,7 +965,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"980",
@@ -781,7 +975,9 @@
     "Förderer":"AWD",
     "Wert":"",
     "Hinweis":"Großzügige Spenden von Carsten Maschmeyer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.fr-online.de/politik/in--unwuerdig-und-unanstaendig-,1472596,8324674.html",
+    "Quelle 2":"http://www.uni-hildesheim.de/ueber-uns/organisation/presidium/presse/pressespiegel-regional/artikel/artikel/ehrendoktorw-3/"
   },
   {
     "uID":"990",
@@ -789,7 +985,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1031",
@@ -797,7 +995,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1430",
@@ -805,7 +1005,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1440",
@@ -813,7 +1015,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1450",
@@ -821,7 +1025,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1740",
@@ -829,7 +1035,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2530",
@@ -837,7 +1045,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2830",
@@ -845,7 +1055,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1780",
@@ -853,7 +1065,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5390",
@@ -861,7 +1075,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5400",
@@ -869,7 +1085,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5410",
@@ -877,7 +1095,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5430",
@@ -885,7 +1105,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8140",
@@ -893,7 +1115,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"4980",
@@ -901,7 +1125,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"4990",
@@ -909,7 +1135,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5310",
@@ -917,7 +1145,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5330",
@@ -925,7 +1155,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5380",
@@ -933,7 +1165,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5500",
@@ -941,7 +1175,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"750",
@@ -949,7 +1185,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"740",
@@ -957,7 +1195,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"660",
@@ -965,7 +1205,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1050",
@@ -973,7 +1215,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2610",
@@ -981,7 +1225,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"20",
@@ -989,7 +1235,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5660",
@@ -997,7 +1245,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5680",
@@ -1005,7 +1255,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5670",
@@ -1013,7 +1265,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1491",
@@ -1021,7 +1275,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"89",
@@ -1029,7 +1285,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1089",
@@ -1037,7 +1295,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1099",
@@ -1045,7 +1305,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1109",
@@ -1053,7 +1315,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1119",
@@ -1061,7 +1325,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1129",
@@ -1069,7 +1335,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1077,7 +1345,9 @@
     "Förderer":"Fahrzeugindustrie",
     "Wert":"",
     "Hinweis":"Finanzierung des Instituts für Kraftfahrzeuge ika",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.zdf.de/ZDFmediathek/kanaluebersicht/aktuellste/460#/beitrag/video/1878292/Gekaufte-Wissenschaft, http://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaaaaahgfg&download=1",
+    "Quelle 2":"http://www.taz.de/!111472/"
   },
   {
     "uID":"1481",
@@ -1085,7 +1355,9 @@
     "Förderer":"AachenMünchener Versicherung AG",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Campusprojekt/~elf/RWTH_Aachen_Campus/",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1093,7 +1365,9 @@
     "Förderer":"Generali",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Campusprojekt/~elf/RWTH_Aachen_Campus/",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1101,7 +1375,9 @@
     "Förderer":"Ford",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Campusprojekt/~elf/RWTH_Aachen_Campus/",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1109,7 +1385,9 @@
     "Förderer":"Aachener Kompetenzzentrum Medizintechnik AKM e.V.",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1117,7 +1395,9 @@
     "Förderer":"AachenMünchener Versicherung AG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1125,7 +1405,9 @@
     "Förderer":"ABB",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1133,7 +1415,9 @@
     "Förderer":"aixigo AG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1141,7 +1425,9 @@
     "Förderer":"Aker Wirth GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1149,7 +1435,9 @@
     "Förderer":"BET - Büro für Energiewirtschaft und technische Planung GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1157,7 +1445,9 @@
     "Förderer":"Bilfinger Berger",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1165,7 +1455,9 @@
     "Förderer":"Brunel",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1173,7 +1465,9 @@
     "Förderer":"BWG Bergwerk- und Walzwerk-Maschinenbau GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1181,7 +1475,9 @@
     "Förderer":"car e.V.",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1189,7 +1485,9 @@
     "Förderer":"cdwuppermann innovation + strategy CDWIS",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1197,7 +1495,9 @@
     "Förderer":"CENTA Antriebe Kirschey GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1205,7 +1505,9 @@
     "Förderer":"COHAUSZ & FLORACK Patent- und Rechtsanwälte",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1213,7 +1515,9 @@
     "Förderer":"Cologne Chip AG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1221,7 +1525,9 @@
     "Förderer":"Continental",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1229,7 +1535,9 @@
     "Förderer":"Currenta GmbH & Co. OHG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1237,7 +1545,9 @@
     "Förderer":"DASGIP AG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1245,7 +1555,9 @@
     "Förderer":"Derichs & Konertz GmbH & Co. KG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1253,7 +1565,9 @@
     "Förderer":"Deutsche Post",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1261,7 +1575,9 @@
     "Förderer":"DEUTZ AG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1269,7 +1585,9 @@
     "Förderer":"Diehl",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1277,7 +1595,9 @@
     "Förderer":"DSA - Daten- und Systemtechnik GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1285,7 +1605,9 @@
     "Förderer":"DTG GmbH Development & Technology",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1293,7 +1615,9 @@
     "Förderer":"E.ON",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1301,7 +1625,9 @@
     "Förderer":"ENEL",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1309,7 +1635,9 @@
     "Förderer":"Ericsson Eurolab Deutschland GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1317,7 +1645,9 @@
     "Förderer":"EUROPIPE GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1325,7 +1655,9 @@
     "Förderer":"Ford",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":"Ford-Werke GmbH"
+    "Alternativname":"Ford-Werke GmbH",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1333,7 +1665,9 @@
     "Förderer":"Fresenius Medical Care",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1341,7 +1675,9 @@
     "Förderer":"Generali",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1349,7 +1685,9 @@
     "Förderer":"Giesel Verlag GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1357,7 +1695,9 @@
     "Förderer":"GKD - Gebr. Kufferath AG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1365,7 +1705,9 @@
     "Förderer":"Grünenthal GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1373,7 +1715,9 @@
     "Förderer":"Gude Analog- und Digitalsysteme GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1381,7 +1725,9 @@
     "Förderer":"Haarmann Holding GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1389,7 +1735,9 @@
     "Förderer":"HüBNER GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1397,7 +1745,9 @@
     "Förderer":"Hydro Aluminium Rolled Products GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1405,7 +1755,9 @@
     "Förderer":"iDev GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1413,7 +1765,9 @@
     "Förderer":"IHK Aachen",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1421,7 +1775,9 @@
     "Förderer":"INFORM Institut für Operations Research und Management GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1429,7 +1785,9 @@
     "Förderer":"Infraserv",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1437,7 +1795,9 @@
     "Förderer":"Institut für Bildsame Formgebung an der RWTH Aachen",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1445,7 +1805,9 @@
     "Förderer":"Jabitherm Rohrsysteme AG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1453,7 +1815,9 @@
     "Förderer":"LANCOM Systems GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1461,7 +1825,9 @@
     "Förderer":"Liebherr-Holding",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":"Liebherr-Verzahntechnik GmbH"
+    "Alternativname":"Liebherr-Verzahntechnik GmbH",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1469,7 +1835,9 @@
     "Förderer":"LIMO Lissotschenko Mikrooptik GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1477,7 +1845,9 @@
     "Förderer":"Lions Club Hilfswerk Euregio Maas-Rhein e.V.",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1485,7 +1855,9 @@
     "Förderer":"Mahle GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1493,7 +1865,9 @@
     "Förderer":"MAN SE",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1501,7 +1875,9 @@
     "Förderer":"McKinsey & Company, Inc.",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1509,7 +1885,9 @@
     "Förderer":"mecca neue medien GmbH & Co. KG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1517,7 +1895,9 @@
     "Förderer":"Miele & Cie. KG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1525,7 +1905,9 @@
     "Förderer":"Muhr und Bender KG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1533,7 +1915,9 @@
     "Förderer":"nesseler-grünzig-bau gmbh",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1541,7 +1925,9 @@
     "Förderer":"Oerlikon",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1549,7 +1935,9 @@
     "Förderer":"Oskar Frech GmbH + Co. KG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1557,7 +1945,9 @@
     "Förderer":"Peltzer Werke - Form & Präzision in Metall GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1565,7 +1955,9 @@
     "Förderer":"Philips",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1573,7 +1965,9 @@
     "Förderer":"Procter & Gamble Manufacturing GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1581,7 +1975,9 @@
     "Förderer":"PVS - Privatärztliche VerrechnungsStelle Rhein-Ruhr GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1589,7 +1985,9 @@
     "Förderer":"Railistics GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1597,7 +1995,9 @@
     "Förderer":"Regina e.V.",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1605,7 +2005,9 @@
     "Förderer":"Rhein-Kreis Neuss Kulturzentrum Rommerskirchen-Sinsteden",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1613,7 +2015,9 @@
     "Förderer":"RWE",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1621,7 +2025,9 @@
     "Förderer":"Saint Gobain",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1629,7 +2035,9 @@
     "Förderer":"Schwermetall Halbzeugwerk GmbH & Co. KG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1637,7 +2045,9 @@
     "Förderer":"Siemens",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":"Siemens AG Industry Sector"
+    "Alternativname":"Siemens AG Industry Sector",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1645,7 +2055,9 @@
     "Förderer":"Solitem Group",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1653,7 +2065,9 @@
     "Förderer":"Sparkasse Aachen",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1661,7 +2075,9 @@
     "Förderer":"Springer Science + Business Media Deutschland GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1669,7 +2085,9 @@
     "Förderer":"STAWAG - Stadtwerke Aachen AG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1677,7 +2095,9 @@
     "Förderer":"Textilverband Nordwest",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1685,7 +2105,9 @@
     "Förderer":"The MathWorks GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1693,7 +2115,9 @@
     "Förderer":"ThyssenKrupp",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1701,7 +2125,9 @@
     "Förderer":"VDMA - Verband Deutscher Maschinen- und  Anlagenbau e.V.",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1709,7 +2135,9 @@
     "Förderer":"Walbert-Schmitz GmbH & Co. KG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1717,7 +2145,9 @@
     "Förderer":"WBI PROFESSOR DR.-ING. W. WITTKE Beratende Ingenieure für GRUNDBAU UND FELSBAU GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1725,7 +2155,9 @@
     "Förderer":"Weber GmbH & Co. KG Kunststofftechnik + Formenbau",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1733,7 +2165,9 @@
     "Förderer":"Wintershall Holding AG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"1481",
@@ -1741,7 +2175,9 @@
     "Förderer":"WTI Wissenschaftlich-Technische Ingenieurberatung GmbH",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ",
+    "Quelle 2":""
   },
   {
     "uID":"81",
@@ -1749,7 +2185,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"121",
@@ -1757,7 +2195,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"130",
@@ -1765,7 +2205,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"140",
@@ -1773,7 +2215,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"150",
@@ -1781,7 +2225,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"910",
@@ -1789,7 +2235,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1081",
@@ -1797,7 +2245,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1091",
@@ -1805,7 +2255,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1101",
@@ -1813,7 +2265,9 @@
     "Förderer":"Provinzial AG",
     "Wert":"",
     "Hinweis":"Provinzial-Stipendien",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.uni-duesseldorf.de/home/studium-und-lehre-an-der-hhu/studium/stipendien/stipendienkompass-fachbezogene-stipendien.html",
+    "Quelle 2":""
   },
   {
     "uID":"1111",
@@ -1821,7 +2275,9 @@
     "Förderer":"Bayer",
     "Wert":"",
     "Hinweis":"nicht offengelegter Forschungsvertrag",
-    "Alternativname":"Bayer AG"
+    "Alternativname":"Bayer AG",
+    "Quelle":"http://www.zeit.de/studium/hochschule/2012-01/uni-koeln-bayer/komplettansicht",
+    "Quelle 2":"http://www.cbgnetwork.org/2730.html"
   },
   {
     "uID":"1111",
@@ -1829,7 +2285,9 @@
     "Förderer":"netspar",
     "Wert":"",
     "Hinweis":"Prof. Dr. Alexander Ludwig ist dort Fellow",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1837,7 +2295,9 @@
     "Förderer":"Santander Bank",
     "Wert":"",
     "Hinweis":"20 Stipendien, Finanzierung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.uni-muenster.de/Rektorat/exec/upm.php?rubrik=Alle&neu=0&monat=201301&nummer=16418",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1845,7 +2305,9 @@
     "Förderer":"WestLB",
     "Wert":"",
     "Hinweis":"Schuldschein",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1853,7 +2315,9 @@
     "Förderer":"Commerzbank",
     "Wert":"",
     "Hinweis":"Termingeld",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1861,7 +2325,9 @@
     "Förderer":"HypoVereinsbank",
     "Wert":"",
     "Hinweis":"Tagesgeld",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1869,7 +2335,9 @@
     "Förderer":"Postbank",
     "Wert":"",
     "Hinweis":"Tagesgeld",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1877,7 +2345,9 @@
     "Förderer":"wwu.weiterbildung gemeinnützige GmbH",
     "Wert":"",
     "Hinweis":"Beteiligung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1885,7 +2355,9 @@
     "Förderer":"JCB Institut für Chemo- und Biosensorik GmbH",
     "Wert":"",
     "Hinweis":"Beteiligung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1893,7 +2365,9 @@
     "Förderer":"European Research Services GmbH",
     "Wert":"",
     "Hinweis":"Beteiligung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1901,7 +2375,9 @@
     "Förderer":"52' North Initiative for Geospatial Open Source Softw. GmbH",
     "Wert":"",
     "Hinweis":"Beteiligung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1909,7 +2385,9 @@
     "Förderer":"Institut für vergleichende Städtegeschichte IStG gGmbH",
     "Wert":"",
     "Hinweis":"Beteiligung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1917,7 +2395,9 @@
     "Förderer":"PROvendis GmbH",
     "Wert":"",
     "Hinweis":"Beteiligung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1925,7 +2405,9 @@
     "Förderer":"Akademie für Manuelle Medizin GmbH an der WWU",
     "Wert":"",
     "Hinweis":"Beteiligung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1933,7 +2415,9 @@
     "Förderer":"CeNTech GmbH, Center for NanoTechnology",
     "Wert":"",
     "Hinweis":"Beteiligung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1941,7 +2425,9 @@
     "Förderer":"proPlant GmbH Gesell. f. Agrar- und Umweltinformatik mbH",
     "Wert":"",
     "Hinweis":"Beteiligung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1949,7 +2435,9 @@
     "Förderer":"Technologieförderung Münster GmbH",
     "Wert":"",
     "Hinweis":"Beteiligung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1957,7 +2445,9 @@
     "Förderer":"IPP Milnster GmbH",
     "Wert":"",
     "Hinweis":"Beteiligung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1965,7 +2455,9 @@
     "Förderer":"Deutsche Bank",
     "Wert":"",
     "Hinweis":"Verwaltung der Schiffer-Stiftung",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1121",
@@ -1973,7 +2465,9 @@
     "Förderer":"Deutsche Bank",
     "Wert":"",
     "Hinweis":"Verwaltung des Schneider-Sasakawa-Funds",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.hochschulwatch.de/wiki/Datei:Wwu-finanzen.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1130",
@@ -1981,7 +2475,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1140",
@@ -1989,7 +2485,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1150",
@@ -1997,7 +2495,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1489",
@@ -2005,7 +2505,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1499",
@@ -2013,7 +2515,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"710",
@@ -2021,7 +2525,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2030",
@@ -2029,7 +2535,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2060",
@@ -2037,7 +2545,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2080",
@@ -2045,7 +2555,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2270",
@@ -2053,7 +2565,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2430",
@@ -2061,7 +2575,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2560",
@@ -2069,7 +2585,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2570",
@@ -2077,7 +2595,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2580",
@@ -2085,7 +2605,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2860",
@@ -2093,7 +2615,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2870",
@@ -2101,7 +2625,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2880",
@@ -2109,7 +2635,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2890",
@@ -2117,7 +2645,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"930",
@@ -2125,7 +2655,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1500",
@@ -2133,7 +2665,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1640",
@@ -2141,7 +2675,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1650",
@@ -2149,7 +2685,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1660",
@@ -2157,7 +2695,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1680",
@@ -2165,7 +2705,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5690",
@@ -2173,7 +2715,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5720",
@@ -2181,7 +2725,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5800",
@@ -2189,7 +2735,9 @@
     "Förderer":"abiQ",
     "Wert":"",
     "Hinweis":"Vollstipendien",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5800",
@@ -2197,7 +2745,9 @@
     "Förderer":"absolut karriere",
     "Wert":"",
     "Hinweis":"Vollstipendien",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5820",
@@ -2205,7 +2755,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5900",
@@ -2213,7 +2765,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5980",
@@ -2221,7 +2775,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5990",
@@ -2229,7 +2785,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6410",
@@ -2237,7 +2795,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8100",
@@ -2245,7 +2805,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3050",
@@ -2253,7 +2815,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3060",
@@ -2261,7 +2825,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3070",
@@ -2269,7 +2835,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5250",
@@ -2277,7 +2845,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5700",
@@ -2285,7 +2855,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5710",
@@ -2293,7 +2865,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5730",
@@ -2301,7 +2875,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5750",
@@ -2309,7 +2885,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5770",
@@ -2317,7 +2895,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5780",
@@ -2325,7 +2905,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5830",
@@ -2333,7 +2915,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5840",
@@ -2341,7 +2925,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5860",
@@ -2349,7 +2935,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5890",
@@ -2357,7 +2945,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8110",
@@ -2365,7 +2955,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"40",
@@ -2373,7 +2965,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6000",
@@ -2381,7 +2975,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6030",
@@ -2389,7 +2985,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6070",
@@ -2397,7 +2995,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6180",
@@ -2405,7 +3005,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6190",
@@ -2413,7 +3015,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6206",
@@ -2421,7 +3025,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6208",
@@ -2429,7 +3035,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1540",
@@ -2437,7 +3045,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6370",
@@ -2445,7 +3055,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1169",
@@ -2453,7 +3065,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"10",
@@ -2461,7 +3075,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1161",
@@ -2469,7 +3085,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1171",
@@ -2477,7 +3095,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1181",
@@ -2485,7 +3105,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1530",
@@ -2493,7 +3115,9 @@
     "Förderer":"Continental",
     "Wert":"",
     "Hinweis":"Gemeinsame Forschungsprojekte seit den 80ern",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.proreta.tu-darmstadt.de/proreta_1/startseite_proreta/index.de.jsp ",
+    "Quelle 2":""
   },
   {
     "uID":"1530",
@@ -2501,7 +3125,9 @@
     "Förderer":"Intel GmbH",
     "Wert":"",
     "Hinweis":"Gemeinsames Institut",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.icri-sc.tu-darmstadt.de/icri-sc/institute/",
+    "Quelle 2":""
   },
   {
     "uID":"1530",
@@ -2509,7 +3135,9 @@
     "Förderer":"SAP",
     "Wert":"",
     "Hinweis":"Gemeinsame Gründung Global Research and Business Incubation Darmstadt",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.informatik.tu-darmstadt.de/de/forschung/industrie-kooperationen/",
+    "Quelle 2":""
   },
   {
     "uID":"1378",
@@ -2517,7 +3145,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1379",
@@ -2525,7 +3155,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"940",
@@ -2533,7 +3165,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1550",
@@ -2541,7 +3175,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2000",
@@ -2549,7 +3185,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2020",
@@ -2557,7 +3195,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2320",
@@ -2565,7 +3205,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2620",
@@ -2573,7 +3215,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2900",
@@ -2581,7 +3225,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2920",
@@ -2589,7 +3235,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1510",
@@ -2597,7 +3245,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6280",
@@ -2605,7 +3255,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6360",
@@ -2613,7 +3265,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6390",
@@ -2621,7 +3275,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6400",
@@ -2629,7 +3285,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6690",
@@ -2637,7 +3295,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7670",
@@ -2645,7 +3305,9 @@
     "Förderer":"Frankfurter Neuen Presse",
     "Wert":"25000",
     "Hinweis":"Stipendium",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6210",
@@ -2653,7 +3315,9 @@
     "Förderer":"Software AG",
     "Wert":"260000",
     "Hinweis":"Kooperation, Softwarelizenzen in diesem Wert",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.sit.fraunhofer.de/de/news/aktuelles/presse/details/news-article/think-tank-zur-it-sicherheit/",
+    "Quelle 2":""
   },
   {
     "uID":"6220",
@@ -2661,7 +3325,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6230",
@@ -2669,7 +3335,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6240",
@@ -2677,7 +3345,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6290",
@@ -2685,7 +3355,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6270",
@@ -2693,7 +3365,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6320",
@@ -2701,7 +3375,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6330",
@@ -2709,7 +3385,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6340",
@@ -2717,7 +3395,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1190",
@@ -2725,7 +3405,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1390",
@@ -2733,7 +3415,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1200",
@@ -2741,7 +3425,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1210",
@@ -2749,7 +3435,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1223",
@@ -2757,7 +3445,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1230",
@@ -2765,7 +3455,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1290",
@@ -2773,7 +3465,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2040",
@@ -2781,7 +3475,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2050",
@@ -2789,7 +3485,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6510",
@@ -2797,7 +3495,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6520",
@@ -2805,7 +3505,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6530",
@@ -2813,7 +3515,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6580",
@@ -2821,7 +3525,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6650",
@@ -2829,7 +3535,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6660",
@@ -2837,7 +3545,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6670",
@@ -2845,7 +3555,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6600",
@@ -2853,7 +3565,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6630",
@@ -2861,7 +3575,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6640",
@@ -2869,7 +3585,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6620",
@@ -2877,7 +3595,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1280",
@@ -2885,7 +3605,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1410",
@@ -2893,7 +3615,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1460",
@@ -2901,7 +3625,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1830",
@@ -2909,7 +3635,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1249",
@@ -2917,7 +3645,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1252",
@@ -2925,7 +3655,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1256",
@@ -2933,7 +3665,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1279",
@@ -2941,7 +3675,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1829",
@@ -2949,7 +3685,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1241",
@@ -2957,7 +3695,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1251",
@@ -2965,7 +3705,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1260",
@@ -2973,7 +3715,9 @@
     "Förderer":"Airbus Group",
     "Wert":"",
     "Hinweis":"Kooperation, Stiftung Forschungspreis",
-    "Alternativname":""
+    "Alternativname":"http://cms.uni-konstanz.de/zivilklausel/pressespiegel/",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1271",
@@ -2981,7 +3725,9 @@
     "Förderer":"CMS Hasche Sigle",
     "Wert":"",
     "Hinweis":"Spende Zivilrecht-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"http://www.jura.uni-tuebingen.de/fakultaet/nachrichten/grossspende-ermoeglicht-modernisierung-im-juristischen-seminar?searchterm=lesesaal",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1580",
@@ -2989,7 +3735,9 @@
     "Förderer":"Daimler",
     "Wert":"",
     "Hinweis":"Förderung Nachwuchswissenschaftler",
-    "Alternativname":"Daimler AG"
+    "Alternativname":"https://www.dradio.de/dlf/sendungen/campus/1496758/",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1590",
@@ -2997,7 +3745,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1800",
@@ -3005,7 +3755,9 @@
     "Förderer":"Südwestmetall",
     "Wert":"5000",
     "Hinweis":"Preis",
-    "Alternativname":""
+    "Alternativname":"tp://www.bwl.uni-mannheim.de/de/allgemeines/dekanat/p",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1800",
@@ -3013,7 +3765,9 @@
     "Förderer":"Südwestbank",
     "Wert":"7500",
     "Hinweis":"Preis",
-    "Alternativname":""
+    "Alternativname":"http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1810",
@@ -3021,7 +3775,9 @@
     "Förderer":"Frankfurter Allgemeine Zeitung",
     "Wert":"",
     "Hinweis":"FAZ-Lounge",
-    "Alternativname":""
+    "Alternativname":"tner_des_dekanats/, http://www.uni-mannheim.de/forum/schwerpunkt/ausgabe_1_2010_stifter_und_maezene/stiftungsprofessuren/, http://www.service",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1810",
@@ -3029,7 +3785,9 @@
     "Förderer":"PricewaterhouseCoopers",
     "Wert":"300000",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html, http://www.bwl.uni-mannheim.de/de/allgemeines/dekanat/partner_des_dekanats/, http://www.uni-mannheim.de/forum/schwerpunkt/ausgabe_1_2010_stifter_und_maezene/stiftungsprofessuren/, http://www.service.uni-mannheim.de/de/campus_service/, http://hochschulanzeiger.faz.net/magazin/neue-f-a-z-lounge-an-der-universitaet-mannheim-eroeffnung-mit-grosser-poetry-slam-show-11371303.html",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1821",
@@ -3037,7 +3795,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2300",
@@ -3045,7 +3805,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3660",
@@ -3053,7 +3815,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3670",
@@ -3061,7 +3825,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3680",
@@ -3069,7 +3835,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3700",
@@ -3077,7 +3845,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3710",
@@ -3085,7 +3855,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3780",
@@ -3093,7 +3865,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2650",
@@ -3101,7 +3875,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2660",
@@ -3109,7 +3885,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2670",
@@ -3117,7 +3895,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2690",
@@ -3125,7 +3905,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2700",
@@ -3133,7 +3915,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2940",
@@ -3141,7 +3925,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2950",
@@ -3149,7 +3935,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2960",
@@ -3157,7 +3945,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"50",
@@ -3165,7 +3955,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"60",
@@ -3173,7 +3965,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1420",
@@ -3181,7 +3975,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6890",
@@ -3189,7 +3985,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6970",
@@ -3197,7 +3995,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7010",
@@ -3205,7 +4005,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7020",
@@ -3213,7 +4015,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7090",
@@ -3221,7 +4025,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7180",
@@ -3229,7 +4035,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7200",
@@ -3237,7 +4045,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7600",
@@ -3245,7 +4055,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8150",
@@ -3253,7 +4065,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6710",
@@ -3261,7 +4075,9 @@
     "Förderer":"Carl Zeiss",
     "Wert":"",
     "Hinweis":"umfangreiche Einrichtung, Finanzierung",
-    "Alternativname":"Carl Zeiss AG"
+    "Alternativname":"http://www.htw-aalen.de/einrichtungen/n2099_bibliothek/n1314_service/content.php?id=791, http://www.htw-aalen.de/studium/vs/news.popup.php?id=2312, http://www.htw-aalen.de/aktuell/presse/presse.popup.php?id=2624",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6720",
@@ -3269,7 +4085,9 @@
     "Förderer":"s.a.b. AG",
     "Wert":"",
     "Hinweis":"Kooperation",
-    "Alternativname":""
+    "Alternativname":"http://idw-online.de/pages/de/news513163, http://www.openpr.de/news/524612/sab-kooperiert-mit-Hochschule-Biberach.html",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6730",
@@ -3277,7 +4095,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6740",
@@ -3285,7 +4105,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6750",
@@ -3293,7 +4115,9 @@
     "Förderer":"Würth",
     "Wert":"",
     "Hinweis":"Finanzielle Unterstützung für Campus",
-    "Alternativname":"Würth-Stiftung"
+    "Alternativname":"Würth-Stiftung",
+    "Quelle":"http://www.stiftung-wuerth.de/web/de/stiftung_wuerth/index_stiftung.php",
+    "Quelle 2":"http://www.ihk-wnews.de/ximages/1435234_wnews132.pdf"
   },
   {
     "uID":"6750",
@@ -3301,7 +4125,9 @@
     "Förderer":"Dieter-Schwarz-Stiftung",
     "Wert":"",
     "Hinweis":"Finanzielle Unterstützung für Campus",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.gew.de/Binaries/Binary34669/080415_GEW-Priva-6-final.pdf",
+    "Quelle 2":"http://www.wissenschaftsrat.de/download/archiv/8633-08.pdf"
   },
   {
     "uID":"6750",
@@ -3309,7 +4135,9 @@
     "Förderer":"Recaro",
     "Wert":"",
     "Hinweis":"Finanzielle Unterstützung für Campus",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://idw-online.de/pages/de/news492145",
+    "Quelle 2":"http://www.beschaffung-aktuell.de/home/-/article/16537505/26154291/Enge-Kooperation-mit-der-Wirtschaft/art_co_INSTANCE_0000/maximized/"
   },
   {
     "uID":"6750",
@@ -3317,7 +4145,9 @@
     "Förderer":"Würth",
     "Wert":"",
     "Hinweis":"Kooperation",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.versicherungsmagazin.de/Aktuell/Nachrichten/195/17479/Hochschule-Heilbronn-Trainee-Kooperationsvertrag-mit-zwei-Unternehmen.html",
+    "Quelle 2":""
   },
   {
     "uID":"6750",
@@ -3325,7 +4155,9 @@
     "Förderer":"Schwäbisch Hall",
     "Wert":"",
     "Hinweis":"Kooperation",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.versicherungsmagazin.de/Aktuell/Nachrichten/195/17479/Hochschule-Heilbronn-Trainee-Kooperationsvertrag-mit-zwei-Unternehmen.html",
+    "Quelle 2":""
   },
   {
     "uID":"6760",
@@ -3333,7 +4165,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6770",
@@ -3341,7 +4175,9 @@
     "Förderer":"NewTec GmbH",
     "Wert":"",
     "Hinweis":"Stipendienprogramm",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.htwg-konstanz.de/Stipendienprogramme.1381.0.html?&MP=1331-5878",
+    "Quelle 2":""
   },
   {
     "uID":"6770",
@@ -3349,7 +4185,9 @@
     "Förderer":"Ingenieurgesellschaft Auto und Verkehr GmbH (IAV)",
     "Wert":"",
     "Hinweis":"Stipendienprogramm",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.htwg-konstanz.de/Stipendienprogramme.1381.0.html?&MP=1331-5878",
+    "Quelle 2":""
   },
   {
     "uID":"6780",
@@ -3357,7 +4195,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6790",
@@ -3365,7 +4205,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6800",
@@ -3373,7 +4215,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6810",
@@ -3381,7 +4225,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6820",
@@ -3389,7 +4235,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6830",
@@ -3397,7 +4245,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6840",
@@ -3405,7 +4255,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6850",
@@ -3413,7 +4265,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6860",
@@ -3421,7 +4275,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6870",
@@ -3429,7 +4285,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7050",
@@ -3437,7 +4295,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7110",
@@ -3445,7 +4305,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8170",
@@ -3453,7 +4315,9 @@
     "Förderer":"Dieter-Schwarz-Stiftung",
     "Wert":"75000000",
     "Hinweis":"Finanzierung Bildungscampus",
-    "Alternativname":""
+    "Alternativname":"http://www.stimme.de/heilbronn/nachrichten/region/sonstige-Schwarz-Stiftung-fuer-Bildungscampus;art16305,1355363",
+    "Quelle":"http://www.stimme.de/heilbronn/nachrichten/region/Heilbronn-Neckarsulm-Lidl-Kaufland-Stiftungsgeschaeftsfuehrer-Dr-Erhard-Klotz-und-Klaus-Czernuska-Jaehrlich-20-Millionen-investieren;art16305,1511508",
+    "Quelle 2":""
   },
   {
     "uID":"6900",
@@ -3461,7 +4325,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6910",
@@ -3469,7 +4335,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7190",
@@ -3477,7 +4345,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7680",
@@ -3485,7 +4355,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7060",
@@ -3493,7 +4365,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7070",
@@ -3501,7 +4375,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7120",
@@ -3509,7 +4385,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7140",
@@ -3517,7 +4395,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6200",
@@ -3525,7 +4405,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1319",
@@ -3533,7 +4415,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1329",
@@ -3541,7 +4425,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1339",
@@ -3549,7 +4435,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1349",
@@ -3557,7 +4445,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1639",
@@ -3565,7 +4455,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"500",
@@ -3573,7 +4465,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"510",
@@ -3581,7 +4475,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"540",
@@ -3589,7 +4485,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1314",
@@ -3597,7 +4495,9 @@
     "Förderer":"Teambank AG",
     "Wert":"130000",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.tf.fau.de/fakultaet/sponsoring.shtml",
+    "Quelle 2":""
   },
   {
     "uID":"1315",
@@ -3605,7 +4505,9 @@
     "Förderer":"Siemens",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring - 5 Jahre bis 2018, Erneuerung der Bestuhlung, farbliche Neugestaltung des Saals",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html",
+    "Quelle 2":""
   },
   {
     "uID":"1316",
@@ -3613,7 +4515,9 @@
     "Förderer":"Brose Gruppe",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring - 1 Jahr bis 2014, Malerarbeiten, Infotafel",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html",
+    "Quelle 2":""
   },
   {
     "uID":"1317",
@@ -3621,7 +4525,9 @@
     "Förderer":"Clear Group",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring - 3 Jahre bis 2015, Infotafel",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html",
+    "Quelle 2":""
   },
   {
     "uID":"1318",
@@ -3629,7 +4535,9 @@
     "Förderer":"develop group",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring - 5 Jahre bis 2018, Erneuerung der Bestuhlung, farbliche Neugestaltung des Saals",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html",
+    "Quelle 2":""
   },
   {
     "uID":"1321",
@@ -3637,7 +4545,9 @@
     "Förderer":"Bundesarbeitgeberverband Chemie",
     "Wert":"18000000",
     "Hinweis":"An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.taz.de/1/archiv/digitaz/artikel/?ressort=a2&dig=2011%2F07%2F02%2Fa0034&cHash=bcc251bf29",
+    "Quelle 2":""
   },
   {
     "uID":"1321",
@@ -3645,7 +4555,9 @@
     "Förderer":"Arbeitgeberverband der bayerischen Metallindustrie",
     "Wert":"18000000",
     "Hinweis":"An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1321",
@@ -3653,7 +4565,9 @@
     "Förderer":"Arbeitgeberverband der baden-württembergischen Metallindustrie",
     "Wert":"18000000",
     "Hinweis":"An-Institut Zentrum für Arbeitsbeziehungen und Arbeitsrecht",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1331",
@@ -3661,7 +4575,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1341",
@@ -3669,7 +4585,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1350",
@@ -3677,7 +4595,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1633",
@@ -3685,7 +4605,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1710",
@@ -3693,7 +4615,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"811",
@@ -3701,7 +4625,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"550",
@@ -3709,7 +4635,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"560",
@@ -3717,7 +4645,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2170",
@@ -3725,7 +4655,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2180",
@@ -3733,7 +4665,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2710",
@@ -3741,7 +4675,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2720",
@@ -3749,7 +4685,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2730",
@@ -3757,7 +4695,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2980",
@@ -3765,7 +4705,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2990",
@@ -3773,7 +4715,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3010",
@@ -3781,7 +4725,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3020",
@@ -3789,7 +4735,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3040",
@@ -3797,7 +4745,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"30",
@@ -3805,7 +4755,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"720",
@@ -3813,7 +4765,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5000",
@@ -3821,7 +4775,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6284",
@@ -3829,7 +4785,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6680",
@@ -3837,7 +4795,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7580",
@@ -3845,7 +4805,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7210",
@@ -3853,7 +4815,9 @@
     "Förderer":"Euro Engineering",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring seit 2009",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hs-augsburg.de/hochschule/foerderung/partner/",
+    "Quelle 2":""
   },
   {
     "uID":"7210",
@@ -3861,7 +4825,9 @@
     "Förderer":"Verein deutscher Ingenieure e.V.",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring seit 2008",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hs-augsburg.de/hochschule/foerderung/partner/",
+    "Quelle 2":""
   },
   {
     "uID":"7210",
@@ -3869,7 +4835,9 @@
     "Förderer":"Lechwerke AG",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring seit 2008",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hs-augsburg.de/hochschule/foerderung/partner/",
+    "Quelle 2":""
   },
   {
     "uID":"7210",
@@ -3877,7 +4845,19 @@
     "Förderer":"Premium AEROTEC GmbH",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hs-augsburg.de/hochschule/foerderung/partner/",
+    "Quelle 2":""
+  },
+  {
+    "uID":"7210",
+    "Name":"Hochschule Augsburg",
+    "Förderer":"Patrizia AG",
+    "Wert":"",
+    "Hinweis":"Hörsaalsponsoring",
+    "Alternativname":"",
+    "Quelle":"http://www.hs-augsburg.de/hochschule/foerderung/partner/",
+    "Quelle 2":""
   },
   {
     "uID":"7220",
@@ -3885,7 +4865,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7240",
@@ -3893,7 +4875,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7250",
@@ -3901,7 +4885,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7260",
@@ -3909,7 +4895,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7300",
@@ -3917,7 +4905,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7310",
@@ -3925,7 +4915,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7350",
@@ -3933,7 +4925,9 @@
     "Förderer":"WAREMA Renkhoff",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.sueddeutsche.de/karriere/hochschul-sponsoring-hoersaal-aldi-sued-vormals-z-1.546254, ",
+    "Quelle 2":""
   },
   {
     "uID":"7350",
@@ -3941,7 +4935,9 @@
     "Förderer":"ALDI",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.sueddeutsche.de/karriere/hochschul-sponsoring-hoersaal-aldi-sued-vormals-z-1.546254, ",
+    "Quelle 2":""
   },
   {
     "uID":"7350",
@@ -3949,7 +4945,9 @@
     "Förderer":"Salt Solutions",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.fhws.de/hochschule/profil/verwaltung/presse/weitere_meldungen/details/news/begruessung-der-erstsemester-und-umbenennung-der-aula-an-der-hochschule-in-schweinfurt-197.html",
+    "Quelle 2":""
   },
   {
     "uID":"7350",
@@ -3957,7 +4955,9 @@
     "Förderer":"Fresenius Medical Care",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.fhws.de/hochschule/profil/verwaltung/presse/weitere_meldungen/details/news/begruessung-der-erstsemester-und-umbenennung-der-aula-an-der-hochschule-in-schweinfurt-197.html",
+    "Quelle 2":""
   },
   {
     "uID":"7350",
@@ -3965,7 +4965,9 @@
     "Förderer":"Else-Kräner",
     "Wert":"",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.fhws.de/hochschule/profil/verwaltung/presse/weitere_meldungen/details/news/begruessung-der-erstsemester-und-umbenennung-der-aula-an-der-hochschule-in-schweinfurt-197.html",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -3973,7 +4975,9 @@
     "Förderer":"Accor-Gruppe",
     "Wert":"",
     "Hinweis":"Sponsoring Lobbybereich Fakultät für Tourismus",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -3981,7 +4985,9 @@
     "Förderer":"3S-Smart Software Solutions GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring 3S-Smart Software Solutions-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -3989,7 +4995,9 @@
     "Förderer":"ALDI",
     "Wert":"",
     "Hinweis":"Sponsoring Hörsaal-ALDI SüD",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -3997,7 +5005,9 @@
     "Förderer":"Allgäuer Werkstätten GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring Hörsal-Allgäuer-Werkstätten",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4005,7 +5015,9 @@
     "Förderer":"Allgäuer Zeitungsverlag GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring Hörsaal-Allgäuer-Medienzentrum",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4013,7 +5025,9 @@
     "Förderer":"Alois Berger GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring Alois-Berger-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4021,7 +5035,9 @@
     "Förderer":"AOK",
     "Wert":"",
     "Hinweis":"Sponsoring Hörsaal der AOK Bayern - Die Gesundheitskasse",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4029,7 +5045,9 @@
     "Förderer":"BHS Sonthofen GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring BHS-Sonthofen-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4037,7 +5055,9 @@
     "Förderer":"Buhmann Systeme GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring Buhmann-Systeme-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4045,7 +5065,9 @@
     "Förderer":"Chr. Mayr GmbH + Co. KG",
     "Wert":"",
     "Hinweis":"Sponsoring Fritz-Mayr-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4053,7 +5075,9 @@
     "Förderer":"Continental",
     "Wert":"",
     "Hinweis":"Sponsoring Continental Fahrerassistenz Labor",
-    "Alternativname":"ADC Systems Control GmbH"
+    "Alternativname":"ADC Systems Control GmbH",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4061,7 +5085,9 @@
     "Förderer":"Continental",
     "Wert":"",
     "Hinweis":"Sponsoring Continental Fahrerassistenz Hörsaal",
-    "Alternativname":"ADC Systems Control GmbH"
+    "Alternativname":"ADC Systems Control GmbH",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4069,7 +5095,9 @@
     "Förderer":"Dachser GmbH & Co. KG",
     "Wert":"",
     "Hinweis":"Sponsoring Thomas-Dachser-Auditorium",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4077,7 +5105,9 @@
     "Förderer":"elobau",
     "Wert":"",
     "Hinweis":"Sponsoring elobau-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4085,7 +5115,9 @@
     "Förderer":"Ferchau Engineering ",
     "Wert":"",
     "Hinweis":"Sponsoring FERCHAU-Engineering-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4093,7 +5125,9 @@
     "Förderer":"Endress + Hauser",
     "Wert":"",
     "Hinweis":"Sponsoring GEORG-Herbert-Endress-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4101,7 +5135,9 @@
     "Förderer":"Goldhofer",
     "Wert":"",
     "Hinweis":"Sponsoring Alois-Goldhofer-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4109,7 +5145,9 @@
     "Förderer":"GROB-WERKE",
     "Wert":"",
     "Hinweis":"Sponsoring GROB-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4117,7 +5155,9 @@
     "Förderer":"Hans-Hundegger Maschinenbau",
     "Wert":"",
     "Hinweis":"Sponsoring Hans-Hundegger-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4125,7 +5165,9 @@
     "Förderer":"HAWE Hydraulik",
     "Wert":"",
     "Hinweis":"Sponsoring HAWE Hydraulik-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4133,7 +5175,9 @@
     "Förderer":"Hirschvogel Holding",
     "Wert":"",
     "Hinweis":"Sponsoring Hirschvogel-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4141,7 +5185,9 @@
     "Förderer":"Kennametal Sintec Keramik",
     "Wert":"",
     "Hinweis":"Sponsoring Kennametal-Sintec-Keramik-Labor",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4149,7 +5195,9 @@
     "Förderer":"KUKA AG",
     "Wert":"",
     "Hinweis":"Sponsoring Labor KUKA",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4157,7 +5205,9 @@
     "Förderer":"Liebherr-Holding",
     "Wert":"",
     "Hinweis":"Sponsoring Dr.-Hans-Liebherr-Halle",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4165,7 +5215,9 @@
     "Förderer":"Magnet Schultz GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring Magnes-Schultz-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4173,7 +5225,9 @@
     "Förderer":"MLP AG",
     "Wert":"",
     "Hinweis":"Sponsoring MLP-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4181,7 +5235,9 @@
     "Förderer":"Multivac Sepp Haggenmüller GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring MULTIVAC-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4189,7 +5245,9 @@
     "Förderer":"Otto Christ AG",
     "Wert":"",
     "Hinweis":"Sponsoring Christ-Wash-Systems-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4197,7 +5255,9 @@
     "Förderer":"Pfeifer Holding",
     "Wert":"",
     "Hinweis":"Sponsoring Pfeifer-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4205,7 +5265,9 @@
     "Förderer":"Plansee Group Service GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring Hörsaal Plansee-Gruppe",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4213,7 +5275,9 @@
     "Förderer":"Bosch",
     "Wert":"",
     "Hinweis":"Sponsoring Robert-Bosch-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4221,7 +5285,9 @@
     "Förderer":"Rohde Gruppe",
     "Wert":"",
     "Hinweis":"Sponsoring Rohde & Schwarz Labor für Nachrichtentechnik",
-    "Alternativname":"ROHDE & SCHWARZ GmbH & Co. KG"
+    "Alternativname":"ROHDE & SCHWARZ GmbH & Co. KG",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4229,7 +5295,9 @@
     "Förderer":"Rohde Gruppe",
     "Wert":"",
     "Hinweis":"Sponsoring Rohde & Schwarz-Hörsaal",
-    "Alternativname":"ROHDE & SCHWARZ GmbH & Co. KG"
+    "Alternativname":"ROHDE & SCHWARZ GmbH & Co. KG",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4237,7 +5305,9 @@
     "Förderer":"Saxonia Systems AG",
     "Wert":"",
     "Hinweis":"Sponsoring Saxonia Systems AG-Labor",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4245,7 +5315,9 @@
     "Förderer":"Soloplan GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring Soloplan-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4253,7 +5325,9 @@
     "Förderer":"Sontheim Industrie Elektronik GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring Sontheim-Industrie-Elektronik-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4261,7 +5335,9 @@
     "Förderer":"Sparkasse Allgäu",
     "Wert":"",
     "Hinweis":"Sponsoring Sparkassen-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4269,7 +5345,9 @@
     "Förderer":"Swoboda KG",
     "Wert":"",
     "Hinweis":"Sponsoring swoboda-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4277,7 +5355,9 @@
     "Förderer":"Voith",
     "Wert":"",
     "Hinweis":"Sponsoring Voith-Turbo-BHS-Hörsaal",
-    "Alternativname":"Voith Turbo BHS Getriebe GmbH"
+    "Alternativname":"Voith Turbo BHS Getriebe GmbH",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4285,7 +5365,9 @@
     "Förderer":"Volksbanken im Allgäu",
     "Wert":"",
     "Hinweis":"Sponsoring Volks- und Raiffeisenbank-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4293,7 +5375,9 @@
     "Förderer":"Walter Seitz GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring Seitz-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4301,7 +5385,9 @@
     "Förderer":"Siemens",
     "Wert":"",
     "Hinweis":"Sponsoring Werner-von-Siemens-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4309,7 +5395,9 @@
     "Förderer":"Siemens",
     "Wert":"",
     "Hinweis":"Sponsoring Werner-von-Siemens-Labor",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4317,7 +5405,9 @@
     "Förderer":"Willy-Scharnow-Stiftung für Touristik",
     "Wert":"",
     "Hinweis":"Sponsoring Willy-Scharnow-Hörsaal",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4325,7 +5415,9 @@
     "Förderer":"Wittenstein AG",
     "Wert":"",
     "Hinweis":"Sponsoring WITTENSTEIN-Labor",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4333,7 +5425,9 @@
     "Förderer":"Zwick GmbH",
     "Wert":"",
     "Hinweis":"Sponsoring Zwick/Roell Labor",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4341,7 +5435,9 @@
     "Förderer":"Siemens",
     "Wert":"",
     "Hinweis":"Forschungsprojekt IRENE zu Stromnetzen",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4349,7 +5445,9 @@
     "Förderer":"Allgäuer Überlandwerk GmbH",
     "Wert":"",
     "Hinweis":"Forschungsprojekt IRENE zu Stromnetzen",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4357,7 +5455,9 @@
     "Förderer":"Allianz",
     "Wert":"",
     "Hinweis":"Allianz-Competenz-Centrum zu Finanz- und Versicherungswirtschaft, gemeinsame Seminare und Fortbildungen mit Studenten und Allianz-Mitarbeitern",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4365,7 +5465,9 @@
     "Förderer":"Walther Metallwaren GmbH",
     "Wert":"",
     "Hinweis":"Stanz-Biege-Kompetenzzentrum",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4373,7 +5475,9 @@
     "Förderer":"Scherdel Waldershof GmbH",
     "Wert":"",
     "Hinweis":"Stanz-Biege-Kompetenzzentrum",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4381,7 +5485,9 @@
     "Förderer":"Federnfabrik Dietz",
     "Wert":"",
     "Hinweis":"Stanz-Biege-Kompetenzzentrum",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4389,7 +5495,9 @@
     "Förderer":"Delphi, Raithel + Co. GmbH",
     "Wert":"",
     "Hinweis":"Stanz-Biege-Kompetenzzentrum",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4397,7 +5505,9 @@
     "Förderer":"Göbel GmbH",
     "Wert":"",
     "Hinweis":"Stanz-Biege-Kompetenzzentrum",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4405,7 +5515,9 @@
     "Förderer":"Hirsch KG",
     "Wert":"",
     "Hinweis":"Stanz-Biege-Kompetenzzentrum",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4413,7 +5525,9 @@
     "Förderer":"Otto Bihler Maschinenfabrik",
     "Wert":"",
     "Hinweis":"Industriearbeitskreis Stanz-Biege-Technik",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4421,7 +5535,9 @@
     "Förderer":"CeramTec GmbH",
     "Wert":"",
     "Hinweis":"Industriearbeitskreis Stanz-Biege-Technik",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4429,7 +5545,9 @@
     "Förderer":"Ceratiziz Deutschland",
     "Wert":"",
     "Hinweis":"Industriearbeitskreis Stanz-Biege-Technik",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4437,7 +5555,9 @@
     "Förderer":"J.N. Eberle Federnfabrik",
     "Wert":"",
     "Hinweis":"Industriearbeitskreis Stanz-Biege-Technik",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4445,7 +5565,9 @@
     "Förderer":"ept",
     "Wert":"",
     "Hinweis":"Industriearbeitskreis Stanz-Biege-Technik",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4453,7 +5575,9 @@
     "Förderer":"Plansee Group Service GmbH",
     "Wert":"",
     "Hinweis":"Industriearbeitskreis Stanz-Biege-Technik",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4461,7 +5585,9 @@
     "Förderer":"Steinel Aktivelemente",
     "Wert":"",
     "Hinweis":"Industriearbeitskreis Stanz-Biege-Technik",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4469,7 +5595,9 @@
     "Förderer":"STM Stahl Vertriebs GmbH",
     "Wert":"",
     "Hinweis":"Industriearbeitskreis Stanz-Biege-Technik",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4477,7 +5605,9 @@
     "Förderer":"Swoboda KG",
     "Wert":"",
     "Hinweis":"Industriearbeitskreis Stanz-Biege-Technik",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4485,7 +5615,9 @@
     "Förderer":"Wieland-Werke",
     "Wert":"",
     "Hinweis":"Industriearbeitskreis Stanz-Biege-Technik",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4493,7 +5625,9 @@
     "Förderer":"Zeller + Gmelin GmbH",
     "Wert":"",
     "Hinweis":"Industriearbeitskreis Stanz-Biege-Technik",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4501,7 +5635,9 @@
     "Förderer":"ACREDO BAU GmbH",
     "Wert":"",
     "Hinweis":"Mitglied im Kuratorium, stellvertretender Vorsitzender, Gerhard Schlichtherle",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4509,7 +5645,9 @@
     "Förderer":"J. Dobler GmbH",
     "Wert":"",
     "Hinweis":"Mitglied im Kuratorium, Peter Dobler",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4517,7 +5655,9 @@
     "Förderer":"DECKEL MAHO Pfronten GmbH",
     "Wert":"",
     "Hinweis":"Mitglied im Kuratorium, Alfred Geissler",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4525,7 +5665,9 @@
     "Förderer":"Siemens",
     "Wert":"",
     "Hinweis":"Mitglied im Kuratorium, Richard Geisswein",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4533,7 +5675,9 @@
     "Förderer":"Management Centrum Schloss Lautrach GmbH",
     "Wert":"",
     "Hinweis":"Mitglied im Kuratorium, Dieter Groher",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4541,7 +5685,9 @@
     "Förderer":"Otto Bihler Maschinenfabrik",
     "Wert":"",
     "Hinweis":"Mitglied im Kuratorium, Manfred Grundner",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4549,7 +5695,9 @@
     "Förderer":"AGCO",
     "Wert":"",
     "Hinweis":"Mitglied im Kuratorium, Michael Gschwender",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4557,7 +5705,9 @@
     "Förderer":"Endress + Hauser",
     "Wert":"",
     "Hinweis":"Mitglied im Kuratorium, Helmut Kalteis",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4565,7 +5715,9 @@
     "Förderer":"Pfeifer Holding",
     "Wert":"",
     "Hinweis":"Mitglied im Kuratorium, Gerhard Pfeifer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4573,7 +5725,9 @@
     "Förderer":"EXTENDO GmbH",
     "Wert":"",
     "Hinweis":"Mitglied im Kuratorium, Ulrich Reiners",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7440",
@@ -4581,7 +5735,9 @@
     "Förderer":"Kliniken Kempten-Oberallgäu",
     "Wert":"",
     "Hinweis":"Mitglied im Kuratorium, Andreas Ruland",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-kempten.de/studienfuehrer/",
+    "Quelle 2":""
   },
   {
     "uID":"7450",
@@ -4589,7 +5745,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7520",
@@ -4597,7 +5755,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7530",
@@ -4605,7 +5765,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7540",
@@ -4613,7 +5775,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7550",
@@ -4621,7 +5785,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7560",
@@ -4629,7 +5795,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7570",
@@ -4637,7 +5805,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7590",
@@ -4645,7 +5815,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7370",
@@ -4653,7 +5825,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7380",
@@ -4661,7 +5835,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7460",
@@ -4669,7 +5845,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"812",
@@ -4677,7 +5855,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1369",
@@ -4685,7 +5865,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1363",
@@ -4693,7 +5875,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2760",
@@ -4701,7 +5885,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2770",
@@ -4709,7 +5895,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"860",
@@ -4717,7 +5905,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7610",
@@ -4725,7 +5915,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7630",
@@ -4733,7 +5925,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"670",
@@ -4741,7 +5935,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"680",
@@ -4749,7 +5945,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"780",
@@ -4757,7 +5955,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1520",
@@ -4765,7 +5965,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1700",
@@ -4773,7 +5975,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1840",
@@ -4781,7 +5985,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7960",
@@ -4789,7 +5995,9 @@
     "Förderer":"Permira Beteiligungsberatung GmbH",
     "Wert":"",
     "Hinweis":"Finanzierung Institut für Pädagogikmanagement",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"180",
@@ -4797,7 +6005,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"201",
@@ -4805,7 +6015,9 @@
     "Förderer":"Google",
     "Wert":"4500000",
     "Hinweis":"An-Institut für Internet und Gesellschaft",
-    "Alternativname":""
+    "Alternativname":"http://www.spiegel.de/netzwelt/netzpolitik/millionenfoerderung-googles-berliner-internet-institut-startet-im-oktober-a-773592.html",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"201",
@@ -4813,7 +6025,9 @@
     "Förderer":"KPMG",
     "Wert":"",
     "Hinweis":"Finanzierung Doktorandenstelle",
-    "Alternativname":""
+    "Alternativname":"https://www.hiig.de/pm-institut-fur-internet-und-gesellschaft-sichert-langfristige-finanzierung/, https://www.taz.de/!89878/",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"201",
@@ -4821,7 +6035,9 @@
     "Förderer":"Deutsche Bank",
     "Wert":"",
     "Hinweis":"ehemalige Stiftungsprofessur unter fraglichen Bedingungen",
-    "Alternativname":""
+    "Alternativname":"https://http//www.spiegel.de/unispiegel/studium/deutsche-bank-deal-mit-berliner-unis-kauf-dir-einen-prof-a-765337.html",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"201",
@@ -4829,7 +6045,9 @@
     "Förderer":"Deutsches Atomforum",
     "Wert":"135000",
     "Hinweis":"Studie in Auftrag",
-    "Alternativname":""
+    "Alternativname":"https://http//www.taz.de/!89878/",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1381",
@@ -4837,15 +6055,19 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
     "Name":"TU Berlin",
     "Förderer":"Volkswagen",
-    "Wert":"",
+    "Wert":"5113000",
     "Hinweis":"Sponsoring Bibliothek",
-    "Alternativname":"Volkswagen AG"
+    "Alternativname":"Volkswagen AG",
+    "Quelle":"https://pardok.parlament-berlin.de/starweb/adis/citat/VT/15/DruckSachen/d15-1800-01.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4853,7 +6075,9 @@
     "Förderer":"Deutsche Bank",
     "Wert":"",
     "Hinweis":"ehemalige Stiftungsprofessur unter fraglichen Bedingungen",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.spiegel.de/unispiegel/studium/deutsche-bank-deal-mit-berliner-unis-kauf-dir-einen-prof-a-765337.html",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4861,7 +6085,9 @@
     "Förderer":"Bayer",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":"Bayer-Stiftungen"
+    "Alternativname":"Bayer-Stiftungen",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4869,7 +6095,9 @@
     "Förderer":"Berliner Stadtreinigung",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4877,7 +6105,9 @@
     "Förderer":"Bosch",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4885,7 +6115,9 @@
     "Förderer":"Bundesdruckerei",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4893,7 +6125,9 @@
     "Förderer":"Daimler",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":"Daimler Financial Services AG"
+    "Alternativname":"Daimler Financial Services AG",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4901,7 +6135,9 @@
     "Förderer":"Deutsche Bahn",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":"Deutsche Bahn Stiftung gGmbH"
+    "Alternativname":"Deutsche Bahn Stiftung gGmbH",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4909,7 +6145,9 @@
     "Förderer":"Dorothea und Günther Seliger-Stiftung",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4917,7 +6155,9 @@
     "Förderer":"General Electric",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":"GE Germany"
+    "Alternativname":"GE Germany",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4925,7 +6165,9 @@
     "Förderer":"Gesellschaft deutscher Chemiker",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4933,7 +6175,9 @@
     "Förderer":"Gesellschaft von Freunden der TU Berlin e.V.",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4941,7 +6185,9 @@
     "Förderer":"IBM",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4949,7 +6195,9 @@
     "Förderer":"innoscale AG",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4957,7 +6205,9 @@
     "Förderer":"Karl-Schlecht-Stiftung",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4965,7 +6215,9 @@
     "Förderer":"Krickel & Geiseler GbR",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4973,7 +6225,9 @@
     "Förderer":"Lufthansa",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":"Lufthansa Technik AG"
+    "Alternativname":"Lufthansa Technik AG",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4981,7 +6235,9 @@
     "Förderer":"MüSIAD e.V.",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4989,7 +6245,9 @@
     "Förderer":"nugg.ad",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -4997,7 +6255,9 @@
     "Förderer":"Prof. Dr. Ulrich Steinmüller (em.)",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -5005,7 +6265,9 @@
     "Förderer":"Prof. Dr.-Ing. Manfred Stiebler (em.)",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -5013,7 +6275,9 @@
     "Förderer":"Rotary Club Warschau-Goethe",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -5021,7 +6285,9 @@
     "Förderer":"Sanofi Aventis",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -5029,7 +6295,9 @@
     "Förderer":"Siemens",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -5037,7 +6305,9 @@
     "Förderer":"Verein Deutscher Zuckertechniker",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -5045,7 +6315,9 @@
     "Förderer":"Verein zur  Förderung von Studierenden der Berliner Hochschulen e.V.",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -5053,7 +6325,9 @@
     "Förderer":"Wooga",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"1690",
@@ -5061,7 +6335,9 @@
     "Förderer":"xTribo GmbH - Tribology & Damping Solutions",
     "Wert":"",
     "Hinweis":"Förderer",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/",
+    "Quelle 2":""
   },
   {
     "uID":"2510",
@@ -5069,7 +6345,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2520",
@@ -5077,7 +6355,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2540",
@@ -5085,7 +6365,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2790",
@@ -5093,7 +6375,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"100",
@@ -5101,7 +6385,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"160",
@@ -5109,7 +6395,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"170",
@@ -5117,7 +6405,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"700",
@@ -5125,7 +6415,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"760",
@@ -5133,7 +6425,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"790",
@@ -5141,7 +6435,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"820",
@@ -5149,7 +6445,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"830",
@@ -5157,7 +6455,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"840",
@@ -5165,7 +6465,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1560",
@@ -5173,7 +6475,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1600",
@@ -5181,7 +6485,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1610",
@@ -5189,7 +6495,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1750",
@@ -5197,7 +6505,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5270",
@@ -5205,7 +6515,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7970",
@@ -5213,7 +6525,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8160",
@@ -5221,7 +6535,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7690",
@@ -5229,7 +6545,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7710",
@@ -5237,7 +6555,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7720",
@@ -5245,7 +6565,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7730",
@@ -5253,7 +6575,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7700",
@@ -5261,7 +6585,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7750",
@@ -5269,7 +6595,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6202",
@@ -5277,7 +6605,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6205",
@@ -5285,7 +6615,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"190",
@@ -5293,7 +6625,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"240",
@@ -5301,7 +6635,9 @@
     "Förderer":"Siemens",
     "Wert":"",
     "Hinweis":"Vereinbarung über gemeinsame Forschungsprojekte",
-    "Alternativname":"Siemens Energie Sektor"
+    "Alternativname":"Siemens Energie Sektor",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf, ",
+    "Quelle 2":""
   },
   {
     "uID":"240",
@@ -5309,7 +6645,9 @@
     "Förderer":"ABB",
     "Wert":"",
     "Hinweis":"Vereinbarung über gemeinsame Forschungsprojekte",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf, ",
+    "Quelle 2":""
   },
   {
     "uID":"240",
@@ -5317,7 +6655,9 @@
     "Förderer":"Rolls-Royce",
     "Wert":"",
     "Hinweis":"Vereinbarung über gemeinsame Forschungsprojekte",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf, ",
+    "Quelle 2":""
   },
   {
     "uID":"240",
@@ -5325,7 +6665,9 @@
     "Förderer":"Vattenfall",
     "Wert":"",
     "Hinweis":"Vereinbarung über gemeinsame Forschungsprojekte",
-    "Alternativname":"Vattenfall Europe Mining AG"
+    "Alternativname":"Vattenfall Europe Mining AG",
+    "Quelle":"http://www.taz.de/!114640/",
+    "Quelle 2":""
   },
   {
     "uID":"3500",
@@ -5333,7 +6675,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2550",
@@ -5341,7 +6685,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1570",
@@ -5349,7 +6695,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1760",
@@ -5357,7 +6705,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7910",
@@ -5365,7 +6715,9 @@
     "Förderer":"PCK",
     "Wert":"",
     "Hinweis":"Schirmherrschaft: 2 halbe akademische Mitarbeiterstellen im Bereich Chemische Verfahrenstechnik, 2008-2014",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7910",
@@ -5373,7 +6725,9 @@
     "Förderer":"Zahnradwerk Pritzwalk GmbH",
     "Wert":"",
     "Hinweis":"Schirmherrschaft: ein Viertel akademische Mitarbeiterstelle, unbefristet",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7910",
@@ -5381,7 +6735,9 @@
     "Förderer":"VICCON GmbH",
     "Wert":"9000",
     "Hinweis":"Qualitätssicherung von Weiterbildungsmaßnahmen durch die Hochschule, unbefristet ",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7920",
@@ -5389,7 +6745,9 @@
     "Förderer":"EGZ Biokorntakt GmbH & Co. KG",
     "Wert":"",
     "Hinweis":"Netzwerk Praxispartner ökolandbau",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7920",
@@ -5397,7 +6755,9 @@
     "Förderer":"Gut Wilmersdorf GbR",
     "Wert":"",
     "Hinweis":"Netzwerk Praxispartner ökolandbau",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7920",
@@ -5405,7 +6765,9 @@
     "Förderer":"Gut Netzow, Templin-Netzow",
     "Wert":"",
     "Hinweis":"Netzwerk Praxispartner ökolandbau",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7920",
@@ -5413,7 +6775,9 @@
     "Förderer":"Globus",
     "Wert":"",
     "Hinweis":"Netzwerk Praxispartner ökolandbau",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7920",
@@ -5421,7 +6785,9 @@
     "Förderer":"Kompetenznetz Rail Berlin Brandenburg GmbH",
     "Wert":"",
     "Hinweis":"Netzwerk Praxispartner ökolandbau",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7920",
@@ -5429,7 +6795,9 @@
     "Förderer":"ökodorf Brodowin GmbH",
     "Wert":"",
     "Hinweis":"Netzwerk Praxispartner ökolandbau",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7920",
@@ -5437,7 +6805,9 @@
     "Förderer":"Weidewirtschaft Liepe e.G,",
     "Wert":"",
     "Hinweis":"Netzwerk Praxispartner ökolandbau",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7920",
@@ -5445,7 +6815,9 @@
     "Förderer":"SAP",
     "Wert":"",
     "Hinweis":"Kostenlose Software",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7920",
@@ -5453,7 +6825,9 @@
     "Förderer":"PCK",
     "Wert":"6000",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7930",
@@ -5461,7 +6835,9 @@
     "Förderer":"Sparkasse Niederlausitz",
     "Wert":"",
     "Hinweis":"Kooperationsvertrag",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7930",
@@ -5469,7 +6845,9 @@
     "Förderer":"envia",
     "Wert":"",
     "Hinweis":"Kooperationsvertrag",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7930",
@@ -5477,7 +6855,9 @@
     "Förderer":"BASF",
     "Wert":"",
     "Hinweis":"Kooperationsvertrag",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7930",
@@ -5485,7 +6865,9 @@
     "Förderer":"Vattenfall",
     "Wert":"",
     "Hinweis":"Kooperationsvertrag",
-    "Alternativname":"Vattenfall Europe Mining AG"
+    "Alternativname":"Vattenfall Europe Mining AG",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7930",
@@ -5493,7 +6875,9 @@
     "Förderer":"Klinikum Niederlausitz GmbH",
     "Wert":"",
     "Hinweis":"Kooperationsvertrag",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.die-linke-thl.de/uploads/media/dr55439.pdf",
+    "Quelle 2":""
   },
   {
     "uID":"7940",
@@ -5501,7 +6885,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7950",
@@ -5509,7 +6895,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6430",
@@ -5517,7 +6905,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7850",
@@ -5525,7 +6915,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7890",
@@ -5533,7 +6925,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"269",
@@ -5541,7 +6935,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"279",
@@ -5549,7 +6945,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"261",
@@ -5557,7 +6955,9 @@
     "Förderer":"Novus Marketing",
     "Wert":"",
     "Hinweis":"Bewirtschaftung Werbeflächen",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.uni-rostock.de/aktuelles/alle-meldungen/detailansicht-der-news/news-artikel/rostock-wird-das-zentrum-der-uwe-johnson-forschung/",
+    "Quelle 2":""
   },
   {
     "uID":"261",
@@ -5565,7 +6965,9 @@
     "Förderer":"Suhrkamp Verlag",
     "Wert":"",
     "Hinweis":"Uwe-Johnson-Zentrum",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.uni-rostock.de/aktuelles/alle-meldungen/detailansicht-der-news/news-artikel/rostock-wird-das-zentrum-der-uwe-johnson-forschung/",
+    "Quelle 2":""
   },
   {
     "uID":"261",
@@ -5573,7 +6975,9 @@
     "Förderer":"Eurawasser",
     "Wert":"",
     "Hinweis":"Kooperation",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.eurawasser-nord.de/geschaeftskunden/sonderseiten/presse/pressemitteilungen/einzelmeldung/archive/2004/march/article/statement-der-eurawasser-nord-gmbh-zur-kooperation-mit-der-universitaet-rostock/",
+    "Quelle 2":"https://www.rostock-heute.de/eurawasser-nord-stiftungsprofessur-wasserwirtschaft-uni-rostock/22595"
   },
   {
     "uID":"262",
@@ -5581,7 +6985,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"271",
@@ -5589,7 +6995,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"272",
@@ -5597,7 +7005,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3030",
@@ -5605,7 +7015,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7980",
@@ -5613,7 +7025,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7780",
@@ -5621,7 +7035,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7790",
@@ -5629,7 +7045,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7840",
@@ -5637,7 +7055,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7900",
@@ -5645,7 +7065,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"630",
@@ -5653,7 +7075,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1470",
@@ -5661,7 +7085,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"369",
@@ -5669,159 +7095,199 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"Altana AG",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"APOGEPHA Arzneimittel GmbH",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"BITZER Kühlmaschinenbau GmbH",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"Bosch",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"DEKRA",
     "Wert":"DEKRA e.V. ",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"DREWAG - Stadtwerke Dresden GmbH ",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"Airbus Group",
     "Wert":"EADS",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"GELSENWASSER",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"GLOBALFOUNDRIES ",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"IBM",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"Infineon Technologies AG",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"The Linde Group ",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"Rolls-Royce",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"SAP",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"Siemens",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"ThyssenKrupp",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"Vodafone D2 GmbH",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"Vattenfall",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":"Vattenfall GmbH"
+    "Alternativname":"Vattenfall GmbH",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"379",
-    "Name":"TU Dresden (Klinikum)",
+    "uID":"371",
+    "Name":"TU Dresden (ohne Klinikum)",
     "Förderer":"Zentrum Mikroelektronik Dresden AG ",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"361",
@@ -5829,15 +7295,19 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
-    "uID":"371",
-    "Name":"TU Dresden (ohne Klinikum)",
+    "uID":"379",
+    "Name":"TU Dresden (Klinikum)",
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"380",
@@ -5845,7 +7315,9 @@
     "Förderer":"iles-Simmons-Hegenscheidt-Gruppe",
     "Wert":"1750000",
     "Hinweis":"Spende, Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.freiepresse.de/LOKALES/CHEMNITZ/Streit-um-Hoersaal-Namen-an-der-TU-artikel7654914.php",
+    "Quelle 2":""
   },
   {
     "uID":"390",
@@ -5853,7 +7325,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"610",
@@ -5861,7 +7335,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2490",
@@ -5869,7 +7345,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2630",
@@ -5877,7 +7355,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2640",
@@ -5885,7 +7365,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2740",
@@ -5893,7 +7375,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2800",
@@ -5901,7 +7385,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2930",
@@ -5909,7 +7395,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1850",
@@ -5917,7 +7405,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1860",
@@ -5925,7 +7415,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5100",
@@ -5933,7 +7425,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5180",
@@ -5941,7 +7435,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5120",
@@ -5949,7 +7445,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5130",
@@ -5957,7 +7455,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5140",
@@ -5965,7 +7465,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5150",
@@ -5973,7 +7475,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5160",
@@ -5981,7 +7485,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5110",
@@ -5989,7 +7495,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5170",
@@ -5997,7 +7505,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"5190",
@@ -6005,7 +7515,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6380",
@@ -6013,7 +7525,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"309",
@@ -6021,7 +7535,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"319",
@@ -6029,7 +7545,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"301",
@@ -6037,7 +7555,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"311",
@@ -6045,7 +7565,9 @@
     "Förderer":"Volksbank",
     "Wert":"10000",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"http://www.uni-magdeburg.de/home/Presse+_+Medien/uni_report/Archiv/2008/ausgabe_01_2008/volksbankhoersaal.html",
+    "Quelle 2":""
   },
   {
     "uID":"2350",
@@ -6053,7 +7575,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2600",
@@ -6061,7 +7585,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"3000",
@@ -6069,7 +7595,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8000",
@@ -6077,7 +7605,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8010",
@@ -6085,7 +7615,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8020",
@@ -6093,7 +7625,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8030",
@@ -6101,7 +7635,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"8060",
@@ -6109,7 +7645,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"499",
@@ -6117,7 +7655,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"491",
@@ -6125,7 +7665,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"580",
@@ -6133,7 +7675,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"590",
@@ -6141,7 +7685,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"620",
@@ -6149,7 +7695,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2850",
@@ -6157,7 +7705,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"730",
@@ -6165,7 +7715,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"850",
@@ -6173,7 +7725,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"920",
@@ -6181,7 +7735,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7810",
@@ -6189,7 +7745,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7820",
@@ -6197,7 +7755,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7830",
@@ -6205,7 +7765,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7880",
@@ -6213,7 +7775,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"7860",
@@ -6221,7 +7785,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"0620D",
@@ -6229,7 +7795,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1960",
@@ -6237,7 +7805,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1790",
@@ -6245,7 +7815,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1770",
@@ -6253,7 +7825,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6203",
@@ -6261,7 +7835,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"6204",
@@ -6269,7 +7845,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1940",
@@ -6277,7 +7855,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1890",
@@ -6285,7 +7865,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1900",
@@ -6293,7 +7875,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1880",
@@ -6301,7 +7885,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"1970",
@@ -6309,7 +7895,9 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   },
   {
     "uID":"2190",
@@ -6317,6 +7905,8 @@
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
-    "Alternativname":""
+    "Alternativname":"",
+    "Quelle":"",
+    "Quelle 2":""
   }
 ]
