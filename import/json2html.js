@@ -70,7 +70,8 @@ function foerdererLookup() {
 	var foerderer = jf.readFileSync('daten/foerderer.json');
 	var foerdererLookup = {};
 	for (var i = 0, len = foerderer.length; i < len; i++) {
-		foerderer[i].Firma = beautify( foerderer[i].Firma );
+		foerderer[i].Firma = beautify( foerderer[i].Name );
+		foerderer[i].Name = ''; // not used
 		foerdererLookup[foerderer[i].Firma] = foerderer[i];
 	}
 	return foerdererLookup;
@@ -132,7 +133,7 @@ function importFoerderungen(filename, hochschulBezeichner, foerdererBezeichner) 
 importFoerderungen('deutschlandstipendien', 'Name', 'Firma');
 importFoerderungen('hochschulraete', 'Uni', 'Unternehmen');
 importFoerderungen('kooperation', 'Name', 'Förderer');
-importFoerderungen('sponsoring', 'Universität', 'Name des Gebers');
+//importFoerderungen('sponsoring', 'Universität', 'Name des Gebers');
 importFoerderungen('stiftungsprofessuren', 'Hochschule', 'Stifter');
 
 
