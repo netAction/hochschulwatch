@@ -2,468 +2,468 @@ var searchdb = {
 	"hochschulen": [
 		{
 			"name": "Priv. wiss. Hochschule Bierbronnen",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "priv-wiss-hochschule-bierbronnen"
 		},
 		{
-			"name": "AKAD, Wissenschaftliche Hochschule Lahr (Priv. Fern-H f�r Berufst�tige)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "akad-wissenschaftliche-hochschule-lahr-priv-fern-h-fr-berufsttige"
+			"name": "AKAD, Wissenschaftliche Hochschule Lahr (Priv. Fern-H für Berufstätige)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "akad-wissenschaftliche-hochschule-lahr-priv-fern-h-fuer-berufstaetige"
 		},
 		{
-			"name": "Zeppelin Universit�t (ZU)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "zeppelin-universitt-zu"
+			"name": "Zeppelin Universität (ZU)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "zeppelin-universitaet-zu"
 		},
 		{
-			"name": "Priv. wiss. Hochschule Stuttgart, Seminar f�r Waldorfp�dagogik",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "priv-wiss-hochschule-stuttgart-seminar-fr-waldorfpdagogik"
+			"name": "Priv. wiss. Hochschule Stuttgart, Seminar für Waldorfpädagogik",
+			"bundesland": "Baden-Württemberg",
+			"slug": "priv-wiss-hochschule-stuttgart-seminar-fuer-waldorfpaedagogik"
 		},
 		{
-			"name": "Universit�t Freiburg i.Br. (Klinikum)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-freiburg-ibr-klinikum"
+			"name": "Universität Freiburg i.Br. (Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-freiburg-ibr-klinikum"
 		},
 		{
-			"name": "Universit�t Heidelberg - Medizinische Fakult�t Mannheim",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-heidelberg-medizinische-fakultt-mannheim"
+			"name": "Universität Heidelberg - Medizinische Fakultät Mannheim",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-heidelberg-medizinische-fakultaet-mannheim"
 		},
 		{
-			"name": "Universit�t Heidelberg (Klinikum)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-heidelberg-klinikum"
+			"name": "Universität Heidelberg (Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-heidelberg-klinikum"
 		},
 		{
-			"name": "Universit�t T�bingen (Klinikum)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-tbingen-klinikum"
+			"name": "Universität Tübingen (Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-tuebingen-klinikum"
 		},
 		{
-			"name": "Universit�t Ulm (Klinikum)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-ulm-klinikum"
+			"name": "Universität Ulm (Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-ulm-klinikum"
 		},
 		{
-			"name": "Universit�t Freiburg i.Br. (ohne Klinikum)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-freiburg-ibr-ohne-klinikum"
+			"name": "Universität Freiburg i.Br. (ohne Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-freiburg-ibr-ohne-klinikum"
 		},
 		{
-			"name": "Universit�t Heidelberg (ohne Klinikum)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-heidelberg-ohne-klinikum"
+			"name": "Universität Heidelberg (ohne Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-heidelberg-ohne-klinikum"
 		},
 		{
-			"name": "Universit�t Konstanz",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-konstanz"
+			"name": "Universität Konstanz",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-konstanz"
 		},
 		{
-			"name": "Universit�t T�bingen (ohne Klinikum)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-tbingen-ohne-klinikum"
+			"name": "Universität Tübingen (ohne Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-tuebingen-ohne-klinikum"
 		},
 		{
-			"name": "Karlsruher Institut f�r Technologie (KIT) - Bereich Hochschule",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "karlsruher-institut-fr-technologie-kit-bereich-hochschule"
+			"name": "Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
+			"bundesland": "Baden-Württemberg",
+			"slug": "karlsruher-institut-fuer-technologie-kit-bereich-hochschule"
 		},
 		{
-			"name": "Universit�t Stuttgart",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-stuttgart"
+			"name": "Universität Stuttgart",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-stuttgart"
 		},
 		{
-			"name": "Universit�t Hohenheim",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-hohenheim"
+			"name": "Universität Hohenheim",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-hohenheim"
 		},
 		{
-			"name": "Universit�t Mannheim",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-mannheim"
+			"name": "Universität Mannheim",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-mannheim"
 		},
 		{
-			"name": "Universit�t Ulm (ohne Klinikum)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "universitt-ulm-ohne-klinikum"
+			"name": "Universität Ulm (ohne Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-ulm-ohne-klinikum"
 		},
 		{
-			"name": "Hochschule f�r j�dische Studien Heidelberg",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "hochschule-fr-jdische-studien-heidelberg"
+			"name": "Hochschule für jüdische Studien Heidelberg",
+			"bundesland": "Baden-Württemberg",
+			"slug": "hochschule-fuer-juedische-studien-heidelberg"
 		},
 		{
 			"name": "PH Freiburg i.Br.",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "ph-freiburg-ibr"
 		},
 		{
 			"name": "PH Heidelberg",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "ph-heidelberg"
 		},
 		{
 			"name": "PH Karlsruhe",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "ph-karlsruhe"
 		},
 		{
-			"name": "PH Schw�bisch Gm�nd",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "ph-schwbisch-gmnd"
+			"name": "PH Schwäbisch Gmünd",
+			"bundesland": "Baden-Württemberg",
+			"slug": "ph-schwaebisch-gmuend"
 		},
 		{
 			"name": "PH Ludwigsburg",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "ph-ludwigsburg"
 		},
 		{
 			"name": "PH Weingarten",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "ph-weingarten"
 		},
 		{
-			"name": "Staatl. Hochschule f�r Musik Freiburg i.Br.",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "staatl-hochschule-fr-musik-freiburg-ibr"
+			"name": "Staatl. Hochschule für Musik Freiburg i.Br.",
+			"bundesland": "Baden-Württemberg",
+			"slug": "staatl-hochschule-fuer-musik-freiburg-ibr"
 		},
 		{
-			"name": "Staatl. Hochschule f�r Musik und Darstellende Kunst Mannheim",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "staatl-hochschule-fr-musik-und-darstellende-kunst-mannheim"
+			"name": "Staatl. Hochschule für Musik und Darstellende Kunst Mannheim",
+			"bundesland": "Baden-Württemberg",
+			"slug": "staatl-hochschule-fuer-musik-und-darstellende-kunst-mannheim"
 		},
 		{
-			"name": "Staatl. Hochschule f�r Musik Karlsruhe",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "staatl-hochschule-fr-musik-karlsruhe"
+			"name": "Staatl. Hochschule für Musik Karlsruhe",
+			"bundesland": "Baden-Württemberg",
+			"slug": "staatl-hochschule-fuer-musik-karlsruhe"
 		},
 		{
-			"name": "Staatl. Hochschule f�r Musik und Darstellende Kunst Stuttgart",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "staatl-hochschule-fr-musik-und-darstellende-kunst-stuttgart"
+			"name": "Staatl. Hochschule für Musik und Darstellende Kunst Stuttgart",
+			"bundesland": "Baden-Württemberg",
+			"slug": "staatl-hochschule-fuer-musik-und-darstellende-kunst-stuttgart"
 		},
 		{
-			"name": "Staatl. Hochschule f�r Musik Trossingen",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "staatl-hochschule-fr-musik-trossingen"
+			"name": "Staatl. Hochschule für Musik Trossingen",
+			"bundesland": "Baden-Württemberg",
+			"slug": "staatl-hochschule-fuer-musik-trossingen"
 		},
 		{
-			"name": "Staatl. Hochschule f�r Gestaltung Karlsruhe",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "staatl-hochschule-fr-gestaltung-karlsruhe"
+			"name": "Staatl. Hochschule für Gestaltung Karlsruhe",
+			"bundesland": "Baden-Württemberg",
+			"slug": "staatl-hochschule-fuer-gestaltung-karlsruhe"
 		},
 		{
-			"name": "Staatl. Akademie der Bildenden K�nste Karlsruhe",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "staatl-akademie-der-bildenden-knste-karlsruhe"
+			"name": "Staatl. Akademie der Bildenden Künste Karlsruhe",
+			"bundesland": "Baden-Württemberg",
+			"slug": "staatl-akademie-der-bildenden-kuenste-karlsruhe"
 		},
 		{
-			"name": "Staatl. Akademie der Bildenden K�nste Stuttgart",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "staatl-akademie-der-bildenden-knste-stuttgart"
+			"name": "Staatl. Akademie der Bildenden Künste Stuttgart",
+			"bundesland": "Baden-Württemberg",
+			"slug": "staatl-akademie-der-bildenden-kuenste-stuttgart"
 		},
 		{
 			"name": "German Graduate School of Management and Law",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "german-graduate-school-of-management-and-law"
 		},
 		{
-			"name": "Hochschule der Bundesagentur f�r Arbeit",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "hochschule-der-bundesagentur-fr-arbeit"
+			"name": "Hochschule der Bundesagentur für Arbeit",
+			"bundesland": "Baden-Württemberg",
+			"slug": "hochschule-der-bundesagentur-fuer-arbeit"
 		},
 		{
 			"name": "Internationale Hochschule Calw (Priv. FH)",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "internationale-hochschule-calw-priv-fh"
 		},
 		{
 			"name": "Naturwissenschaftlich-Technische Akademie Isny (nta)",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "naturwissenschaftlich-technische-akademie-isny-nta"
 		},
 		{
-			"name": "Priv. FH f�r Gestaltung Stuttgart (Merz-Akademie)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "priv-fh-fr-gestaltung-stuttgart-merz-akademie"
+			"name": "Priv. FH für Gestaltung Stuttgart (Merz-Akademie)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "priv-fh-fuer-gestaltung-stuttgart-merz-akademie"
 		},
 		{
-			"name": "Priv. FH f�r Kunsttherapie N�rtingen",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "priv-fh-fr-kunsttherapie-nrtingen"
+			"name": "Priv. FH für Kunsttherapie Nürtingen",
+			"bundesland": "Baden-Württemberg",
+			"slug": "priv-fh-fuer-kunsttherapie-nuertingen"
 		},
 		{
-			"name": "AKAD, FH Stuttgart (Priv. Fern-FH f�r Berufst�tige)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "akad-fh-stuttgart-priv-fern-fh-fr-berufsttige"
+			"name": "AKAD, FH Stuttgart (Priv. Fern-FH für Berufstätige)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "akad-fh-stuttgart-priv-fern-fh-fuer-berufstaetige"
 		},
 		{
 			"name": "SRH Hochschule Heidelberg",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "srh-hochschule-heidelberg"
 		},
 		{
 			"name": "Fernhochschule Riedlingen (Priv. FH)",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "fernhochschule-riedlingen-priv-fh"
 		},
 		{
-			"name": "Hochschule f�r Gestaltung Schw�bisch Hall",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "hochschule-fr-gestaltung-schwbisch-hall"
+			"name": "Hochschule für Gestaltung Schwäbisch Hall",
+			"bundesland": "Baden-Württemberg",
+			"slug": "hochschule-fuer-gestaltung-schwaebisch-hall"
 		},
 		{
-			"name": "Priv. FH Calw - H f�r Wirtschaft und Medien",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "priv-fh-calw-h-fr-wirtschaft-und-medien"
+			"name": "Priv. FH Calw - H für Wirtschaft und Medien",
+			"bundesland": "Baden-Württemberg",
+			"slug": "priv-fh-calw-h-fuer-wirtschaft-und-medien"
 		},
 		{
 			"name": "Karlshochschule International University, Karlsruhe (Priv. FH)",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "karlshochschule-international-university-karlsruhe-priv-fh"
 		},
 		{
 			"name": "FH Aalen",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "fh-aalen"
 		},
 		{
 			"name": "Hochschule Biberach",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-biberach"
 		},
 		{
 			"name": "Hochschule Esslingen (FH)",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-esslingen-fh"
 		},
 		{
 			"name": "Hochschule Furtwangen",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-furtwangen"
 		},
 		{
 			"name": "Hochschule Heilbronn",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-heilbronn"
 		},
 		{
 			"name": "Hochschule Karlsruhe (FH)",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-karlsruhe-fh"
 		},
 		{
 			"name": "Hochschule Konstanz (HTWG)",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-konstanz-htwg"
 		},
 		{
 			"name": "Hochschule Mannheim (FH)",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-mannheim-fh"
 		},
 		{
-			"name": "Hochschule f�r Wirtschaft und Umwelt N�rtingen",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "hochschule-fr-wirtschaft-und-umwelt-nrtingen"
+			"name": "Hochschule für Wirtschaft und Umwelt Nürtingen",
+			"bundesland": "Baden-Württemberg",
+			"slug": "hochschule-fuer-wirtschaft-und-umwelt-nuertingen"
 		},
 		{
 			"name": "Hochschule Offenburg",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-offenburg"
 		},
 		{
 			"name": "Hochschule Pforzheim",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-pforzheim"
 		},
 		{
 			"name": "FH Ravensburg-Weingarten",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "fh-ravensburg-weingarten"
 		},
 		{
 			"name": "Hochschule Reutlingen",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-reutlingen"
 		},
 		{
 			"name": "Hochschule Albstadt-Sigmaringen (FH)",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-albstadt-sigmaringen-fh"
 		},
 		{
-			"name": "Hochschule f�r Technik Stuttgart",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "hochschule-fr-technik-stuttgart"
+			"name": "Hochschule für Technik Stuttgart",
+			"bundesland": "Baden-Württemberg",
+			"slug": "hochschule-fuer-technik-stuttgart"
 		},
 		{
 			"name": "FH Stuttgart, H der Medien",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "fh-stuttgart-h-der-medien"
 		},
 		{
 			"name": "Hochschule Ulm",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-ulm"
 		},
 		{
-			"name": "Hochschule f�r Gestaltung Schw�bisch Gm�nd",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "hochschule-fr-gestaltung-schwbisch-gmnd"
+			"name": "Hochschule für Gestaltung Schwäbisch Gmünd",
+			"bundesland": "Baden-Württemberg",
+			"slug": "hochschule-fuer-gestaltung-schwaebisch-gmuend"
 		},
 		{
-			"name": "Hochschule f�r Forstwirtschaft Rottenburg (FH)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "hochschule-fr-forstwirtschaft-rottenburg-fh"
+			"name": "Hochschule für Forstwirtschaft Rottenburg (FH)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "hochschule-fuer-forstwirtschaft-rottenburg-fh"
 		},
 		{
-			"name": "Duale Hochschule Baden W�rttemberg",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "duale-hochschule-baden-wrttemberg"
+			"name": "Duale Hochschule Baden Württemberg",
+			"bundesland": "Baden-Württemberg",
+			"slug": "duale-hochschule-baden-wuerttemberg"
 		},
 		{
 			"name": "Evang. Hochschule Freiburg (FH)",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "evang-hochschule-freiburg-fh"
 		},
 		{
 			"name": "Katholische Hochschule Freiburg i.Br.",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "katholische-hochschule-freiburg-ibr"
 		},
 		{
 			"name": "Evangelische Hochschule Ludwigsburg (FH)",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "evangelische-hochschule-ludwigsburg-fh"
 		},
 		{
 			"name": "Theologische Hochschule Reutlingen",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "theologische-hochschule-reutlingen"
 		},
 		{
-			"name": "FH f�r �ffentliche Verwaltung Kehl",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "fh-fr-ffentliche-verwaltung-kehl"
+			"name": "FH für öffentliche Verwaltung Kehl",
+			"bundesland": "Baden-Württemberg",
+			"slug": "fh-fuer-oeffentliche-verwaltung-kehl"
 		},
 		{
-			"name": "Hochschule f�r �ffentliche Verwaltung und Finanzen Ludwigsburg",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "hochschule-fr-ffentliche-verwaltung-und-finanzen-ludwigsburg"
+			"name": "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg",
+			"bundesland": "Baden-Württemberg",
+			"slug": "hochschule-fuer-oeffentliche-verwaltung-und-finanzen-ludwigsburg"
 		},
 		{
-			"name": "FH f�r Rechtspflege Schwetzingen",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "fh-fr-rechtspflege-schwetzingen"
+			"name": "FH für Rechtspflege Schwetzingen",
+			"bundesland": "Baden-Württemberg",
+			"slug": "fh-fuer-rechtspflege-schwetzingen"
 		},
 		{
-			"name": "Staatl. FH f�r Polizei Villingen-Schwenningen",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "staatl-fh-fr-polizei-villingen-schwenningen"
+			"name": "Staatl. FH für Polizei Villingen-Schwenningen",
+			"bundesland": "Baden-Württemberg",
+			"slug": "staatl-fh-fuer-polizei-villingen-schwenningen"
 		},
 		{
 			"name": "FH Bund, FB Bundeswehrverwaltung, Mannheim",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "fh-bund-fb-bundeswehrverwaltung-mannheim"
 		},
 		{
 			"name": "Internationale Hochschule Liebenzell (FH), Bad Liebenzell",
-			"bundesland": "Baden-W�rttemberg",
+			"bundesland": "Baden-Württemberg",
 			"slug": "internationale-hochschule-liebenzell-fh-bad-liebenzell"
 		},
 		{
-			"name": "Hochschule der Wirtschaft f�r Management (HdWM) Mannheim (Priv. FH)",
-			"bundesland": "Baden-W�rttemberg",
-			"slug": "hochschule-der-wirtschaft-fr-management-hdwm-mannheim-priv-fh"
+			"name": "Hochschule der Wirtschaft für Management (HdWM) Mannheim (Priv. FH)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "hochschule-der-wirtschaft-fuer-management-hdwm-mannheim-priv-fh"
 		},
 		{
-			"name": "Universit�t Erlangen-N�rnberg (Klinikum)",
+			"name": "Universität Erlangen-Nürnberg (Klinikum)",
 			"bundesland": "Bayern",
-			"slug": "universitt-erlangen-nrnberg-klinikum"
+			"slug": "universitaet-erlangen-nuernberg-klinikum"
 		},
 		{
-			"name": "Universit�t M�nchen (Klinikum)",
+			"name": "Universität München (Klinikum)",
 			"bundesland": "Bayern",
-			"slug": "universitt-mnchen-klinikum"
+			"slug": "universitaet-muenchen-klinikum"
 		},
 		{
-			"name": "Universit�t W�rzburg (Klinikum)",
+			"name": "Universität Würzburg (Klinikum)",
 			"bundesland": "Bayern",
-			"slug": "universitt-wrzburg-klinikum"
+			"slug": "universitaet-wuerzburg-klinikum"
 		},
 		{
-			"name": "Universit�t Regensburg (Klinikum)",
+			"name": "Universität Regensburg (Klinikum)",
 			"bundesland": "Bayern",
-			"slug": "universitt-regensburg-klinikum"
+			"slug": "universitaet-regensburg-klinikum"
 		},
 		{
-			"name": "TU M�nchen (Klinikum)",
+			"name": "TU München (Klinikum)",
 			"bundesland": "Bayern",
-			"slug": "tu-mnchen-klinikum"
+			"slug": "tu-muenchen-klinikum"
 		},
 		{
-			"name": "Universit�t Bamberg",
+			"name": "Universität Bamberg",
 			"bundesland": "Bayern",
-			"slug": "universitt-bamberg"
+			"slug": "universitaet-bamberg"
 		},
 		{
-			"name": "Universit�t Bayreuth",
+			"name": "Universität Bayreuth",
 			"bundesland": "Bayern",
-			"slug": "universitt-bayreuth"
+			"slug": "universitaet-bayreuth"
 		},
 		{
-			"name": "Universit�t Passau",
+			"name": "Universität Passau",
 			"bundesland": "Bayern",
-			"slug": "universitt-passau"
+			"slug": "universitaet-passau"
 		},
 		{
-			"name": "Universit�t Erlangen-N�rnberg",
+			"name": "Universität Erlangen-Nürnberg",
 			"bundesland": "Bayern",
-			"slug": "universitt-erlangen-nrnberg"
+			"slug": "universitaet-erlangen-nuernberg"
 		},
 		{
-			"name": "Universit�t M�nchen (ohne Klinikum)",
+			"name": "Universität München (ohne Klinikum)",
 			"bundesland": "Bayern",
-			"slug": "universitt-mnchen-ohne-klinikum"
+			"slug": "universitaet-muenchen-ohne-klinikum"
 		},
 		{
-			"name": "Universit�t W�rzburg (ohne Klinikum)",
+			"name": "Universität Würzburg (ohne Klinikum)",
 			"bundesland": "Bayern",
-			"slug": "universitt-wrzburg-ohne-klinikum"
+			"slug": "universitaet-wuerzburg-ohne-klinikum"
 		},
 		{
-			"name": "Universit�t Regensburg (ohne Klinikum)",
+			"name": "Universität Regensburg (ohne Klinikum)",
 			"bundesland": "Bayern",
-			"slug": "universitt-regensburg-ohne-klinikum"
+			"slug": "universitaet-regensburg-ohne-klinikum"
 		},
 		{
-			"name": "Universit�t Augsburg",
+			"name": "Universität Augsburg",
 			"bundesland": "Bayern",
-			"slug": "universitt-augsburg"
+			"slug": "universitaet-augsburg"
 		},
 		{
-			"name": "TU M�nchen (ohne Klinikum)",
+			"name": "TU München (ohne Klinikum)",
 			"bundesland": "Bayern",
-			"slug": "tu-mnchen-ohne-klinikum"
+			"slug": "tu-muenchen-ohne-klinikum"
 		},
 		{
-			"name": "Hochschule f�r Politik M�nchen",
+			"name": "Hochschule für Politik München",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-politik-mnchen"
+			"slug": "hochschule-fuer-politik-muenchen"
 		},
 		{
-			"name": "Universit�t der Bundeswehr M�nchen (FB Universit�tsstudieng�nge)",
+			"name": "Universität der Bundeswehr München (FB Universitätsstudiengänge)",
 			"bundesland": "Bayern",
-			"slug": "universitt-der-bundeswehr-mnchen-fb-universittsstudiengnge"
+			"slug": "universitaet-der-bundeswehr-muenchen-fb-universitaetsstudiengaenge"
 		},
 		{
-			"name": "Kath. Universit�t Eichst�tt-Ingolstadt",
+			"name": "Kath. Universität Eichstätt-Ingolstadt",
 			"bundesland": "Bayern",
-			"slug": "kath-universitt-eichsttt-ingolstadt"
+			"slug": "kath-universitaet-eichstaett-ingolstadt"
 		},
 		{
 			"name": "Augustana-H Neuendettelsau (ev)",
@@ -471,9 +471,9 @@ var searchdb = {
 			"slug": "augustana-h-neuendettelsau-ev"
 		},
 		{
-			"name": "Hochschule f�r Philosophie M�nchen (rk)",
+			"name": "Hochschule für Philosophie München (rk)",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-philosophie-mnchen-rk"
+			"slug": "hochschule-fuer-philosophie-muenchen-rk"
 		},
 		{
 			"name": "Phil.-Theol. H Benediktbeuern (rk)",
@@ -481,74 +481,74 @@ var searchdb = {
 			"slug": "phil-theol-h-benediktbeuern-rk"
 		},
 		{
-			"name": "Hochschule f�r Musik W�rzburg",
+			"name": "Hochschule für Musik Würzburg",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-musik-wrzburg"
+			"slug": "hochschule-fuer-musik-wuerzburg"
 		},
 		{
-			"name": "Hochschule f�r Musik und Theater M�nchen",
+			"name": "Hochschule für Musik und Theater München",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-musik-und-theater-mnchen"
+			"slug": "hochschule-fuer-musik-und-theater-muenchen"
 		},
 		{
-			"name": "Hochschule f�r Fernsehen und Film M�nchen",
+			"name": "Hochschule für Fernsehen und Film München",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-fernsehen-und-film-mnchen"
+			"slug": "hochschule-fuer-fernsehen-und-film-muenchen"
 		},
 		{
-			"name": "Akademie der Bildenden K�nste M�nchen",
+			"name": "Akademie der Bildenden Künste München",
 			"bundesland": "Bayern",
-			"slug": "akademie-der-bildenden-knste-mnchen"
+			"slug": "akademie-der-bildenden-kuenste-muenchen"
 		},
 		{
-			"name": "Akademie der Bildenden K�nste N�rnberg",
+			"name": "Akademie der Bildenden Künste Nürnberg",
 			"bundesland": "Bayern",
-			"slug": "akademie-der-bildenden-knste-nrnberg"
+			"slug": "akademie-der-bildenden-kuenste-nuernberg"
 		},
 		{
-			"name": "Hochschule f�r Musik N�rnberg",
+			"name": "Hochschule für Musik Nürnberg",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-musik-nrnberg"
+			"slug": "hochschule-fuer-musik-nuernberg"
 		},
 		{
-			"name": "Hochschule f�r evangelische Kirchenmusik Bayreuth",
+			"name": "Hochschule für evangelische Kirchenmusik Bayreuth",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-evangelische-kirchenmusik-bayreuth"
+			"slug": "hochschule-fuer-evangelische-kirchenmusik-bayreuth"
 		},
 		{
-			"name": "Hochschule f�r Kath. Kirchenmusik und Musikp�dagogik, Regensburg",
+			"name": "Hochschule für Kath. Kirchenmusik und Musikpädagogik, Regensburg",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-kath-kirchenmusik-und-musikpdagogik-regensburg"
+			"slug": "hochschule-fuer-kath-kirchenmusik-und-musikpaedagogik-regensburg"
 		},
 		{
-			"name": "Macromedia FH der Medien, M�nchen (Priv. FH)",
+			"name": "Macromedia FH der Medien, München (Priv. FH)",
 			"bundesland": "Bayern",
-			"slug": "macromedia-fh-der-medien-mnchen-priv-fh"
+			"slug": "macromedia-fh-der-medien-muenchen-priv-fh"
 		},
 		{
-			"name": "Hochschule f�r Angewandte Sprachen - Fachhochschule des SDI M�nchen",
+			"name": "Hochschule für Angewandte Sprachen - Fachhochschule des SDI München",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-angewandte-sprachen-fachhochschule-des-sdi-mnchen"
+			"slug": "hochschule-fuer-angewandte-sprachen-fachhochschule-des-sdi-muenchen"
 		},
 		{
-			"name": "Hochschule f�r angewandte Wissenschaften Bamberg - Private Hochschule f�r Gesundheit (Priv. FH)",
+			"name": "Hochschule für angewandte Wissenschaften Bamberg - Private Hochschule für Gesundheit (Priv. FH)",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-angewandte-wissenschaften-bamberg-private-hochschule-fr-gesundheit-priv-fh"
+			"slug": "hochschule-fuer-angewandte-wissenschaften-bamberg-private-hochschule-fuer-gesundheit-priv-fh"
 		},
 		{
-			"name": "Hochschule Fresenius Idstein in M�nchen (Priv. FH)",
+			"name": "Hochschule Fresenius Idstein in München (Priv. FH)",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fresenius-idstein-in-mnchen-priv-fh"
+			"slug": "hochschule-fresenius-idstein-in-muenchen-priv-fh"
 		},
 		{
-			"name": "Hochschule f�r angewandtes Management",
+			"name": "Hochschule für angewandtes Management",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-angewandtes-management"
+			"slug": "hochschule-fuer-angewandtes-management"
 		},
 		{
-			"name": "Munich Business School M�nchen (Priv. FH)",
+			"name": "Munich Business School München (Priv. FH)",
 			"bundesland": "Bayern",
-			"slug": "munich-business-school-mnchen-priv-fh"
+			"slug": "munich-business-school-muenchen-priv-fh"
 		},
 		{
 			"name": "Hochschule Augsburg",
@@ -561,14 +561,14 @@ var searchdb = {
 			"slug": "hochschule-coburg"
 		},
 		{
-			"name": "Hochschule M�nchen",
+			"name": "Hochschule München",
 			"bundesland": "Bayern",
-			"slug": "hochschule-mnchen"
+			"slug": "hochschule-muenchen"
 		},
 		{
-			"name": "Technische Hochschule N�rnberg Georg Simon Ohm",
+			"name": "Technische Hochschule Nürnberg Georg Simon Ohm",
 			"bundesland": "Bayern",
-			"slug": "technische-hochschule-nrnberg-georg-simon-ohm"
+			"slug": "technische-hochschule-nuernberg-georg-simon-ohm"
 		},
 		{
 			"name": "FH Regensburg",
@@ -586,9 +586,9 @@ var searchdb = {
 			"slug": "hochschule-weihenstephan-triesdorf"
 		},
 		{
-			"name": "Hochschule f�r angewandte Wissenschaften W�rzburg-Schweinfurt (FHWS)",
+			"name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-angewandte-wissenschaften-wrzburg-schweinfurt-fhws"
+			"slug": "hochschule-fuer-angewandte-wissenschaften-wuerzburg-schweinfurt-fhws"
 		},
 		{
 			"name": "Hochschule Kempten",
@@ -606,14 +606,14 @@ var searchdb = {
 			"slug": "technische-hochschule-deggendorf"
 		},
 		{
-			"name": "Hochschule f�r Angewandte Wissenschaften Hof",
+			"name": "Hochschule für Angewandte Wissenschaften Hof",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-angewandte-wissenschaften-hof"
+			"slug": "hochschule-fuer-angewandte-wissenschaften-hof"
 		},
 		{
-			"name": "Hochschule f�r angewandte Wissenschaft Ingolstadt",
+			"name": "Hochschule für angewandte Wissenschaft Ingolstadt",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fr-angewandte-wissenschaft-ingolstadt"
+			"slug": "hochschule-fuer-angewandte-wissenschaft-ingolstadt"
 		},
 		{
 			"name": "Hochschule Amberg-Weiden",
@@ -636,29 +636,29 @@ var searchdb = {
 			"slug": "hochschule-aschaffenburg"
 		},
 		{
-			"name": "Evang. Hochschule N�rnberg (FH)",
+			"name": "Evang. Hochschule Nürnberg (FH)",
 			"bundesland": "Bayern",
-			"slug": "evang-hochschule-nrnberg-fh"
+			"slug": "evang-hochschule-nuernberg-fh"
 		},
 		{
-			"name": "Kath. Stiftungs FH M�nchen in M�nchen",
+			"name": "Kath. Stiftungs FH München in München",
 			"bundesland": "Bayern",
-			"slug": "kath-stiftungs-fh-mnchen-in-mnchen"
+			"slug": "kath-stiftungs-fh-muenchen-in-muenchen"
 		},
 		{
-			"name": "FH f�r �ffentl. Verwaltung und Rechtspflege Bayern",
+			"name": "FH für öffentl. Verwaltung und Rechtspflege Bayern",
 			"bundesland": "Bayern",
-			"slug": "fh-fr-ffentl-verwaltung-und-rechtspflege-bayern"
+			"slug": "fh-fuer-oeffentl-verwaltung-und-rechtspflege-bayern"
 		},
 		{
-			"name": "Universit�t der Bundeswehr M�nchen (FB Fachhochschulstudieng�nge)",
+			"name": "Universität der Bundeswehr München (FB Fachhochschulstudiengänge)",
 			"bundesland": "Bayern",
-			"slug": "universitt-der-bundeswehr-mnchen-fb-fachhochschulstudiengnge"
+			"slug": "universitaet-der-bundeswehr-muenchen-fb-fachhochschulstudiengaenge"
 		},
 		{
-			"name": "Universit�t des Saarlandes Saarbr�cken, Homburg/Saar",
+			"name": "Universität des Saarlandes Saarbrücken, Homburg/Saar",
 			"bundesland": "Bayern",
-			"slug": "universitt-des-saarlandes-saarbrcken-homburgsaar"
+			"slug": "universitaet-des-saarlandes-saarbruecken-homburgsaar"
 		},
 		{
 			"name": "Europ. School of Management and Technology, Berlin (Priv. H)",
@@ -671,9 +671,9 @@ var searchdb = {
 			"slug": "hertie-school-of-governance-berlin-priv-wiss-h"
 		},
 		{
-			"name": "Deutsche Universit�t f�r Weiterbildung Berlin (Priv. wiss. H)",
+			"name": "Deutsche Universität für Weiterbildung Berlin (Priv. wiss. H)",
 			"bundesland": "Berlin",
-			"slug": "deutsche-universitt-fr-weiterbildung-berlin-priv-wiss-h"
+			"slug": "deutsche-universitaet-fuer-weiterbildung-berlin-priv-wiss-h"
 		},
 		{
 			"name": "International Psychoanalytic University Berlin (Priv.)",
@@ -696,14 +696,14 @@ var searchdb = {
 			"slug": "steinbeis-hochschule-berlin-priv-h"
 		},
 		{
-			"name": "Charite - Universit�tsmedizin Berlin",
+			"name": "Charite - Universitätsmedizin Berlin",
 			"bundesland": "Berlin",
-			"slug": "charite-universittsmedizin-berlin"
+			"slug": "charite-universitaetsmedizin-berlin"
 		},
 		{
-			"name": "Humboldt-Universit�t zu Berlin",
+			"name": "Humboldt-Universität zu Berlin",
 			"bundesland": "Berlin",
-			"slug": "humboldt-universitt-zu-berlin"
+			"slug": "humboldt-universitaet-zu-berlin"
 		},
 		{
 			"name": "FU Berlin",
@@ -716,24 +716,24 @@ var searchdb = {
 			"slug": "tu-berlin"
 		},
 		{
-			"name": "Wei�ensee Kunsthochschule Berlin",
+			"name": "Weißensee Kunsthochschule Berlin",
 			"bundesland": "Berlin",
-			"slug": "weiensee-kunsthochschule-berlin"
+			"slug": "weissensee-kunsthochschule-berlin"
 		},
 		{
-			"name": "Hochschule f�r Musik Berlin Hanns Eisler",
+			"name": "Hochschule für Musik Berlin Hanns Eisler",
 			"bundesland": "Berlin",
-			"slug": "hochschule-fr-musik-berlin-hanns-eisler"
+			"slug": "hochschule-fuer-musik-berlin-hanns-eisler"
 		},
 		{
-			"name": "Hochschule f�r Schauspielkunst Berlin Ernst Busch",
+			"name": "Hochschule für Schauspielkunst Berlin Ernst Busch",
 			"bundesland": "Berlin",
-			"slug": "hochschule-fr-schauspielkunst-berlin-ernst-busch"
+			"slug": "hochschule-fuer-schauspielkunst-berlin-ernst-busch"
 		},
 		{
-			"name": "Universit�t der K�nste Berlin",
+			"name": "Universität der Künste Berlin",
 			"bundesland": "Berlin",
-			"slug": "universitt-der-knste-berlin"
+			"slug": "universitaet-der-kuenste-berlin"
 		},
 		{
 			"name": "Berliner Technische Kunsthochschule",
@@ -766,9 +766,9 @@ var searchdb = {
 			"slug": "akkon-hochschule-berlin-priv-fh"
 		},
 		{
-			"name": "Hochschule f�r Sport und Gesundheit",
+			"name": "Hochschule für Sport und Gesundheit",
 			"bundesland": "Berlin",
-			"slug": "hochschule-fr-sport-und-gesundheit"
+			"slug": "hochschule-fuer-sport-und-gesundheit"
 		},
 		{
 			"name": "Design Akademie Berlin",
@@ -781,9 +781,9 @@ var searchdb = {
 			"slug": "best-sabel-hochschule-berlin"
 		},
 		{
-			"name": "HS f�r Medien, Kommunikation und Wirtschaft Berlin (Priv. FH)",
+			"name": "HS für Medien, Kommunikation und Wirtschaft Berlin (Priv. FH)",
 			"bundesland": "Berlin",
-			"slug": "hs-fr-medien-kommunikation-und-wirtschaft-berlin-priv-fh"
+			"slug": "hs-fuer-medien-kommunikation-und-wirtschaft-berlin-priv-fh"
 		},
 		{
 			"name": "Quadriga Hochschule Berlin (Priv. FH)",
@@ -796,14 +796,14 @@ var searchdb = {
 			"slug": "dekra-hochschule-berlin-priv-fh"
 		},
 		{
-			"name": "hdpk Hochschule der popul�ren K�nste",
+			"name": "hdpk Hochschule der populären Künste",
 			"bundesland": "Berlin",
-			"slug": "hdpk-hochschule-der-populren-knste"
+			"slug": "hdpk-hochschule-der-populaeren-kuenste"
 		},
 		{
-			"name": "Mediadesign Hochschule f�r Design und Informatik",
+			"name": "Mediadesign Hochschule für Design und Informatik",
 			"bundesland": "Berlin",
-			"slug": "mediadesign-hochschule-fr-design-und-informatik"
+			"slug": "mediadesign-hochschule-fuer-design-und-informatik"
 		},
 		{
 			"name": "SRH Hochschule Berlin (Priv. FH)",
@@ -811,29 +811,29 @@ var searchdb = {
 			"slug": "srh-hochschule-berlin-priv-fh"
 		},
 		{
-			"name": "Hochschule f�r Technik und Wirtschaft Berlin",
+			"name": "Hochschule für Technik und Wirtschaft Berlin",
 			"bundesland": "Berlin",
-			"slug": "hochschule-fr-technik-und-wirtschaft-berlin"
+			"slug": "hochschule-fuer-technik-und-wirtschaft-berlin"
 		},
 		{
-			"name": "Beuth-Hochschule f�r Technik Berlin",
+			"name": "Beuth-Hochschule für Technik Berlin",
 			"bundesland": "Berlin",
-			"slug": "beuth-hochschule-fr-technik-berlin"
+			"slug": "beuth-hochschule-fuer-technik-berlin"
 		},
 		{
-			"name": "Hochschule f�r Wirtschaft und Recht Berlin",
+			"name": "Hochschule für Wirtschaft und Recht Berlin",
 			"bundesland": "Berlin",
-			"slug": "hochschule-fr-wirtschaft-und-recht-berlin"
+			"slug": "hochschule-fuer-wirtschaft-und-recht-berlin"
 		},
 		{
-			"name": "ASH f�r Sozialarbeit und Sozialp�dagogik Berlin",
+			"name": "ASH für Sozialarbeit und Sozialpädagogik Berlin",
 			"bundesland": "Berlin",
-			"slug": "ash-fr-sozialarbeit-und-sozialpdagogik-berlin"
+			"slug": "ash-fuer-sozialarbeit-und-sozialpaedagogik-berlin"
 		},
 		{
-			"name": "Katholische Hochschule f�r Sozialwesen Berlin (FH)",
+			"name": "Katholische Hochschule für Sozialwesen Berlin (FH)",
 			"bundesland": "Berlin",
-			"slug": "katholische-hochschule-fr-sozialwesen-berlin-fh"
+			"slug": "katholische-hochschule-fuer-sozialwesen-berlin-fh"
 		},
 		{
 			"name": "Evangelische Hochschule Berlin (FH)",
@@ -846,9 +846,9 @@ var searchdb = {
 			"slug": "fh-bund-fb-sozialversicherung-in-berlin"
 		},
 		{
-			"name": "FH Bund, FB Akademie Ausw�rtige Angelegenheiten in Berlin",
+			"name": "FH Bund, FB Akademie Auswärtige Angelegenheiten in Berlin",
 			"bundesland": "Berlin",
-			"slug": "fh-bund-fb-akademie-auswrtige-angelegenheiten-in-berlin"
+			"slug": "fh-bund-fb-akademie-auswaertige-angelegenheiten-in-berlin"
 		},
 		{
 			"name": "Business School Berlin Potsdam (BSP)",
@@ -861,14 +861,14 @@ var searchdb = {
 			"slug": "ecla-of-bard-a-liberal-arts-university-berlin-priv-h"
 		},
 		{
-			"name": "German open Business School, Hochschule f�r Wirtschaft und Verwaltung, Berlin (Priv. FH)",
+			"name": "German open Business School, Hochschule für Wirtschaft und Verwaltung, Berlin (Priv. FH)",
 			"bundesland": "Berlin",
-			"slug": "german-open-business-school-hochschule-fr-wirtschaft-und-verwaltung-berlin-priv-fh"
+			"slug": "german-open-business-school-hochschule-fuer-wirtschaft-und-verwaltung-berlin-priv-fh"
 		},
 		{
-			"name": "Europa-Universit�t Viadrina Frankfurt (Oder)",
+			"name": "Europa-Universität Viadrina Frankfurt (Oder)",
 			"bundesland": "Brandenburg",
-			"slug": "europa-universitt-viadrina-frankfurt-oder"
+			"slug": "europa-universitaet-viadrina-frankfurt-oder"
 		},
 		{
 			"name": "Brandenburgische TU Cottbus",
@@ -876,19 +876,19 @@ var searchdb = {
 			"slug": "brandenburgische-tu-cottbus"
 		},
 		{
-			"name": "Universit�t Potsdam",
+			"name": "Universität Potsdam",
 			"bundesland": "Brandenburg",
-			"slug": "universitt-potsdam"
+			"slug": "universitaet-potsdam"
 		},
 		{
-			"name": "Hochschule f�r Film und Fernsehen in Potsdam-Babelsberg",
+			"name": "Hochschule für Film und Fernsehen in Potsdam-Babelsberg",
 			"bundesland": "Brandenburg",
-			"slug": "hochschule-fr-film-und-fernsehen-in-potsdam-babelsberg"
+			"slug": "hochschule-fuer-film-und-fernsehen-in-potsdam-babelsberg"
 		},
 		{
-			"name": "Fachhochschule f�r Sport und Management Potsdam",
+			"name": "Fachhochschule für Sport und Management Potsdam",
 			"bundesland": "Brandenburg",
-			"slug": "fachhochschule-fr-sport-und-management-potsdam"
+			"slug": "fachhochschule-fuer-sport-und-management-potsdam"
 		},
 		{
 			"name": "FH Brandenburg",
@@ -896,9 +896,9 @@ var searchdb = {
 			"slug": "fh-brandenburg"
 		},
 		{
-			"name": "Hochschule f�r nachhaltige Entwicklung Eberswalde (FH)",
+			"name": "Hochschule für nachhaltige Entwicklung Eberswalde (FH)",
 			"bundesland": "Brandenburg",
-			"slug": "hochschule-fr-nachhaltige-entwicklung-eberswalde-fh"
+			"slug": "hochschule-fuer-nachhaltige-entwicklung-eberswalde-fh"
 		},
 		{
 			"name": "Hochschule Lausitz, University of Applied Sciences (FH)",
@@ -921,9 +921,9 @@ var searchdb = {
 			"slug": "theol-seminar-fh-der-evang-freikirche-elstal"
 		},
 		{
-			"name": "FH f�r Finanzen Brandenburg (VerwFH) K�nigs Wusterhausen",
+			"name": "FH für Finanzen Brandenburg (VerwFH) Königs Wusterhausen",
 			"bundesland": "Brandenburg",
-			"slug": "fh-fr-finanzen-brandenburg-verwfh-knigs-wusterhausen"
+			"slug": "fh-fuer-finanzen-brandenburg-verwfh-koenigs-wusterhausen"
 		},
 		{
 			"name": "FH der Polizei Brandenburg (VerwFH) in Oranienburg",
@@ -931,9 +931,9 @@ var searchdb = {
 			"slug": "fh-der-polizei-brandenburg-verwfh-in-oranienburg"
 		},
 		{
-			"name": "Universit�t Rostock (Klinikum)",
+			"name": "Universität Rostock (Klinikum)",
 			"bundesland": "Brandenburg",
-			"slug": "universitt-rostock-klinikum"
+			"slug": "universitaet-rostock-klinikum"
 		},
 		{
 			"name": "Jacobs University Bremen (Priv. H)",
@@ -941,14 +941,14 @@ var searchdb = {
 			"slug": "jacobs-university-bremen-priv-h"
 		},
 		{
-			"name": "Universit�t Bremen",
+			"name": "Universität Bremen",
 			"bundesland": "Bremen",
-			"slug": "universitt-bremen"
+			"slug": "universitaet-bremen"
 		},
 		{
-			"name": "Hochschule f�r K�nste Bremen",
+			"name": "Hochschule für Künste Bremen",
 			"bundesland": "Bremen",
-			"slug": "hochschule-fr-knste-bremen"
+			"slug": "hochschule-fuer-kuenste-bremen"
 		},
 		{
 			"name": "APOLLON Hochschule der Gesundheitswirtschaft",
@@ -966,14 +966,14 @@ var searchdb = {
 			"slug": "hochschule-bremen"
 		},
 		{
-			"name": "Hochschule f�r �ffentliche Verwaltung Bremen",
+			"name": "Hochschule für öffentliche Verwaltung Bremen",
 			"bundesland": "Bremen",
-			"slug": "hochschule-fr-ffentliche-verwaltung-bremen"
+			"slug": "hochschule-fuer-oeffentliche-verwaltung-bremen"
 		},
 		{
-			"name": "Hochschule f�r intern. Wirtschaft und Logistik (HIWL), Bremen (Priv. FH)",
+			"name": "Hochschule für intern. Wirtschaft und Logistik (HIWL), Bremen (Priv. FH)",
 			"bundesland": "Bremen",
-			"slug": "hochschule-fr-intern-wirtschaft-und-logistik-hiwl-bremen-priv-fh"
+			"slug": "hochschule-fuer-intern-wirtschaft-und-logistik-hiwl-bremen-priv-fh"
 		},
 		{
 			"name": "Bucerius Law School Hamburg (Priv. H)",
@@ -981,24 +981,24 @@ var searchdb = {
 			"slug": "bucerius-law-school-hamburg-priv-h"
 		},
 		{
-			"name": "Universit�t Hamburg (Klinikum)",
+			"name": "Universität Hamburg (Klinikum)",
 			"bundesland": "Hamburg",
-			"slug": "universitt-hamburg-klinikum"
+			"slug": "universitaet-hamburg-klinikum"
 		},
 		{
-			"name": "Hafencity Universit�t Hamburg",
+			"name": "Hafencity Universität Hamburg",
 			"bundesland": "Hamburg",
-			"slug": "hafencity-universitt-hamburg"
+			"slug": "hafencity-universitaet-hamburg"
 		},
 		{
-			"name": "Universit�t Hamburg (ohne Klinikum)",
+			"name": "Universität Hamburg (ohne Klinikum)",
 			"bundesland": "Hamburg",
-			"slug": "universitt-hamburg-ohne-klinikum"
+			"slug": "universitaet-hamburg-ohne-klinikum"
 		},
 		{
-			"name": "Staats- und Universit�tsbibliothek Hamburg",
+			"name": "Staats- und Universitätsbibliothek Hamburg",
 			"bundesland": "Hamburg",
-			"slug": "staats-und-universittsbibliothek-hamburg"
+			"slug": "staats-und-universitaetsbibliothek-hamburg"
 		},
 		{
 			"name": "TU Hamburg-Harburg",
@@ -1006,19 +1006,19 @@ var searchdb = {
 			"slug": "tu-hamburg-harburg"
 		},
 		{
-			"name": "Helmut-Schmidt-Universit�t Hamburg",
+			"name": "Helmut-Schmidt-Universität Hamburg",
 			"bundesland": "Hamburg",
-			"slug": "helmut-schmidt-universitt-hamburg"
+			"slug": "helmut-schmidt-universitaet-hamburg"
 		},
 		{
-			"name": "Hochschule f�r Musik und Theater Hamburg",
+			"name": "Hochschule für Musik und Theater Hamburg",
 			"bundesland": "Hamburg",
-			"slug": "hochschule-fr-musik-und-theater-hamburg"
+			"slug": "hochschule-fuer-musik-und-theater-hamburg"
 		},
 		{
-			"name": "Hochschule f�r Bildende K�nste Hamburg",
+			"name": "Hochschule für Bildende Künste Hamburg",
 			"bundesland": "Hamburg",
-			"slug": "hochschule-fr-bildende-knste-hamburg"
+			"slug": "hochschule-fuer-bildende-kuenste-hamburg"
 		},
 		{
 			"name": "EBC Euro Business College Hamburg (Priv. FH)",
@@ -1036,9 +1036,9 @@ var searchdb = {
 			"slug": "hfh-hamburger-fern-hochschule"
 		},
 		{
-			"name": "Europ�ische Fernhochschule Hamburg",
+			"name": "Europäische Fernhochschule Hamburg",
 			"bundesland": "Hamburg",
-			"slug": "europische-fernhochschule-hamburg"
+			"slug": "europaeische-fernhochschule-hamburg"
 		},
 		{
 			"name": "HSBA Hamburg School of Business Admin. (Priv. FH)",
@@ -1046,14 +1046,14 @@ var searchdb = {
 			"slug": "hsba-hamburg-school-of-business-admin-priv-fh"
 		},
 		{
-			"name": "Hochschule f�r Angewandte Wissenschaften Hamburg",
+			"name": "Hochschule für Angewandte Wissenschaften Hamburg",
 			"bundesland": "Hamburg",
-			"slug": "hochschule-fr-angewandte-wissenschaften-hamburg"
+			"slug": "hochschule-fuer-angewandte-wissenschaften-hamburg"
 		},
 		{
-			"name": "Evang. Hochschule f�r Soziale Arbeit und Diakonie, Hamburg (FH)",
+			"name": "Evang. Hochschule für Soziale Arbeit und Diakonie, Hamburg (FH)",
 			"bundesland": "Hamburg",
-			"slug": "evang-hochschule-fr-soziale-arbeit-und-diakonie-hamburg-fh"
+			"slug": "evang-hochschule-fuer-soziale-arbeit-und-diakonie-hamburg-fh"
 		},
 		{
 			"name": "Hochschule der Polizei, Hamburg (Verw-FH)",
@@ -1061,14 +1061,14 @@ var searchdb = {
 			"slug": "hochschule-der-polizei-hamburg-verw-fh"
 		},
 		{
-			"name": "Norddeutsche Akademie f�r Finanzen und Steuerrecht Hamburg",
+			"name": "Norddeutsche Akademie für Finanzen und Steuerrecht Hamburg",
 			"bundesland": "Hamburg",
-			"slug": "norddeutsche-akademie-fr-finanzen-und-steuerrecht-hamburg"
+			"slug": "norddeutsche-akademie-fuer-finanzen-und-steuerrecht-hamburg"
 		},
 		{
-			"name": "K�hne Logistics University - The KLU, Hamburg (Priv. H)",
+			"name": "Kühne Logistics University - The KLU, Hamburg (Priv. H)",
 			"bundesland": "Hamburg",
-			"slug": "khne-logistics-university-the-klu-hamburg-priv-h"
+			"slug": "kuehne-logistics-university-the-klu-hamburg-priv-h"
 		},
 		{
 			"name": "MSH Medical School Hamburg (Priv. FH)",
@@ -1091,29 +1091,29 @@ var searchdb = {
 			"slug": "frankfurt-school-of-finance-and-management"
 		},
 		{
-			"name": "Universit�t Frankfurt a.M. (Klinikum)",
+			"name": "Universität Frankfurt a.M. (Klinikum)",
 			"bundesland": "Hessen",
-			"slug": "universitt-frankfurt-am-klinikum"
+			"slug": "universitaet-frankfurt-am-klinikum"
 		},
 		{
-			"name": "Universit�t Kassel",
+			"name": "Universität Kassel",
 			"bundesland": "Hessen",
-			"slug": "universitt-kassel"
+			"slug": "universitaet-kassel"
 		},
 		{
-			"name": "Universit�t Frankfurt a.M. (ohne Klinikum)",
+			"name": "Universität Frankfurt a.M. (ohne Klinikum)",
 			"bundesland": "Hessen",
-			"slug": "universitt-frankfurt-am-ohne-klinikum"
+			"slug": "universitaet-frankfurt-am-ohne-klinikum"
 		},
 		{
-			"name": "Universit�t Gie�en",
+			"name": "Universität Gießen",
 			"bundesland": "Hessen",
-			"slug": "universitt-gieen"
+			"slug": "universitaet-giessen"
 		},
 		{
-			"name": "Universit�t Marburg",
+			"name": "Universität Marburg",
 			"bundesland": "Hessen",
-			"slug": "universitt-marburg"
+			"slug": "universitaet-marburg"
 		},
 		{
 			"name": "TU Darmstadt",
@@ -1121,19 +1121,19 @@ var searchdb = {
 			"slug": "tu-darmstadt"
 		},
 		{
-			"name": "Universit�tsklinikum Gie�en und Marburg, Abt. Gie�en",
+			"name": "Universitätsklinikum Gießen und Marburg, Abt. Gießen",
 			"bundesland": "Hessen",
-			"slug": "universittsklinikum-gieen-und-marburg-abt-gieen"
+			"slug": "universitaetsklinikum-giessen-und-marburg-abt-giessen"
 		},
 		{
-			"name": "Universit�tsklinikum Gie�en und Marburg, Abt. Marburg",
+			"name": "Universitätsklinikum Gießen und Marburg, Abt. Marburg",
 			"bundesland": "Hessen",
-			"slug": "universittsklinikum-gieen-und-marburg-abt-marburg"
+			"slug": "universitaetsklinikum-giessen-und-marburg-abt-marburg"
 		},
 		{
-			"name": "Freie Theologische Hochschule (FTH) Gie�en (Priv.)",
+			"name": "Freie Theologische Hochschule (FTH) Gießen (Priv.)",
 			"bundesland": "Hessen",
-			"slug": "freie-theologische-hochschule-fth-gieen-priv"
+			"slug": "freie-theologische-hochschule-fth-giessen-priv"
 		},
 		{
 			"name": "Evangelische Hochschule Tabor Marburg",
@@ -1141,9 +1141,9 @@ var searchdb = {
 			"slug": "evangelische-hochschule-tabor-marburg"
 		},
 		{
-			"name": "Theol. Fakult�t Fulda (rk)",
+			"name": "Theol. Fakultät Fulda (rk)",
 			"bundesland": "Hessen",
-			"slug": "theol-fakultt-fulda-rk"
+			"slug": "theol-fakultaet-fulda-rk"
 		},
 		{
 			"name": "Phil.-Theol. Hochschule Frankfurt a.M. (rk)",
@@ -1156,19 +1156,19 @@ var searchdb = {
 			"slug": "luth-theol-hochschule-oberursel-ev"
 		},
 		{
-			"name": "Hochschule f�r Musik und Darstellende Kunst Frankfurt a.M.",
+			"name": "Hochschule für Musik und Darstellende Kunst Frankfurt a.M.",
 			"bundesland": "Hessen",
-			"slug": "hochschule-fr-musik-und-darstellende-kunst-frankfurt-am"
+			"slug": "hochschule-fuer-musik-und-darstellende-kunst-frankfurt-am"
 		},
 		{
-			"name": "Hochschule f�r Bildende K�nste Frankfurt a.M. (St�delschule)",
+			"name": "Hochschule für Bildende Künste Frankfurt a.M. (Städelschule)",
 			"bundesland": "Hessen",
-			"slug": "hochschule-fr-bildende-knste-frankfurt-am-stdelschule"
+			"slug": "hochschule-fuer-bildende-kuenste-frankfurt-am-staedelschule"
 		},
 		{
-			"name": "Hochschule f�r Gestaltung Offenbach",
+			"name": "Hochschule für Gestaltung Offenbach",
 			"bundesland": "Hessen",
-			"slug": "hochschule-fr-gestaltung-offenbach"
+			"slug": "hochschule-fuer-gestaltung-offenbach"
 		},
 		{
 			"name": "CVJM-Hochschule",
@@ -1186,9 +1186,9 @@ var searchdb = {
 			"slug": "priv-fh-des-bundesverbandes-der-unfallvers-bad-hersfeld"
 		},
 		{
-			"name": "Wilhelm B�chner Hochschule",
+			"name": "Wilhelm Büchner Hochschule",
 			"bundesland": "Hessen",
-			"slug": "wilhelm-bchner-hochschule"
+			"slug": "wilhelm-buechner-hochschule"
 		},
 		{
 			"name": "DIPLOMA Fachhochschule Nordhessen",
@@ -1236,9 +1236,9 @@ var searchdb = {
 			"slug": "evangelische-hochschule-darmstadt-ehd"
 		},
 		{
-			"name": "FH f�r Archivwesen Marburg",
+			"name": "FH für Archivwesen Marburg",
 			"bundesland": "Hessen",
-			"slug": "fh-fr-archivwesen-marburg"
+			"slug": "fh-fuer-archivwesen-marburg"
 		},
 		{
 			"name": "VerwFH Rotenburg",
@@ -1261,34 +1261,34 @@ var searchdb = {
 			"slug": "fh-bund-fb-landwirtschaftliche-sozialversicherung-in-kassel"
 		},
 		{
-			"name": "Universit�t Greifswald (Klinikum)",
+			"name": "Universität Greifswald (Klinikum)",
 			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "universitt-greifswald-klinikum"
+			"slug": "universitaet-greifswald-klinikum"
 		},
 		{
-			"name": "Universit�t Rostock (ohne Klinikum)",
+			"name": "Universität Rostock (ohne Klinikum)",
 			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "universitt-rostock-ohne-klinikum"
+			"slug": "universitaet-rostock-ohne-klinikum"
 		},
 		{
-			"name": "Med. Fakult�t Rostock",
+			"name": "Med. Fakultät Rostock",
 			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "med-fakultt-rostock"
+			"slug": "med-fakultaet-rostock"
 		},
 		{
-			"name": "Universit�t Greifswald (ohne Klinikum)",
+			"name": "Universität Greifswald (ohne Klinikum)",
 			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "universitt-greifswald-ohne-klinikum"
+			"slug": "universitaet-greifswald-ohne-klinikum"
 		},
 		{
-			"name": "Medizinische Fakult�t Greifswald",
+			"name": "Medizinische Fakultät Greifswald",
 			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "medizinische-fakultt-greifswald"
+			"slug": "medizinische-fakultaet-greifswald"
 		},
 		{
-			"name": "Hochschule f�r Musik und Theater, Rostock",
+			"name": "Hochschule für Musik und Theater, Rostock",
 			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "hochschule-fr-musik-und-theater-rostock"
+			"slug": "hochschule-fuer-musik-und-theater-rostock"
 		},
 		{
 			"name": "Baltic College - FHM Schwerin",
@@ -1311,14 +1311,14 @@ var searchdb = {
 			"slug": "fh-wismar"
 		},
 		{
-			"name": "Verwaltungs-FH G�strow",
+			"name": "Verwaltungs-FH Güstrow",
 			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "verwaltungs-fh-gstrow"
+			"slug": "verwaltungs-fh-guestrow"
 		},
 		{
-			"name": "Universit�t G�ttingen (Klinikum)",
+			"name": "Universität Göttingen (Klinikum)",
 			"bundesland": "Niedersachsen",
-			"slug": "universitt-gttingen-klinikum"
+			"slug": "universitaet-goettingen-klinikum"
 		},
 		{
 			"name": "Medizinische Hochschule Hannover",
@@ -1326,34 +1326,34 @@ var searchdb = {
 			"slug": "medizinische-hochschule-hannover"
 		},
 		{
-			"name": "Universit�t Oldenburg",
+			"name": "Universität Oldenburg",
 			"bundesland": "Niedersachsen",
-			"slug": "universitt-oldenburg"
+			"slug": "universitaet-oldenburg"
 		},
 		{
-			"name": "Universit�t Osnabr�ck",
+			"name": "Universität Osnabrück",
 			"bundesland": "Niedersachsen",
-			"slug": "universitt-osnabrck"
+			"slug": "universitaet-osnabrueck"
 		},
 		{
-			"name": "Universit�t Vechta",
+			"name": "Universität Vechta",
 			"bundesland": "Niedersachsen",
-			"slug": "universitt-vechta"
+			"slug": "universitaet-vechta"
 		},
 		{
-			"name": "Universit�t Hildesheim",
+			"name": "Universität Hildesheim",
 			"bundesland": "Niedersachsen",
-			"slug": "universitt-hildesheim"
+			"slug": "universitaet-hildesheim"
 		},
 		{
-			"name": "Leuphana Universit�t L�neburg",
+			"name": "Leuphana Universität Lüneburg",
 			"bundesland": "Niedersachsen",
-			"slug": "leuphana-universitt-lneburg"
+			"slug": "leuphana-universitaet-lueneburg"
 		},
 		{
-			"name": "Universit�t G�ttingen (ohne Klinikum)",
+			"name": "Universität Göttingen (ohne Klinikum)",
 			"bundesland": "Niedersachsen",
-			"slug": "universitt-gttingen-ohne-klinikum"
+			"slug": "universitaet-goettingen-ohne-klinikum"
 		},
 		{
 			"name": "TU Braunschweig",
@@ -1366,24 +1366,24 @@ var searchdb = {
 			"slug": "tu-clausthal"
 		},
 		{
-			"name": "Universit�t Hannover",
+			"name": "Universität Hannover",
 			"bundesland": "Niedersachsen",
-			"slug": "universitt-hannover"
+			"slug": "universitaet-hannover"
 		},
 		{
-			"name": "Tier�rztliche Hochschule Hannover",
+			"name": "Tierärztliche Hochschule Hannover",
 			"bundesland": "Niedersachsen",
-			"slug": "tierrztliche-hochschule-hannover"
+			"slug": "tieraerztliche-hochschule-hannover"
 		},
 		{
-			"name": "Hochschule f�r Musik, Theater und Medien Hannover",
+			"name": "Hochschule für Musik, Theater und Medien Hannover",
 			"bundesland": "Niedersachsen",
-			"slug": "hochschule-fr-musik-theater-und-medien-hannover"
+			"slug": "hochschule-fuer-musik-theater-und-medien-hannover"
 		},
 		{
-			"name": "Hochschule f�r Bildende K�nste Braunschweig",
+			"name": "Hochschule für Bildende Künste Braunschweig",
 			"bundesland": "Niedersachsen",
-			"slug": "hochschule-fr-bildende-knste-braunschweig"
+			"slug": "hochschule-fuer-bildende-kuenste-braunschweig"
 		},
 		{
 			"name": "Hochschule Weserbergland (HSW), Hameln (Priv. FH)",
@@ -1396,19 +1396,19 @@ var searchdb = {
 			"slug": "priv-fh-der-wirtschaft-hannover"
 		},
 		{
-			"name": "Priv. FH G�ttingen",
+			"name": "Priv. FH Göttingen",
 			"bundesland": "Niedersachsen",
-			"slug": "priv-fh-gttingen"
+			"slug": "priv-fh-goettingen"
 		},
 		{
-			"name": "Priv. FH f�r Wirtschaft und Technik Vechta/Diepholz/Oldenburg",
+			"name": "Priv. FH für Wirtschaft und Technik Vechta/Diepholz/Oldenburg",
 			"bundesland": "Niedersachsen",
-			"slug": "priv-fh-fr-wirtschaft-und-technik-vechtadiepholzoldenburg"
+			"slug": "priv-fh-fuer-wirtschaft-und-technik-vechtadiepholzoldenburg"
 		},
 		{
-			"name": "Hochschule f�r K�nste im Sozialen Ottersberg",
+			"name": "Hochschule für Künste im Sozialen Ottersberg",
 			"bundesland": "Niedersachsen",
-			"slug": "hochschule-fr-knste-im-sozialen-ottersberg"
+			"slug": "hochschule-fuer-kuenste-im-sozialen-ottersberg"
 		},
 		{
 			"name": "Hochschule21, Buxtehude (Priv. FH)",
@@ -1426,9 +1426,9 @@ var searchdb = {
 			"slug": "hochschule-emdenleer-fh"
 		},
 		{
-			"name": "Hochschule Ostfalia (Braunschweig/Wolfenb�ttel) (FH)",
+			"name": "Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
 			"bundesland": "Niedersachsen",
-			"slug": "hochschule-ostfalia-braunschweigwolfenbttel-fh"
+			"slug": "hochschule-ostfalia-braunschweigwolfenbuettel-fh"
 		},
 		{
 			"name": "Hochschule Hannover (FH)",
@@ -1436,24 +1436,24 @@ var searchdb = {
 			"slug": "hochschule-hannover-fh"
 		},
 		{
-			"name": "Hochschule Hildesheim/Holzminden/G�ttingen (FH)",
+			"name": "Hochschule Hildesheim/Holzminden/Göttingen (FH)",
 			"bundesland": "Niedersachsen",
-			"slug": "hochschule-hildesheimholzmindengttingen-fh"
+			"slug": "hochschule-hildesheimholzmindengoettingen-fh"
 		},
 		{
-			"name": "Hochschule Osnabr�ck (FH)",
+			"name": "Hochschule Osnabrück (FH)",
 			"bundesland": "Niedersachsen",
-			"slug": "hochschule-osnabrck-fh"
+			"slug": "hochschule-osnabrueck-fh"
 		},
 		{
-			"name": "Hannover, Kommunale FH f�r Verwaltung in Niedersachsen (Priv. Verw-FH)",
+			"name": "Hannover, Kommunale FH für Verwaltung in Niedersachsen (Priv. Verw-FH)",
 			"bundesland": "Niedersachsen",
-			"slug": "hannover-kommunale-fh-fr-verwaltung-in-niedersachsen-priv-verw-fh"
+			"slug": "hannover-kommunale-fh-fuer-verwaltung-in-niedersachsen-priv-verw-fh"
 		},
 		{
-			"name": "Norddeutsche Hochschule f�r Rechtspflege, Hildesheim",
+			"name": "Norddeutsche Hochschule für Rechtspflege, Hildesheim",
 			"bundesland": "Niedersachsen",
-			"slug": "norddeutsche-hochschule-fr-rechtspflege-hildesheim"
+			"slug": "norddeutsche-hochschule-fuer-rechtspflege-hildesheim"
 		},
 		{
 			"name": "Priv. wiss. Hochschule Witten-Herdecke (ohne Klinikum)",
@@ -1461,34 +1461,34 @@ var searchdb = {
 			"slug": "priv-wiss-hochschule-witten-herdecke-ohne-klinikum"
 		},
 		{
-			"name": "Universit�t Duisburg-Essen (Klinikum)",
+			"name": "Universität Duisburg-Essen (Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-duisburg-essen-klinikum"
+			"slug": "universitaet-duisburg-essen-klinikum"
 		},
 		{
-			"name": "Universit�t Bochum (Klinikum)",
+			"name": "Universität Bochum (Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-bochum-klinikum"
+			"slug": "universitaet-bochum-klinikum"
 		},
 		{
-			"name": "Universit�t Bonn (Klinikum)",
+			"name": "Universität Bonn (Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-bonn-klinikum"
+			"slug": "universitaet-bonn-klinikum"
 		},
 		{
-			"name": "Universit�t D�sseldorf (Klinikum)",
+			"name": "Universität Düsseldorf (Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-dsseldorf-klinikum"
+			"slug": "universitaet-duesseldorf-klinikum"
 		},
 		{
-			"name": "Universit�t K�ln (Klinikum)",
+			"name": "Universität Köln (Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-kln-klinikum"
+			"slug": "universitaet-koeln-klinikum"
 		},
 		{
-			"name": "Universit�t M�nster (Klinikum)",
+			"name": "Universität Münster (Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-mnster-klinikum"
+			"slug": "universitaet-muenster-klinikum"
 		},
 		{
 			"name": "RWTH Aachen (Klinikum)",
@@ -1496,74 +1496,74 @@ var searchdb = {
 			"slug": "rwth-aachen-klinikum"
 		},
 		{
-			"name": "Universit�t Duisburg-Essen (ohne Klinikum)",
+			"name": "Universität Duisburg-Essen (ohne Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-duisburg-essen-ohne-klinikum"
+			"slug": "universitaet-duisburg-essen-ohne-klinikum"
 		},
 		{
-			"name": "Universit�t Paderborn",
+			"name": "Universität Paderborn",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-paderborn"
+			"slug": "universitaet-paderborn"
 		},
 		{
-			"name": "Universit�t Siegen",
+			"name": "Universität Siegen",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-siegen"
+			"slug": "universitaet-siegen"
 		},
 		{
-			"name": "Universit�t Wuppertal",
+			"name": "Universität Wuppertal",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-wuppertal"
+			"slug": "universitaet-wuppertal"
 		},
 		{
-			"name": "Fernuniversit�t Hagen",
+			"name": "Fernuniversität Hagen",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fernuniversitt-hagen"
+			"slug": "fernuniversitaet-hagen"
 		},
 		{
-			"name": "Deutsche Hochschule der Polizei, M�nster",
+			"name": "Deutsche Hochschule der Polizei, Münster",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "deutsche-hochschule-der-polizei-mnster"
+			"slug": "deutsche-hochschule-der-polizei-muenster"
 		},
 		{
-			"name": "Ruhr-Universit�t Bochum (ohne Klinikum)",
+			"name": "Ruhr-Universität Bochum (ohne Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "ruhr-universitt-bochum-ohne-klinikum"
+			"slug": "ruhr-universitaet-bochum-ohne-klinikum"
 		},
 		{
-			"name": "Universit�t Bonn (ohne Klinikum)",
+			"name": "Universität Bonn (ohne Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-bonn-ohne-klinikum"
+			"slug": "universitaet-bonn-ohne-klinikum"
 		},
 		{
-			"name": "Universit�t D�sseldorf (ohne Klinikum)",
+			"name": "Universität Düsseldorf (ohne Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-dsseldorf-ohne-klinikum"
+			"slug": "universitaet-duesseldorf-ohne-klinikum"
 		},
 		{
-			"name": "Universit�t zu K�ln (ohne Klinikum)",
+			"name": "Universität zu Köln (ohne Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-zu-kln-ohne-klinikum"
+			"slug": "universitaet-zu-koeln-ohne-klinikum"
 		},
 		{
-			"name": "WWU Westf�lische Wilhems-Universit�t M�nster (ohne Klinikum)",
+			"name": "WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "wwu-westflische-wilhems-universitt-mnster-ohne-klinikum"
+			"slug": "wwu-westfaelische-wilhems-universitaet-muenster-ohne-klinikum"
 		},
 		{
-			"name": "Technische Universit�t Dortmund",
+			"name": "Technische Universität Dortmund",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "technische-universitt-dortmund"
+			"slug": "technische-universitaet-dortmund"
 		},
 		{
-			"name": "Universit�t Bielefeld",
+			"name": "Universität Bielefeld",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitt-bielefeld"
+			"slug": "universitaet-bielefeld"
 		},
 		{
-			"name": "Deutsche Sporthochschule K�ln",
+			"name": "Deutsche Sporthochschule Köln",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "deutsche-sporthochschule-kln"
+			"slug": "deutsche-sporthochschule-koeln"
 		},
 		{
 			"name": "RWTH Aachen (ohne Klinikum)",
@@ -1576,14 +1576,14 @@ var searchdb = {
 			"slug": "priv-wiss-hochschule-witten-herdecke-klinikum"
 		},
 		{
-			"name": "Hochschule f�r Kirchenmusik der evang. Kirche von Westfalen, Herford",
+			"name": "Hochschule für Kirchenmusik der evang. Kirche von Westfalen, Herford",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-fr-kirchenmusik-der-evang-kirche-von-westfalen-herford"
+			"slug": "hochschule-fuer-kirchenmusik-der-evang-kirche-von-westfalen-herford"
 		},
 		{
-			"name": "Theol. Fakult�t Paderborn (rk)",
+			"name": "Theol. Fakultät Paderborn (rk)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "theol-fakultt-paderborn-rk"
+			"slug": "theol-fakultaet-paderborn-rk"
 		},
 		{
 			"name": "Philosophisch-Theologische Hochschule SVD St. Augustin",
@@ -1591,9 +1591,9 @@ var searchdb = {
 			"slug": "philosophisch-theologische-hochschule-svd-st-augustin"
 		},
 		{
-			"name": "Phil.-Theol. Hochschule M�nster (rk)",
+			"name": "Phil.-Theol. Hochschule Münster (rk)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "phil-theol-hochschule-mnster-rk"
+			"slug": "phil-theol-hochschule-muenster-rk"
 		},
 		{
 			"name": "Kirchliche Hochschule Wuppertal / Bethel (ev)",
@@ -1606,9 +1606,9 @@ var searchdb = {
 			"slug": "alanus-hochschule-alfter-priv-h"
 		},
 		{
-			"name": "Hochschule f�r Musik Detmold",
+			"name": "Hochschule für Musik Detmold",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-fr-musik-detmold"
+			"slug": "hochschule-fuer-musik-detmold"
 		},
 		{
 			"name": "Folkwang-Hochschule Essen",
@@ -1616,29 +1616,29 @@ var searchdb = {
 			"slug": "folkwang-hochschule-essen"
 		},
 		{
-			"name": "Hochschule f�r Musik und Tanz K�ln",
+			"name": "Hochschule für Musik und Tanz Köln",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-fr-musik-und-tanz-kln"
+			"slug": "hochschule-fuer-musik-und-tanz-koeln"
 		},
 		{
-			"name": "Kunstakademie D�sseldorf",
+			"name": "Kunstakademie Düsseldorf",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "kunstakademie-dsseldorf"
+			"slug": "kunstakademie-duesseldorf"
 		},
 		{
-			"name": "Robert-Schumann-Hochschule D�sseldorf",
+			"name": "Robert-Schumann-Hochschule Düsseldorf",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "robert-schumann-hochschule-dsseldorf"
+			"slug": "robert-schumann-hochschule-duesseldorf"
 		},
 		{
-			"name": "Kunsthochschule f�r Medien K�ln",
+			"name": "Kunsthochschule für Medien Köln",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "kunsthochschule-fr-medien-kln"
+			"slug": "kunsthochschule-fuer-medien-koeln"
 		},
 		{
-			"name": "Kunstakademie M�nster",
+			"name": "Kunstakademie Münster",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "kunstakademie-mnster"
+			"slug": "kunstakademie-muenster"
 		},
 		{
 			"name": "EBZ Business School",
@@ -1651,9 +1651,9 @@ var searchdb = {
 			"slug": "hochschule-der-sparkassen-finanzgruppe-bonn-priv-fh"
 		},
 		{
-			"name": "Hochschule Neuss f�r Internationale Wirtschaft (Priv. FH)",
+			"name": "Hochschule Neuss für Internationale Wirtschaft (Priv. FH)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-neuss-fr-internationale-wirtschaft-priv-fh"
+			"slug": "hochschule-neuss-fuer-internationale-wirtschaft-priv-fh"
 		},
 		{
 			"name": "Mathias Hochschule Rheine",
@@ -1661,9 +1661,9 @@ var searchdb = {
 			"slug": "mathias-hochschule-rheine"
 		},
 		{
-			"name": "EBC D�sseldorf HS f�r Int. Management (Priv. FH)",
+			"name": "EBC Düsseldorf HS für Int. Management (Priv. FH)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "ebc-dsseldorf-hs-fr-int-management-priv-fh"
+			"slug": "ebc-duesseldorf-hs-fuer-int-management-priv-fh"
 		},
 		{
 			"name": "Cologne Business School",
@@ -1701,19 +1701,19 @@ var searchdb = {
 			"slug": "technische-fh-tfh-georg-agricola-zu-bochum-priv-fh"
 		},
 		{
-			"name": "Priv. Rheinische FH K�ln",
+			"name": "Priv. Rheinische FH Köln",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "priv-rheinische-fh-kln"
+			"slug": "priv-rheinische-fh-koeln"
 		},
 		{
-			"name": "Europ�ische FH (EUFH) Rhein/Erft, Br�hl (Priv. FH)",
+			"name": "Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "europische-fh-eufh-rheinerft-brhl-priv-fh"
+			"slug": "europaeische-fh-eufh-rheinerft-bruehl-priv-fh"
 		},
 		{
-			"name": "Priv. FH f�r �konomie und Management Essen",
+			"name": "Priv. FH für Ökonomie und Management Essen",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "priv-fh-fr-konomie-und-management-essen"
+			"slug": "priv-fh-fuer-oekonomie-und-management-essen"
 		},
 		{
 			"name": "FH Westliches Ruhrgebiet",
@@ -1731,14 +1731,14 @@ var searchdb = {
 			"slug": "hochschule-hamm-lippstadt"
 		},
 		{
-			"name": "FH S�dwestfalen",
+			"name": "FH Südwestfalen",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-sdwestfalen"
+			"slug": "fh-suedwestfalen"
 		},
 		{
-			"name": "Westf�lische Hochschule Gelsenkirchen Bocholt Recklinghausen",
+			"name": "Westfälische Hochschule Gelsenkirchen Bocholt Recklinghausen",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "westflische-hochschule-gelsenkirchen-bocholt-recklinghausen"
+			"slug": "westfaelische-hochschule-gelsenkirchen-bocholt-recklinghausen"
 		},
 		{
 			"name": "FH Aachen",
@@ -1761,14 +1761,14 @@ var searchdb = {
 			"slug": "fh-dortmund"
 		},
 		{
-			"name": "FH D�sseldorf",
+			"name": "FH Düsseldorf",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-dsseldorf"
+			"slug": "fh-duesseldorf"
 		},
 		{
-			"name": "FH K�ln",
+			"name": "FH Köln",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-kln"
+			"slug": "fh-koeln"
 		},
 		{
 			"name": "Hochschule Niederrhein",
@@ -1781,9 +1781,9 @@ var searchdb = {
 			"slug": "hochschule-ostwestfalen-lippe"
 		},
 		{
-			"name": "FH M�nster",
+			"name": "FH Münster",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-mnster"
+			"slug": "fh-muenster"
 		},
 		{
 			"name": "FH Bonn-Rhein-Sieg",
@@ -1806,34 +1806,34 @@ var searchdb = {
 			"slug": "kath-hochschule-nordrhein-westfalen"
 		},
 		{
-			"name": "FH f�r �ffentliche Verwaltung NW",
+			"name": "FH für öffentliche Verwaltung NW",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-fr-ffentliche-verwaltung-nw"
+			"slug": "fh-fuer-oeffentliche-verwaltung-nw"
 		},
 		{
-			"name": "FH f�r Rechtspflege NW, Bad M�nstereifel",
+			"name": "FH für Rechtspflege NW, Bad Münstereifel",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-fr-rechtspflege-nw-bad-mnstereifel"
+			"slug": "fh-fuer-rechtspflege-nw-bad-muenstereifel"
 		},
 		{
-			"name": "FH f�r Finanzen NW, Nordkirchen",
+			"name": "FH für Finanzen NW, Nordkirchen",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-fr-finanzen-nw-nordkirchen"
+			"slug": "fh-fuer-finanzen-nw-nordkirchen"
 		},
 		{
-			"name": "FH Bund, FB Allgemeine innere Verwaltung, Br�hl",
+			"name": "FH Bund, FB Allgemeine innere Verwaltung, Brühl",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-bund-fb-allgemeine-innere-verwaltung-brhl"
+			"slug": "fh-bund-fb-allgemeine-innere-verwaltung-bruehl"
 		},
 		{
-			"name": "FH Bund, FB Finanzen, M�nster",
+			"name": "FH Bund, FB Finanzen, Münster",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-bund-fb-finanzen-mnster"
+			"slug": "fh-bund-fb-finanzen-muenster"
 		},
 		{
-			"name": "Hochschule f�r Gesundheit",
+			"name": "Hochschule für Gesundheit",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-fr-gesundheit"
+			"slug": "hochschule-fuer-gesundheit"
 		},
 		{
 			"name": "WHU - Otto Beisheim School of Management",
@@ -1841,14 +1841,14 @@ var searchdb = {
 			"slug": "whu-otto-beisheim-school-of-management"
 		},
 		{
-			"name": "Universit�tsmedizin der Johannes Gutenberg-Universit�t Mainz",
+			"name": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "universittsmedizin-der-johannes-gutenberg-universitt-mainz"
+			"slug": "universitaetsmedizin-der-johannes-gutenberg-universitaet-mainz"
 		},
 		{
-			"name": "Universit�t Trier",
+			"name": "Universität Trier",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "universitt-trier"
+			"slug": "universitaet-trier"
 		},
 		{
 			"name": "TU Kaiserslautern",
@@ -1856,24 +1856,24 @@ var searchdb = {
 			"slug": "tu-kaiserslautern"
 		},
 		{
-			"name": "Universit�t Mainz",
+			"name": "Universität Mainz",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "universitt-mainz"
+			"slug": "universitaet-mainz"
 		},
 		{
-			"name": "Hochschule f�r Verwaltungswissenschaften Speyer",
+			"name": "Hochschule für Verwaltungswissenschaften Speyer",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "hochschule-fr-verwaltungswissenschaften-speyer"
+			"slug": "hochschule-fuer-verwaltungswissenschaften-speyer"
 		},
 		{
-			"name": "Universit�t Koblenz-Landau",
+			"name": "Universität Koblenz-Landau",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "universitt-koblenz-landau"
+			"slug": "universitaet-koblenz-landau"
 		},
 		{
-			"name": "Theol. Fakult�t Trier",
+			"name": "Theol. Fakultät Trier",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "theol-fakultt-trier"
+			"slug": "theol-fakultaet-trier"
 		},
 		{
 			"name": "Theol. H Vallendar",
@@ -1921,14 +1921,14 @@ var searchdb = {
 			"slug": "kath-fh-mainz"
 		},
 		{
-			"name": "FH f�r �ffentliche Verwaltung, FB Innere Verwaltung in Mayen",
+			"name": "FH für öffentliche Verwaltung, FB Innere Verwaltung in Mayen",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "fh-fr-ffentliche-verwaltung-fb-innere-verwaltung-in-mayen"
+			"slug": "fh-fuer-oeffentliche-verwaltung-fb-innere-verwaltung-in-mayen"
 		},
 		{
-			"name": "FH f�r Finanzen Edenkoben",
+			"name": "FH für Finanzen Edenkoben",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "fh-fr-finanzen-edenkoben"
+			"slug": "fh-fuer-finanzen-edenkoben"
 		},
 		{
 			"name": "Hochschule der Deutschen Bundesbank",
@@ -1936,34 +1936,34 @@ var searchdb = {
 			"slug": "hochschule-der-deutschen-bundesbank"
 		},
 		{
-			"name": "Universit�t des Saarlandes Saarbr�cken in Saarbr�cken",
+			"name": "Universität des Saarlandes Saarbrücken in Saarbrücken",
 			"bundesland": "Saarland",
-			"slug": "universitt-des-saarlandes-saarbrcken-in-saarbrcken"
+			"slug": "universitaet-des-saarlandes-saarbruecken-in-saarbruecken"
 		},
 		{
-			"name": "Hochschule f�r Musik, Saarbr�cken",
+			"name": "Hochschule für Musik, Saarbrücken",
 			"bundesland": "Saarland",
-			"slug": "hochschule-fr-musik-saarbrcken"
+			"slug": "hochschule-fuer-musik-saarbruecken"
 		},
 		{
-			"name": "Hochschule der Bildenden K�nste Saarbr�cken",
+			"name": "Hochschule der Bildenden Künste Saarbrücken",
 			"bundesland": "Saarland",
-			"slug": "hochschule-der-bildenden-knste-saarbrcken"
+			"slug": "hochschule-der-bildenden-kuenste-saarbruecken"
 		},
 		{
-			"name": "Deutsche Hochschule f�r Pr�vention und Gesundheitsmanagement",
+			"name": "Deutsche Hochschule für Prävention und Gesundheitsmanagement",
 			"bundesland": "Saarland",
-			"slug": "deutsche-hochschule-fr-prvention-und-gesundheitsmanagement"
+			"slug": "deutsche-hochschule-fuer-praevention-und-gesundheitsmanagement"
 		},
 		{
-			"name": "Hochschule f�r Technik und Wirtschaft des Saarlandes Saarbr�cken",
+			"name": "Hochschule für Technik und Wirtschaft des Saarlandes Saarbrücken",
 			"bundesland": "Saarland",
-			"slug": "hochschule-fr-technik-und-wirtschaft-des-saarlandes-saarbrcken"
+			"slug": "hochschule-fuer-technik-und-wirtschaft-des-saarlandes-saarbruecken"
 		},
 		{
-			"name": "FH f�r Verwaltung Saarbr�cken",
+			"name": "FH für Verwaltung Saarbrücken",
 			"bundesland": "Saarland",
-			"slug": "fh-fr-verwaltung-saarbrcken"
+			"slug": "fh-fuer-verwaltung-saarbruecken"
 		},
 		{
 			"name": "HHL Leipzig Graduate School of Management",
@@ -1976,9 +1976,9 @@ var searchdb = {
 			"slug": "diu-dresden-intern-university-gmbh-dresden-priv-h"
 		},
 		{
-			"name": "Universit�t Leipzig (Klinikum)",
+			"name": "Universität Leipzig (Klinikum)",
 			"bundesland": "Sachsen",
-			"slug": "universitt-leipzig-klinikum"
+			"slug": "universitaet-leipzig-klinikum"
 		},
 		{
 			"name": "TU Dresden (Klinikum)",
@@ -1986,9 +1986,9 @@ var searchdb = {
 			"slug": "tu-dresden-klinikum"
 		},
 		{
-			"name": "Universit�t Leipzig (ohne Klinikum)",
+			"name": "Universität Leipzig (ohne Klinikum)",
 			"bundesland": "Sachsen",
-			"slug": "universitt-leipzig-ohne-klinikum"
+			"slug": "universitaet-leipzig-ohne-klinikum"
 		},
 		{
 			"name": "TU Dresden (ohne Klinikum)",
@@ -2011,34 +2011,34 @@ var searchdb = {
 			"slug": "internationales-hochschulinstitut-zittau"
 		},
 		{
-			"name": "Palucca Hochschule f�r Tanz Dresden",
+			"name": "Palucca Hochschule für Tanz Dresden",
 			"bundesland": "Sachsen",
-			"slug": "palucca-hochschule-fr-tanz-dresden"
+			"slug": "palucca-hochschule-fuer-tanz-dresden"
 		},
 		{
-			"name": "Hochschule f�r Bildende K�nste Dresden",
+			"name": "Hochschule für Bildende Künste Dresden",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fr-bildende-knste-dresden"
+			"slug": "hochschule-fuer-bildende-kuenste-dresden"
 		},
 		{
-			"name": "Hochschule f�r Grafik und Buchkunst Leipzig",
+			"name": "Hochschule für Grafik und Buchkunst Leipzig",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fr-grafik-und-buchkunst-leipzig"
+			"slug": "hochschule-fuer-grafik-und-buchkunst-leipzig"
 		},
 		{
-			"name": "Hochschule f�r Musik und Theater Leipzig",
+			"name": "Hochschule für Musik und Theater Leipzig",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fr-musik-und-theater-leipzig"
+			"slug": "hochschule-fuer-musik-und-theater-leipzig"
 		},
 		{
-			"name": "Hochschule f�r Musik Dresden",
+			"name": "Hochschule für Musik Dresden",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fr-musik-dresden"
+			"slug": "hochschule-fuer-musik-dresden"
 		},
 		{
-			"name": "Hochschule f�r Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden",
+			"name": "Hochschule für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fr-kirchenmusik-der-evang-luth-landeskirche-sachsens-dresden"
+			"slug": "hochschule-fuer-kirchenmusik-der-evang-luth-landeskirche-sachsens-dresden"
 		},
 		{
 			"name": "Fachochschule Dresden",
@@ -2051,9 +2051,9 @@ var searchdb = {
 			"slug": "euro-business-college-dresden-priv-fh"
 		},
 		{
-			"name": "Hochschule f�r Kommunikation Leipzig",
+			"name": "Hochschule für Kommunikation Leipzig",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fr-kommunikation-leipzig"
+			"slug": "hochschule-fuer-kommunikation-leipzig"
 		},
 		{
 			"name": "AKAD Hochschule Leipzig",
@@ -2061,14 +2061,14 @@ var searchdb = {
 			"slug": "akad-hochschule-leipzig"
 		},
 		{
-			"name": "Hochschule f�r Technik und Wirtschaft Dresden",
+			"name": "Hochschule für Technik und Wirtschaft Dresden",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fr-technik-und-wirtschaft-dresden"
+			"slug": "hochschule-fuer-technik-und-wirtschaft-dresden"
 		},
 		{
-			"name": "Hochschule f�r Technik, Wirtschaft und Kultur Leipzig",
+			"name": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fr-technik-wirtschaft-und-kultur-leipzig"
+			"slug": "hochschule-fuer-technik-wirtschaft-und-kultur-leipzig"
 		},
 		{
 			"name": "Hochschule Mittweida (University of Applied Sciences)",
@@ -2076,19 +2076,19 @@ var searchdb = {
 			"slug": "hochschule-mittweida-university-of-applied-sciences"
 		},
 		{
-			"name": "Hochschule Zittau/G�rlitz (FH)",
+			"name": "Hochschule Zittau/Görlitz (FH)",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-zittaugrlitz-fh"
+			"slug": "hochschule-zittaugoerlitz-fh"
 		},
 		{
-			"name": "Wests�chsische Hochschule Zwickau",
+			"name": "Westsächsische Hochschule Zwickau",
 			"bundesland": "Sachsen",
-			"slug": "westschsische-hochschule-zwickau"
+			"slug": "westsaechsische-hochschule-zwickau"
 		},
 		{
-			"name": "Evang. Hochschule f�r Soziale Arbeit, Dresden (FH)",
+			"name": "Evang. Hochschule für Soziale Arbeit, Dresden (FH)",
 			"bundesland": "Sachsen",
-			"slug": "evang-hochschule-fr-soziale-arbeit-dresden-fh"
+			"slug": "evang-hochschule-fuer-soziale-arbeit-dresden-fh"
 		},
 		{
 			"name": "Evangelische Hochschule Moritzburg (FH)",
@@ -2096,14 +2096,14 @@ var searchdb = {
 			"slug": "evangelische-hochschule-moritzburg-fh"
 		},
 		{
-			"name": "Hochschule der S�chsischen Polizei, Rothenburg/OL. (FH)",
+			"name": "Hochschule der Sächsischen Polizei, Rothenburg/OL. (FH)",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-der-schsischen-polizei-rothenburgol-fh"
+			"slug": "hochschule-der-saechsischen-polizei-rothenburgol-fh"
 		},
 		{
-			"name": "FH der S�chsischen Verwaltung Mei�en",
+			"name": "FH der Sächsischen Verwaltung Meißen",
 			"bundesland": "Sachsen",
-			"slug": "fh-der-schsischen-verwaltung-meien"
+			"slug": "fh-der-saechsischen-verwaltung-meissen"
 		},
 		{
 			"name": "DPFA Hochschule Zwickau",
@@ -2111,24 +2111,24 @@ var searchdb = {
 			"slug": "dpfa-hochschule-zwickau"
 		},
 		{
-			"name": "Universit�t Halle (Klinikum)",
+			"name": "Universität Halle (Klinikum)",
 			"bundesland": "Sachsen-Anhalt",
-			"slug": "universitt-halle-klinikum"
+			"slug": "universitaet-halle-klinikum"
 		},
 		{
-			"name": "Universit�t Magdeburg (Klinikum)",
+			"name": "Universität Magdeburg (Klinikum)",
 			"bundesland": "Sachsen-Anhalt",
-			"slug": "universitt-magdeburg-klinikum"
+			"slug": "universitaet-magdeburg-klinikum"
 		},
 		{
-			"name": "Universit�t Halle (ohne Klinikum)",
+			"name": "Universität Halle (ohne Klinikum)",
 			"bundesland": "Sachsen-Anhalt",
-			"slug": "universitt-halle-ohne-klinikum"
+			"slug": "universitaet-halle-ohne-klinikum"
 		},
 		{
-			"name": "Otto-von-Guericke-Universit�t Magdeburg (ohne Klinikum)",
+			"name": "Otto-von-Guericke-Universität Magdeburg (ohne Klinikum)",
 			"bundesland": "Sachsen-Anhalt",
-			"slug": "otto-von-guericke-universitt-magdeburg-ohne-klinikum"
+			"slug": "otto-von-guericke-universitaet-magdeburg-ohne-klinikum"
 		},
 		{
 			"name": "Theol. Hochschule Friedensau",
@@ -2141,9 +2141,9 @@ var searchdb = {
 			"slug": "burg-giebichenstein-kunsthochschule-halle"
 		},
 		{
-			"name": "Evang. Hochschule f�r Kirchenmusik Halle",
+			"name": "Evang. Hochschule für Kirchenmusik Halle",
 			"bundesland": "Sachsen-Anhalt",
-			"slug": "evang-hochschule-fr-kirchenmusik-halle"
+			"slug": "evang-hochschule-fuer-kirchenmusik-halle"
 		},
 		{
 			"name": "Hochschule Merseburg (FH)",
@@ -2171,29 +2171,29 @@ var searchdb = {
 			"slug": "fh-polizei-sachsen-anhalt-aschersleben"
 		},
 		{
-			"name": "Universit�tsklinikum Schleswig-Holstein",
+			"name": "Universitätsklinikum Schleswig-Holstein",
 			"bundesland": "Schleswig-Holstein",
-			"slug": "universittsklinikum-schleswig-holstein"
+			"slug": "universitaetsklinikum-schleswig-holstein"
 		},
 		{
-			"name": "Universit�t Kiel",
+			"name": "Universität Kiel",
 			"bundesland": "Schleswig-Holstein",
-			"slug": "universitt-kiel"
+			"slug": "universitaet-kiel"
 		},
 		{
-			"name": "Universit�t L�beck",
+			"name": "Universität Lübeck",
 			"bundesland": "Schleswig-Holstein",
-			"slug": "universitt-lbeck"
+			"slug": "universitaet-luebeck"
 		},
 		{
-			"name": "Universit�t Flensburg",
+			"name": "Universität Flensburg",
 			"bundesland": "Schleswig-Holstein",
-			"slug": "universitt-flensburg"
+			"slug": "universitaet-flensburg"
 		},
 		{
-			"name": "Musikhochschule L�beck",
+			"name": "Musikhochschule Lübeck",
 			"bundesland": "Schleswig-Holstein",
-			"slug": "musikhochschule-lbeck"
+			"slug": "musikhochschule-luebeck"
 		},
 		{
 			"name": "Muthesius Kunsthochschule Kiel",
@@ -2226,94 +2226,94 @@ var searchdb = {
 			"slug": "fh-kiel"
 		},
 		{
-			"name": "FH L�beck",
+			"name": "FH Lübeck",
 			"bundesland": "Schleswig-Holstein",
-			"slug": "fh-lbeck"
+			"slug": "fh-luebeck"
 		},
 		{
-			"name": "FH Westk�ste, Heide",
+			"name": "FH Westküste, Heide",
 			"bundesland": "Schleswig-Holstein",
-			"slug": "fh-westkste-heide"
+			"slug": "fh-westkueste-heide"
 		},
 		{
-			"name": "FH f�r Verwaltung und Dienstleistung Altenholz",
+			"name": "FH für Verwaltung und Dienstleistung Altenholz",
 			"bundesland": "Schleswig-Holstein",
-			"slug": "fh-fr-verwaltung-und-dienstleistung-altenholz"
+			"slug": "fh-fuer-verwaltung-und-dienstleistung-altenholz"
 		},
 		{
-			"name": "FH Bund, FB Bundespolizei, L�beck",
+			"name": "FH Bund, FB Bundespolizei, Lübeck",
 			"bundesland": "Schleswig-Holstein",
-			"slug": "fh-bund-fb-bundespolizei-lbeck"
+			"slug": "fh-bund-fb-bundespolizei-luebeck"
 		},
 		{
-			"name": "Universit�t Jena (Klinikum)",
-			"bundesland": "Th�ringen",
-			"slug": "universitt-jena-klinikum"
+			"name": "Universität Jena (Klinikum)",
+			"bundesland": "Thüringen",
+			"slug": "universitaet-jena-klinikum"
 		},
 		{
-			"name": "Friedrich-Schiller-Universit�t Jena (ohne Klinikum)",
-			"bundesland": "Th�ringen",
-			"slug": "friedrich-schiller-universitt-jena-ohne-klinikum"
+			"name": "Friedrich-Schiller-Universität Jena (ohne Klinikum)",
+			"bundesland": "Thüringen",
+			"slug": "friedrich-schiller-universitaet-jena-ohne-klinikum"
 		},
 		{
-			"name": "Bauhaus-Universit�t Weimar",
-			"bundesland": "Th�ringen",
-			"slug": "bauhaus-universitt-weimar"
+			"name": "Bauhaus-Universität Weimar",
+			"bundesland": "Thüringen",
+			"slug": "bauhaus-universitaet-weimar"
 		},
 		{
 			"name": "TU Ilmenau",
-			"bundesland": "Th�ringen",
+			"bundesland": "Thüringen",
 			"slug": "tu-ilmenau"
 		},
 		{
-			"name": "Universit�t Erfurt",
-			"bundesland": "Th�ringen",
-			"slug": "universitt-erfurt"
+			"name": "Universität Erfurt",
+			"bundesland": "Thüringen",
+			"slug": "universitaet-erfurt"
 		},
 		{
-			"name": "Hochschule f�r Musik Franz Liszt Weimar",
-			"bundesland": "Th�ringen",
-			"slug": "hochschule-fr-musik-franz-liszt-weimar"
+			"name": "Hochschule für Musik Franz Liszt Weimar",
+			"bundesland": "Thüringen",
+			"slug": "hochschule-fuer-musik-franz-liszt-weimar"
 		},
 		{
-			"name": "SRH FH f�r Gesundheit Gera (Priv. FH)",
-			"bundesland": "Th�ringen",
-			"slug": "srh-fh-fr-gesundheit-gera-priv-fh"
+			"name": "SRH FH für Gesundheit Gera (Priv. FH)",
+			"bundesland": "Thüringen",
+			"slug": "srh-fh-fuer-gesundheit-gera-priv-fh"
 		},
 		{
 			"name": "Adam-Ries-Fachhochschule Erfurt (Priv.)",
-			"bundesland": "Th�ringen",
+			"bundesland": "Thüringen",
 			"slug": "adam-ries-fachhochschule-erfurt-priv"
 		},
 		{
 			"name": "FH Kunst Arnstadt (Priv.)",
-			"bundesland": "Th�ringen",
+			"bundesland": "Thüringen",
 			"slug": "fh-kunst-arnstadt-priv"
 		},
 		{
 			"name": "FH Erfurt",
-			"bundesland": "Th�ringen",
+			"bundesland": "Thüringen",
 			"slug": "fh-erfurt"
 		},
 		{
 			"name": "Ernst Abbe Fachhochschule Jena",
-			"bundesland": "Th�ringen",
+			"bundesland": "Thüringen",
 			"slug": "ernst-abbe-fachhochschule-jena"
 		},
 		{
 			"name": "FH Schmalkalden",
-			"bundesland": "Th�ringen",
+			"bundesland": "Thüringen",
 			"slug": "fh-schmalkalden"
 		},
 		{
 			"name": "FH Nordhausen",
-			"bundesland": "Th�ringen",
+			"bundesland": "Thüringen",
 			"slug": "fh-nordhausen"
 		},
 		{
-			"name": "Th�ringer FH f�r �ffentliche Verwaltung Gotha",
-			"bundesland": "Th�ringen",
-			"slug": "thringer-fh-fr-ffentliche-verwaltung-gotha"
+			"name": "Thüringer FH für öffentliche Verwaltung Gotha",
+			"bundesland": "Thüringen",
+			"slug": "thueringer-fh-fuer-oeffentliche-verwaltung-gotha"
 		}
 	],
 	"foerderer": [
