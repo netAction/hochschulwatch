@@ -133,7 +133,7 @@ function importFoerderungen(filename, hochschulBezeichner, foerdererBezeichner) 
 importFoerderungen('deutschlandstipendien', 'Name', 'Firma');
 importFoerderungen('hochschulraete', 'Uni', 'Unternehmen');
 importFoerderungen('kooperation', 'Name', 'Förderer');
-//importFoerderungen('sponsoring', 'Universität', 'Name des Gebers');
+importFoerderungen('sponsoring', 'Universität', 'Name des Gebers');
 importFoerderungen('stiftungsprofessuren', 'Hochschule', 'Stifter');
 
 

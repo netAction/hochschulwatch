@@ -1,309 +1,939 @@
 var searchdb = {
 	"hochschulen": [
 		{
-			"name": "Universitätsklinikum Schleswig-Holstein",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "universitaetsklinikum-schleswig-holstein"
+			"name": "Priv. wiss. Hochschule Bierbronnen",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "priv-wiss-hochschule-bierbronnen"
 		},
 		{
-			"name": "Universität Kiel",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "universitaet-kiel"
+			"name": "AKAD, Wissenschaftliche Hochschule Lahr (Priv. Fern-H f�r Berufst�tige)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "akad-wissenschaftliche-hochschule-lahr-priv-fern-h-fr-berufsttige"
 		},
 		{
-			"name": "Universität Lübeck",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "universitaet-luebeck"
+			"name": "Zeppelin Universit�t (ZU)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "zeppelin-universitt-zu"
 		},
 		{
-			"name": "Universität Flensburg",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "universitaet-flensburg"
+			"name": "Priv. wiss. Hochschule Stuttgart, Seminar f�r Waldorfp�dagogik",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "priv-wiss-hochschule-stuttgart-seminar-fr-waldorfpdagogik"
 		},
 		{
-			"name": "Musikhochschule Lübeck",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "musikhochschule-luebeck"
+			"name": "Universit�t Freiburg i.Br. (Klinikum)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-freiburg-ibr-klinikum"
 		},
 		{
-			"name": "Muthesius Kunsthochschule Kiel",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "muthesius-kunsthochschule-kiel"
+			"name": "Universit�t Heidelberg - Medizinische Fakult�t Mannheim",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-heidelberg-medizinische-fakultt-mannheim"
 		},
 		{
-			"name": "Priv. FH Wedel",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "priv-fh-wedel"
+			"name": "Universit�t Heidelberg (Klinikum)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-heidelberg-klinikum"
 		},
 		{
-			"name": "AKAD Hochschule Pinneberg",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "akad-hochschule-pinneberg"
+			"name": "Universit�t T�bingen (Klinikum)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-tbingen-klinikum"
 		},
 		{
-			"name": "Nordakademie Hochschule der Wirtschaft",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "nordakademie-hochschule-der-wirtschaft"
+			"name": "Universit�t Ulm (Klinikum)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-ulm-klinikum"
 		},
 		{
-			"name": "FH Flensburg",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "fh-flensburg"
+			"name": "Universit�t Freiburg i.Br. (ohne Klinikum)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-freiburg-ibr-ohne-klinikum"
 		},
 		{
-			"name": "FH Kiel",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "fh-kiel"
+			"name": "Universit�t Heidelberg (ohne Klinikum)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-heidelberg-ohne-klinikum"
 		},
 		{
-			"name": "FH Lübeck",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "fh-luebeck"
+			"name": "Universit�t Konstanz",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-konstanz"
 		},
 		{
-			"name": "FH Westküste, Heide",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "fh-westkueste-heide"
+			"name": "Universit�t T�bingen (ohne Klinikum)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-tbingen-ohne-klinikum"
 		},
 		{
-			"name": "FH für Verwaltung und Dienstleistung Altenholz",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "fh-fuer-verwaltung-und-dienstleistung-altenholz"
+			"name": "Karlsruher Institut f�r Technologie (KIT) - Bereich Hochschule",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "karlsruher-institut-fr-technologie-kit-bereich-hochschule"
 		},
 		{
-			"name": "Bucerius Law School Hamburg (Priv. H)",
-			"bundesland": "Hamburg",
-			"slug": "bucerius-law-school-hamburg-priv-h"
+			"name": "Universit�t Stuttgart",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-stuttgart"
 		},
 		{
-			"name": "Universität Hamburg (Klinikum)",
-			"bundesland": "Hamburg",
-			"slug": "universitaet-hamburg-klinikum"
+			"name": "Universit�t Hohenheim",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-hohenheim"
 		},
 		{
-			"name": "Hafencity Universität Hamburg",
-			"bundesland": "Hamburg",
-			"slug": "hafencity-universitaet-hamburg"
+			"name": "Universit�t Mannheim",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-mannheim"
 		},
 		{
-			"name": "Universität Hamburg (ohne Klinikum)",
-			"bundesland": "Hamburg",
-			"slug": "universitaet-hamburg-ohne-klinikum"
+			"name": "Universit�t Ulm (ohne Klinikum)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "universitt-ulm-ohne-klinikum"
 		},
 		{
-			"name": "Staats- und Universitätsbibliothek Hamburg",
-			"bundesland": "Hamburg",
-			"slug": "staats-und-universitaetsbibliothek-hamburg"
+			"name": "Hochschule f�r j�dische Studien Heidelberg",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-fr-jdische-studien-heidelberg"
 		},
 		{
-			"name": "TU Hamburg-Harburg",
-			"bundesland": "Hamburg",
-			"slug": "tu-hamburg-harburg"
+			"name": "PH Freiburg i.Br.",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "ph-freiburg-ibr"
 		},
 		{
-			"name": "Helmut-Schmidt-Universität Hamburg",
-			"bundesland": "Hamburg",
-			"slug": "helmut-schmidt-universitaet-hamburg"
+			"name": "PH Heidelberg",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "ph-heidelberg"
 		},
 		{
-			"name": "Hochschule für Musik und Theater Hamburg",
-			"bundesland": "Hamburg",
-			"slug": "hochschule-fuer-musik-und-theater-hamburg"
+			"name": "PH Karlsruhe",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "ph-karlsruhe"
 		},
 		{
-			"name": "Hochschule für Bildende Künste Hamburg",
-			"bundesland": "Hamburg",
-			"slug": "hochschule-fuer-bildende-kuenste-hamburg"
+			"name": "PH Schw�bisch Gm�nd",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "ph-schwbisch-gmnd"
 		},
 		{
-			"name": "EBC Euro Business College Hamburg (Priv. FH)",
-			"bundesland": "Hamburg",
-			"slug": "ebc-euro-business-college-hamburg-priv-fh"
+			"name": "PH Ludwigsburg",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "ph-ludwigsburg"
 		},
 		{
-			"name": "ISS International Business School of Service Management Hamburg (Priv. FH)",
-			"bundesland": "Hamburg",
-			"slug": "iss-international-business-school-of-service-management-hamburg-priv-fh"
+			"name": "PH Weingarten",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "ph-weingarten"
 		},
 		{
-			"name": "HFH - Hamburger Fern-Hochschule",
-			"bundesland": "Hamburg",
-			"slug": "hfh-hamburger-fern-hochschule"
+			"name": "Staatl. Hochschule f�r Musik Freiburg i.Br.",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "staatl-hochschule-fr-musik-freiburg-ibr"
 		},
 		{
-			"name": "Europäische Fernhochschule Hamburg",
-			"bundesland": "Hamburg",
-			"slug": "europaeische-fernhochschule-hamburg"
+			"name": "Staatl. Hochschule f�r Musik und Darstellende Kunst Mannheim",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "staatl-hochschule-fr-musik-und-darstellende-kunst-mannheim"
 		},
 		{
-			"name": "AMD Akademie Mode und Design",
-			"bundesland": "Hessen",
-			"slug": "amd-akademie-mode-und-design"
+			"name": "Staatl. Hochschule f�r Musik Karlsruhe",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "staatl-hochschule-fr-musik-karlsruhe"
 		},
 		{
-			"name": "HSBA Hamburg School of Business Admin. (Priv. FH)",
-			"bundesland": "Hamburg",
-			"slug": "hsba-hamburg-school-of-business-admin-priv-fh"
+			"name": "Staatl. Hochschule f�r Musik und Darstellende Kunst Stuttgart",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "staatl-hochschule-fr-musik-und-darstellende-kunst-stuttgart"
 		},
 		{
-			"name": "Hochschule für Angewandte Wissenschaften Hamburg",
-			"bundesland": "Hamburg",
-			"slug": "hochschule-fuer-angewandte-wissenschaften-hamburg"
+			"name": "Staatl. Hochschule f�r Musik Trossingen",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "staatl-hochschule-fr-musik-trossingen"
 		},
 		{
-			"name": "Evang. Hochschule für Soziale Arbeit und Diakonie, Hamburg (FH)",
-			"bundesland": "Hamburg",
-			"slug": "evang-hochschule-fuer-soziale-arbeit-und-diakonie-hamburg-fh"
+			"name": "Staatl. Hochschule f�r Gestaltung Karlsruhe",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "staatl-hochschule-fr-gestaltung-karlsruhe"
 		},
 		{
-			"name": "Hochschule der Polizei, Hamburg (Verw-FH)",
-			"bundesland": "Hamburg",
-			"slug": "hochschule-der-polizei-hamburg-verw-fh"
+			"name": "Staatl. Akademie der Bildenden K�nste Karlsruhe",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "staatl-akademie-der-bildenden-knste-karlsruhe"
 		},
 		{
-			"name": "Norddeutsche Akademie für Finanzen und Steuerrecht Hamburg",
-			"bundesland": "Hamburg",
-			"slug": "norddeutsche-akademie-fuer-finanzen-und-steuerrecht-hamburg"
+			"name": "Staatl. Akademie der Bildenden K�nste Stuttgart",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "staatl-akademie-der-bildenden-knste-stuttgart"
 		},
 		{
-			"name": "Universität Göttingen (Klinikum)",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-goettingen-klinikum"
+			"name": "German Graduate School of Management and Law",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "german-graduate-school-of-management-and-law"
 		},
 		{
-			"name": "Medizinische Hochschule Hannover",
-			"bundesland": "Niedersachsen",
-			"slug": "medizinische-hochschule-hannover"
+			"name": "Hochschule der Bundesagentur f�r Arbeit",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-der-bundesagentur-fr-arbeit"
 		},
 		{
-			"name": "Universität Oldenburg",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-oldenburg"
+			"name": "Internationale Hochschule Calw (Priv. FH)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "internationale-hochschule-calw-priv-fh"
 		},
 		{
-			"name": "Universität Osnabrück",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-osnabrueck"
+			"name": "Naturwissenschaftlich-Technische Akademie Isny (nta)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "naturwissenschaftlich-technische-akademie-isny-nta"
 		},
 		{
-			"name": "Universität Vechta",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-vechta"
+			"name": "Priv. FH f�r Gestaltung Stuttgart (Merz-Akademie)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "priv-fh-fr-gestaltung-stuttgart-merz-akademie"
 		},
 		{
-			"name": "Universität Hildesheim",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-hildesheim"
+			"name": "Priv. FH f�r Kunsttherapie N�rtingen",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "priv-fh-fr-kunsttherapie-nrtingen"
 		},
 		{
-			"name": "Universität Lüneburg",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-lueneburg"
+			"name": "AKAD, FH Stuttgart (Priv. Fern-FH f�r Berufst�tige)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "akad-fh-stuttgart-priv-fern-fh-fr-berufsttige"
 		},
 		{
-			"name": "Universität Göttingen (ohne Klinikum)",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-goettingen-ohne-klinikum"
+			"name": "SRH Hochschule Heidelberg",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "srh-hochschule-heidelberg"
 		},
 		{
-			"name": "TU Braunschweig",
-			"bundesland": "Niedersachsen",
-			"slug": "tu-braunschweig"
+			"name": "Fernhochschule Riedlingen (Priv. FH)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "fernhochschule-riedlingen-priv-fh"
 		},
 		{
-			"name": "TU Clausthal",
-			"bundesland": "Niedersachsen",
-			"slug": "tu-clausthal"
+			"name": "Hochschule f�r Gestaltung Schw�bisch Hall",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-fr-gestaltung-schwbisch-hall"
 		},
 		{
-			"name": "Universität Hannover",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-hannover"
+			"name": "Priv. FH Calw - H f�r Wirtschaft und Medien",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "priv-fh-calw-h-fr-wirtschaft-und-medien"
 		},
 		{
-			"name": "Tierärztliche Hochschule Hannover",
-			"bundesland": "Niedersachsen",
-			"slug": "tieraerztliche-hochschule-hannover"
+			"name": "Karlshochschule International University, Karlsruhe (Priv. FH)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "karlshochschule-international-university-karlsruhe-priv-fh"
 		},
 		{
-			"name": "Hochschule für Musik, Theater und Medien Hannover",
-			"bundesland": "Niedersachsen",
-			"slug": "hochschule-fuer-musik-theater-und-medien-hannover"
+			"name": "FH Aalen",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "fh-aalen"
 		},
 		{
-			"name": "Hochschule für Bildende Künste Braunschweig",
-			"bundesland": "Niedersachsen",
-			"slug": "hochschule-fuer-bildende-kuenste-braunschweig"
+			"name": "Hochschule Biberach",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-biberach"
 		},
 		{
-			"name": "Hochschule Weserbergland (HSW), Hameln (Priv. FH)",
-			"bundesland": "Niedersachsen",
-			"slug": "hochschule-weserbergland-hsw-hameln-priv-fh"
+			"name": "Hochschule Esslingen (FH)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-esslingen-fh"
 		},
 		{
-			"name": "Priv. FH der Wirtschaft Hannover",
-			"bundesland": "Niedersachsen",
-			"slug": "priv-fh-der-wirtschaft-hannover"
+			"name": "Hochschule Furtwangen",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-furtwangen"
 		},
 		{
-			"name": "Priv. FH Göttingen",
-			"bundesland": "Niedersachsen",
-			"slug": "priv-fh-goettingen"
+			"name": "Hochschule Heilbronn",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-heilbronn"
 		},
 		{
-			"name": "Priv. FH für Wirtschaft und Technik Vechta/Diepholz/Oldenburg",
-			"bundesland": "Niedersachsen",
-			"slug": "priv-fh-fuer-wirtschaft-und-technik-vechtadiepholzoldenburg"
+			"name": "Hochschule Karlsruhe (FH)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-karlsruhe-fh"
 		},
 		{
-			"name": "Hochschule für Künste im Sozialen Ottersberg",
-			"bundesland": "Niedersachsen",
-			"slug": "hochschule-fuer-kuenste-im-sozialen-ottersberg"
+			"name": "Hochschule Konstanz (HTWG)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-konstanz-htwg"
 		},
 		{
-			"name": "Hochschule21, Buxtehude (Priv. FH)",
-			"bundesland": "Niedersachsen",
-			"slug": "hochschule21-buxtehude-priv-fh"
+			"name": "Hochschule Mannheim (FH)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-mannheim-fh"
 		},
 		{
-			"name": "Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH)",
-			"bundesland": "Niedersachsen",
-			"slug": "hochschule-wilhelmshavenoldenburgelsfleth-fh"
+			"name": "Hochschule f�r Wirtschaft und Umwelt N�rtingen",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-fr-wirtschaft-und-umwelt-nrtingen"
 		},
 		{
-			"name": "Hochschule Emden/Leer (FH)",
-			"bundesland": "Niedersachsen",
-			"slug": "hochschule-emdenleer-fh"
+			"name": "Hochschule Offenburg",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-offenburg"
 		},
 		{
-			"name": "Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
-			"bundesland": "Niedersachsen",
-			"slug": "hochschule-ostfalia-braunschweigwolfenbuettel-fh"
+			"name": "Hochschule Pforzheim",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-pforzheim"
 		},
 		{
-			"name": "Hochschule Hannover (FH)",
-			"bundesland": "Niedersachsen",
-			"slug": "hochschule-hannover-fh"
+			"name": "FH Ravensburg-Weingarten",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "fh-ravensburg-weingarten"
 		},
 		{
-			"name": "Hochschule Hildesheim/Holzminden/Göttingen (FH)",
-			"bundesland": "Niedersachsen",
-			"slug": "hochschule-hildesheimholzmindengoettingen-fh"
+			"name": "Hochschule Reutlingen",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-reutlingen"
 		},
 		{
-			"name": "Hochschule Osnabrück (FH)",
-			"bundesland": "Niedersachsen",
-			"slug": "hochschule-osnabrueck-fh"
+			"name": "Hochschule Albstadt-Sigmaringen (FH)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-albstadt-sigmaringen-fh"
 		},
 		{
-			"name": "Hannover, Kommunale FH für Verwaltung in Niedersachsen (Priv. Verw-FH)",
-			"bundesland": "Niedersachsen",
-			"slug": "hannover-kommunale-fh-fuer-verwaltung-in-niedersachsen-priv-verw-fh"
+			"name": "Hochschule f�r Technik Stuttgart",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-fr-technik-stuttgart"
 		},
 		{
-			"name": "Norddeutsche Hochschule für Rechtspflege, Hildesheim",
-			"bundesland": "Niedersachsen",
-			"slug": "norddeutsche-hochschule-fuer-rechtspflege-hildesheim"
+			"name": "FH Stuttgart, H der Medien",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "fh-stuttgart-h-der-medien"
+		},
+		{
+			"name": "Hochschule Ulm",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-ulm"
+		},
+		{
+			"name": "Hochschule f�r Gestaltung Schw�bisch Gm�nd",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-fr-gestaltung-schwbisch-gmnd"
+		},
+		{
+			"name": "Hochschule f�r Forstwirtschaft Rottenburg (FH)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-fr-forstwirtschaft-rottenburg-fh"
+		},
+		{
+			"name": "Duale Hochschule Baden W�rttemberg",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "duale-hochschule-baden-wrttemberg"
+		},
+		{
+			"name": "Evang. Hochschule Freiburg (FH)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "evang-hochschule-freiburg-fh"
+		},
+		{
+			"name": "Katholische Hochschule Freiburg i.Br.",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "katholische-hochschule-freiburg-ibr"
+		},
+		{
+			"name": "Evangelische Hochschule Ludwigsburg (FH)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "evangelische-hochschule-ludwigsburg-fh"
+		},
+		{
+			"name": "Theologische Hochschule Reutlingen",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "theologische-hochschule-reutlingen"
+		},
+		{
+			"name": "FH f�r �ffentliche Verwaltung Kehl",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "fh-fr-ffentliche-verwaltung-kehl"
+		},
+		{
+			"name": "Hochschule f�r �ffentliche Verwaltung und Finanzen Ludwigsburg",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-fr-ffentliche-verwaltung-und-finanzen-ludwigsburg"
+		},
+		{
+			"name": "FH f�r Rechtspflege Schwetzingen",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "fh-fr-rechtspflege-schwetzingen"
+		},
+		{
+			"name": "Staatl. FH f�r Polizei Villingen-Schwenningen",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "staatl-fh-fr-polizei-villingen-schwenningen"
+		},
+		{
+			"name": "FH Bund, FB Bundeswehrverwaltung, Mannheim",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "fh-bund-fb-bundeswehrverwaltung-mannheim"
+		},
+		{
+			"name": "Internationale Hochschule Liebenzell (FH), Bad Liebenzell",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "internationale-hochschule-liebenzell-fh-bad-liebenzell"
+		},
+		{
+			"name": "Hochschule der Wirtschaft f�r Management (HdWM) Mannheim (Priv. FH)",
+			"bundesland": "Baden-W�rttemberg",
+			"slug": "hochschule-der-wirtschaft-fr-management-hdwm-mannheim-priv-fh"
+		},
+		{
+			"name": "Universit�t Erlangen-N�rnberg (Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitt-erlangen-nrnberg-klinikum"
+		},
+		{
+			"name": "Universit�t M�nchen (Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitt-mnchen-klinikum"
+		},
+		{
+			"name": "Universit�t W�rzburg (Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitt-wrzburg-klinikum"
+		},
+		{
+			"name": "Universit�t Regensburg (Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitt-regensburg-klinikum"
+		},
+		{
+			"name": "TU M�nchen (Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "tu-mnchen-klinikum"
+		},
+		{
+			"name": "Universit�t Bamberg",
+			"bundesland": "Bayern",
+			"slug": "universitt-bamberg"
+		},
+		{
+			"name": "Universit�t Bayreuth",
+			"bundesland": "Bayern",
+			"slug": "universitt-bayreuth"
+		},
+		{
+			"name": "Universit�t Passau",
+			"bundesland": "Bayern",
+			"slug": "universitt-passau"
+		},
+		{
+			"name": "Universit�t Erlangen-N�rnberg",
+			"bundesland": "Bayern",
+			"slug": "universitt-erlangen-nrnberg"
+		},
+		{
+			"name": "Universit�t M�nchen (ohne Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitt-mnchen-ohne-klinikum"
+		},
+		{
+			"name": "Universit�t W�rzburg (ohne Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitt-wrzburg-ohne-klinikum"
+		},
+		{
+			"name": "Universit�t Regensburg (ohne Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitt-regensburg-ohne-klinikum"
+		},
+		{
+			"name": "Universit�t Augsburg",
+			"bundesland": "Bayern",
+			"slug": "universitt-augsburg"
+		},
+		{
+			"name": "TU M�nchen (ohne Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "tu-mnchen-ohne-klinikum"
+		},
+		{
+			"name": "Hochschule f�r Politik M�nchen",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-politik-mnchen"
+		},
+		{
+			"name": "Universit�t der Bundeswehr M�nchen (FB Universit�tsstudieng�nge)",
+			"bundesland": "Bayern",
+			"slug": "universitt-der-bundeswehr-mnchen-fb-universittsstudiengnge"
+		},
+		{
+			"name": "Kath. Universit�t Eichst�tt-Ingolstadt",
+			"bundesland": "Bayern",
+			"slug": "kath-universitt-eichsttt-ingolstadt"
+		},
+		{
+			"name": "Augustana-H Neuendettelsau (ev)",
+			"bundesland": "Bayern",
+			"slug": "augustana-h-neuendettelsau-ev"
+		},
+		{
+			"name": "Hochschule f�r Philosophie M�nchen (rk)",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-philosophie-mnchen-rk"
+		},
+		{
+			"name": "Phil.-Theol. H Benediktbeuern (rk)",
+			"bundesland": "Bayern",
+			"slug": "phil-theol-h-benediktbeuern-rk"
+		},
+		{
+			"name": "Hochschule f�r Musik W�rzburg",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-musik-wrzburg"
+		},
+		{
+			"name": "Hochschule f�r Musik und Theater M�nchen",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-musik-und-theater-mnchen"
+		},
+		{
+			"name": "Hochschule f�r Fernsehen und Film M�nchen",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-fernsehen-und-film-mnchen"
+		},
+		{
+			"name": "Akademie der Bildenden K�nste M�nchen",
+			"bundesland": "Bayern",
+			"slug": "akademie-der-bildenden-knste-mnchen"
+		},
+		{
+			"name": "Akademie der Bildenden K�nste N�rnberg",
+			"bundesland": "Bayern",
+			"slug": "akademie-der-bildenden-knste-nrnberg"
+		},
+		{
+			"name": "Hochschule f�r Musik N�rnberg",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-musik-nrnberg"
+		},
+		{
+			"name": "Hochschule f�r evangelische Kirchenmusik Bayreuth",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-evangelische-kirchenmusik-bayreuth"
+		},
+		{
+			"name": "Hochschule f�r Kath. Kirchenmusik und Musikp�dagogik, Regensburg",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-kath-kirchenmusik-und-musikpdagogik-regensburg"
+		},
+		{
+			"name": "Macromedia FH der Medien, M�nchen (Priv. FH)",
+			"bundesland": "Bayern",
+			"slug": "macromedia-fh-der-medien-mnchen-priv-fh"
+		},
+		{
+			"name": "Hochschule f�r Angewandte Sprachen - Fachhochschule des SDI M�nchen",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-angewandte-sprachen-fachhochschule-des-sdi-mnchen"
+		},
+		{
+			"name": "Hochschule f�r angewandte Wissenschaften Bamberg - Private Hochschule f�r Gesundheit (Priv. FH)",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-angewandte-wissenschaften-bamberg-private-hochschule-fr-gesundheit-priv-fh"
+		},
+		{
+			"name": "Hochschule Fresenius Idstein in M�nchen (Priv. FH)",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fresenius-idstein-in-mnchen-priv-fh"
+		},
+		{
+			"name": "Hochschule f�r angewandtes Management",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-angewandtes-management"
+		},
+		{
+			"name": "Munich Business School M�nchen (Priv. FH)",
+			"bundesland": "Bayern",
+			"slug": "munich-business-school-mnchen-priv-fh"
+		},
+		{
+			"name": "Hochschule Augsburg",
+			"bundesland": "Bayern",
+			"slug": "hochschule-augsburg"
+		},
+		{
+			"name": "Hochschule Coburg",
+			"bundesland": "Bayern",
+			"slug": "hochschule-coburg"
+		},
+		{
+			"name": "Hochschule M�nchen",
+			"bundesland": "Bayern",
+			"slug": "hochschule-mnchen"
+		},
+		{
+			"name": "Technische Hochschule N�rnberg Georg Simon Ohm",
+			"bundesland": "Bayern",
+			"slug": "technische-hochschule-nrnberg-georg-simon-ohm"
+		},
+		{
+			"name": "FH Regensburg",
+			"bundesland": "Bayern",
+			"slug": "fh-regensburg"
+		},
+		{
+			"name": "FH Rosenheim",
+			"bundesland": "Bayern",
+			"slug": "fh-rosenheim"
+		},
+		{
+			"name": "Hochschule Weihenstephan-Triesdorf",
+			"bundesland": "Bayern",
+			"slug": "hochschule-weihenstephan-triesdorf"
+		},
+		{
+			"name": "Hochschule f�r angewandte Wissenschaften W�rzburg-Schweinfurt (FHWS)",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-angewandte-wissenschaften-wrzburg-schweinfurt-fhws"
+		},
+		{
+			"name": "Hochschule Kempten",
+			"bundesland": "Bayern",
+			"slug": "hochschule-kempten"
+		},
+		{
+			"name": "Hochschule Landshut",
+			"bundesland": "Bayern",
+			"slug": "hochschule-landshut"
+		},
+		{
+			"name": "Technische Hochschule Deggendorf",
+			"bundesland": "Bayern",
+			"slug": "technische-hochschule-deggendorf"
+		},
+		{
+			"name": "Hochschule f�r Angewandte Wissenschaften Hof",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-angewandte-wissenschaften-hof"
+		},
+		{
+			"name": "Hochschule f�r angewandte Wissenschaft Ingolstadt",
+			"bundesland": "Bayern",
+			"slug": "hochschule-fr-angewandte-wissenschaft-ingolstadt"
+		},
+		{
+			"name": "Hochschule Amberg-Weiden",
+			"bundesland": "Bayern",
+			"slug": "hochschule-amberg-weiden"
+		},
+		{
+			"name": "FH Ansbach",
+			"bundesland": "Bayern",
+			"slug": "fh-ansbach"
+		},
+		{
+			"name": "Hochschule Neu-Ulm",
+			"bundesland": "Bayern",
+			"slug": "hochschule-neu-ulm"
+		},
+		{
+			"name": "Hochschule Aschaffenburg",
+			"bundesland": "Bayern",
+			"slug": "hochschule-aschaffenburg"
+		},
+		{
+			"name": "Evang. Hochschule N�rnberg (FH)",
+			"bundesland": "Bayern",
+			"slug": "evang-hochschule-nrnberg-fh"
+		},
+		{
+			"name": "Kath. Stiftungs FH M�nchen in M�nchen",
+			"bundesland": "Bayern",
+			"slug": "kath-stiftungs-fh-mnchen-in-mnchen"
+		},
+		{
+			"name": "FH f�r �ffentl. Verwaltung und Rechtspflege Bayern",
+			"bundesland": "Bayern",
+			"slug": "fh-fr-ffentl-verwaltung-und-rechtspflege-bayern"
+		},
+		{
+			"name": "Universit�t der Bundeswehr M�nchen (FB Fachhochschulstudieng�nge)",
+			"bundesland": "Bayern",
+			"slug": "universitt-der-bundeswehr-mnchen-fb-fachhochschulstudiengnge"
+		},
+		{
+			"name": "Universit�t des Saarlandes Saarbr�cken, Homburg/Saar",
+			"bundesland": "Bayern",
+			"slug": "universitt-des-saarlandes-saarbrcken-homburgsaar"
+		},
+		{
+			"name": "Europ. School of Management and Technology, Berlin (Priv. H)",
+			"bundesland": "Berlin",
+			"slug": "europ-school-of-management-and-technology-berlin-priv-h"
+		},
+		{
+			"name": "Hertie School of Governance Berlin (Priv. wiss. H)",
+			"bundesland": "Berlin",
+			"slug": "hertie-school-of-governance-berlin-priv-wiss-h"
+		},
+		{
+			"name": "Deutsche Universit�t f�r Weiterbildung Berlin (Priv. wiss. H)",
+			"bundesland": "Berlin",
+			"slug": "deutsche-universitt-fr-weiterbildung-berlin-priv-wiss-h"
+		},
+		{
+			"name": "International Psychoanalytic University Berlin (Priv.)",
+			"bundesland": "Berlin",
+			"slug": "international-psychoanalytic-university-berlin-priv"
+		},
+		{
+			"name": "ESCP Europe Wirtschaftshochschule, Berlin (Priv. H)",
+			"bundesland": "Berlin",
+			"slug": "escp-europe-wirtschaftshochschule-berlin-priv-h"
+		},
+		{
+			"name": "Psychologische Hochschule Berlin (Priv. H)",
+			"bundesland": "Berlin",
+			"slug": "psychologische-hochschule-berlin-priv-h"
+		},
+		{
+			"name": "Steinbeis-Hochschule Berlin (Priv. H)",
+			"bundesland": "Berlin",
+			"slug": "steinbeis-hochschule-berlin-priv-h"
+		},
+		{
+			"name": "Charite - Universit�tsmedizin Berlin",
+			"bundesland": "Berlin",
+			"slug": "charite-universittsmedizin-berlin"
+		},
+		{
+			"name": "Humboldt-Universit�t zu Berlin",
+			"bundesland": "Berlin",
+			"slug": "humboldt-universitt-zu-berlin"
+		},
+		{
+			"name": "FU Berlin",
+			"bundesland": "Berlin",
+			"slug": "fu-berlin"
+		},
+		{
+			"name": "TU Berlin",
+			"bundesland": "Berlin",
+			"slug": "tu-berlin"
+		},
+		{
+			"name": "Wei�ensee Kunsthochschule Berlin",
+			"bundesland": "Berlin",
+			"slug": "weiensee-kunsthochschule-berlin"
+		},
+		{
+			"name": "Hochschule f�r Musik Berlin Hanns Eisler",
+			"bundesland": "Berlin",
+			"slug": "hochschule-fr-musik-berlin-hanns-eisler"
+		},
+		{
+			"name": "Hochschule f�r Schauspielkunst Berlin Ernst Busch",
+			"bundesland": "Berlin",
+			"slug": "hochschule-fr-schauspielkunst-berlin-ernst-busch"
+		},
+		{
+			"name": "Universit�t der K�nste Berlin",
+			"bundesland": "Berlin",
+			"slug": "universitt-der-knste-berlin"
+		},
+		{
+			"name": "Berliner Technische Kunsthochschule",
+			"bundesland": "Berlin",
+			"slug": "berliner-technische-kunsthochschule"
+		},
+		{
+			"name": "EBC Hochschule Berlin (Priv. FH)",
+			"bundesland": "Berlin",
+			"slug": "ebc-hochschule-berlin-priv-fh"
+		},
+		{
+			"name": "Touro College Berlin",
+			"bundesland": "Berlin",
+			"slug": "touro-college-berlin"
+		},
+		{
+			"name": "bbw Hochschule",
+			"bundesland": "Berlin",
+			"slug": "bbw-hochschule"
+		},
+		{
+			"name": "IB-Hochschule Berlin",
+			"bundesland": "Berlin",
+			"slug": "ib-hochschule-berlin"
+		},
+		{
+			"name": "Akkon Hochschule Berlin (Priv. FH)",
+			"bundesland": "Berlin",
+			"slug": "akkon-hochschule-berlin-priv-fh"
+		},
+		{
+			"name": "Hochschule f�r Sport und Gesundheit",
+			"bundesland": "Berlin",
+			"slug": "hochschule-fr-sport-und-gesundheit"
+		},
+		{
+			"name": "Design Akademie Berlin",
+			"bundesland": "Berlin",
+			"slug": "design-akademie-berlin"
+		},
+		{
+			"name": "BEST-Sabel-Hochschule Berlin",
+			"bundesland": "Berlin",
+			"slug": "best-sabel-hochschule-berlin"
+		},
+		{
+			"name": "HS f�r Medien, Kommunikation und Wirtschaft Berlin (Priv. FH)",
+			"bundesland": "Berlin",
+			"slug": "hs-fr-medien-kommunikation-und-wirtschaft-berlin-priv-fh"
+		},
+		{
+			"name": "Quadriga Hochschule Berlin (Priv. FH)",
+			"bundesland": "Berlin",
+			"slug": "quadriga-hochschule-berlin-priv-fh"
+		},
+		{
+			"name": "DEKRA Hochschule Berlin (Priv. FH)",
+			"bundesland": "Berlin",
+			"slug": "dekra-hochschule-berlin-priv-fh"
+		},
+		{
+			"name": "hdpk Hochschule der popul�ren K�nste",
+			"bundesland": "Berlin",
+			"slug": "hdpk-hochschule-der-populren-knste"
+		},
+		{
+			"name": "Mediadesign Hochschule f�r Design und Informatik",
+			"bundesland": "Berlin",
+			"slug": "mediadesign-hochschule-fr-design-und-informatik"
+		},
+		{
+			"name": "SRH Hochschule Berlin (Priv. FH)",
+			"bundesland": "Berlin",
+			"slug": "srh-hochschule-berlin-priv-fh"
+		},
+		{
+			"name": "Hochschule f�r Technik und Wirtschaft Berlin",
+			"bundesland": "Berlin",
+			"slug": "hochschule-fr-technik-und-wirtschaft-berlin"
+		},
+		{
+			"name": "Beuth-Hochschule f�r Technik Berlin",
+			"bundesland": "Berlin",
+			"slug": "beuth-hochschule-fr-technik-berlin"
+		},
+		{
+			"name": "Hochschule f�r Wirtschaft und Recht Berlin",
+			"bundesland": "Berlin",
+			"slug": "hochschule-fr-wirtschaft-und-recht-berlin"
+		},
+		{
+			"name": "ASH f�r Sozialarbeit und Sozialp�dagogik Berlin",
+			"bundesland": "Berlin",
+			"slug": "ash-fr-sozialarbeit-und-sozialpdagogik-berlin"
+		},
+		{
+			"name": "Katholische Hochschule f�r Sozialwesen Berlin (FH)",
+			"bundesland": "Berlin",
+			"slug": "katholische-hochschule-fr-sozialwesen-berlin-fh"
+		},
+		{
+			"name": "Evangelische Hochschule Berlin (FH)",
+			"bundesland": "Berlin",
+			"slug": "evangelische-hochschule-berlin-fh"
+		},
+		{
+			"name": "FH Bund, FB Sozialversicherung in Berlin",
+			"bundesland": "Berlin",
+			"slug": "fh-bund-fb-sozialversicherung-in-berlin"
+		},
+		{
+			"name": "FH Bund, FB Akademie Ausw�rtige Angelegenheiten in Berlin",
+			"bundesland": "Berlin",
+			"slug": "fh-bund-fb-akademie-auswrtige-angelegenheiten-in-berlin"
+		},
+		{
+			"name": "Business School Berlin Potsdam (BSP)",
+			"bundesland": "Berlin",
+			"slug": "business-school-berlin-potsdam-bsp"
+		},
+		{
+			"name": "ECLA of Bard, a Liberal Arts University, Berlin (Priv. H)",
+			"bundesland": "Berlin",
+			"slug": "ecla-of-bard-a-liberal-arts-university-berlin-priv-h"
+		},
+		{
+			"name": "German open Business School, Hochschule f�r Wirtschaft und Verwaltung, Berlin (Priv. FH)",
+			"bundesland": "Berlin",
+			"slug": "german-open-business-school-hochschule-fr-wirtschaft-und-verwaltung-berlin-priv-fh"
+		},
+		{
+			"name": "Europa-Universit�t Viadrina Frankfurt (Oder)",
+			"bundesland": "Brandenburg",
+			"slug": "europa-universitt-viadrina-frankfurt-oder"
+		},
+		{
+			"name": "Brandenburgische TU Cottbus",
+			"bundesland": "Brandenburg",
+			"slug": "brandenburgische-tu-cottbus"
+		},
+		{
+			"name": "Universit�t Potsdam",
+			"bundesland": "Brandenburg",
+			"slug": "universitt-potsdam"
+		},
+		{
+			"name": "Hochschule f�r Film und Fernsehen in Potsdam-Babelsberg",
+			"bundesland": "Brandenburg",
+			"slug": "hochschule-fr-film-und-fernsehen-in-potsdam-babelsberg"
+		},
+		{
+			"name": "Fachhochschule f�r Sport und Management Potsdam",
+			"bundesland": "Brandenburg",
+			"slug": "fachhochschule-fr-sport-und-management-potsdam"
+		},
+		{
+			"name": "FH Brandenburg",
+			"bundesland": "Brandenburg",
+			"slug": "fh-brandenburg"
+		},
+		{
+			"name": "Hochschule f�r nachhaltige Entwicklung Eberswalde (FH)",
+			"bundesland": "Brandenburg",
+			"slug": "hochschule-fr-nachhaltige-entwicklung-eberswalde-fh"
+		},
+		{
+			"name": "Hochschule Lausitz, University of Applied Sciences (FH)",
+			"bundesland": "Brandenburg",
+			"slug": "hochschule-lausitz-university-of-applied-sciences-fh"
+		},
+		{
+			"name": "Technische Hochschule Wildau (FH)",
+			"bundesland": "Brandenburg",
+			"slug": "technische-hochschule-wildau-fh"
+		},
+		{
+			"name": "FH Potsdam",
+			"bundesland": "Brandenburg",
+			"slug": "fh-potsdam"
+		},
+		{
+			"name": "Theol. Seminar (FH) der Evang. Freikirche Elstal",
+			"bundesland": "Brandenburg",
+			"slug": "theol-seminar-fh-der-evang-freikirche-elstal"
+		},
+		{
+			"name": "FH f�r Finanzen Brandenburg (VerwFH) K�nigs Wusterhausen",
+			"bundesland": "Brandenburg",
+			"slug": "fh-fr-finanzen-brandenburg-verwfh-knigs-wusterhausen"
+		},
+		{
+			"name": "FH der Polizei Brandenburg (VerwFH) in Oranienburg",
+			"bundesland": "Brandenburg",
+			"slug": "fh-der-polizei-brandenburg-verwfh-in-oranienburg"
+		},
+		{
+			"name": "Universit�t Rostock (Klinikum)",
+			"bundesland": "Brandenburg",
+			"slug": "universitt-rostock-klinikum"
 		},
 		{
 			"name": "Jacobs University Bremen (Priv. H)",
@@ -311,14 +941,14 @@ var searchdb = {
 			"slug": "jacobs-university-bremen-priv-h"
 		},
 		{
-			"name": "Universität Bremen",
+			"name": "Universit�t Bremen",
 			"bundesland": "Bremen",
-			"slug": "universitaet-bremen"
+			"slug": "universitt-bremen"
 		},
 		{
-			"name": "Hochschule für Künste Bremen",
+			"name": "Hochschule f�r K�nste Bremen",
 			"bundesland": "Bremen",
-			"slug": "hochschule-fuer-kuenste-bremen"
+			"slug": "hochschule-fr-knste-bremen"
 		},
 		{
 			"name": "APOLLON Hochschule der Gesundheitswirtschaft",
@@ -336,384 +966,119 @@ var searchdb = {
 			"slug": "hochschule-bremen"
 		},
 		{
-			"name": "Hochschule für öffentliche Verwaltung Bremen",
+			"name": "Hochschule f�r �ffentliche Verwaltung Bremen",
 			"bundesland": "Bremen",
-			"slug": "hochschule-fuer-oeffentliche-verwaltung-bremen"
+			"slug": "hochschule-fr-ffentliche-verwaltung-bremen"
 		},
 		{
-			"name": "Priv. wiss. Hochschule Witten-Herdecke (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "priv-wiss-hochschule-witten-herdecke-ohne-klinikum"
+			"name": "Hochschule f�r intern. Wirtschaft und Logistik (HIWL), Bremen (Priv. FH)",
+			"bundesland": "Bremen",
+			"slug": "hochschule-fr-intern-wirtschaft-und-logistik-hiwl-bremen-priv-fh"
 		},
 		{
-			"name": "Universität Duisburg-Essen (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-duisburg-essen-klinikum"
+			"name": "Bucerius Law School Hamburg (Priv. H)",
+			"bundesland": "Hamburg",
+			"slug": "bucerius-law-school-hamburg-priv-h"
 		},
 		{
-			"name": "Universität Bochum (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-bochum-klinikum"
+			"name": "Universit�t Hamburg (Klinikum)",
+			"bundesland": "Hamburg",
+			"slug": "universitt-hamburg-klinikum"
 		},
 		{
-			"name": "Universität Bonn (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-bonn-klinikum"
+			"name": "Hafencity Universit�t Hamburg",
+			"bundesland": "Hamburg",
+			"slug": "hafencity-universitt-hamburg"
 		},
 		{
-			"name": "Universität Düsseldorf (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-duesseldorf-klinikum"
+			"name": "Universit�t Hamburg (ohne Klinikum)",
+			"bundesland": "Hamburg",
+			"slug": "universitt-hamburg-ohne-klinikum"
 		},
 		{
-			"name": "Universität Köln (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-koeln-klinikum"
+			"name": "Staats- und Universit�tsbibliothek Hamburg",
+			"bundesland": "Hamburg",
+			"slug": "staats-und-universittsbibliothek-hamburg"
 		},
 		{
-			"name": "Universität Münster (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-muenster-klinikum"
+			"name": "TU Hamburg-Harburg",
+			"bundesland": "Hamburg",
+			"slug": "tu-hamburg-harburg"
 		},
 		{
-			"name": "RWTH Aachen (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "rwth-aachen-klinikum"
+			"name": "Helmut-Schmidt-Universit�t Hamburg",
+			"bundesland": "Hamburg",
+			"slug": "helmut-schmidt-universitt-hamburg"
 		},
 		{
-			"name": "Universität Duisburg-Essen (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-duisburg-essen-ohne-klinikum"
+			"name": "Hochschule f�r Musik und Theater Hamburg",
+			"bundesland": "Hamburg",
+			"slug": "hochschule-fr-musik-und-theater-hamburg"
 		},
 		{
-			"name": "Universität Paderborn",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-paderborn"
+			"name": "Hochschule f�r Bildende K�nste Hamburg",
+			"bundesland": "Hamburg",
+			"slug": "hochschule-fr-bildende-knste-hamburg"
 		},
 		{
-			"name": "Universität Siegen",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-siegen"
+			"name": "EBC Euro Business College Hamburg (Priv. FH)",
+			"bundesland": "Hamburg",
+			"slug": "ebc-euro-business-college-hamburg-priv-fh"
 		},
 		{
-			"name": "Universität Wuppertal",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-wuppertal"
+			"name": "ISS International Business School of Service Management Hamburg (Priv. FH)",
+			"bundesland": "Hamburg",
+			"slug": "iss-international-business-school-of-service-management-hamburg-priv-fh"
 		},
 		{
-			"name": "Fernuniversität Hagen",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fernuniversitaet-hagen"
+			"name": "HFH - Hamburger Fern-Hochschule",
+			"bundesland": "Hamburg",
+			"slug": "hfh-hamburger-fern-hochschule"
 		},
 		{
-			"name": "Deutsche Hochschule der Polizei, Münster",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "deutsche-hochschule-der-polizei-muenster"
+			"name": "Europ�ische Fernhochschule Hamburg",
+			"bundesland": "Hamburg",
+			"slug": "europische-fernhochschule-hamburg"
 		},
 		{
-			"name": "Ruhr-Universität Bochum (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "ruhr-universitaet-bochum-ohne-klinikum"
+			"name": "HSBA Hamburg School of Business Admin. (Priv. FH)",
+			"bundesland": "Hamburg",
+			"slug": "hsba-hamburg-school-of-business-admin-priv-fh"
 		},
 		{
-			"name": "Universität Bonn (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-bonn-ohne-klinikum"
+			"name": "Hochschule f�r Angewandte Wissenschaften Hamburg",
+			"bundesland": "Hamburg",
+			"slug": "hochschule-fr-angewandte-wissenschaften-hamburg"
 		},
 		{
-			"name": "Universität Düsseldorf (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-duesseldorf-ohne-klinikum"
+			"name": "Evang. Hochschule f�r Soziale Arbeit und Diakonie, Hamburg (FH)",
+			"bundesland": "Hamburg",
+			"slug": "evang-hochschule-fr-soziale-arbeit-und-diakonie-hamburg-fh"
 		},
 		{
-			"name": "Universität zu Köln (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-zu-koeln-ohne-klinikum"
+			"name": "Hochschule der Polizei, Hamburg (Verw-FH)",
+			"bundesland": "Hamburg",
+			"slug": "hochschule-der-polizei-hamburg-verw-fh"
 		},
 		{
-			"name": "WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "wwu-westfaelische-wilhems-universitaet-muenster-ohne-klinikum"
+			"name": "Norddeutsche Akademie f�r Finanzen und Steuerrecht Hamburg",
+			"bundesland": "Hamburg",
+			"slug": "norddeutsche-akademie-fr-finanzen-und-steuerrecht-hamburg"
 		},
 		{
-			"name": "Technische Universität Dortmund",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "technische-universitaet-dortmund"
+			"name": "K�hne Logistics University - The KLU, Hamburg (Priv. H)",
+			"bundesland": "Hamburg",
+			"slug": "khne-logistics-university-the-klu-hamburg-priv-h"
 		},
 		{
-			"name": "Universität Bielefeld",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-bielefeld"
+			"name": "MSH Medical School Hamburg (Priv. FH)",
+			"bundesland": "Hamburg",
+			"slug": "msh-medical-school-hamburg-priv-fh"
 		},
 		{
-			"name": "Deutsche Sporthochschule Köln",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "deutsche-sporthochschule-koeln"
-		},
-		{
-			"name": "RWTH Aachen (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "rwth-aachen-ohne-klinikum"
-		},
-		{
-			"name": "Priv. wiss. Hochschule Witten-Herdecke (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "priv-wiss-hochschule-witten-herdecke-klinikum"
-		},
-		{
-			"name": "Hochschule für Kirchenmusik der evang. Kirche von Westfalen, Herford",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-fuer-kirchenmusik-der-evang-kirche-von-westfalen-herford"
-		},
-		{
-			"name": "Theol. Fakultät Paderborn (rk)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "theol-fakultaet-paderborn-rk"
-		},
-		{
-			"name": "Philosophisch-Theologische Hochschule SVD St. Augustin",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "philosophisch-theologische-hochschule-svd-st-augustin"
-		},
-		{
-			"name": "Phil.-Theol. Hochschule Münster (rk)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "phil-theol-hochschule-muenster-rk"
-		},
-		{
-			"name": "Kirchliche Hochschule Wuppertal / Bethel (ev)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "kirchliche-hochschule-wuppertal-bethel-ev"
-		},
-		{
-			"name": "Alanus Hochschule Alfter (Priv. H)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "alanus-hochschule-alfter-priv-h"
-		},
-		{
-			"name": "Hochschule für Musik Detmold",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-fuer-musik-detmold"
-		},
-		{
-			"name": "Folkwang-Hochschule Essen",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "folkwang-hochschule-essen"
-		},
-		{
-			"name": "Hochschule für Musik und Tanz Köln",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-fuer-musik-und-tanz-koeln"
-		},
-		{
-			"name": "Kunstakademie Düsseldorf",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "kunstakademie-duesseldorf"
-		},
-		{
-			"name": "Robert-Schumann-Hochschule Düsseldorf",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "robert-schumann-hochschule-duesseldorf"
-		},
-		{
-			"name": "Kunsthochschule für Medien Köln",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "kunsthochschule-fuer-medien-koeln"
-		},
-		{
-			"name": "Kunstakademie Münster",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "kunstakademie-muenster"
-		},
-		{
-			"name": "EBZ Business School",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "ebz-business-school"
-		},
-		{
-			"name": "Hochschule der Sparkassen-Finanzgruppe Bonn (Priv. FH)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-der-sparkassen-finanzgruppe-bonn-priv-fh"
-		},
-		{
-			"name": "Hochschule Neuss für Internationale Wirtschaft (Priv. FH)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-neuss-fuer-internationale-wirtschaft-priv-fh"
-		},
-		{
-			"name": "Mathias Hochschule Rheine",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "mathias-hochschule-rheine"
-		},
-		{
-			"name": "EBC Düsseldorf HS für Int. Management (Priv. FH)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "ebc-duesseldorf-hs-fuer-int-management-priv-fh"
-		},
-		{
-			"name": "Cologne Business School",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "cologne-business-school"
-		},
-		{
-			"name": "Priv. FH International School of Management, Dortmund",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "priv-fh-international-school-of-management-dortmund"
-		},
-		{
-			"name": "Intern. FH (IFH) Bad Honnef-Bonn (Priv. FH)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "intern-fh-ifh-bad-honnef-bonn-priv-fh"
-		},
-		{
-			"name": "Business and Information Technology School Iserlohn (Priv. FH)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "business-and-information-technology-school-iserlohn-priv-fh"
-		},
-		{
-			"name": "FH des Mittelstandes Bielefeld (Priv. FH)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-des-mittelstandes-bielefeld-priv-fh"
-		},
-		{
-			"name": "Fachhochschule der Wirtschaft Paderborn",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fachhochschule-der-wirtschaft-paderborn"
-		},
-		{
-			"name": "Technische FH (TFH) Georg Agricola zu Bochum (Priv. FH)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "technische-fh-tfh-georg-agricola-zu-bochum-priv-fh"
-		},
-		{
-			"name": "Priv. Rheinische FH Köln",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "priv-rheinische-fh-koeln"
-		},
-		{
-			"name": "Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "europaeische-fh-eufh-rheinerft-bruehl-priv-fh"
-		},
-		{
-			"name": "Priv. FH für Ökonomie und Management Essen",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "priv-fh-fuer-oekonomie-und-management-essen"
-		},
-		{
-			"name": "FH Westliches Ruhrgebiet",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-westliches-ruhrgebiet"
-		},
-		{
-			"name": "Hochschule Rhein-Waal",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-rhein-waal"
-		},
-		{
-			"name": "Hochschule Hamm-Lippstadt",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-hamm-lippstadt"
-		},
-		{
-			"name": "FH Südwestfalen",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-suedwestfalen"
-		},
-		{
-			"name": "Westfälische Hochschule Gelsenkirchen Bocholt Recklinghausen",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "westfaelische-hochschule-gelsenkirchen-bocholt-recklinghausen"
-		},
-		{
-			"name": "FH Aachen",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-aachen"
-		},
-		{
-			"name": "FH Bielefeld",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-bielefeld"
-		},
-		{
-			"name": "Hochschule Bochum",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-bochum"
-		},
-		{
-			"name": "FH Dortmund",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-dortmund"
-		},
-		{
-			"name": "FH Düsseldorf",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-duesseldorf"
-		},
-		{
-			"name": "FH Köln",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-koeln"
-		},
-		{
-			"name": "Hochschule Niederrhein",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-niederrhein"
-		},
-		{
-			"name": "Hochschule Ostwestfalen-Lippe",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-ostwestfalen-lippe"
-		},
-		{
-			"name": "FH Münster",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-muenster"
-		},
-		{
-			"name": "FH Bonn-Rhein-Sieg",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-bonn-rhein-sieg"
-		},
-		{
-			"name": "FH der Diakonie Bielefeld-Bethel",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-der-diakonie-bielefeld-bethel"
-		},
-		{
-			"name": "Evang. FH Rheinland-Westfalen-Lippe, Bochum",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "evang-fh-rheinland-westfalen-lippe-bochum"
-		},
-		{
-			"name": "Kath. Hochschule Nordrhein-Westfalen",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "kath-hochschule-nordrhein-westfalen"
-		},
-		{
-			"name": "FH für öffentliche Verwaltung NW",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-fuer-oeffentliche-verwaltung-nw"
-		},
-		{
-			"name": "FH für Rechtspflege NW, Bad Münstereifel",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-fuer-rechtspflege-nw-bad-muenstereifel"
-		},
-		{
-			"name": "FH für Finanzen NW, Nordkirchen",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-fuer-finanzen-nw-nordkirchen"
-		},
-		{
-			"name": "FH Bund, FB Allgemeine innere Verwaltung, Brühl",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-bund-fb-allgemeine-innere-verwaltung-bruehl"
-		},
-		{
-			"name": "FH Bund, FB Finanzen, Münster",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fh-bund-fb-finanzen-muenster"
+			"name": "AMD Akademie Mode und Design",
+			"bundesland": "Hessen",
+			"slug": "amd-akademie-mode-und-design"
 		},
 		{
 			"name": "Priv. wiss. Hochschule Oestrich-Winkel (E.B.S.)",
@@ -726,29 +1091,29 @@ var searchdb = {
 			"slug": "frankfurt-school-of-finance-and-management"
 		},
 		{
-			"name": "Universität Frankfurt a.M. (Klinikum)",
+			"name": "Universit�t Frankfurt a.M. (Klinikum)",
 			"bundesland": "Hessen",
-			"slug": "universitaet-frankfurt-am-klinikum"
+			"slug": "universitt-frankfurt-am-klinikum"
 		},
 		{
-			"name": "Universität Kassel",
+			"name": "Universit�t Kassel",
 			"bundesland": "Hessen",
-			"slug": "universitaet-kassel"
+			"slug": "universitt-kassel"
 		},
 		{
-			"name": "Universität Frankfurt a.M. (ohne Klinikum)",
+			"name": "Universit�t Frankfurt a.M. (ohne Klinikum)",
 			"bundesland": "Hessen",
-			"slug": "universitaet-frankfurt-am-ohne-klinikum"
+			"slug": "universitt-frankfurt-am-ohne-klinikum"
 		},
 		{
-			"name": "Universität Gießen",
+			"name": "Universit�t Gie�en",
 			"bundesland": "Hessen",
-			"slug": "universitaet-giessen"
+			"slug": "universitt-gieen"
 		},
 		{
-			"name": "Universität Marburg",
+			"name": "Universit�t Marburg",
 			"bundesland": "Hessen",
-			"slug": "universitaet-marburg"
+			"slug": "universitt-marburg"
 		},
 		{
 			"name": "TU Darmstadt",
@@ -756,19 +1121,19 @@ var searchdb = {
 			"slug": "tu-darmstadt"
 		},
 		{
-			"name": "Universitätsklinikum Gießen und Marburg, Abt. Gießen",
+			"name": "Universit�tsklinikum Gie�en und Marburg, Abt. Gie�en",
 			"bundesland": "Hessen",
-			"slug": "universitaetsklinikum-giessen-und-marburg-abt-giessen"
+			"slug": "universittsklinikum-gieen-und-marburg-abt-gieen"
 		},
 		{
-			"name": "Universitätsklinikum Gießen und Marburg, Abt. Marburg",
+			"name": "Universit�tsklinikum Gie�en und Marburg, Abt. Marburg",
 			"bundesland": "Hessen",
-			"slug": "universitaetsklinikum-giessen-und-marburg-abt-marburg"
+			"slug": "universittsklinikum-gieen-und-marburg-abt-marburg"
 		},
 		{
-			"name": "Freie Theologische Hochschule (FTH) Gießen (Priv.)",
+			"name": "Freie Theologische Hochschule (FTH) Gie�en (Priv.)",
 			"bundesland": "Hessen",
-			"slug": "freie-theologische-hochschule-fth-giessen-priv"
+			"slug": "freie-theologische-hochschule-fth-gieen-priv"
 		},
 		{
 			"name": "Evangelische Hochschule Tabor Marburg",
@@ -776,9 +1141,9 @@ var searchdb = {
 			"slug": "evangelische-hochschule-tabor-marburg"
 		},
 		{
-			"name": "Theol. Fakultät Fulda (rk)",
+			"name": "Theol. Fakult�t Fulda (rk)",
 			"bundesland": "Hessen",
-			"slug": "theol-fakultaet-fulda-rk"
+			"slug": "theol-fakultt-fulda-rk"
 		},
 		{
 			"name": "Phil.-Theol. Hochschule Frankfurt a.M. (rk)",
@@ -791,19 +1156,19 @@ var searchdb = {
 			"slug": "luth-theol-hochschule-oberursel-ev"
 		},
 		{
-			"name": "Hochschule für Musik und Darstellende Kunst Frankfurt a.M.",
+			"name": "Hochschule f�r Musik und Darstellende Kunst Frankfurt a.M.",
 			"bundesland": "Hessen",
-			"slug": "hochschule-fuer-musik-und-darstellende-kunst-frankfurt-am"
+			"slug": "hochschule-fr-musik-und-darstellende-kunst-frankfurt-am"
 		},
 		{
-			"name": "Hochschule für Bildende Künste Frankfurt a.M. (Städelschule)",
+			"name": "Hochschule f�r Bildende K�nste Frankfurt a.M. (St�delschule)",
 			"bundesland": "Hessen",
-			"slug": "hochschule-fuer-bildende-kuenste-frankfurt-am-staedelschule"
+			"slug": "hochschule-fr-bildende-knste-frankfurt-am-stdelschule"
 		},
 		{
-			"name": "Hochschule für Gestaltung Offenbach",
+			"name": "Hochschule f�r Gestaltung Offenbach",
 			"bundesland": "Hessen",
-			"slug": "hochschule-fuer-gestaltung-offenbach"
+			"slug": "hochschule-fr-gestaltung-offenbach"
 		},
 		{
 			"name": "CVJM-Hochschule",
@@ -821,9 +1186,9 @@ var searchdb = {
 			"slug": "priv-fh-des-bundesverbandes-der-unfallvers-bad-hersfeld"
 		},
 		{
-			"name": "Wilhelm Büchner Hochschule",
+			"name": "Wilhelm B�chner Hochschule",
 			"bundesland": "Hessen",
-			"slug": "wilhelm-buechner-hochschule"
+			"slug": "wilhelm-bchner-hochschule"
 		},
 		{
 			"name": "DIPLOMA Fachhochschule Nordhessen",
@@ -871,9 +1236,9 @@ var searchdb = {
 			"slug": "evangelische-hochschule-darmstadt-ehd"
 		},
 		{
-			"name": "FH für Archivwesen Marburg",
+			"name": "FH f�r Archivwesen Marburg",
 			"bundesland": "Hessen",
-			"slug": "fh-fuer-archivwesen-marburg"
+			"slug": "fh-fr-archivwesen-marburg"
 		},
 		{
 			"name": "VerwFH Rotenburg",
@@ -886,19 +1251,604 @@ var searchdb = {
 			"slug": "verwfh-wiesbaden"
 		},
 		{
+			"name": "FH Bund, FB Wetterdienst in Langen",
+			"bundesland": "Hessen",
+			"slug": "fh-bund-fb-wetterdienst-in-langen"
+		},
+		{
+			"name": "FH Bund, FB Landwirtschaftliche Sozialversicherung in Kassel",
+			"bundesland": "Hessen",
+			"slug": "fh-bund-fb-landwirtschaftliche-sozialversicherung-in-kassel"
+		},
+		{
+			"name": "Universit�t Greifswald (Klinikum)",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "universitt-greifswald-klinikum"
+		},
+		{
+			"name": "Universit�t Rostock (ohne Klinikum)",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "universitt-rostock-ohne-klinikum"
+		},
+		{
+			"name": "Med. Fakult�t Rostock",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "med-fakultt-rostock"
+		},
+		{
+			"name": "Universit�t Greifswald (ohne Klinikum)",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "universitt-greifswald-ohne-klinikum"
+		},
+		{
+			"name": "Medizinische Fakult�t Greifswald",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "medizinische-fakultt-greifswald"
+		},
+		{
+			"name": "Hochschule f�r Musik und Theater, Rostock",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "hochschule-fr-musik-und-theater-rostock"
+		},
+		{
+			"name": "Baltic College - FHM Schwerin",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "baltic-college-fhm-schwerin"
+		},
+		{
+			"name": "Hochschule Neubrandenburg",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "hochschule-neubrandenburg"
+		},
+		{
+			"name": "FH Stralsund",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "fh-stralsund"
+		},
+		{
+			"name": "FH Wismar",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "fh-wismar"
+		},
+		{
+			"name": "Verwaltungs-FH G�strow",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "verwaltungs-fh-gstrow"
+		},
+		{
+			"name": "Universit�t G�ttingen (Klinikum)",
+			"bundesland": "Niedersachsen",
+			"slug": "universitt-gttingen-klinikum"
+		},
+		{
+			"name": "Medizinische Hochschule Hannover",
+			"bundesland": "Niedersachsen",
+			"slug": "medizinische-hochschule-hannover"
+		},
+		{
+			"name": "Universit�t Oldenburg",
+			"bundesland": "Niedersachsen",
+			"slug": "universitt-oldenburg"
+		},
+		{
+			"name": "Universit�t Osnabr�ck",
+			"bundesland": "Niedersachsen",
+			"slug": "universitt-osnabrck"
+		},
+		{
+			"name": "Universit�t Vechta",
+			"bundesland": "Niedersachsen",
+			"slug": "universitt-vechta"
+		},
+		{
+			"name": "Universit�t Hildesheim",
+			"bundesland": "Niedersachsen",
+			"slug": "universitt-hildesheim"
+		},
+		{
+			"name": "Leuphana Universit�t L�neburg",
+			"bundesland": "Niedersachsen",
+			"slug": "leuphana-universitt-lneburg"
+		},
+		{
+			"name": "Universit�t G�ttingen (ohne Klinikum)",
+			"bundesland": "Niedersachsen",
+			"slug": "universitt-gttingen-ohne-klinikum"
+		},
+		{
+			"name": "TU Braunschweig",
+			"bundesland": "Niedersachsen",
+			"slug": "tu-braunschweig"
+		},
+		{
+			"name": "TU Clausthal",
+			"bundesland": "Niedersachsen",
+			"slug": "tu-clausthal"
+		},
+		{
+			"name": "Universit�t Hannover",
+			"bundesland": "Niedersachsen",
+			"slug": "universitt-hannover"
+		},
+		{
+			"name": "Tier�rztliche Hochschule Hannover",
+			"bundesland": "Niedersachsen",
+			"slug": "tierrztliche-hochschule-hannover"
+		},
+		{
+			"name": "Hochschule f�r Musik, Theater und Medien Hannover",
+			"bundesland": "Niedersachsen",
+			"slug": "hochschule-fr-musik-theater-und-medien-hannover"
+		},
+		{
+			"name": "Hochschule f�r Bildende K�nste Braunschweig",
+			"bundesland": "Niedersachsen",
+			"slug": "hochschule-fr-bildende-knste-braunschweig"
+		},
+		{
+			"name": "Hochschule Weserbergland (HSW), Hameln (Priv. FH)",
+			"bundesland": "Niedersachsen",
+			"slug": "hochschule-weserbergland-hsw-hameln-priv-fh"
+		},
+		{
+			"name": "Priv. FH der Wirtschaft Hannover",
+			"bundesland": "Niedersachsen",
+			"slug": "priv-fh-der-wirtschaft-hannover"
+		},
+		{
+			"name": "Priv. FH G�ttingen",
+			"bundesland": "Niedersachsen",
+			"slug": "priv-fh-gttingen"
+		},
+		{
+			"name": "Priv. FH f�r Wirtschaft und Technik Vechta/Diepholz/Oldenburg",
+			"bundesland": "Niedersachsen",
+			"slug": "priv-fh-fr-wirtschaft-und-technik-vechtadiepholzoldenburg"
+		},
+		{
+			"name": "Hochschule f�r K�nste im Sozialen Ottersberg",
+			"bundesland": "Niedersachsen",
+			"slug": "hochschule-fr-knste-im-sozialen-ottersberg"
+		},
+		{
+			"name": "Hochschule21, Buxtehude (Priv. FH)",
+			"bundesland": "Niedersachsen",
+			"slug": "hochschule21-buxtehude-priv-fh"
+		},
+		{
+			"name": "Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH)",
+			"bundesland": "Niedersachsen",
+			"slug": "hochschule-wilhelmshavenoldenburgelsfleth-fh"
+		},
+		{
+			"name": "Hochschule Emden/Leer (FH)",
+			"bundesland": "Niedersachsen",
+			"slug": "hochschule-emdenleer-fh"
+		},
+		{
+			"name": "Hochschule Ostfalia (Braunschweig/Wolfenb�ttel) (FH)",
+			"bundesland": "Niedersachsen",
+			"slug": "hochschule-ostfalia-braunschweigwolfenbttel-fh"
+		},
+		{
+			"name": "Hochschule Hannover (FH)",
+			"bundesland": "Niedersachsen",
+			"slug": "hochschule-hannover-fh"
+		},
+		{
+			"name": "Hochschule Hildesheim/Holzminden/G�ttingen (FH)",
+			"bundesland": "Niedersachsen",
+			"slug": "hochschule-hildesheimholzmindengttingen-fh"
+		},
+		{
+			"name": "Hochschule Osnabr�ck (FH)",
+			"bundesland": "Niedersachsen",
+			"slug": "hochschule-osnabrck-fh"
+		},
+		{
+			"name": "Hannover, Kommunale FH f�r Verwaltung in Niedersachsen (Priv. Verw-FH)",
+			"bundesland": "Niedersachsen",
+			"slug": "hannover-kommunale-fh-fr-verwaltung-in-niedersachsen-priv-verw-fh"
+		},
+		{
+			"name": "Norddeutsche Hochschule f�r Rechtspflege, Hildesheim",
+			"bundesland": "Niedersachsen",
+			"slug": "norddeutsche-hochschule-fr-rechtspflege-hildesheim"
+		},
+		{
+			"name": "Priv. wiss. Hochschule Witten-Herdecke (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "priv-wiss-hochschule-witten-herdecke-ohne-klinikum"
+		},
+		{
+			"name": "Universit�t Duisburg-Essen (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-duisburg-essen-klinikum"
+		},
+		{
+			"name": "Universit�t Bochum (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-bochum-klinikum"
+		},
+		{
+			"name": "Universit�t Bonn (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-bonn-klinikum"
+		},
+		{
+			"name": "Universit�t D�sseldorf (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-dsseldorf-klinikum"
+		},
+		{
+			"name": "Universit�t K�ln (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-kln-klinikum"
+		},
+		{
+			"name": "Universit�t M�nster (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-mnster-klinikum"
+		},
+		{
+			"name": "RWTH Aachen (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "rwth-aachen-klinikum"
+		},
+		{
+			"name": "Universit�t Duisburg-Essen (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-duisburg-essen-ohne-klinikum"
+		},
+		{
+			"name": "Universit�t Paderborn",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-paderborn"
+		},
+		{
+			"name": "Universit�t Siegen",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-siegen"
+		},
+		{
+			"name": "Universit�t Wuppertal",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-wuppertal"
+		},
+		{
+			"name": "Fernuniversit�t Hagen",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fernuniversitt-hagen"
+		},
+		{
+			"name": "Deutsche Hochschule der Polizei, M�nster",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "deutsche-hochschule-der-polizei-mnster"
+		},
+		{
+			"name": "Ruhr-Universit�t Bochum (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "ruhr-universitt-bochum-ohne-klinikum"
+		},
+		{
+			"name": "Universit�t Bonn (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-bonn-ohne-klinikum"
+		},
+		{
+			"name": "Universit�t D�sseldorf (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-dsseldorf-ohne-klinikum"
+		},
+		{
+			"name": "Universit�t zu K�ln (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-zu-kln-ohne-klinikum"
+		},
+		{
+			"name": "WWU Westf�lische Wilhems-Universit�t M�nster (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "wwu-westflische-wilhems-universitt-mnster-ohne-klinikum"
+		},
+		{
+			"name": "Technische Universit�t Dortmund",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "technische-universitt-dortmund"
+		},
+		{
+			"name": "Universit�t Bielefeld",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitt-bielefeld"
+		},
+		{
+			"name": "Deutsche Sporthochschule K�ln",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "deutsche-sporthochschule-kln"
+		},
+		{
+			"name": "RWTH Aachen (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "rwth-aachen-ohne-klinikum"
+		},
+		{
+			"name": "Priv. wiss. Hochschule Witten-Herdecke (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "priv-wiss-hochschule-witten-herdecke-klinikum"
+		},
+		{
+			"name": "Hochschule f�r Kirchenmusik der evang. Kirche von Westfalen, Herford",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "hochschule-fr-kirchenmusik-der-evang-kirche-von-westfalen-herford"
+		},
+		{
+			"name": "Theol. Fakult�t Paderborn (rk)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "theol-fakultt-paderborn-rk"
+		},
+		{
+			"name": "Philosophisch-Theologische Hochschule SVD St. Augustin",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "philosophisch-theologische-hochschule-svd-st-augustin"
+		},
+		{
+			"name": "Phil.-Theol. Hochschule M�nster (rk)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "phil-theol-hochschule-mnster-rk"
+		},
+		{
+			"name": "Kirchliche Hochschule Wuppertal / Bethel (ev)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "kirchliche-hochschule-wuppertal-bethel-ev"
+		},
+		{
+			"name": "Alanus Hochschule Alfter (Priv. H)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "alanus-hochschule-alfter-priv-h"
+		},
+		{
+			"name": "Hochschule f�r Musik Detmold",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "hochschule-fr-musik-detmold"
+		},
+		{
+			"name": "Folkwang-Hochschule Essen",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "folkwang-hochschule-essen"
+		},
+		{
+			"name": "Hochschule f�r Musik und Tanz K�ln",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "hochschule-fr-musik-und-tanz-kln"
+		},
+		{
+			"name": "Kunstakademie D�sseldorf",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "kunstakademie-dsseldorf"
+		},
+		{
+			"name": "Robert-Schumann-Hochschule D�sseldorf",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "robert-schumann-hochschule-dsseldorf"
+		},
+		{
+			"name": "Kunsthochschule f�r Medien K�ln",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "kunsthochschule-fr-medien-kln"
+		},
+		{
+			"name": "Kunstakademie M�nster",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "kunstakademie-mnster"
+		},
+		{
+			"name": "EBZ Business School",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "ebz-business-school"
+		},
+		{
+			"name": "Hochschule der Sparkassen-Finanzgruppe Bonn (Priv. FH)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "hochschule-der-sparkassen-finanzgruppe-bonn-priv-fh"
+		},
+		{
+			"name": "Hochschule Neuss f�r Internationale Wirtschaft (Priv. FH)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "hochschule-neuss-fr-internationale-wirtschaft-priv-fh"
+		},
+		{
+			"name": "Mathias Hochschule Rheine",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "mathias-hochschule-rheine"
+		},
+		{
+			"name": "EBC D�sseldorf HS f�r Int. Management (Priv. FH)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "ebc-dsseldorf-hs-fr-int-management-priv-fh"
+		},
+		{
+			"name": "Cologne Business School",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "cologne-business-school"
+		},
+		{
+			"name": "Priv. FH International School of Management, Dortmund",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "priv-fh-international-school-of-management-dortmund"
+		},
+		{
+			"name": "Intern. FH (IFH) Bad Honnef-Bonn (Priv. FH)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "intern-fh-ifh-bad-honnef-bonn-priv-fh"
+		},
+		{
+			"name": "Business and Information Technology School Iserlohn (Priv. FH)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "business-and-information-technology-school-iserlohn-priv-fh"
+		},
+		{
+			"name": "FH des Mittelstandes Bielefeld (Priv. FH)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-des-mittelstandes-bielefeld-priv-fh"
+		},
+		{
+			"name": "Fachhochschule der Wirtschaft Paderborn",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fachhochschule-der-wirtschaft-paderborn"
+		},
+		{
+			"name": "Technische FH (TFH) Georg Agricola zu Bochum (Priv. FH)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "technische-fh-tfh-georg-agricola-zu-bochum-priv-fh"
+		},
+		{
+			"name": "Priv. Rheinische FH K�ln",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "priv-rheinische-fh-kln"
+		},
+		{
+			"name": "Europ�ische FH (EUFH) Rhein/Erft, Br�hl (Priv. FH)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "europische-fh-eufh-rheinerft-brhl-priv-fh"
+		},
+		{
+			"name": "Priv. FH f�r �konomie und Management Essen",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "priv-fh-fr-konomie-und-management-essen"
+		},
+		{
+			"name": "FH Westliches Ruhrgebiet",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-westliches-ruhrgebiet"
+		},
+		{
+			"name": "Hochschule Rhein-Waal",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "hochschule-rhein-waal"
+		},
+		{
+			"name": "Hochschule Hamm-Lippstadt",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "hochschule-hamm-lippstadt"
+		},
+		{
+			"name": "FH S�dwestfalen",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-sdwestfalen"
+		},
+		{
+			"name": "Westf�lische Hochschule Gelsenkirchen Bocholt Recklinghausen",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "westflische-hochschule-gelsenkirchen-bocholt-recklinghausen"
+		},
+		{
+			"name": "FH Aachen",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-aachen"
+		},
+		{
+			"name": "FH Bielefeld",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-bielefeld"
+		},
+		{
+			"name": "Hochschule Bochum",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "hochschule-bochum"
+		},
+		{
+			"name": "FH Dortmund",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-dortmund"
+		},
+		{
+			"name": "FH D�sseldorf",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-dsseldorf"
+		},
+		{
+			"name": "FH K�ln",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-kln"
+		},
+		{
+			"name": "Hochschule Niederrhein",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "hochschule-niederrhein"
+		},
+		{
+			"name": "Hochschule Ostwestfalen-Lippe",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "hochschule-ostwestfalen-lippe"
+		},
+		{
+			"name": "FH M�nster",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-mnster"
+		},
+		{
+			"name": "FH Bonn-Rhein-Sieg",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-bonn-rhein-sieg"
+		},
+		{
+			"name": "FH der Diakonie Bielefeld-Bethel",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-der-diakonie-bielefeld-bethel"
+		},
+		{
+			"name": "Evang. FH Rheinland-Westfalen-Lippe, Bochum",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "evang-fh-rheinland-westfalen-lippe-bochum"
+		},
+		{
+			"name": "Kath. Hochschule Nordrhein-Westfalen",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "kath-hochschule-nordrhein-westfalen"
+		},
+		{
+			"name": "FH f�r �ffentliche Verwaltung NW",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-fr-ffentliche-verwaltung-nw"
+		},
+		{
+			"name": "FH f�r Rechtspflege NW, Bad M�nstereifel",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-fr-rechtspflege-nw-bad-mnstereifel"
+		},
+		{
+			"name": "FH f�r Finanzen NW, Nordkirchen",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-fr-finanzen-nw-nordkirchen"
+		},
+		{
+			"name": "FH Bund, FB Allgemeine innere Verwaltung, Br�hl",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-bund-fb-allgemeine-innere-verwaltung-brhl"
+		},
+		{
+			"name": "FH Bund, FB Finanzen, M�nster",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fh-bund-fb-finanzen-mnster"
+		},
+		{
+			"name": "Hochschule f�r Gesundheit",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "hochschule-fr-gesundheit"
+		},
+		{
 			"name": "WHU - Otto Beisheim School of Management",
 			"bundesland": "Rheinland-Pfalz",
 			"slug": "whu-otto-beisheim-school-of-management"
 		},
 		{
-			"name": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
+			"name": "Universit�tsmedizin der Johannes Gutenberg-Universit�t Mainz",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "universitaetsmedizin-der-johannes-gutenberg-universitaet-mainz"
+			"slug": "universittsmedizin-der-johannes-gutenberg-universitt-mainz"
 		},
 		{
-			"name": "Universität Trier",
+			"name": "Universit�t Trier",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "universitaet-trier"
+			"slug": "universitt-trier"
 		},
 		{
 			"name": "TU Kaiserslautern",
@@ -906,24 +1856,24 @@ var searchdb = {
 			"slug": "tu-kaiserslautern"
 		},
 		{
-			"name": "Universität Mainz",
+			"name": "Universit�t Mainz",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "universitaet-mainz"
+			"slug": "universitt-mainz"
 		},
 		{
-			"name": "Hochschule für Verwaltungswissenschaften Speyer",
+			"name": "Hochschule f�r Verwaltungswissenschaften Speyer",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "hochschule-fuer-verwaltungswissenschaften-speyer"
+			"slug": "hochschule-fr-verwaltungswissenschaften-speyer"
 		},
 		{
-			"name": "Universität Koblenz-Landau",
+			"name": "Universit�t Koblenz-Landau",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "universitaet-koblenz-landau"
+			"slug": "universitt-koblenz-landau"
 		},
 		{
-			"name": "Theol. Fakultät Trier",
+			"name": "Theol. Fakult�t Trier",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "theol-fakultaet-trier"
+			"slug": "theol-fakultt-trier"
 		},
 		{
 			"name": "Theol. H Vallendar",
@@ -971,14 +1921,14 @@ var searchdb = {
 			"slug": "kath-fh-mainz"
 		},
 		{
-			"name": "FH für öffentliche Verwaltung, FB Innere Verwaltung in Mayen",
+			"name": "FH f�r �ffentliche Verwaltung, FB Innere Verwaltung in Mayen",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "fh-fuer-oeffentliche-verwaltung-fb-innere-verwaltung-in-mayen"
+			"slug": "fh-fr-ffentliche-verwaltung-fb-innere-verwaltung-in-mayen"
 		},
 		{
-			"name": "FH für Finanzen Edenkoben",
+			"name": "FH f�r Finanzen Edenkoben",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "fh-fuer-finanzen-edenkoben"
+			"slug": "fh-fr-finanzen-edenkoben"
 		},
 		{
 			"name": "Hochschule der Deutschen Bundesbank",
@@ -986,1004 +1936,34 @@ var searchdb = {
 			"slug": "hochschule-der-deutschen-bundesbank"
 		},
 		{
-			"name": "Priv. wiss. Hochschule Bierbronnen",
-			"bundesland": "Baden-Württemberg",
-			"slug": "priv-wiss-hochschule-bierbronnen"
-		},
-		{
-			"name": "AKAD, Wissenschaftliche Hochschule Lahr (Priv. Fern-H für Berufstätige)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "akad-wissenschaftliche-hochschule-lahr-priv-fern-h-fuer-berufstaetige"
-		},
-		{
-			"name": "Zeppelin Universität (ZU)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "zeppelin-universitaet-zu"
-		},
-		{
-			"name": "Priv. wiss. Hochschule Stuttgart, Seminar für Waldorfpädagogik",
-			"bundesland": "Baden-Württemberg",
-			"slug": "priv-wiss-hochschule-stuttgart-seminar-fuer-waldorfpaedagogik"
-		},
-		{
-			"name": "Universität Freiburg i.Br. (Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-freiburg-ibr-klinikum"
-		},
-		{
-			"name": "Universität Heidelberg - Medizinische Fakultät Mannheim",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-heidelberg-medizinische-fakultaet-mannheim"
-		},
-		{
-			"name": "Universität Heidelberg (Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-heidelberg-klinikum"
-		},
-		{
-			"name": "Universität Tübingen (Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-tuebingen-klinikum"
-		},
-		{
-			"name": "Universität Ulm (Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-ulm-klinikum"
-		},
-		{
-			"name": "Universität Freiburg i.Br. (ohne Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-freiburg-ibr-ohne-klinikum"
-		},
-		{
-			"name": "Universität Heidelberg (ohne Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-heidelberg-ohne-klinikum"
-		},
-		{
-			"name": "Universität Konstanz",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-konstanz"
-		},
-		{
-			"name": "Universität Tübingen (ohne Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-tuebingen-ohne-klinikum"
-		},
-		{
-			"name": "Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
-			"bundesland": "Baden-Württemberg",
-			"slug": "karlsruher-institut-fuer-technologie-kit-bereich-hochschule"
-		},
-		{
-			"name": "Universität Stuttgart",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-stuttgart"
-		},
-		{
-			"name": "Universität Hohenheim",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-hohenheim"
-		},
-		{
-			"name": "Universität Mannheim",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-mannheim"
-		},
-		{
-			"name": "Universität Ulm (ohne Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-ulm-ohne-klinikum"
-		},
-		{
-			"name": "Hochschule für jüdische Studien Heidelberg",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-fuer-juedische-studien-heidelberg"
-		},
-		{
-			"name": "PH Freiburg i.Br.",
-			"bundesland": "Baden-Württemberg",
-			"slug": "ph-freiburg-ibr"
-		},
-		{
-			"name": "PH Heidelberg",
-			"bundesland": "Baden-Württemberg",
-			"slug": "ph-heidelberg"
-		},
-		{
-			"name": "PH Karlsruhe",
-			"bundesland": "Baden-Württemberg",
-			"slug": "ph-karlsruhe"
-		},
-		{
-			"name": "PH Schwäbisch Gmünd",
-			"bundesland": "Baden-Württemberg",
-			"slug": "ph-schwaebisch-gmuend"
-		},
-		{
-			"name": "PH Ludwigsburg",
-			"bundesland": "Baden-Württemberg",
-			"slug": "ph-ludwigsburg"
-		},
-		{
-			"name": "PH Weingarten",
-			"bundesland": "Baden-Württemberg",
-			"slug": "ph-weingarten"
-		},
-		{
-			"name": "Staatl. Hochschule für Musik Freiburg i.Br.",
-			"bundesland": "Baden-Württemberg",
-			"slug": "staatl-hochschule-fuer-musik-freiburg-ibr"
-		},
-		{
-			"name": "Staatl. Hochschule für Musik und Darstellende Kunst Mannheim",
-			"bundesland": "Baden-Württemberg",
-			"slug": "staatl-hochschule-fuer-musik-und-darstellende-kunst-mannheim"
-		},
-		{
-			"name": "Staatl. Hochschule für Musik Karlsruhe",
-			"bundesland": "Baden-Württemberg",
-			"slug": "staatl-hochschule-fuer-musik-karlsruhe"
-		},
-		{
-			"name": "Staatl. Hochschule für Musik und Darstellende Kunst Stuttgart",
-			"bundesland": "Baden-Württemberg",
-			"slug": "staatl-hochschule-fuer-musik-und-darstellende-kunst-stuttgart"
-		},
-		{
-			"name": "Staatl. Hochschule für Musik Trossingen",
-			"bundesland": "Baden-Württemberg",
-			"slug": "staatl-hochschule-fuer-musik-trossingen"
-		},
-		{
-			"name": "Staatl. Hochschule für Gestaltung Karlsruhe",
-			"bundesland": "Baden-Württemberg",
-			"slug": "staatl-hochschule-fuer-gestaltung-karlsruhe"
-		},
-		{
-			"name": "Staatl. Akademie der Bildenden Künste Karlsruhe",
-			"bundesland": "Baden-Württemberg",
-			"slug": "staatl-akademie-der-bildenden-kuenste-karlsruhe"
-		},
-		{
-			"name": "Staatl. Akademie der Bildenden Künste Stuttgart",
-			"bundesland": "Baden-Württemberg",
-			"slug": "staatl-akademie-der-bildenden-kuenste-stuttgart"
-		},
-		{
-			"name": "German Graduate School of Management and Law",
-			"bundesland": "Baden-Württemberg",
-			"slug": "german-graduate-school-of-management-and-law"
-		},
-		{
-			"name": "Hochschule der Bundesagentur für Arbeit",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-der-bundesagentur-fuer-arbeit"
-		},
-		{
-			"name": "Internationale Hochschule Calw (Priv. FH)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "internationale-hochschule-calw-priv-fh"
-		},
-		{
-			"name": "Naturwissenschaftlich-Technische Akademie Isny (nta)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "naturwissenschaftlich-technische-akademie-isny-nta"
-		},
-		{
-			"name": "Priv. FH für Gestaltung Stuttgart (Merz-Akademie)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "priv-fh-fuer-gestaltung-stuttgart-merz-akademie"
-		},
-		{
-			"name": "Priv. FH für Kunsttherapie Nürtingen",
-			"bundesland": "Baden-Württemberg",
-			"slug": "priv-fh-fuer-kunsttherapie-nuertingen"
-		},
-		{
-			"name": "AKAD, FH Stuttgart (Priv. Fern-FH für Berufstätige)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "akad-fh-stuttgart-priv-fern-fh-fuer-berufstaetige"
-		},
-		{
-			"name": "SRH Hochschule Heidelberg",
-			"bundesland": "Baden-Württemberg",
-			"slug": "srh-hochschule-heidelberg"
-		},
-		{
-			"name": "Fernhochschule Riedlingen (Priv. FH)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "fernhochschule-riedlingen-priv-fh"
-		},
-		{
-			"name": "Hochschule für Gestaltung Schwäbisch Hall",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-fuer-gestaltung-schwaebisch-hall"
-		},
-		{
-			"name": "Priv. FH Calw - H für Wirtschaft und Medien",
-			"bundesland": "Baden-Württemberg",
-			"slug": "priv-fh-calw-h-fuer-wirtschaft-und-medien"
-		},
-		{
-			"name": "Karlshochschule International University, Karlsruhe (Priv. FH)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "karlshochschule-international-university-karlsruhe-priv-fh"
-		},
-		{
-			"name": "FH Aalen",
-			"bundesland": "Baden-Württemberg",
-			"slug": "fh-aalen"
-		},
-		{
-			"name": "Hochschule Biberach",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-biberach"
-		},
-		{
-			"name": "Hochschule Esslingen (FH)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-esslingen-fh"
-		},
-		{
-			"name": "Hochschule Furtwangen",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-furtwangen"
-		},
-		{
-			"name": "Hochschule Heilbronn",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-heilbronn"
-		},
-		{
-			"name": "Hochschule Karlsruhe (FH)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-karlsruhe-fh"
-		},
-		{
-			"name": "Hochschule Konstanz (HTWG)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-konstanz-htwg"
-		},
-		{
-			"name": "Hochschule Mannheim (FH)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-mannheim-fh"
-		},
-		{
-			"name": "Hochschule für Wirtschaft und Umwelt Nürtingen",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-fuer-wirtschaft-und-umwelt-nuertingen"
-		},
-		{
-			"name": "Hochschule Offenburg",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-offenburg"
-		},
-		{
-			"name": "Hochschule Pforzheim",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-pforzheim"
-		},
-		{
-			"name": "FH Ravensburg-Weingarten",
-			"bundesland": "Baden-Württemberg",
-			"slug": "fh-ravensburg-weingarten"
-		},
-		{
-			"name": "Hochschule Reutlingen",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-reutlingen"
-		},
-		{
-			"name": "Hochschule Albstadt-Sigmaringen (FH)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-albstadt-sigmaringen-fh"
-		},
-		{
-			"name": "Hochschule für Technik Stuttgart",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-fuer-technik-stuttgart"
-		},
-		{
-			"name": "FH Stuttgart, H der Medien",
-			"bundesland": "Baden-Württemberg",
-			"slug": "fh-stuttgart-h-der-medien"
-		},
-		{
-			"name": "Hochschule Ulm",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-ulm"
-		},
-		{
-			"name": "Hochschule für Gestaltung Schwäbisch Gmünd",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-fuer-gestaltung-schwaebisch-gmuend"
-		},
-		{
-			"name": "Hochschule für Forstwirtschaft Rottenburg (FH)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-fuer-forstwirtschaft-rottenburg-fh"
-		},
-		{
-			"name": "Duale Hochschule Baden Württemberg",
-			"bundesland": "Baden-Württemberg",
-			"slug": "duale-hochschule-baden-wuerttemberg"
-		},
-		{
-			"name": "Evang. Hochschule Freiburg (FH)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "evang-hochschule-freiburg-fh"
-		},
-		{
-			"name": "Katholische Hochschule Freiburg i.Br.",
-			"bundesland": "Baden-Württemberg",
-			"slug": "katholische-hochschule-freiburg-ibr"
-		},
-		{
-			"name": "Evangelische Hochschule Ludwigsburg (FH)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "evangelische-hochschule-ludwigsburg-fh"
-		},
-		{
-			"name": "Theologische Hochschule Reutlingen",
-			"bundesland": "Baden-Württemberg",
-			"slug": "theologische-hochschule-reutlingen"
-		},
-		{
-			"name": "FH für öffentliche Verwaltung Kehl",
-			"bundesland": "Baden-Württemberg",
-			"slug": "fh-fuer-oeffentliche-verwaltung-kehl"
-		},
-		{
-			"name": "Hochschule für öffentliche Verwaltung und Finanzen Ludwigsburg",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-fuer-oeffentliche-verwaltung-und-finanzen-ludwigsburg"
-		},
-		{
-			"name": "FH für Rechtspflege Schwetzingen",
-			"bundesland": "Baden-Württemberg",
-			"slug": "fh-fuer-rechtspflege-schwetzingen"
-		},
-		{
-			"name": "Staatl. FH für Polizei Villingen-Schwenningen",
-			"bundesland": "Baden-Württemberg",
-			"slug": "staatl-fh-fuer-polizei-villingen-schwenningen"
-		},
-		{
-			"name": "FH Bund, FB Bundeswehrverwaltung, Mannheim",
-			"bundesland": "Baden-Württemberg",
-			"slug": "fh-bund-fb-bundeswehrverwaltung-mannheim"
-		},
-		{
-			"name": "Universität Erlangen-Nürnberg (Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-erlangen-nuernberg-klinikum"
-		},
-		{
-			"name": "Universität München (Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-muenchen-klinikum"
-		},
-		{
-			"name": "Universität Würzburg (Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-wuerzburg-klinikum"
-		},
-		{
-			"name": "Universität Regensburg (Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-regensburg-klinikum"
-		},
-		{
-			"name": "TU München (Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "tu-muenchen-klinikum"
-		},
-		{
-			"name": "Universität Bamberg",
-			"bundesland": "Bayern",
-			"slug": "universitaet-bamberg"
-		},
-		{
-			"name": "Universität Bayreuth",
-			"bundesland": "Bayern",
-			"slug": "universitaet-bayreuth"
-		},
-		{
-			"name": "Universität Passau",
-			"bundesland": "Bayern",
-			"slug": "universitaet-passau"
-		},
-		{
-			"name": "Universität Erlangen-Nürnberg",
-			"bundesland": "Bayern",
-			"slug": "universitaet-erlangen-nuernberg"
-		},
-		{
-			"name": "Universität München (ohne Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-muenchen-ohne-klinikum"
-		},
-		{
-			"name": "Universität Würzburg (ohne Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-wuerzburg-ohne-klinikum"
-		},
-		{
-			"name": "Universität Regensburg (ohne Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-regensburg-ohne-klinikum"
-		},
-		{
-			"name": "Universität Augsburg",
-			"bundesland": "Bayern",
-			"slug": "universitaet-augsburg"
-		},
-		{
-			"name": "TU München (ohne Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "tu-muenchen-ohne-klinikum"
-		},
-		{
-			"name": "Hochschule für Politik München",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-politik-muenchen"
-		},
-		{
-			"name": "Universität der Bundeswehr München (FB Universitätsstudiengänge)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-der-bundeswehr-muenchen-fb-universitaetsstudiengaenge"
-		},
-		{
-			"name": "Kath. Universität Eichstätt-Ingolstadt",
-			"bundesland": "Bayern",
-			"slug": "kath-universitaet-eichstaett-ingolstadt"
-		},
-		{
-			"name": "Augustana-H Neuendettelsau (ev)",
-			"bundesland": "Bayern",
-			"slug": "augustana-h-neuendettelsau-ev"
-		},
-		{
-			"name": "Hochschule für Philosophie München (rk)",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-philosophie-muenchen-rk"
-		},
-		{
-			"name": "Phil.-Theol. H Benediktbeuern (rk)",
-			"bundesland": "Bayern",
-			"slug": "phil-theol-h-benediktbeuern-rk"
-		},
-		{
-			"name": "Hochschule für Musik Würzburg",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-musik-wuerzburg"
-		},
-		{
-			"name": "Hochschule für Musik und Theater München",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-musik-und-theater-muenchen"
-		},
-		{
-			"name": "Hochschule für Fernsehen und Film München",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-fernsehen-und-film-muenchen"
-		},
-		{
-			"name": "Akademie der Bildenden Künste München",
-			"bundesland": "Bayern",
-			"slug": "akademie-der-bildenden-kuenste-muenchen"
-		},
-		{
-			"name": "Akademie der Bildenden Künste Nürnberg",
-			"bundesland": "Bayern",
-			"slug": "akademie-der-bildenden-kuenste-nuernberg"
-		},
-		{
-			"name": "Hochschule für Musik Nürnberg",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-musik-nuernberg"
-		},
-		{
-			"name": "Hochschule für evangelische Kirchenmusik Bayreuth",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-evangelische-kirchenmusik-bayreuth"
-		},
-		{
-			"name": "Hochschule für Kath. Kirchenmusik und Musikpädagogik, Regensburg",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-kath-kirchenmusik-und-musikpaedagogik-regensburg"
-		},
-		{
-			"name": "Macromedia FH der Medien, München (Priv. FH)",
-			"bundesland": "Bayern",
-			"slug": "macromedia-fh-der-medien-muenchen-priv-fh"
-		},
-		{
-			"name": "Hochschule für Angewandte Sprachen - Fachhochschule des SDI München",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-angewandte-sprachen-fachhochschule-des-sdi-muenchen"
-		},
-		{
-			"name": "Hochschule für angewandte Wissenschaften Bamberg - Private Hochschule für Gesundheit (Priv. FH)",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-angewandte-wissenschaften-bamberg-private-hochschule-fuer-gesundheit-priv-fh"
-		},
-		{
-			"name": "Hochschule Fresenius Idstein in München (Priv. FH)",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fresenius-idstein-in-muenchen-priv-fh"
-		},
-		{
-			"name": "Hochschule für angewandtes Management",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-angewandtes-management"
-		},
-		{
-			"name": "Munich Business School München (Priv. FH)",
-			"bundesland": "Bayern",
-			"slug": "munich-business-school-muenchen-priv-fh"
-		},
-		{
-			"name": "Hochschule Augsburg",
-			"bundesland": "Bayern",
-			"slug": "hochschule-augsburg"
-		},
-		{
-			"name": "Hochschule Coburg",
-			"bundesland": "Bayern",
-			"slug": "hochschule-coburg"
-		},
-		{
-			"name": "Hochschule München",
-			"bundesland": "Bayern",
-			"slug": "hochschule-muenchen"
-		},
-		{
-			"name": "Technische Hochschule Nürnberg Georg Simon Ohm",
-			"bundesland": "Bayern",
-			"slug": "technische-hochschule-nuernberg-georg-simon-ohm"
-		},
-		{
-			"name": "FH Regensburg",
-			"bundesland": "Bayern",
-			"slug": "fh-regensburg"
-		},
-		{
-			"name": "FH Rosenheim",
-			"bundesland": "Bayern",
-			"slug": "fh-rosenheim"
-		},
-		{
-			"name": "Hochschule Weihenstephan-Triesdorf",
-			"bundesland": "Bayern",
-			"slug": "hochschule-weihenstephan-triesdorf"
-		},
-		{
-			"name": "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-angewandte-wissenschaften-wuerzburg-schweinfurt-fhws"
-		},
-		{
-			"name": "Hochschule Kempten",
-			"bundesland": "Bayern",
-			"slug": "hochschule-kempten"
-		},
-		{
-			"name": "Hochschule Landshut",
-			"bundesland": "Bayern",
-			"slug": "hochschule-landshut"
-		},
-		{
-			"name": "Technische Hochschule Deggendorf",
-			"bundesland": "Bayern",
-			"slug": "technische-hochschule-deggendorf"
-		},
-		{
-			"name": "Hochschule für Angewandte Wissenschaften Hof",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-angewandte-wissenschaften-hof"
-		},
-		{
-			"name": "Hochschule für angewandte Wissenschaft Ingolstadt",
-			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-angewandte-wissenschaft-ingolstadt"
-		},
-		{
-			"name": "Hochschule Amberg-Weiden",
-			"bundesland": "Bayern",
-			"slug": "hochschule-amberg-weiden"
-		},
-		{
-			"name": "FH Ansbach",
-			"bundesland": "Bayern",
-			"slug": "fh-ansbach"
-		},
-		{
-			"name": "Hochschule Neu-Ulm",
-			"bundesland": "Bayern",
-			"slug": "hochschule-neu-ulm"
-		},
-		{
-			"name": "Hochschule Aschaffenburg",
-			"bundesland": "Bayern",
-			"slug": "hochschule-aschaffenburg"
-		},
-		{
-			"name": "Evang. Hochschule Nürnberg (FH)",
-			"bundesland": "Bayern",
-			"slug": "evang-hochschule-nuernberg-fh"
-		},
-		{
-			"name": "Kath. Stiftungs FH München in München",
-			"bundesland": "Bayern",
-			"slug": "kath-stiftungs-fh-muenchen-in-muenchen"
-		},
-		{
-			"name": "FH für öffentl. Verwaltung und Rechtspflege Bayern",
-			"bundesland": "Bayern",
-			"slug": "fh-fuer-oeffentl-verwaltung-und-rechtspflege-bayern"
-		},
-		{
-			"name": "Universität der Bundeswehr München (FB Fachhochschulstudiengänge)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-der-bundeswehr-muenchen-fb-fachhochschulstudiengaenge"
-		},
-		{
-			"name": "Universität des Saarlandes Saarbrücken, Homburg/Saar",
-			"bundesland": "Bayern",
-			"slug": "universitaet-des-saarlandes-saarbruecken-homburgsaar"
-		},
-		{
-			"name": "Universität des Saarlandes Saarbrücken in Saarbrücken",
+			"name": "Universit�t des Saarlandes Saarbr�cken in Saarbr�cken",
 			"bundesland": "Saarland",
-			"slug": "universitaet-des-saarlandes-saarbruecken-in-saarbruecken"
+			"slug": "universitt-des-saarlandes-saarbrcken-in-saarbrcken"
 		},
 		{
-			"name": "Hochschule für Musik, Saarbrücken",
+			"name": "Hochschule f�r Musik, Saarbr�cken",
 			"bundesland": "Saarland",
-			"slug": "hochschule-fuer-musik-saarbruecken"
+			"slug": "hochschule-fr-musik-saarbrcken"
 		},
 		{
-			"name": "Hochschule der Bildenden Künste Saarbrücken",
+			"name": "Hochschule der Bildenden K�nste Saarbr�cken",
 			"bundesland": "Saarland",
-			"slug": "hochschule-der-bildenden-kuenste-saarbruecken"
+			"slug": "hochschule-der-bildenden-knste-saarbrcken"
 		},
 		{
-			"name": "Deutsche Hochschule für Prävention und Gesundheitsmanagement",
+			"name": "Deutsche Hochschule f�r Pr�vention und Gesundheitsmanagement",
 			"bundesland": "Saarland",
-			"slug": "deutsche-hochschule-fuer-praevention-und-gesundheitsmanagement"
+			"slug": "deutsche-hochschule-fr-prvention-und-gesundheitsmanagement"
 		},
 		{
-			"name": "Hochschule für Technik und Wirtschaft des Saarlandes Saarbrücken",
+			"name": "Hochschule f�r Technik und Wirtschaft des Saarlandes Saarbr�cken",
 			"bundesland": "Saarland",
-			"slug": "hochschule-fuer-technik-und-wirtschaft-des-saarlandes-saarbruecken"
+			"slug": "hochschule-fr-technik-und-wirtschaft-des-saarlandes-saarbrcken"
 		},
 		{
-			"name": "FH für Verwaltung Saarbrücken",
+			"name": "FH f�r Verwaltung Saarbr�cken",
 			"bundesland": "Saarland",
-			"slug": "fh-fuer-verwaltung-saarbruecken"
-		},
-		{
-			"name": "Europ. School of Management and Technology, Berlin (Priv. H)",
-			"bundesland": "Berlin",
-			"slug": "europ-school-of-management-and-technology-berlin-priv-h"
-		},
-		{
-			"name": "Hertie School of Governance Berlin (Priv. wiss. H)",
-			"bundesland": "Berlin",
-			"slug": "hertie-school-of-governance-berlin-priv-wiss-h"
-		},
-		{
-			"name": "Deutsche Universität für Weiterbildung Berlin (Priv. wiss. H)",
-			"bundesland": "Berlin",
-			"slug": "deutsche-universitaet-fuer-weiterbildung-berlin-priv-wiss-h"
-		},
-		{
-			"name": "International Psychoanalytic University Berlin (Priv.)",
-			"bundesland": "Berlin",
-			"slug": "international-psychoanalytic-university-berlin-priv"
-		},
-		{
-			"name": "ESCP Europe Wirtschaftshochschule, Berlin (Priv. H)",
-			"bundesland": "Berlin",
-			"slug": "escp-europe-wirtschaftshochschule-berlin-priv-h"
-		},
-		{
-			"name": "Psychologische Hochschule Berlin (Priv. H)",
-			"bundesland": "Berlin",
-			"slug": "psychologische-hochschule-berlin-priv-h"
-		},
-		{
-			"name": "Steinbeis-Hochschule Berlin (Priv. H)",
-			"bundesland": "Berlin",
-			"slug": "steinbeis-hochschule-berlin-priv-h"
-		},
-		{
-			"name": "Charite - Universitätsmedizin Berlin",
-			"bundesland": "Berlin",
-			"slug": "charite-universitaetsmedizin-berlin"
-		},
-		{
-			"name": "Humboldt-Universität zu Berlin",
-			"bundesland": "Berlin",
-			"slug": "humboldt-universitaet-zu-berlin"
-		},
-		{
-			"name": "FU Berlin",
-			"bundesland": "Berlin",
-			"slug": "fu-berlin"
-		},
-		{
-			"name": "TU Berlin",
-			"bundesland": "Berlin",
-			"slug": "tu-berlin"
-		},
-		{
-			"name": "Weißensee Kunsthochschule Berlin",
-			"bundesland": "Berlin",
-			"slug": "weissensee-kunsthochschule-berlin"
-		},
-		{
-			"name": "Hochschule für Musik Berlin Hanns Eisler",
-			"bundesland": "Berlin",
-			"slug": "hochschule-fuer-musik-berlin-hanns-eisler"
-		},
-		{
-			"name": "Hochschule für Schauspielkunst Berlin Ernst Busch",
-			"bundesland": "Berlin",
-			"slug": "hochschule-fuer-schauspielkunst-berlin-ernst-busch"
-		},
-		{
-			"name": "Universität der Künste Berlin",
-			"bundesland": "Berlin",
-			"slug": "universitaet-der-kuenste-berlin"
-		},
-		{
-			"name": "Berliner Technische Kunsthochschule",
-			"bundesland": "Berlin",
-			"slug": "berliner-technische-kunsthochschule"
-		},
-		{
-			"name": "EBC Hochschule Berlin (Priv. FH)",
-			"bundesland": "Berlin",
-			"slug": "ebc-hochschule-berlin-priv-fh"
-		},
-		{
-			"name": "Touro College Berlin",
-			"bundesland": "Berlin",
-			"slug": "touro-college-berlin"
-		},
-		{
-			"name": "bbw Hochschule",
-			"bundesland": "Berlin",
-			"slug": "bbw-hochschule"
-		},
-		{
-			"name": "IB-Hochschule Berlin",
-			"bundesland": "Berlin",
-			"slug": "ib-hochschule-berlin"
-		},
-		{
-			"name": "Akkon Hochschule Berlin (Priv. FH)",
-			"bundesland": "Berlin",
-			"slug": "akkon-hochschule-berlin-priv-fh"
-		},
-		{
-			"name": "Hochschule für Sport und Gesundheit",
-			"bundesland": "Berlin",
-			"slug": "hochschule-fuer-sport-und-gesundheit"
-		},
-		{
-			"name": "Design Akademie Berlin",
-			"bundesland": "Berlin",
-			"slug": "design-akademie-berlin"
-		},
-		{
-			"name": "BEST-Sabel-Hochschule Berlin",
-			"bundesland": "Berlin",
-			"slug": "best-sabel-hochschule-berlin"
-		},
-		{
-			"name": "HS für Medien, Kommunikation und Wirtschaft Berlin (Priv. FH)",
-			"bundesland": "Berlin",
-			"slug": "hs-fuer-medien-kommunikation-und-wirtschaft-berlin-priv-fh"
-		},
-		{
-			"name": "Quadriga Hochschule Berlin (Priv. FH)",
-			"bundesland": "Berlin",
-			"slug": "quadriga-hochschule-berlin-priv-fh"
-		},
-		{
-			"name": "DEKRA Hochschule Berlin (Priv. FH)",
-			"bundesland": "Berlin",
-			"slug": "dekra-hochschule-berlin-priv-fh"
-		},
-		{
-			"name": "hdpk Hochschule der populären Künste",
-			"bundesland": "Berlin",
-			"slug": "hdpk-hochschule-der-populaeren-kuenste"
-		},
-		{
-			"name": "Mediadesign Hochschule für Design und Informatik",
-			"bundesland": "Berlin",
-			"slug": "mediadesign-hochschule-fuer-design-und-informatik"
-		},
-		{
-			"name": "SRH Hochschule Berlin (Priv. FH)",
-			"bundesland": "Berlin",
-			"slug": "srh-hochschule-berlin-priv-fh"
-		},
-		{
-			"name": "Hochschule für Technik und Wirtschaft Berlin",
-			"bundesland": "Berlin",
-			"slug": "hochschule-fuer-technik-und-wirtschaft-berlin"
-		},
-		{
-			"name": "Beuth-Hochschule für Technik Berlin",
-			"bundesland": "Berlin",
-			"slug": "beuth-hochschule-fuer-technik-berlin"
-		},
-		{
-			"name": "Hochschule für Wirtschaft und Recht Berlin",
-			"bundesland": "Berlin",
-			"slug": "hochschule-fuer-wirtschaft-und-recht-berlin"
-		},
-		{
-			"name": "ASH für Sozialarbeit und Sozialpädagogik Berlin",
-			"bundesland": "Berlin",
-			"slug": "ash-fuer-sozialarbeit-und-sozialpaedagogik-berlin"
-		},
-		{
-			"name": "Katholische Hochschule für Sozialwesen Berlin (FH)",
-			"bundesland": "Berlin",
-			"slug": "katholische-hochschule-fuer-sozialwesen-berlin-fh"
-		},
-		{
-			"name": "Evangelische Hochschule Berlin (FH)",
-			"bundesland": "Berlin",
-			"slug": "evangelische-hochschule-berlin-fh"
-		},
-		{
-			"name": "FH Bund, FB Sozialversicherung in Berlin",
-			"bundesland": "Berlin",
-			"slug": "fh-bund-fb-sozialversicherung-in-berlin"
-		},
-		{
-			"name": "FH Bund, FB Akademie Auswärtige Angelegenheiten in Berlin",
-			"bundesland": "Berlin",
-			"slug": "fh-bund-fb-akademie-auswaertige-angelegenheiten-in-berlin"
-		},
-		{
-			"name": "Europa-Universität Viadrina Frankfurt (Oder)",
-			"bundesland": "Brandenburg",
-			"slug": "europa-universitaet-viadrina-frankfurt-oder"
-		},
-		{
-			"name": "Brandenburgische TU Cottbus",
-			"bundesland": "Brandenburg",
-			"slug": "brandenburgische-tu-cottbus"
-		},
-		{
-			"name": "Universität Potsdam",
-			"bundesland": "Brandenburg",
-			"slug": "universitaet-potsdam"
-		},
-		{
-			"name": "Hochschule für Film und Fernsehen in Potsdam-Babelsberg",
-			"bundesland": "Brandenburg",
-			"slug": "hochschule-fuer-film-und-fernsehen-in-potsdam-babelsberg"
-		},
-		{
-			"name": "Fachhochschule für Sport und Management Potsdam",
-			"bundesland": "Brandenburg",
-			"slug": "fachhochschule-fuer-sport-und-management-potsdam"
-		},
-		{
-			"name": "Business School Berlin Potsdam (BSP)",
-			"bundesland": "Berlin",
-			"slug": "business-school-berlin-potsdam-bsp"
-		},
-		{
-			"name": "FH Brandenburg",
-			"bundesland": "Brandenburg",
-			"slug": "fh-brandenburg"
-		},
-		{
-			"name": "Hochschule für nachhaltige Entwicklung Eberswalde (FH)",
-			"bundesland": "Brandenburg",
-			"slug": "hochschule-fuer-nachhaltige-entwicklung-eberswalde-fh"
-		},
-		{
-			"name": "Hochschule Lausitz, University of Applied Sciences (FH)",
-			"bundesland": "Brandenburg",
-			"slug": "hochschule-lausitz-university-of-applied-sciences-fh"
-		},
-		{
-			"name": "Technische Hochschule Wildau (FH)",
-			"bundesland": "Brandenburg",
-			"slug": "technische-hochschule-wildau-fh"
-		},
-		{
-			"name": "FH Potsdam",
-			"bundesland": "Brandenburg",
-			"slug": "fh-potsdam"
-		},
-		{
-			"name": "Theol. Seminar (FH) der Evang. Freikirche Elstal",
-			"bundesland": "Brandenburg",
-			"slug": "theol-seminar-fh-der-evang-freikirche-elstal"
-		},
-		{
-			"name": "FH für Finanzen Brandenburg (VerwFH) Königs Wusterhausen",
-			"bundesland": "Brandenburg",
-			"slug": "fh-fuer-finanzen-brandenburg-verwfh-koenigs-wusterhausen"
-		},
-		{
-			"name": "FH der Polizei Brandenburg (VerwFH) in Oranienburg",
-			"bundesland": "Brandenburg",
-			"slug": "fh-der-polizei-brandenburg-verwfh-in-oranienburg"
-		},
-		{
-			"name": "Universität Rostock (Klinikum)",
-			"bundesland": "Brandenburg",
-			"slug": "universitaet-rostock-klinikum"
-		},
-		{
-			"name": "Universität Greifswald (Klinikum)",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "universitaet-greifswald-klinikum"
-		},
-		{
-			"name": "Universität Rostock (ohne Klinikum)",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "universitaet-rostock-ohne-klinikum"
-		},
-		{
-			"name": "Med. Fakultät Rostock",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "med-fakultaet-rostock"
-		},
-		{
-			"name": "Universität Greifswald (ohne Klinikum)",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "universitaet-greifswald-ohne-klinikum"
-		},
-		{
-			"name": "Medizinische Fakultät Greifswald",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "medizinische-fakultaet-greifswald"
-		},
-		{
-			"name": "Hochschule für Musik und Theater, Rostock",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "hochschule-fuer-musik-und-theater-rostock"
-		},
-		{
-			"name": "Baltic College - FHM Schwerin",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "baltic-college-fhm-schwerin"
-		},
-		{
-			"name": "Hochschule Neubrandenburg",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "hochschule-neubrandenburg"
-		},
-		{
-			"name": "FH Stralsund",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "fh-stralsund"
-		},
-		{
-			"name": "FH Wismar",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "fh-wismar"
-		},
-		{
-			"name": "Verwaltungs-FH Güstrow",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "verwaltungs-fh-guestrow"
+			"slug": "fh-fr-verwaltung-saarbrcken"
 		},
 		{
 			"name": "HHL Leipzig Graduate School of Management",
@@ -1996,9 +1976,9 @@ var searchdb = {
 			"slug": "diu-dresden-intern-university-gmbh-dresden-priv-h"
 		},
 		{
-			"name": "Universität Leipzig (Klinikum)",
+			"name": "Universit�t Leipzig (Klinikum)",
 			"bundesland": "Sachsen",
-			"slug": "universitaet-leipzig-klinikum"
+			"slug": "universitt-leipzig-klinikum"
 		},
 		{
 			"name": "TU Dresden (Klinikum)",
@@ -2006,9 +1986,9 @@ var searchdb = {
 			"slug": "tu-dresden-klinikum"
 		},
 		{
-			"name": "Universität Leipzig (ohne Klinikum)",
+			"name": "Universit�t Leipzig (ohne Klinikum)",
 			"bundesland": "Sachsen",
-			"slug": "universitaet-leipzig-ohne-klinikum"
+			"slug": "universitt-leipzig-ohne-klinikum"
 		},
 		{
 			"name": "TU Dresden (ohne Klinikum)",
@@ -2031,34 +2011,34 @@ var searchdb = {
 			"slug": "internationales-hochschulinstitut-zittau"
 		},
 		{
-			"name": "Palucca Hochschule für Tanz Dresden",
+			"name": "Palucca Hochschule f�r Tanz Dresden",
 			"bundesland": "Sachsen",
-			"slug": "palucca-hochschule-fuer-tanz-dresden"
+			"slug": "palucca-hochschule-fr-tanz-dresden"
 		},
 		{
-			"name": "Hochschule für Bildende Künste Dresden",
+			"name": "Hochschule f�r Bildende K�nste Dresden",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fuer-bildende-kuenste-dresden"
+			"slug": "hochschule-fr-bildende-knste-dresden"
 		},
 		{
-			"name": "Hochschule für Grafik und Buchkunst Leipzig",
+			"name": "Hochschule f�r Grafik und Buchkunst Leipzig",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fuer-grafik-und-buchkunst-leipzig"
+			"slug": "hochschule-fr-grafik-und-buchkunst-leipzig"
 		},
 		{
-			"name": "Hochschule für Musik und Theater Leipzig",
+			"name": "Hochschule f�r Musik und Theater Leipzig",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fuer-musik-und-theater-leipzig"
+			"slug": "hochschule-fr-musik-und-theater-leipzig"
 		},
 		{
-			"name": "Hochschule für Musik Dresden",
+			"name": "Hochschule f�r Musik Dresden",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fuer-musik-dresden"
+			"slug": "hochschule-fr-musik-dresden"
 		},
 		{
-			"name": "Hochschule für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden",
+			"name": "Hochschule f�r Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fuer-kirchenmusik-der-evang-luth-landeskirche-sachsens-dresden"
+			"slug": "hochschule-fr-kirchenmusik-der-evang-luth-landeskirche-sachsens-dresden"
 		},
 		{
 			"name": "Fachochschule Dresden",
@@ -2071,9 +2051,9 @@ var searchdb = {
 			"slug": "euro-business-college-dresden-priv-fh"
 		},
 		{
-			"name": "Hochschule für Kommunikation Leipzig",
+			"name": "Hochschule f�r Kommunikation Leipzig",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fuer-kommunikation-leipzig"
+			"slug": "hochschule-fr-kommunikation-leipzig"
 		},
 		{
 			"name": "AKAD Hochschule Leipzig",
@@ -2081,14 +2061,14 @@ var searchdb = {
 			"slug": "akad-hochschule-leipzig"
 		},
 		{
-			"name": "Hochschule für Technik und Wirtschaft Dresden",
+			"name": "Hochschule f�r Technik und Wirtschaft Dresden",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fuer-technik-und-wirtschaft-dresden"
+			"slug": "hochschule-fr-technik-und-wirtschaft-dresden"
 		},
 		{
-			"name": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
+			"name": "Hochschule f�r Technik, Wirtschaft und Kultur Leipzig",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fuer-technik-wirtschaft-und-kultur-leipzig"
+			"slug": "hochschule-fr-technik-wirtschaft-und-kultur-leipzig"
 		},
 		{
 			"name": "Hochschule Mittweida (University of Applied Sciences)",
@@ -2096,19 +2076,19 @@ var searchdb = {
 			"slug": "hochschule-mittweida-university-of-applied-sciences"
 		},
 		{
-			"name": "Hochschule Zittau/Görlitz (FH)",
+			"name": "Hochschule Zittau/G�rlitz (FH)",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-zittaugoerlitz-fh"
+			"slug": "hochschule-zittaugrlitz-fh"
 		},
 		{
-			"name": "Westsächsische Hochschule Zwickau",
+			"name": "Wests�chsische Hochschule Zwickau",
 			"bundesland": "Sachsen",
-			"slug": "westsaechsische-hochschule-zwickau"
+			"slug": "westschsische-hochschule-zwickau"
 		},
 		{
-			"name": "Evang. Hochschule für Soziale Arbeit, Dresden (FH)",
+			"name": "Evang. Hochschule f�r Soziale Arbeit, Dresden (FH)",
 			"bundesland": "Sachsen",
-			"slug": "evang-hochschule-fuer-soziale-arbeit-dresden-fh"
+			"slug": "evang-hochschule-fr-soziale-arbeit-dresden-fh"
 		},
 		{
 			"name": "Evangelische Hochschule Moritzburg (FH)",
@@ -2116,34 +2096,39 @@ var searchdb = {
 			"slug": "evangelische-hochschule-moritzburg-fh"
 		},
 		{
-			"name": "Hochschule der Sächsischen Polizei, Rothenburg/OL. (FH)",
+			"name": "Hochschule der S�chsischen Polizei, Rothenburg/OL. (FH)",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-der-saechsischen-polizei-rothenburgol-fh"
+			"slug": "hochschule-der-schsischen-polizei-rothenburgol-fh"
 		},
 		{
-			"name": "FH der Sächsischen Verwaltung Meißen",
+			"name": "FH der S�chsischen Verwaltung Mei�en",
 			"bundesland": "Sachsen",
-			"slug": "fh-der-saechsischen-verwaltung-meissen"
+			"slug": "fh-der-schsischen-verwaltung-meien"
 		},
 		{
-			"name": "Universität Halle (Klinikum)",
-			"bundesland": "Sachsen-Anhalt",
-			"slug": "universitaet-halle-klinikum"
+			"name": "DPFA Hochschule Zwickau",
+			"bundesland": "Sachsen",
+			"slug": "dpfa-hochschule-zwickau"
 		},
 		{
-			"name": "Universität Magdeburg (Klinikum)",
+			"name": "Universit�t Halle (Klinikum)",
 			"bundesland": "Sachsen-Anhalt",
-			"slug": "universitaet-magdeburg-klinikum"
+			"slug": "universitt-halle-klinikum"
 		},
 		{
-			"name": "Universität Halle (ohne Klinikum)",
+			"name": "Universit�t Magdeburg (Klinikum)",
 			"bundesland": "Sachsen-Anhalt",
-			"slug": "universitaet-halle-ohne-klinikum"
+			"slug": "universitt-magdeburg-klinikum"
 		},
 		{
-			"name": "Otto-von-Guericke-Universität Magdeburg (ohne Klinikum)",
+			"name": "Universit�t Halle (ohne Klinikum)",
 			"bundesland": "Sachsen-Anhalt",
-			"slug": "otto-von-guericke-universitaet-magdeburg-ohne-klinikum"
+			"slug": "universitt-halle-ohne-klinikum"
+		},
+		{
+			"name": "Otto-von-Guericke-Universit�t Magdeburg (ohne Klinikum)",
+			"bundesland": "Sachsen-Anhalt",
+			"slug": "otto-von-guericke-universitt-magdeburg-ohne-klinikum"
 		},
 		{
 			"name": "Theol. Hochschule Friedensau",
@@ -2156,9 +2141,9 @@ var searchdb = {
 			"slug": "burg-giebichenstein-kunsthochschule-halle"
 		},
 		{
-			"name": "Evang. Hochschule für Kirchenmusik Halle",
+			"name": "Evang. Hochschule f�r Kirchenmusik Halle",
 			"bundesland": "Sachsen-Anhalt",
-			"slug": "evang-hochschule-fuer-kirchenmusik-halle"
+			"slug": "evang-hochschule-fr-kirchenmusik-halle"
 		},
 		{
 			"name": "Hochschule Merseburg (FH)",
@@ -2186,134 +2171,149 @@ var searchdb = {
 			"slug": "fh-polizei-sachsen-anhalt-aschersleben"
 		},
 		{
-			"name": "Universität Jena (Klinikum)",
-			"bundesland": "Thüringen",
-			"slug": "universitaet-jena-klinikum"
+			"name": "Universit�tsklinikum Schleswig-Holstein",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "universittsklinikum-schleswig-holstein"
 		},
 		{
-			"name": "Friedrich-Schiller-Universität Jena (ohne Klinikum)",
-			"bundesland": "Thüringen",
-			"slug": "friedrich-schiller-universitaet-jena-ohne-klinikum"
+			"name": "Universit�t Kiel",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "universitt-kiel"
 		},
 		{
-			"name": "Bauhaus-Universität Weimar",
-			"bundesland": "Thüringen",
-			"slug": "bauhaus-universitaet-weimar"
+			"name": "Universit�t L�beck",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "universitt-lbeck"
+		},
+		{
+			"name": "Universit�t Flensburg",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "universitt-flensburg"
+		},
+		{
+			"name": "Musikhochschule L�beck",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "musikhochschule-lbeck"
+		},
+		{
+			"name": "Muthesius Kunsthochschule Kiel",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "muthesius-kunsthochschule-kiel"
+		},
+		{
+			"name": "Priv. FH Wedel",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "priv-fh-wedel"
+		},
+		{
+			"name": "AKAD Hochschule Pinneberg",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "akad-hochschule-pinneberg"
+		},
+		{
+			"name": "Nordakademie Hochschule der Wirtschaft",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "nordakademie-hochschule-der-wirtschaft"
+		},
+		{
+			"name": "FH Flensburg",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "fh-flensburg"
+		},
+		{
+			"name": "FH Kiel",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "fh-kiel"
+		},
+		{
+			"name": "FH L�beck",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "fh-lbeck"
+		},
+		{
+			"name": "FH Westk�ste, Heide",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "fh-westkste-heide"
+		},
+		{
+			"name": "FH f�r Verwaltung und Dienstleistung Altenholz",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "fh-fr-verwaltung-und-dienstleistung-altenholz"
+		},
+		{
+			"name": "FH Bund, FB Bundespolizei, L�beck",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "fh-bund-fb-bundespolizei-lbeck"
+		},
+		{
+			"name": "Universit�t Jena (Klinikum)",
+			"bundesland": "Th�ringen",
+			"slug": "universitt-jena-klinikum"
+		},
+		{
+			"name": "Friedrich-Schiller-Universit�t Jena (ohne Klinikum)",
+			"bundesland": "Th�ringen",
+			"slug": "friedrich-schiller-universitt-jena-ohne-klinikum"
+		},
+		{
+			"name": "Bauhaus-Universit�t Weimar",
+			"bundesland": "Th�ringen",
+			"slug": "bauhaus-universitt-weimar"
 		},
 		{
 			"name": "TU Ilmenau",
-			"bundesland": "Thüringen",
+			"bundesland": "Th�ringen",
 			"slug": "tu-ilmenau"
 		},
 		{
-			"name": "Universität Erfurt",
-			"bundesland": "Thüringen",
-			"slug": "universitaet-erfurt"
+			"name": "Universit�t Erfurt",
+			"bundesland": "Th�ringen",
+			"slug": "universitt-erfurt"
 		},
 		{
-			"name": "Hochschule für Musik Franz Liszt Weimar",
-			"bundesland": "Thüringen",
-			"slug": "hochschule-fuer-musik-franz-liszt-weimar"
+			"name": "Hochschule f�r Musik Franz Liszt Weimar",
+			"bundesland": "Th�ringen",
+			"slug": "hochschule-fr-musik-franz-liszt-weimar"
 		},
 		{
-			"name": "SRH FH für Gesundheit Gera (Priv. FH)",
-			"bundesland": "Thüringen",
-			"slug": "srh-fh-fuer-gesundheit-gera-priv-fh"
+			"name": "SRH FH f�r Gesundheit Gera (Priv. FH)",
+			"bundesland": "Th�ringen",
+			"slug": "srh-fh-fr-gesundheit-gera-priv-fh"
 		},
 		{
 			"name": "Adam-Ries-Fachhochschule Erfurt (Priv.)",
-			"bundesland": "Thüringen",
+			"bundesland": "Th�ringen",
 			"slug": "adam-ries-fachhochschule-erfurt-priv"
 		},
 		{
 			"name": "FH Kunst Arnstadt (Priv.)",
-			"bundesland": "Thüringen",
+			"bundesland": "Th�ringen",
 			"slug": "fh-kunst-arnstadt-priv"
 		},
 		{
 			"name": "FH Erfurt",
-			"bundesland": "Thüringen",
+			"bundesland": "Th�ringen",
 			"slug": "fh-erfurt"
 		},
 		{
 			"name": "Ernst Abbe Fachhochschule Jena",
-			"bundesland": "Thüringen",
+			"bundesland": "Th�ringen",
 			"slug": "ernst-abbe-fachhochschule-jena"
 		},
 		{
 			"name": "FH Schmalkalden",
-			"bundesland": "Thüringen",
+			"bundesland": "Th�ringen",
 			"slug": "fh-schmalkalden"
 		},
 		{
 			"name": "FH Nordhausen",
-			"bundesland": "Thüringen",
+			"bundesland": "Th�ringen",
 			"slug": "fh-nordhausen"
 		},
 		{
-			"name": "Thüringer FH für öffentliche Verwaltung Gotha",
-			"bundesland": "Thüringen",
-			"slug": "thueringer-fh-fuer-oeffentliche-verwaltung-gotha"
-		},
-		{
-			"name": "FH Bund, FB Bundespolizei, Lübeck",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "fh-bund-fb-bundespolizei-luebeck"
-		},
-		{
-			"name": "Kühne Logistics University - The KLU, Hamburg (Priv. H)",
-			"bundesland": "Hamburg",
-			"slug": "kuehne-logistics-university-the-klu-hamburg-priv-h"
-		},
-		{
-			"name": "Hochschule für intern. Wirtschaft und Logistik (HIWL), Bremen (Priv. FH)",
-			"bundesland": "Bremen",
-			"slug": "hochschule-fuer-intern-wirtschaft-und-logistik-hiwl-bremen-priv-fh"
-		},
-		{
-			"name": "Hochschule für Gesundheit",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "hochschule-fuer-gesundheit"
-		},
-		{
-			"name": "FH Bund, FB Wetterdienst in Langen",
-			"bundesland": "Hessen",
-			"slug": "fh-bund-fb-wetterdienst-in-langen"
-		},
-		{
-			"name": "FH Bund, FB Landwirtschaftliche Sozialversicherung in Kassel",
-			"bundesland": "Hessen",
-			"slug": "fh-bund-fb-landwirtschaftliche-sozialversicherung-in-kassel"
-		},
-		{
-			"name": "Internationale Hochschule Liebenzell (FH), Bad Liebenzell",
-			"bundesland": "Baden-Württemberg",
-			"slug": "internationale-hochschule-liebenzell-fh-bad-liebenzell"
-		},
-		{
-			"name": "ECLA of Bard, a Liberal Arts University, Berlin (Priv. H)",
-			"bundesland": "Berlin",
-			"slug": "ecla-of-bard-a-liberal-arts-university-berlin-priv-h"
-		},
-		{
-			"name": "German open Business School, Hochschule für Wirtschaft und Verwaltung, Berlin (Priv. FH)",
-			"bundesland": "Berlin",
-			"slug": "german-open-business-school-hochschule-fuer-wirtschaft-und-verwaltung-berlin-priv-fh"
-		},
-		{
-			"name": "MSH Medical School Hamburg (Priv. FH)",
-			"bundesland": "Hamburg",
-			"slug": "msh-medical-school-hamburg-priv-fh"
-		},
-		{
-			"name": "Hochschule der Wirtschaft für Management (HdWM) Mannheim (Priv. FH)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-der-wirtschaft-fuer-management-hdwm-mannheim-priv-fh"
-		},
-		{
-			"name": "DPFA Hochschule Zwickau",
-			"bundesland": "Sachsen",
-			"slug": "dpfa-hochschule-zwickau"
+			"name": "Th�ringer FH f�r �ffentliche Verwaltung Gotha",
+			"bundesland": "Th�ringen",
+			"slug": "thringer-fh-fr-ffentliche-verwaltung-gotha"
 		}
 	],
 	"foerderer": [
@@ -2466,6 +2466,10 @@ var searchdb = {
 			"slug": "absolut-karriere"
 		},
 		{
+			"name": "Absolventenvereinigung Holzminden, Holzminden",
+			"slug": "absolventenvereinigung-holzminden-holzminden"
+		},
+		{
 			"name": "ABSOLVENTUM MANNHEIM e.V. - Absolventennetzwerk der Universität Mannheim e.V.",
 			"slug": "absolventum-mannheim-ev-absolventennetzwerk-der-universitaet-mannheim-ev"
 		},
@@ -2502,6 +2506,10 @@ var searchdb = {
 			"slug": "actelion-pharmaceuticals"
 		},
 		{
+			"name": "ad.cons GmbH, Düsseldorf",
+			"slug": "adcons-gmbh-duesseldorf"
+		},
+		{
 			"name": "ADAC Sachsen e. V.",
 			"slug": "adac-sachsen-e-v"
 		},
@@ -2530,6 +2538,10 @@ var searchdb = {
 			"slug": "adidas"
 		},
 		{
+			"name": "ADInstruments Ltd.",
+			"slug": "adinstruments-ltd"
+		},
+		{
 			"name": "ADK GmbH für Gesundheit und Soziales",
 			"slug": "adk-gmbh-fuer-gesundheit-und-soziales"
 		},
@@ -2554,8 +2566,20 @@ var searchdb = {
 			"slug": "adolf-messer-stiftung"
 		},
 		{
+			"name": "Advanced Bionics GmbH, 30625 Hannover",
+			"slug": "advanced-bionics-gmbh-30625-hannover"
+		},
+		{
 			"name": "advanced fiber tools GmbH",
 			"slug": "advanced-fiber-tools-gmbh"
+		},
+		{
+			"name": "Aengevelt Immobilien GmbH & Co. KG, Düsseldorf",
+			"slug": "aengevelt-immobilien-gmbh-co-kg-duesseldorf"
+		},
+		{
+			"name": "Aerodata AG, Braunschweig",
+			"slug": "aerodata-ag-braunschweig"
 		},
 		{
 			"name": "Aerosoft GmbH",
@@ -2572,6 +2596,10 @@ var searchdb = {
 		{
 			"name": "Aeveo GmbH",
 			"slug": "aeveo-gmbh"
+		},
+		{
+			"name": "AEVO GmbH",
+			"slug": "aevo-gmbh"
 		},
 		{
 			"name": "aewz",
@@ -2614,6 +2642,10 @@ var searchdb = {
 			"slug": "agn-niederberghaus-partner-gmbh-hvb-immobilien-ag"
 		},
 		{
+			"name": "Ahlemer Hochschulforum",
+			"slug": "ahlemer-hochschulforum"
+		},
+		{
 			"name": "Ahlemer HS-Forum e.V.",
 			"slug": "ahlemer-hs-forum-ev"
 		},
@@ -2634,8 +2666,8 @@ var searchdb = {
 			"slug": "aida-cruises"
 		},
 		{
-			"name": "Airbus Deutschland GmbH",
-			"slug": "airbus-deutschland-gmbh"
+			"name": "Airbus Group",
+			"slug": "airbus-group"
 		},
 		{
 			"name": "aixigo AG",
@@ -2658,10 +2690,6 @@ var searchdb = {
 			"slug": "akademie-fuer-wissenschaft-wirtschaft-und-technik-an-der-universitaet-ulm-e-v"
 		},
 		{
-			"name": "Akademie Psychotherapie und Interventionsforschung",
-			"slug": "akademie-psychotherapie-und-interventionsforschung"
-		},
-		{
 			"name": "Aker Wirth GmbH",
 			"slug": "aker-wirth-gmbh"
 		},
@@ -2674,16 +2702,40 @@ var searchdb = {
 			"slug": "aktion-gemeinsinn-e-v-berlin"
 		},
 		{
+			"name": "Aktionsb�ndnis Patientensicherheit e.V. (APS)",
+			"slug": "aktionsbndnis-patientensicherheit-ev-aps"
+		},
+		{
 			"name": "Aktormed GmbH",
 			"slug": "aktormed-gmbh"
+		},
+		{
+			"name": "Alantum Europe GmbH, München",
+			"slug": "alantum-europe-gmbh-muenchen"
 		},
 		{
 			"name": "ALBA Group",
 			"slug": "alba-group"
 		},
 		{
+			"name": "Albach, Prof. Dr. Dirk, Alexandersfeld 49, 26127 Oldenburg",
+			"slug": "albach-prof-dr-dirk-alexandersfeld-49-26127-oldenburg"
+		},
+		{
 			"name": "Alb-Elektrizitätswerk Geislingen eG",
 			"slug": "alb-elektrizitaetswerk-geislingen-eg"
+		},
+		{
+			"name": "Albert Fischer GmbH, Elze",
+			"slug": "albert-fischer-gmbh-elze"
+		},
+		{
+			"name": "Albertinen-Diakoniewerk e.V.",
+			"slug": "albertinen-diakoniewerk-ev"
+		},
+		{
+			"name": "Albert-Ludwig-Fraas-Stiftung",
+			"slug": "albert-ludwig-fraas-stiftung"
 		},
 		{
 			"name": "Alberttinen Krks.",
@@ -2730,8 +2782,8 @@ var searchdb = {
 			"slug": "alfred-clouth-lackfabrik"
 		},
 		{
-			"name": "Alfred Krupp von Bohlen und Halbach-Stiftung",
-			"slug": "alfred-krupp-von-bohlen-und-halbach-stiftung"
+			"name": "Alfred Doderer-Winkler",
+			"slug": "alfred-doderer-winkler"
 		},
 		{
 			"name": "Alfred Kuse GmbH",
@@ -2740,10 +2792,6 @@ var searchdb = {
 		{
 			"name": "Alfred Toepfer Stiftung",
 			"slug": "alfred-toepfer-stiftung"
-		},
-		{
-			"name": "Alfred-Freiherr von Oppenheim-Stiftung",
-			"slug": "alfred-freiherr-von-oppenheim-stiftung"
 		},
 		{
 			"name": "AlFreDo e.V.",
@@ -2764,6 +2812,10 @@ var searchdb = {
 		{
 			"name": "Aljo Aluminium-Bau Jonuscheit GmbH",
 			"slug": "aljo-aluminium-bau-jonuscheit-gmbh"
+		},
+		{
+			"name": "ALK-Abell� Arzneimittel GmbH",
+			"slug": "alk-abell-arzneimittel-gmbh"
 		},
 		{
 			"name": "Allen & Overy LLP",
@@ -2790,6 +2842,10 @@ var searchdb = {
 			"slug": "allgeier-holding-se"
 		},
 		{
+			"name": "Allgemeine Baumaschinen GmbH",
+			"slug": "allgemeine-baumaschinen-gmbh"
+		},
+		{
 			"name": "Allgemeiner Unternehmensverband für Dortmund e.V.",
 			"slug": "allgemeiner-unternehmensverband-fuer-dortmund-ev"
 		},
@@ -2800,6 +2856,14 @@ var searchdb = {
 		{
 			"name": "Allianz",
 			"slug": "allianz"
+		},
+		{
+			"name": "Allianz für die Region GmbH",
+			"slug": "allianz-fuer-die-region-gmbh"
+		},
+		{
+			"name": "Allmes GmbH",
+			"slug": "allmes-gmbh"
 		},
 		{
 			"name": "ALMECON Technologie GmbH",
@@ -2816,10 +2880,6 @@ var searchdb = {
 		{
 			"name": "Alpha Industrial Service GmbH",
 			"slug": "alpha-industrial-service-gmbh"
-		},
-		{
-			"name": "ALPHA Industrial Service GmbH und ALPHA Vermögensverwaltung GmbH",
-			"slug": "alpha-industrial-service-gmbh-und-alpha-vermoegensverwaltung-gmbh"
 		},
 		{
 			"name": "Alsleben, Gert",
@@ -2898,6 +2958,14 @@ var searchdb = {
 			"slug": "amgen"
 		},
 		{
+			"name": "Amgen GmbH",
+			"slug": "amgen-gmbh"
+		},
+		{
+			"name": "AMK GmbH & Co. KG, Kirchheim/Teck",
+			"slug": "amk-gmbh-co-kg-kirchheimteck"
+		},
+		{
 			"name": "Ampega Investment GmbH",
 			"slug": "ampega-investment-gmbh"
 		},
@@ -2914,12 +2982,8 @@ var searchdb = {
 			"slug": "analytik-jena-ag"
 		},
 		{
-			"name": "Andreas Stihl AG",
-			"slug": "andreas-stihl-ag"
-		},
-		{
-			"name": "ANDREAS STIHL AG & Co. KG",
-			"slug": "andreas-stihl-ag-co-kg"
+			"name": "Andreas Stihl",
+			"slug": "andreas-stihl"
 		},
 		{
 			"name": "ANEDO Ltd.",
@@ -2940,6 +3004,10 @@ var searchdb = {
 		{
 			"name": "Anna Maria Eva Schleip-Stiftung",
 			"slug": "anna-maria-eva-schleip-stiftung"
+		},
+		{
+			"name": "Annedore Heinze",
+			"slug": "annedore-heinze"
 		},
 		{
 			"name": "Annegret und Hans-Richard Meininghaus",
@@ -2966,6 +3034,10 @@ var searchdb = {
 			"slug": "anstalt-fuer-religion-diyanet-tuerkei"
 		},
 		{
+			"name": "Antionetta Beydals",
+			"slug": "antionetta-beydals"
+		},
+		{
 			"name": "Antisense Pharma",
 			"slug": "antisense-pharma"
 		},
@@ -2984,6 +3056,10 @@ var searchdb = {
 		{
 			"name": "AOK",
 			"slug": "aok"
+		},
+		{
+			"name": "AP Elektronikanlagen Planung",
+			"slug": "ap-elektronikanlagen-planung"
 		},
 		{
 			"name": "Apetito AG",
@@ -3006,12 +3082,20 @@ var searchdb = {
 			"slug": "apromex-gmbh"
 		},
 		{
+			"name": "Aptalis Pharma",
+			"slug": "aptalis-pharma"
+		},
+		{
 			"name": "AQTON SE",
 			"slug": "aqton-se"
 		},
 		{
 			"name": "Aqua Free Membrane",
 			"slug": "aqua-free-membrane"
+		},
+		{
+			"name": "Aqua free Membrane Technology GmbH",
+			"slug": "aqua-free-membrane-technology-gmbh"
 		},
 		{
 			"name": "Arbeiterwohlfahrt Kreisverband Mönchengladbach e.V.",
@@ -3042,12 +3126,12 @@ var searchdb = {
 			"slug": "arbeitgeberverband-oldenburg"
 		},
 		{
-			"name": "Arbeitgeberverband Oldenburg e.V.",
-			"slug": "arbeitgeberverband-oldenburg-ev"
-		},
-		{
 			"name": "Arbeitsgemeinschaft der Volksbanken",
 			"slug": "arbeitsgemeinschaft-der-volksbanken"
+		},
+		{
+			"name": "Arbeitsgemeinschaft der Volksbanken und Raiffeisenbanken in Weser Ems, 26122 Oldenburg",
+			"slug": "arbeitsgemeinschaft-der-volksbanken-und-raiffeisenbanken-in-weser-ems-26122-oldenburg"
 		},
 		{
 			"name": "Arbeitsgemeinschaft der Volksbanken und Raiffeisenbanken in Weser-Ems",
@@ -3106,10 +3190,6 @@ var searchdb = {
 			"slug": "architekturfabrik-neubrandenburg"
 		},
 		{
-			"name": "Arclor GmbH",
-			"slug": "arclor-gmbh"
-		},
-		{
 			"name": "Arcus Betriebsgesellschaft mbH",
 			"slug": "arcus-betriebsgesellschaft-mbh"
 		},
@@ -3152,6 +3232,10 @@ var searchdb = {
 		{
 			"name": "Artur Stoll GmbH, Bielefeld",
 			"slug": "artur-stoll-gmbh-bielefeld"
+		},
+		{
+			"name": "arvato AG Medienfabrik",
+			"slug": "arvato-ag-medienfabrik"
 		},
 		{
 			"name": "arvato Systems perdata GmbH",
@@ -3202,10 +3286,6 @@ var searchdb = {
 			"slug": "asta-ffo"
 		},
 		{
-			"name": "Astellas GmbH",
-			"slug": "astellas-gmbh"
-		},
-		{
 			"name": "Astellas Pharma",
 			"slug": "astellas-pharma"
 		},
@@ -3238,12 +3318,20 @@ var searchdb = {
 			"slug": "atradius"
 		},
 		{
+			"name": "Atrium Europe B.V.",
+			"slug": "atrium-europe-bv"
+		},
+		{
 			"name": "Attomol GmbH",
 			"slug": "attomol-gmbh"
 		},
 		{
 			"name": "Atto-Tec GmbH",
 			"slug": "atto-tec-gmbh"
+		},
+		{
+			"name": "AUC Akademie d.Unfallchirurgie",
+			"slug": "auc-akademie-dunfallchirurgie"
 		},
 		{
 			"name": "Audi",
@@ -3350,6 +3438,10 @@ var searchdb = {
 			"slug": "avacon-ag"
 		},
 		{
+			"name": "Avacon AG, Helmstedt",
+			"slug": "avacon-ag-helmstedt"
+		},
+		{
 			"name": "AVANCE Gesellschaft für Marketing und Vertrieb mbH",
 			"slug": "avance-gesellschaft-fuer-marketing-und-vertrieb-mbh"
 		},
@@ -3410,10 +3502,6 @@ var searchdb = {
 			"slug": "b-braun-melsungen-ag"
 		},
 		{
-			"name": "B.Braun Melsungen AG",
-			"slug": "bbraun-melsungen-ag"
-		},
-		{
 			"name": "b.i.g.-Gruppe",
 			"slug": "big-gruppe"
 		},
@@ -3458,6 +3546,10 @@ var searchdb = {
 			"slug": "buechting-streit-ag"
 		},
 		{
+			"name": "BüFA GmbH",
+			"slug": "buefa-gmbh"
+		},
+		{
 			"name": "Bühler GmbH",
 			"slug": "buehler-gmbh"
 		},
@@ -3496,6 +3588,10 @@ var searchdb = {
 		{
 			"name": "Bürgerstiftung Gütersloh",
 			"slug": "buergerstiftung-guetersloh"
+		},
+		{
+			"name": "BürgerStiftung Hildesheim",
+			"slug": "buergerstiftung-hildesheim"
 		},
 		{
 			"name": "Bürgerstiftung Lebensraum Aachen",
@@ -3586,6 +3682,10 @@ var searchdb = {
 			"slug": "bankhaus-w-fortmann-soehne-oldenburg"
 		},
 		{
+			"name": "Barbara Huber, Ergolding",
+			"slug": "barbara-huber-ergolding"
+		},
+		{
 			"name": "Barke, Heidemarie",
 			"slug": "barke-heidemarie"
 		},
@@ -3606,28 +3706,12 @@ var searchdb = {
 			"slug": "barmherzige-brueder"
 		},
 		{
-			"name": "Barthel-Stiftung",
-			"slug": "barthel-stiftung"
-		},
-		{
 			"name": "Bartos-Höppner-Stiftung",
 			"slug": "bartos-hoeppner-stiftung"
 		},
 		{
 			"name": "BASF",
 			"slug": "basf"
-		},
-		{
-			"name": "BASF Coatings GmbH",
-			"slug": "basf-coatings-gmbh"
-		},
-		{
-			"name": "BASF Schwarzheide GmbH",
-			"slug": "basf-schwarzheide-gmbh"
-		},
-		{
-			"name": "BASF SE",
-			"slug": "basf-se"
 		},
 		{
 			"name": "Basler Securitas",
@@ -3640,6 +3724,10 @@ var searchdb = {
 		{
 			"name": "BauConsult DV- und Unternehmensberatung Stuttgart GmbH",
 			"slug": "bauconsult-dv-und-unternehmensberatung-stuttgart-gmbh"
+		},
+		{
+			"name": "Baudis Bergmann Rösch Verkehrstechnik GmbH, 38126 Braunschweig",
+			"slug": "baudis-bergmann-roesch-verkehrstechnik-gmbh-38126-braunschweig"
 		},
 		{
 			"name": "Bauer Bauunternehmen GmbH",
@@ -3686,10 +3774,6 @@ var searchdb = {
 			"slug": "bausparkasse-schwaebisch-hall"
 		},
 		{
-			"name": "Bausparkasse Schwäbisch Hall AG",
-			"slug": "bausparkasse-schwaebisch-hall-ag"
-		},
-		{
 			"name": "Baustoffkunde-Stipendium",
 			"slug": "baustoffkunde-stipendium"
 		},
@@ -3710,12 +3794,8 @@ var searchdb = {
 			"slug": "bavc"
 		},
 		{
-			"name": "Baxter Deutschland GmbH",
-			"slug": "baxter-deutschland-gmbh"
-		},
-		{
-			"name": "Baxter GmbH",
-			"slug": "baxter-gmbh"
+			"name": "Baxter",
+			"slug": "baxter"
 		},
 		{
 			"name": "Bayer",
@@ -3738,20 +3818,12 @@ var searchdb = {
 			"slug": "bayrische-motoren-werke-ag"
 		},
 		{
-			"name": "BayWa AG",
-			"slug": "baywa-ag"
+			"name": "BayWa",
+			"slug": "baywa"
 		},
 		{
-			"name": "BayWa Stiftung",
-			"slug": "baywa-stiftung"
-		},
-		{
-			"name": "BBBank eG",
-			"slug": "bbbank-eg"
-		},
-		{
-			"name": "BBBank Stiftung",
-			"slug": "bbbank-stiftung"
+			"name": "BBBank",
+			"slug": "bbbank"
 		},
 		{
 			"name": "BBV Mediengruppe, Bocholt",
@@ -3772,6 +3844,10 @@ var searchdb = {
 		{
 			"name": "BDO Heßler Mosebach AG",
 			"slug": "bdo-hessler-mosebach-ag"
+		},
+		{
+			"name": "Beate Schuler",
+			"slug": "beate-schuler"
 		},
 		{
 			"name": "beauty alliance Deutschland GmbH & Co KG",
@@ -3822,16 +3898,20 @@ var searchdb = {
 			"slug": "behoerden-spiegel"
 		},
 		{
-			"name": "Behrmann-Stiftung",
-			"slug": "behrmann-stiftung"
-		},
-		{
 			"name": "bela-pharm GmbH & Co. KG",
 			"slug": "bela-pharm-gmbh-co-kg"
 		},
 		{
+			"name": "Belchim Crop Protection, Burgdorf",
+			"slug": "belchim-crop-protection-burgdorf"
+		},
+		{
 			"name": "Beluga Shipping GmbH",
 			"slug": "beluga-shipping-gmbh"
+		},
+		{
+			"name": "Bencard Allergie GmbH",
+			"slug": "bencard-allergie-gmbh"
 		},
 		{
 			"name": "Bender Group",
@@ -3842,16 +3922,16 @@ var searchdb = {
 			"slug": "bene-pharmachem-gmbh-co-kg"
 		},
 		{
+			"name": "Benekids e.V.",
+			"slug": "benekids-ev"
+		},
+		{
 			"name": "Benseler Sachsen GmbH & Co.KG",
 			"slug": "benseler-sachsen-gmbh-cokg"
 		},
 		{
-			"name": "Benteler AG, Paderborn",
-			"slug": "benteler-ag-paderborn"
-		},
-		{
-			"name": "Benteler International AG",
-			"slug": "benteler-international-ag"
+			"name": "Benteler",
+			"slug": "benteler"
 		},
 		{
 			"name": "Benthe, Karen Kerstin",
@@ -3922,8 +4002,16 @@ var searchdb = {
 			"slug": "bernd-muenstermann-gmbh-co-kg"
 		},
 		{
+			"name": "Bernd Schilling",
+			"slug": "bernd-schilling"
+		},
+		{
 			"name": "Berndt GmbH",
 			"slug": "berndt-gmbh"
+		},
+		{
+			"name": "Berner & Mattner Systemtechnik GmbH",
+			"slug": "berner-mattner-systemtechnik-gmbh"
 		},
 		{
 			"name": "Berner Group",
@@ -3942,24 +4030,20 @@ var searchdb = {
 			"slug": "bertelsmann"
 		},
 		{
-			"name": "Bertha Heraeus und Kathinka Platzhoff Stiftung",
-			"slug": "bertha-heraeus-und-kathinka-platzhoff-stiftung"
-		},
-		{
 			"name": "Berthold-Leibinger-Stiftung",
 			"slug": "berthold-leibinger-stiftung"
 		},
 		{
-			"name": "Bertrandt AG",
-			"slug": "bertrandt-ag"
+			"name": "Bertrandt",
+			"slug": "bertrandt"
 		},
 		{
-			"name": "Bertrandt Ingenieurbüro GmbH",
-			"slug": "bertrandt-ingenieurbuero-gmbh"
+			"name": "Besser Betreut GmbH",
+			"slug": "besser-betreut-gmbh"
 		},
 		{
-			"name": "Bertrandt Services GmbH",
-			"slug": "bertrandt-services-gmbh"
+			"name": "Best Audit GmbH",
+			"slug": "best-audit-gmbh"
 		},
 		{
 			"name": "Best Western Hotels Deutschland GmbH",
@@ -3992,6 +4076,10 @@ var searchdb = {
 		{
 			"name": "Bezirksverband Hannover",
 			"slug": "bezirksverband-hannover"
+		},
+		{
+			"name": "Bezirksverband Oldenburg, 26002 Oldenburg",
+			"slug": "bezirksverband-oldenburg-26002-oldenburg"
 		},
 		{
 			"name": "BFT Cognos GmbH",
@@ -4042,8 +4130,16 @@ var searchdb = {
 			"slug": "big-dutchmann-international-gmbh-vechta-calveslage"
 		},
 		{
+			"name": "Big Dutchmann, Calveslage",
+			"slug": "big-dutchmann-calveslage"
+		},
+		{
 			"name": "Bildiger",
 			"slug": "bildiger"
+		},
+		{
+			"name": "Bildungsvereinigung ARBEIT UND LEBEN Niedersachsen e.V.",
+			"slug": "bildungsvereinigung-arbeit-und-leben-niedersachsen-ev"
 		},
 		{
 			"name": "Bildungswerk der ostwestfälisch-lippischen Wirtschaft -",
@@ -4058,12 +4154,20 @@ var searchdb = {
 			"slug": "billy-rubin-foerderverein-kindergastroeteologie-mhh"
 		},
 		{
+			"name": "Bio Tissue AG",
+			"slug": "bio-tissue-ag"
+		},
+		{
 			"name": "Biofrontera Pharma GmbH",
 			"slug": "biofrontera-pharma-gmbh"
 		},
 		{
 			"name": "Biogas Nord AG",
 			"slug": "biogas-nord-ag"
+		},
+		{
+			"name": "BioLegend GmbH",
+			"slug": "biolegend-gmbh"
 		},
 		{
 			"name": "Biologische Heilmittel GmbH",
@@ -4086,12 +4190,8 @@ var searchdb = {
 			"slug": "biotest-ag"
 		},
 		{
-			"name": "Biotronik SE & Co.KG, vormals Biotronik GmbH & Co., Berlin",
-			"slug": "biotronik-se-cokg-vormals-biotronik-gmbh-co-berlin"
-		},
-		{
-			"name": "Biotronik Vertriebs",
-			"slug": "biotronik-vertriebs"
+			"name": "Biotronik",
+			"slug": "biotronik"
 		},
 		{
 			"name": "BIPP GmbH",
@@ -4114,16 +4214,16 @@ var searchdb = {
 			"slug": "bischoeflich-muenstersches-offizialat-vechta"
 		},
 		{
+			"name": "Bistum Osnabrück",
+			"slug": "bistum-osnabrueck"
+		},
+		{
 			"name": "B-IT Bonn-Aachen International Center for Information Technology",
 			"slug": "b-it-bonn-aachen-international-center-for-information-technology"
 		},
 		{
 			"name": "Bitburger",
 			"slug": "bitburger"
-		},
-		{
-			"name": "Bitburger Braugruppe GmbH",
-			"slug": "bitburger-braugruppe-gmbh"
 		},
 		{
 			"name": "Bitmarck Holding GmbH",
@@ -4136,10 +4236,6 @@ var searchdb = {
 		{
 			"name": "BITZER Kühlmaschinenbau GmbH",
 			"slug": "bitzer-kuehlmaschinenbau-gmbh"
-		},
-		{
-			"name": "Bitzer Kühlmaschinenbau GmbH Sindelfingen",
-			"slug": "bitzer-kuehlmaschinenbau-gmbh-sindelfingen"
 		},
 		{
 			"name": "Björn Engholm, Lübeck",
@@ -4182,8 +4278,8 @@ var searchdb = {
 			"slug": "blofeld-gmbh-waldtraut-braun-im-andenken-an-guenter-braun"
 		},
 		{
-			"name": "BMBF",
-			"slug": "bmbf"
+			"name": "Blomberger Holzindustrie B. Hausmann, Blomberg",
+			"slug": "blomberger-holzindustrie-b-hausmann-blomberg"
 		},
 		{
 			"name": "BMW",
@@ -4216,6 +4312,10 @@ var searchdb = {
 		{
 			"name": "Bombardier Transportation",
 			"slug": "bombardier-transportation"
+		},
+		{
+			"name": "BONAGO Incentive Marketing Group GmbH",
+			"slug": "bonago-incentive-marketing-group-gmbh"
 		},
 		{
 			"name": "BorgWarner",
@@ -4346,16 +4446,16 @@ var searchdb = {
 			"slug": "brekom-gmbh"
 		},
 		{
-			"name": "Bremer Bereederungsges. mbH",
-			"slug": "bremer-bereederungsges-mbh"
-		},
-		{
-			"name": "Bremer Bereederungsgesellscha ft mbH & Co. KG, Bremen",
-			"slug": "bremer-bereederungsgesellscha-ft-mbh-co-kg-bremen"
+			"name": "Bremer Bereederungsgesellschaft mbH & Co. KG",
+			"slug": "bremer-bereederungsgesellschaft-mbh-co-kg"
 		},
 		{
 			"name": "Bremer Landesbank",
 			"slug": "bremer-landesbank"
+		},
+		{
+			"name": "Bremer Landesbank, 28195 Bremen",
+			"slug": "bremer-landesbank-28195-bremen"
 		},
 		{
 			"name": "Bremer Rhederverein e.V.",
@@ -4454,6 +4554,10 @@ var searchdb = {
 			"slug": "bsb-bentlage-gmbh-co-kg-bielefeld"
 		},
 		{
+			"name": "BSN Medical GmbH",
+			"slug": "bsn-medical-gmbh"
+		},
+		{
 			"name": "BSR",
 			"slug": "bsr"
 		},
@@ -4510,16 +4614,16 @@ var searchdb = {
 			"slug": "bundesdruckerei"
 		},
 		{
-			"name": "Bundesdruckerei GmbH",
-			"slug": "bundesdruckerei-gmbh"
-		},
-		{
 			"name": "Bundesland Saarland",
 			"slug": "bundesland-saarland"
 		},
 		{
 			"name": "Bundesministerium für Bildung und Forschung",
 			"slug": "bundesministerium-fuer-bildung-und-forschung"
+		},
+		{
+			"name": "Bundesrechtsanwaltskammer Berlin",
+			"slug": "bundesrechtsanwaltskammer-berlin"
 		},
 		{
 			"name": "Bundesverband der deutschen Kalkindustrie",
@@ -4558,12 +4662,8 @@ var searchdb = {
 			"slug": "busse-von-colbe-prof-dr-walther"
 		},
 		{
-			"name": "buw Consulting GmbH",
-			"slug": "buw-consulting-gmbh"
-		},
-		{
-			"name": "buw Holding GmbH",
-			"slug": "buw-holding-gmbh"
+			"name": "buw",
+			"slug": "buw"
 		},
 		{
 			"name": "BVG",
@@ -4572,6 +4672,10 @@ var searchdb = {
 		{
 			"name": "BVK Auslandszahlungsverk.",
 			"slug": "bvk-auslandszahlungsverk"
+		},
+		{
+			"name": "BW Messebau, Harsum",
+			"slug": "bw-messebau-harsum"
 		},
 		{
 			"name": "BWF Offermann, Schmid & Co. KG",
@@ -4698,12 +4802,24 @@ var searchdb = {
 			"slug": "carl-fuhr-gmbh-co-kg"
 		},
 		{
+			"name": "Carl Leiber, Cloppenburg",
+			"slug": "carl-leiber-cloppenburg"
+		},
+		{
 			"name": "Carl Zeiss",
 			"slug": "carl-zeiss"
 		},
 		{
 			"name": "Carlo und Karin Giersch-Stiftung",
 			"slug": "carlo-und-karin-giersch-stiftung"
+		},
+		{
+			"name": "Carlsberg A/S",
+			"slug": "carlsberg-as"
+		},
+		{
+			"name": "Carpenter, Dr. Kevin, 26209 Hatten",
+			"slug": "carpenter-dr-kevin-26209-hatten"
 		},
 		{
 			"name": "Carsten Maschmeyer",
@@ -4726,6 +4842,10 @@ var searchdb = {
 			"slug": "cassidian-air-systems"
 		},
 		{
+			"name": "CBRE GmbH, Hamburg",
+			"slug": "cbre-gmbh-hamburg"
+		},
+		{
 			"name": "CD Adapco",
 			"slug": "cd-adapco"
 		},
@@ -4744,6 +4864,10 @@ var searchdb = {
 		{
 			"name": "CE-LAB GmbH",
 			"slug": "ce-lab-gmbh"
+		},
+		{
+			"name": "Celgene GmbH",
+			"slug": "celgene-gmbh"
 		},
 		{
 			"name": "Cell Pharm GmbH",
@@ -4786,10 +4910,6 @@ var searchdb = {
 			"slug": "centrale-bond-van-meubelfabrikanten-cbm"
 		},
 		{
-			"name": "CEO Osypka AG",
-			"slug": "ceo-osypka-ag"
-		},
-		{
 			"name": "CeramTec GmbH",
 			"slug": "ceramtec-gmbh"
 		},
@@ -4802,8 +4922,8 @@ var searchdb = {
 			"slug": "cetoni-gmbh"
 		},
 		{
-			"name": "Cewe Color AG & Co. OHG",
-			"slug": "cewe-color-ag-co-ohg"
+			"name": "Cewe",
+			"slug": "cewe"
 		},
 		{
 			"name": "cfaed - Center for Advancing Elektronics Dresden",
@@ -4830,12 +4950,20 @@ var searchdb = {
 			"slug": "checkpoint-charly-stiftung-berlin"
 		},
 		{
+			"name": "Chem Trend GmbH",
+			"slug": "chem-trend-gmbh"
+		},
+		{
 			"name": "Chemie-Verbände Baden-Württemberg",
 			"slug": "chemie-verbaende-baden-wuerttemberg"
 		},
 		{
 			"name": "Chemnitzer Zahnradfabrik GmbH & Co. KG",
 			"slug": "chemnitzer-zahnradfabrik-gmbh-co-kg"
+		},
+		{
+			"name": "Chica und Heinz Schaller Stiftung",
+			"slug": "chica-und-heinz-schaller-stiftung"
 		},
 		{
 			"name": "Chiesi GmbH",
@@ -4858,8 +4986,16 @@ var searchdb = {
 			"slug": "christiane-pietzcker"
 		},
 		{
+			"name": "Christian-Kuhlemann-Stiftung",
+			"slug": "christian-kuhlemann-stiftung"
+		},
+		{
 			"name": "Christoffers, Jens",
 			"slug": "christoffers-jens"
+		},
+		{
+			"name": "Christoph Hankers",
+			"slug": "christoph-hankers"
 		},
 		{
 			"name": "Christoph Kroschke Stiftung",
@@ -4872,6 +5008,10 @@ var searchdb = {
 		{
 			"name": "CHS CONTAINER Handel GmbH",
 			"slug": "chs-container-handel-gmbh"
+		},
+		{
+			"name": "Chugai Pharma Marketing",
+			"slug": "chugai-pharma-marketing"
 		},
 		{
 			"name": "CIC Group Immobilienentwicklungsgesellschaft mbH Berlin",
@@ -4916,10 +5056,6 @@ var searchdb = {
 		{
 			"name": "CLAAS",
 			"slug": "claas"
-		},
-		{
-			"name": "CLAAS KGaA mbH",
-			"slug": "claas-kgaa-mbh"
 		},
 		{
 			"name": "Clariant",
@@ -4998,6 +5134,10 @@ var searchdb = {
 			"slug": "cologne-chip-ag"
 		},
 		{
+			"name": "Coloplast GmbH",
+			"slug": "coloplast-gmbh"
+		},
+		{
 			"name": "Colt International GmbH",
 			"slug": "colt-international-gmbh"
 		},
@@ -5008,6 +5148,10 @@ var searchdb = {
 		{
 			"name": "ComFair GmbH",
 			"slug": "comfair-gmbh"
+		},
+		{
+			"name": "Commerz Real AG, Wiesbaden",
+			"slug": "commerz-real-ag-wiesbaden"
 		},
 		{
 			"name": "Commerzbank",
@@ -5048,6 +5192,14 @@ var searchdb = {
 		{
 			"name": "Concordia-Apotheke Plauen",
 			"slug": "concordia-apotheke-plauen"
+		},
+		{
+			"name": "Conditorei Coppenrath & Wiese GmbH & Co KG, Osnabrück",
+			"slug": "conditorei-coppenrath-wiese-gmbh-co-kg-osnabrueck"
+		},
+		{
+			"name": "Conformis Europe GmbH",
+			"slug": "conformis-europe-gmbh"
 		},
 		{
 			"name": "Conmatix Engineering Solutions GmbH",
@@ -5146,6 +5298,10 @@ var searchdb = {
 			"slug": "creditreform-kassel-dr-schlegel-gmbh"
 		},
 		{
+			"name": "Creditreform Oldenburg Bolte KG, 26123 Oldenburg",
+			"slug": "creditreform-oldenburg-bolte-kg-26123-oldenburg"
+		},
+		{
 			"name": "Creo Media",
 			"slug": "creo-media"
 		},
@@ -5170,6 +5326,10 @@ var searchdb = {
 			"slug": "currenta-gmbh-co-ohg"
 		},
 		{
+			"name": "Cushman & Wakefield LLP, Frankfurt am Main",
+			"slug": "cushman-wakefield-llp-frankfurt-am-main"
+		},
+		{
 			"name": "Cuvillier Verlag",
 			"slug": "cuvillier-verlag"
 		},
@@ -5186,6 +5346,10 @@ var searchdb = {
 			"slug": "cybio-ag"
 		},
 		{
+			"name": "cycle union GmbH, 26135 Oldenburg",
+			"slug": "cycle-union-gmbh-26135-oldenburg"
+		},
+		{
 			"name": "Cytolon AG",
 			"slug": "cytolon-ag"
 		},
@@ -5200,10 +5364,6 @@ var searchdb = {
 		{
 			"name": "D.H.W Schultz& Sohn",
 			"slug": "dhw-schultz-sohn"
-		},
-		{
-			"name": "D.Oltmannn Reederei GmbH & Co.KG, Bremen",
-			"slug": "doltmannn-reederei-gmbh-cokg-bremen"
 		},
 		{
 			"name": "d.velop AG",
@@ -5262,6 +5422,14 @@ var searchdb = {
 			"slug": "damien-hirst-esq"
 		},
 		{
+			"name": "Damp-Stiftung",
+			"slug": "damp-stiftung"
+		},
+		{
+			"name": "Danfoss Power Solutions",
+			"slug": "danfoss-power-solutions"
+		},
+		{
 			"name": "Daniel Kalisch Immobilienagentur, Leipzig",
 			"slug": "daniel-kalisch-immobilienagentur-leipzig"
 		},
@@ -5310,10 +5478,6 @@ var searchdb = {
 			"slug": "dca-instruments"
 		},
 		{
-			"name": "Dcon",
-			"slug": "dcon"
-		},
-		{
 			"name": "DCON Software & Service AG",
 			"slug": "dcon-software-service-ag"
 		},
@@ -5326,8 +5490,16 @@ var searchdb = {
 			"slug": "debis-immobilienmanagement"
 		},
 		{
+			"name": "Decathlon Hannover/Laatzen Sportvertriebs GmbH",
+			"slug": "decathlon-hannoverlaatzen-sportvertriebs-gmbh"
+		},
+		{
 			"name": "DECKEL MAHO Pfronten GmbH",
 			"slug": "deckel-maho-pfronten-gmbh"
+		},
+		{
+			"name": "DEEP. Underground Engineering GmbH, Bad Zwischenahn",
+			"slug": "deep-underground-engineering-gmbh-bad-zwischenahn"
 		},
 		{
 			"name": "Deere & Company",
@@ -5366,12 +5538,8 @@ var searchdb = {
 			"slug": "dekabank"
 		},
 		{
-			"name": "DEKRA Automobil GmbH",
-			"slug": "dekra-automobil-gmbh"
-		},
-		{
-			"name": "DEKRA e.V.",
-			"slug": "dekra-ev"
+			"name": "DEKRA",
+			"slug": "dekra"
 		},
 		{
 			"name": "Dell Halle GmbH",
@@ -5430,6 +5598,10 @@ var searchdb = {
 			"slug": "dessau-rooelau"
 		},
 		{
+			"name": "Detech Fahrzeugententwicklung GmbH & Co.KG, München",
+			"slug": "detech-fahrzeugententwicklung-gmbh-cokg-muenchen"
+		},
+		{
 			"name": "Detjen-Stiftung",
 			"slug": "detjen-stiftung"
 		},
@@ -5444,6 +5616,10 @@ var searchdb = {
 		{
 			"name": "Deutsch-Baltische Gemeinschaft Braunschweig",
 			"slug": "deutsch-baltische-gemeinschaft-braunschweig"
+		},
+		{
+			"name": "Deutsche ärzte Finanz AG",
+			"slug": "deutsche-aerzte-finanz-ag"
 		},
 		{
 			"name": "Deutsche Akademie der Wissenschaften und Literatur",
@@ -5470,6 +5646,10 @@ var searchdb = {
 			"slug": "deutsche-bahn"
 		},
 		{
+			"name": "Deutsche Baltische Gemeinschaft, Braunschweig",
+			"slug": "deutsche-baltische-gemeinschaft-braunschweig"
+		},
+		{
 			"name": "Deutsche Bank",
 			"slug": "deutsche-bank"
 		},
@@ -5478,8 +5658,8 @@ var searchdb = {
 			"slug": "deutsche-bundesbank"
 		},
 		{
-			"name": "Deutsche Bundesbank, Hauptverwaltung in Nordrhein-Westfalen",
-			"slug": "deutsche-bundesbank-hauptverwaltung-in-nordrhein-westfalen"
+			"name": "Deutsche Dermatologische Gesellschaft e.V.",
+			"slug": "deutsche-dermatologische-gesellschaft-ev"
 		},
 		{
 			"name": "Deutsche Diabetes Stiftung",
@@ -5502,6 +5682,14 @@ var searchdb = {
 			"slug": "deutsche-gesellschaft-fuer-qualitaet-gmbh"
 		},
 		{
+			"name": "Deutsche Gesetzliche Unfallversicherung (DGUV)",
+			"slug": "deutsche-gesetzliche-unfallversicherung-dguv"
+		},
+		{
+			"name": "Deutsche Hautkrebs- Stiftung",
+			"slug": "deutsche-hautkrebs-stiftung"
+		},
+		{
 			"name": "Deutsche José Carreras Leukämie-Stiftung e.V.",
 			"slug": "deutsche-jos-carreras-leukaemie-stiftung-ev"
 		},
@@ -5516,6 +5704,10 @@ var searchdb = {
 		{
 			"name": "Deutsche Kreditbank",
 			"slug": "deutsche-kreditbank"
+		},
+		{
+			"name": "Deutsche Leberstiftung",
+			"slug": "deutsche-leberstiftung"
 		},
 		{
 			"name": "Deutsche Maschinentechnische Gesellschaft",
@@ -5546,8 +5738,16 @@ var searchdb = {
 			"slug": "deutsche-solar-gmbh"
 		},
 		{
+			"name": "Deutsche Stiftung Denkmalschutz",
+			"slug": "deutsche-stiftung-denkmalschutz"
+		},
+		{
 			"name": "Deutsche Stiftung Friedensforschung",
 			"slug": "deutsche-stiftung-friedensforschung"
+		},
+		{
+			"name": "Deutsche Stiftungs Trust GmbH",
+			"slug": "deutsche-stiftungs-trust-gmbh"
 		},
 		{
 			"name": "Deutsche Telekom",
@@ -5614,6 +5814,10 @@ var searchdb = {
 			"slug": "deutsches-zentrum-fuer-neurodegenerative-erkrankung-ev-dzne"
 		},
 		{
+			"name": "Deutsch-Franz�sische Gesellschaft",
+			"slug": "deutsch-franzsische-gesellschaft"
+		},
+		{
 			"name": "Deutschsprachige Mykologische Gesellschaft e.V.",
 			"slug": "deutschsprachige-mykologische-gesellschaft-ev"
 		},
@@ -5626,12 +5830,12 @@ var searchdb = {
 			"slug": "develop-group"
 		},
 		{
-			"name": "DFG",
-			"slug": "dfg"
-		},
-		{
 			"name": "d-fine Gmbh",
 			"slug": "d-fine-gmbh"
+		},
+		{
+			"name": "DGPI � Deutsche Gesellschaft für Pädiatrische Infektiologie e.V.",
+			"slug": "dgpi-deutsche-gesellschaft-fuer-paediatrische-infektiologie-ev"
 		},
 		{
 			"name": "DHC Business Solutions GmbH & Co. KG",
@@ -5640,6 +5844,10 @@ var searchdb = {
 		{
 			"name": "DHC Dr. Herterich & Consultants",
 			"slug": "dhc-dr-herterich-consultants"
+		},
+		{
+			"name": "DHD-Consulting GmbH, Hildesheim",
+			"slug": "dhd-consulting-gmbh-hildesheim"
 		},
 		{
 			"name": "Dhem, Maike",
@@ -5710,28 +5918,20 @@ var searchdb = {
 			"slug": "dieckell-stiftung"
 		},
 		{
-			"name": "Dieckel-Stiftung Bremerhaven",
-			"slug": "dieckel-stiftung-bremerhaven"
-		},
-		{
 			"name": "Dieffenbacher GmbH Maschinen - und Anlagenbau",
 			"slug": "dieffenbacher-gmbh-maschinen-und-anlagenbau"
 		},
 		{
-			"name": "Diehl AKO Stiftung & Co. KG",
-			"slug": "diehl-ako-stiftung-co-kg"
+			"name": "Diehl",
+			"slug": "diehl"
 		},
 		{
-			"name": "Diehl Stiftung & Co. KG",
-			"slug": "diehl-stiftung-co-kg"
+			"name": "Dienstleistungsgesellschaft der norddeutschen Wirtschaft",
+			"slug": "dienstleistungsgesellschaft-der-norddeutschen-wirtschaft"
 		},
 		{
 			"name": "Diersch & Schröder GmbH & Co. KG, Bremen",
 			"slug": "diersch-schroeder-gmbh-co-kg-bremen"
-		},
-		{
-			"name": "Diersch & Schröder GmbH & Co.KG",
-			"slug": "diersch-schroeder-gmbh-cokg"
 		},
 		{
 			"name": "Dieter Conle",
@@ -5754,6 +5954,22 @@ var searchdb = {
 			"slug": "diganars-inc"
 		},
 		{
+			"name": "Dinescu, Prof. Dr. Violetta, 26133 Oldenburg",
+			"slug": "dinescu-prof-dr-violetta-26133-oldenburg"
+		},
+		{
+			"name": "Dipl. Ing. Nil Berke",
+			"slug": "dipl-ing-nil-berke"
+		},
+		{
+			"name": "Dipl. Ingenieur Horst Engelhardt",
+			"slug": "dipl-ingenieur-horst-engelhardt"
+		},
+		{
+			"name": "Dipl.-Ing. Rolf Herrmann Langenberg",
+			"slug": "dipl-ing-rolf-herrmann-langenberg"
+		},
+		{
 			"name": "Director Ole Fogh Olsen",
 			"slug": "director-ole-fogh-olsen"
 		},
@@ -5774,8 +5990,16 @@ var searchdb = {
 			"slug": "distrelec-schuricht-gmbh"
 		},
 		{
+			"name": "Dittberner, Dr. Andrew, USA 60026",
+			"slug": "dittberner-dr-andrew-usa-60026"
+		},
+		{
 			"name": "Dittmer, Jan Christian",
 			"slug": "dittmer-jan-christian"
+		},
+		{
+			"name": "DKFZ",
+			"slug": "dkfz"
 		},
 		{
 			"name": "DLA Piper",
@@ -5806,8 +6030,8 @@ var searchdb = {
 			"slug": "dobeneck-technologie-stiftung"
 		},
 		{
-			"name": "Doderer-Winkler, Alfred Dr.-Ing.",
-			"slug": "doderer-winkler-alfred-dr-ing"
+			"name": "Doktorandennetzwerk Wirtschaftswissenschaften",
+			"slug": "doktorandennetzwerk-wirtschaftswissenschaften"
 		},
 		{
 			"name": "Dom Buchhandlung",
@@ -5816,6 +6040,10 @@ var searchdb = {
 		{
 			"name": "Dorest Finance",
 			"slug": "dorest-finance"
+		},
+		{
+			"name": "Doris Hartmann Eggeling und Klaus-Dieter Eggeling, Braunschweig",
+			"slug": "doris-hartmann-eggeling-und-klaus-dieter-eggeling-braunschweig"
 		},
 		{
 			"name": "Doris Hartmann-Eggeling und Klaus-Dieter Eggeling",
@@ -5842,32 +6070,12 @@ var searchdb = {
 			"slug": "douglas-holdin"
 		},
 		{
-			"name": "Dow AgroSciences GmbH",
-			"slug": "dow-agrosciences-gmbh"
-		},
-		{
-			"name": "Dow Corning",
-			"slug": "dow-corning"
-		},
-		{
-			"name": "DOW OLEFINVERBUND GmbH",
-			"slug": "dow-olefinverbund-gmbh"
-		},
-		{
-			"name": "Dr. Adolf Doderer, Melsbach",
-			"slug": "dr-adolf-doderer-melsbach"
-		},
-		{
-			"name": "Dr. Alfred W. Doderer-Winkler",
-			"slug": "dr-alfred-w-doderer-winkler"
+			"name": "Dow Chemical",
+			"slug": "dow-chemical"
 		},
 		{
 			"name": "Dr. August und Erika Appenrodt-Stiftung",
 			"slug": "dr-august-und-erika-appenrodt-stiftung"
-		},
-		{
-			"name": "Dr. B. Krone Stiftung GmbH",
-			"slug": "dr-b-krone-stiftung-gmbh"
 		},
 		{
 			"name": "Dr. Babor GmbH & Co. KG",
@@ -5876,10 +6084,6 @@ var searchdb = {
 		{
 			"name": "Dr. Barbara-Mez-Starck-Stiftung",
 			"slug": "dr-barbara-mez-starck-stiftung"
-		},
-		{
-			"name": "Dr. Beate Schuler",
-			"slug": "dr-beate-schuler"
 		},
 		{
 			"name": "Dr. Becker Klinikgesellschaft mbH & Co. KG",
@@ -5910,10 +6114,6 @@ var searchdb = {
 			"slug": "dr-dirk-baier-stiftung"
 		},
 		{
-			"name": "Dr. Doderer-Winkler",
-			"slug": "dr-doderer-winkler"
-		},
-		{
 			"name": "Dr. Doris Schawaller",
 			"slug": "dr-doris-schawaller"
 		},
@@ -5930,8 +6130,16 @@ var searchdb = {
 			"slug": "dr-elke-krieger"
 		},
 		{
+			"name": "Dr. Erich Lübbert Stiftung, Essen",
+			"slug": "dr-erich-luebbert-stiftung-essen"
+		},
+		{
 			"name": "Dr. Eva Jüttner (Alumna der Saar-Uni)",
 			"slug": "dr-eva-juettner-alumna-der-saar-uni"
+		},
+		{
+			"name": "Dr. Falk Pharma GmbH",
+			"slug": "dr-falk-pharma-gmbh"
 		},
 		{
 			"name": "Dr. Fink-Stauf GmbH & Co. KG Tief- und Straöenbau",
@@ -5940,6 +6148,14 @@ var searchdb = {
 		{
 			"name": "Dr. Friedrich-Karl Schieferdecker",
 			"slug": "dr-friedrich-karl-schieferdecker"
+		},
+		{
+			"name": "Dr. Friedrich-Lehner-Stiftung",
+			"slug": "dr-friedrich-lehner-stiftung"
+		},
+		{
+			"name": "Dr. Georg Göricke",
+			"slug": "dr-georg-goericke"
 		},
 		{
 			"name": "Dr. Gerd Röhnelt",
@@ -5954,10 +6170,6 @@ var searchdb = {
 			"slug": "dr-grandel-gruppe"
 		},
 		{
-			"name": "Dr. h.c. Peter Waskönig-Stiftung",
-			"slug": "dr-hc-peter-waskoenig-stiftung"
-		},
-		{
 			"name": "Dr. Hans Feith und Dr. Elisabeth Feith-Stiftung",
 			"slug": "dr-hans-feith-und-dr-elisabeth-feith-stiftung"
 		},
@@ -5966,12 +6178,16 @@ var searchdb = {
 			"slug": "dr-hans-maas"
 		},
 		{
+			"name": "Dr. Hans-Jürgen Kiesow",
+			"slug": "dr-hans-juergen-kiesow"
+		},
+		{
 			"name": "Dr. Hans-Peter Hamm",
 			"slug": "dr-hans-peter-hamm"
 		},
 		{
-			"name": "Dr. Hans-Wolf Sievert",
-			"slug": "dr-hans-wolf-sievert"
+			"name": "Dr. Hans-Peter Hamm, Osnabrück",
+			"slug": "dr-hans-peter-hamm-osnabrueck"
 		},
 		{
 			"name": "Dr. Harro + Marianne Lührmann",
@@ -5984,6 +6200,10 @@ var searchdb = {
 		{
 			"name": "Dr. Helmut Rothenberger Holding GmbH",
 			"slug": "dr-helmut-rothenberger-holding-gmbh"
+		},
+		{
+			"name": "Dr. Hesse und Partner Ingenieure",
+			"slug": "dr-hesse-und-partner-ingenieure"
 		},
 		{
 			"name": "Dr. Horn Unternehmensberatung GmbH",
@@ -6016,6 +6236,10 @@ var searchdb = {
 		{
 			"name": "Dr. Karin Zinkann",
 			"slug": "dr-karin-zinkann"
+		},
+		{
+			"name": "Dr. Karl-Heinz Vehling",
+			"slug": "dr-karl-heinz-vehling"
 		},
 		{
 			"name": "Dr. Kay und Maria Willborn",
@@ -6062,12 +6286,20 @@ var searchdb = {
 			"slug": "dr-michael-bunte"
 		},
 		{
+			"name": "Dr. Michael Weber",
+			"slug": "dr-michael-weber"
+		},
+		{
+			"name": "Dr. Naif Abdullah Hamad Alh",
+			"slug": "dr-naif-abdullah-hamad-alh"
+		},
+		{
 			"name": "Dr. Oetker Nahrungsmittel KG, Bielefeld",
 			"slug": "dr-oetker-nahrungsmittel-kg-bielefeld"
 		},
 		{
-			"name": "Dr. Peter Osypka-Stiftung",
-			"slug": "dr-peter-osypka-stiftung"
+			"name": "Dr. Rüdiger Scholz",
+			"slug": "dr-ruediger-scholz"
 		},
 		{
 			"name": "Dr. Regina Prenzel",
@@ -6076,10 +6308,6 @@ var searchdb = {
 		{
 			"name": "Dr. Reinfried-Pohl-Stiftung",
 			"slug": "dr-reinfried-pohl-stiftung"
-		},
-		{
-			"name": "Dr. Rentschler Holding GmbH & Co.KG",
-			"slug": "dr-rentschler-holding-gmbh-cokg"
 		},
 		{
 			"name": "Dr. Richard Pyritz",
@@ -6102,8 +6330,16 @@ var searchdb = {
 			"slug": "dr-senckenbergische-stiftung"
 		},
 		{
+			"name": "Dr. Steffan-Datentechnik",
+			"slug": "dr-steffan-datentechnik"
+		},
+		{
 			"name": "Dr. Theiss Naturwaren GmbH",
 			"slug": "dr-theiss-naturwaren-gmbh"
+		},
+		{
+			"name": "Dr. Ulrich Stiebel, Obergünzburg",
+			"slug": "dr-ulrich-stiebel-oberguenzburg"
 		},
 		{
 			"name": "Dr. Vielberth Verwaltungsgesellschaft mbH",
@@ -6122,6 +6358,10 @@ var searchdb = {
 			"slug": "dr-wolfgang-koerber"
 		},
 		{
+			"name": "Dr.-Ing. E.h. Udo-Willi Kögler, Wolfsburg",
+			"slug": "dr-ing-eh-udo-willi-koegler-wolfsburg"
+		},
+		{
 			"name": "Dr.-Ing. eh. Fritz Honsel-Stiftung",
 			"slug": "dr-ing-eh-fritz-honsel-stiftung"
 		},
@@ -6130,12 +6370,12 @@ var searchdb = {
 			"slug": "dr-ing-jochen-bredemeyer"
 		},
 		{
-			"name": "Dräger",
-			"slug": "draeger"
+			"name": "Dr.-Ing. Schaumann, Peter",
+			"slug": "dr-ing-schaumann-peter"
 		},
 		{
-			"name": "Dräger Medical Deutschland GmbH",
-			"slug": "draeger-medical-deutschland-gmbh"
+			"name": "Dräger",
+			"slug": "draeger"
 		},
 		{
 			"name": "Dräxlmaier Group",
@@ -6234,6 +6474,10 @@ var searchdb = {
 			"slug": "dsz-deutsches-stiftungszentrum-gmbh"
 		},
 		{
+			"name": "Dt. Gesellschaft für Internationale Zusammenarbeit",
+			"slug": "dt-gesellschaft-fuer-internationale-zusammenarbeit"
+		},
+		{
 			"name": "Dt. Stiftung Trad. Chines.",
 			"slug": "dt-stiftung-trad-chines"
 		},
@@ -6286,6 +6530,10 @@ var searchdb = {
 			"slug": "dvs-digital-video-systems-gmbh"
 		},
 		{
+			"name": "Dyckerhoff AG, Wiesbaden",
+			"slug": "dyckerhoff-ag-wiesbaden"
+		},
+		{
 			"name": "Dyomics GmbH",
 			"slug": "dyomics-gmbh"
 		},
@@ -6306,16 +6554,16 @@ var searchdb = {
 			"slug": "eon"
 		},
 		{
+			"name": "E+S Rückverischerung AG",
+			"slug": "es-rueckverischerung-ag"
+		},
+		{
 			"name": "E+S Rückversicherung AG",
 			"slug": "es-rueckversicherung-ag"
 		},
 		{
 			"name": "E3/DC GmbH",
 			"slug": "e3dc-gmbh"
-		},
-		{
-			"name": "EADS",
-			"slug": "eads"
 		},
 		{
 			"name": "EAN - Energieanlagen Nord GmbH Neubrandenburg",
@@ -6328,10 +6576,6 @@ var searchdb = {
 		{
 			"name": "Eaton Industries GmbH",
 			"slug": "eaton-industries-gmbh"
-		},
-		{
-			"name": "Ebelin und Gerd Bucerius",
-			"slug": "ebelin-und-gerd-bucerius"
 		},
 		{
 			"name": "Ebert-Ing.",
@@ -6354,6 +6598,10 @@ var searchdb = {
 			"slug": "ecclesia-holding-gmbh-detmold"
 		},
 		{
+			"name": "ECCLESIA mildenberger Hospital GmbH",
+			"slug": "ecclesia-mildenberger-hospital-gmbh"
+		},
+		{
 			"name": "ecco ecology & communication",
 			"slug": "ecco-ecology-communication"
 		},
@@ -6370,12 +6618,16 @@ var searchdb = {
 			"slug": "eckcellent-gmbh"
 		},
 		{
-			"name": "ECOVIS Grieger Mallison",
-			"slug": "ecovis-grieger-mallison"
+			"name": "Eco Rail Innovation",
+			"slug": "eco-rail-innovation"
 		},
 		{
-			"name": "ECOVIS Grieger Mallison Management AG",
-			"slug": "ecovis-grieger-mallison-management-ag"
+			"name": "ecology GmbH i. V. der Fa. Haufe-Lexware GmbH & Co KG, Freiburg",
+			"slug": "ecology-gmbh-i-v-der-fa-haufe-lexware-gmbh-co-kg-freiburg"
+		},
+		{
+			"name": "ECOVIS Grieger Mallison",
+			"slug": "ecovis-grieger-mallison"
 		},
 		{
 			"name": "Ed. Züblin AG",
@@ -6498,10 +6750,6 @@ var searchdb = {
 			"slug": "ekkehard-stiftung"
 		},
 		{
-			"name": "EKO-Stiftung Bildung Brandenburg",
-			"slug": "eko-stiftung-bildung-brandenburg"
-		},
-		{
 			"name": "EKO-Stiftung Bildung Ostbrandenburg",
 			"slug": "eko-stiftung-bildung-ostbrandenburg"
 		},
@@ -6550,6 +6798,14 @@ var searchdb = {
 			"slug": "elke-doerner-hamburg"
 		},
 		{
+			"name": "ELLA CS S.R.O.",
+			"slug": "ella-cs-sro"
+		},
+		{
+			"name": "Elliptec Resonant Actuator AG, Dortmund",
+			"slug": "elliptec-resonant-actuator-ag-dortmund"
+		},
+		{
 			"name": "elobau",
 			"slug": "elobau"
 		},
@@ -6578,6 +6834,10 @@ var searchdb = {
 			"slug": "elterninitiative-leukaemie-und-tumorkranker-kinder-wuerzburg-ev"
 		},
 		{
+			"name": "Elternverein Albert-Schweizer-Schul",
+			"slug": "elternverein-albert-schweizer-schul"
+		},
+		{
 			"name": "Elvinger, Hoss & Prussen",
 			"slug": "elvinger-hoss-prussen"
 		},
@@ -6588,6 +6848,14 @@ var searchdb = {
 		{
 			"name": "Embedded Microsystems Bremen GmbH",
 			"slug": "embedded-microsystems-bremen-gmbh"
+		},
+		{
+			"name": "Emder Schlepp-Betrieb GmbH",
+			"slug": "emder-schlepp-betrieb-gmbh"
+		},
+		{
+			"name": "Emersion Grundstücksverwaltung GmbH",
+			"slug": "emersion-grundstuecksverwaltung-gmbh"
 		},
 		{
 			"name": "Emerson Deutschland",
@@ -6606,10 +6874,6 @@ var searchdb = {
 			"slug": "emka-beschlagteile-gmbh-co-kg"
 		},
 		{
-			"name": "EML Research gGmbH (Tochtergesellschaft der Klaus Tschira Stiftung)",
-			"slug": "eml-research-ggmbh-tochtergesellschaft-der-klaus-tschira-stiftung"
-		},
-		{
 			"name": "Emmy-Hüttemann-Stiftung, Zürich",
 			"slug": "emmy-huettemann-stiftung-zuerich"
 		},
@@ -6620,6 +6884,10 @@ var searchdb = {
 		{
 			"name": "EMP Planungsgesellschaft für Prozeöautomation mbH",
 			"slug": "emp-planungsgesellschaft-fuer-prozeoeautomation-mbh"
+		},
+		{
+			"name": "EMS - Electro Medical Systems SA",
+			"slug": "ems-electro-medical-systems-sa"
 		},
 		{
 			"name": "EMU Institut für Energie-, System-, Material- und Umwelttechnik e.V.",
@@ -6680,6 +6948,10 @@ var searchdb = {
 		{
 			"name": "Energydesign",
 			"slug": "energydesign"
+		},
+		{
+			"name": "Enertech GmbH Adjutantenkamp 8 58675 Hemer",
+			"slug": "enertech-gmbh-adjutantenkamp-8-58675-hemer"
 		},
 		{
 			"name": "ENEX Finanzpartner und Beteiligungsgesellschaft mbH",
@@ -6818,26 +7090,6 @@ var searchdb = {
 			"slug": "ernst-young"
 		},
 		{
-			"name": "Ernst & Young AG",
-			"slug": "ernst-young-ag"
-		},
-		{
-			"name": "Ernst & Young AG Wirtschsftsprüfungsgesellschft Steuerberatungsgesellschaft",
-			"slug": "ernst-young-ag-wirtschsftspruefungsgesellschft-steuerberatungsgesellschaft"
-		},
-		{
-			"name": "Ernst & Young GmbH",
-			"slug": "ernst-young-gmbh"
-		},
-		{
-			"name": "Ernst & Young GmbH, Prof. Sven Hayn",
-			"slug": "ernst-young-gmbh-prof-sven-hayn"
-		},
-		{
-			"name": "Ernst &Young Real Estate",
-			"slug": "ernst-young-real-estate"
-		},
-		{
 			"name": "Ernst A. C. Lange-Stiftung",
 			"slug": "ernst-a-c-lange-stiftung"
 		},
@@ -6918,6 +7170,10 @@ var searchdb = {
 			"slug": "essilor-gmbh"
 		},
 		{
+			"name": "Esterel Technologies GmbH, 64295 Darmstadt",
+			"slug": "esterel-technologies-gmbh-64295-darmstadt"
+		},
+		{
 			"name": "ETA - Elektrotechnische Apparate GmbH",
 			"slug": "eta-elektrotechnische-apparate-gmbh"
 		},
@@ -6954,10 +7210,6 @@ var searchdb = {
 			"slug": "euro-engineering"
 		},
 		{
-			"name": "Eurocopter Deutschland GmbH",
-			"slug": "eurocopter-deutschland-gmbh"
-		},
-		{
 			"name": "Eurocylinder systems AG",
 			"slug": "eurocylinder-systems-ag"
 		},
@@ -6976,6 +7228,10 @@ var searchdb = {
 		{
 			"name": "Europa-Center Uwe Heinrich Suhr Stiftung",
 			"slug": "europa-center-uwe-heinrich-suhr-stiftung"
+		},
+		{
+			"name": "European Association for the Study",
+			"slug": "european-association-for-the-study"
 		},
 		{
 			"name": "European Federation of Immunological Societies",
@@ -7006,6 +7262,10 @@ var searchdb = {
 			"slug": "ev-diakonissenkrankenhaus-leipzig"
 		},
 		{
+			"name": "Ev. Krankenhaus Oldenburg, 26122 Oldenburg",
+			"slug": "ev-krankenhaus-oldenburg-26122-oldenburg"
+		},
+		{
 			"name": "Ev. Medienverband in Sachsen e.V.",
 			"slug": "ev-medienverband-in-sachsen-ev"
 		},
@@ -7020,6 +7280,10 @@ var searchdb = {
 		{
 			"name": "Ev.-luth. Kirchenkreis Hildesheim-Sarstedt",
 			"slug": "ev-luth-kirchenkreis-hildesheim-sarstedt"
+		},
+		{
+			"name": "Ev.-luth. Landeskirche Hannover",
+			"slug": "ev-luth-landeskirche-hannover"
 		},
 		{
 			"name": "EV3 germany",
@@ -7054,16 +7318,16 @@ var searchdb = {
 			"slug": "evangelisch-lutherische-landeskirche-hannovers"
 		},
 		{
-			"name": "Evangelisch-reformierte Kirche",
-			"slug": "evangelisch-reformierte-kirche"
-		},
-		{
 			"name": "Every Angle Deutschland GmbH",
 			"slug": "every-angle-deutschland-gmbh"
 		},
 		{
 			"name": "EVI Energieversorgung Hildesheim GmbH & Co. KG",
 			"slug": "evi-energieversorgung-hildesheim-gmbh-co-kg"
+		},
+		{
+			"name": "EVI Energieversorgung Hildesheim GmbH & Co. KG, Hildesheim",
+			"slug": "evi-energieversorgung-hildesheim-gmbh-co-kg-hildesheim"
 		},
 		{
 			"name": "Evonik",
@@ -7106,8 +7370,8 @@ var searchdb = {
 			"slug": "f-g-conzen-stiftung-berlin"
 		},
 		{
-			"name": "Fa. Haraeus-Kulzer-GmbH",
-			"slug": "fa-haraeus-kulzer-gmbh"
+			"name": "F. und G. Bohnekampstiftung, Osnabrück",
+			"slug": "f-und-g-bohnekampstiftung-osnabrueck"
 		},
 		{
 			"name": "Fa. Licher, Medizintechnologie",
@@ -7116,10 +7380,6 @@ var searchdb = {
 		{
 			"name": "Fa. Sommer Corporate Media - Elanders GmbH",
 			"slug": "fa-sommer-corporate-media-elanders-gmbh"
-		},
-		{
-			"name": "Fa. Waskönig + Walter Kabelwerke",
-			"slug": "fa-waskoenig-walter-kabelwerke"
 		},
 		{
 			"name": "Fa. Weigandbau",
@@ -7150,16 +7410,20 @@ var searchdb = {
 			"slug": "foerdergesellschaft-der-hochschule-osnabrueck-ev"
 		},
 		{
+			"name": "Fördergesellschaft des Lions Club Wilhelmshaven e.V.",
+			"slug": "foerdergesellschaft-des-lions-club-wilhelmshaven-ev"
+		},
+		{
+			"name": "Fördergesellschaft des Rotary Clubs Lehrte",
+			"slug": "foerdergesellschaft-des-rotary-clubs-lehrte"
+		},
+		{
 			"name": "Fördergesellschaft Finanzmarktforschung e.V.",
 			"slug": "foerdergesellschaft-finanzmarktforschung-ev"
 		},
 		{
 			"name": "Fördergesellschaft Westmünsterland der Fachhochschule in Bocholt/Ahaus",
 			"slug": "foerdergesellschaft-westmuensterland-der-fachhochschule-in-bocholtahaus"
-		},
-		{
-			"name": "Fördergesellschaft Westmünsterland, Bocholt",
-			"slug": "foerdergesellschaft-westmuensterland-bocholt"
 		},
 		{
 			"name": "Förderkreis",
@@ -7198,6 +7462,10 @@ var searchdb = {
 			"slug": "foerderkreis-fuer-die-hochschule-kempten-e-v"
 		},
 		{
+			"name": "Förderkreis Hochschule Emden/Leer",
+			"slug": "foerderkreis-hochschule-emdenleer"
+		},
+		{
 			"name": "Förderkreis Rückversicherung der Fachhochschule Köln",
 			"slug": "foerderkreis-rueckversicherung-der-fachhochschule-koeln"
 		},
@@ -7222,16 +7490,12 @@ var searchdb = {
 			"slug": "foerderverein-dzentrums-fzahn-mund-und-kieferheil"
 		},
 		{
-			"name": "Förderverein der BTU",
-			"slug": "foerderverein-der-btu"
-		},
-		{
 			"name": "Förderverein der BTU Cottbus",
 			"slug": "foerderverein-der-btu-cottbus"
 		},
 		{
-			"name": "Förderverein der BTU Cottbus e.V.",
-			"slug": "foerderverein-der-btu-cottbus-ev"
+			"name": "Förderverein der Fachhochschule Göttingen, Göttingen",
+			"slug": "foerderverein-der-fachhochschule-goettingen-goettingen"
 		},
 		{
 			"name": "Förderverein der Fachhochschule in Wilhelmshaven e.V.",
@@ -7274,6 +7538,10 @@ var searchdb = {
 			"slug": "foerderverein-fuer-mobile-arbeitsmaschinen-ev"
 		},
 		{
+			"name": "Förderverein Fachhochschule Göttingen e. V.",
+			"slug": "foerderverein-fachhochschule-goettingen-e-v"
+		},
+		{
 			"name": "Förderverein Fachhochschule Göttingen e.V.",
 			"slug": "foerderverein-fachhochschule-goettingen-ev"
 		},
@@ -7290,12 +7558,24 @@ var searchdb = {
 			"slug": "foerderverein-fh-lausitz-ev"
 		},
 		{
+			"name": "Förderverein Holzingenieurwesen an der HAWK in Hildesheim e. V.",
+			"slug": "foerderverein-holzingenieurwesen-an-der-hawk-in-hildesheim-e-v"
+		},
+		{
 			"name": "Förderverein Partikeltechnik Braunschweig e.V.",
 			"slug": "foerderverein-partikeltechnik-braunschweig-ev"
 		},
 		{
+			"name": "Förderverein Rotary Club Oldenburg-Ammerland, 26121 Oldenburg",
+			"slug": "foerderverein-rotary-club-oldenburg-ammerland-26121-oldenburg"
+		},
+		{
 			"name": "Förderverein Theophil. Rostock",
 			"slug": "foerderverein-theophil-rostock"
+		},
+		{
+			"name": "Förderverein Wirtschafts- und Rechtswissenschaften, 26008 Oldenburg",
+			"slug": "foerderverein-wirtschafts-und-rechtswissenschaften-26008-oldenburg"
 		},
 		{
 			"name": "Förderverein Wirtschaftswissenschaften",
@@ -7308,10 +7588,6 @@ var searchdb = {
 		{
 			"name": "Förstina-Sprudel Mineral- und Heilquelle - Ehrhardt & Sohn GmbH & Co.",
 			"slug": "foerstina-sprudel-mineral-und-heilquelle-ehrhardt-sohn-gmbh-co"
-		},
-		{
-			"name": "Fachhochschulstiftung der Sparkasse Gifhorn-Wolfsburg",
-			"slug": "fachhochschulstiftung-der-sparkasse-gifhorn-wolfsburg"
 		},
 		{
 			"name": "Fachhochschulstiftung Schwäbisch Hal",
@@ -7370,6 +7646,10 @@ var searchdb = {
 			"slug": "faun-umwelttechnik-gmbh-cokg"
 		},
 		{
+			"name": "Faurecia Autositze GmbH",
+			"slug": "faurecia-autositze-gmbh"
+		},
+		{
 			"name": "Fay",
 			"slug": "fay"
 		},
@@ -7402,20 +7682,32 @@ var searchdb = {
 			"slug": "felss-gmbh"
 		},
 		{
-			"name": "Fendt",
-			"slug": "fendt"
+			"name": "Fels-Werke GmbH, Goslar",
+			"slug": "fels-werke-gmbh-goslar"
 		},
 		{
-			"name": "FERCHAU Engineering",
-			"slug": "ferchau-engineering"
+			"name": "Fendt",
+			"slug": "fendt"
 		},
 		{
 			"name": "Ferchau Engineering",
 			"slug": "ferchau-engineering"
 		},
 		{
-			"name": "Ferchau Engineering GmbH",
-			"slug": "ferchau-engineering-gmbh"
+			"name": "Ferchau GmbH",
+			"slug": "ferchau-gmbh"
+		},
+		{
+			"name": "Ferdinand-Braun-Institut",
+			"slug": "ferdinand-braun-institut"
+		},
+		{
+			"name": "Fernseh- u. Kinotechnische Gesellschaft e.V., Berlin",
+			"slug": "fernseh-u-kinotechnische-gesellschaft-ev-berlin"
+		},
+		{
+			"name": "FERRING Arzneimittel GmbH",
+			"slug": "ferring-arzneimittel-gmbh"
 		},
 		{
 			"name": "Festo",
@@ -7462,8 +7754,16 @@ var searchdb = {
 			"slug": "filmpark-babelsberg-gmbh-potsdam"
 		},
 		{
+			"name": "FIM Kernkompetenzzentrum, Augsburg",
+			"slug": "fim-kernkompetenzzentrum-augsburg"
+		},
+		{
 			"name": "Finanzgruppe Baden-Württemberg",
 			"slug": "finanzgruppe-baden-wuerttemberg"
+		},
+		{
+			"name": "Firma",
+			"slug": "firma"
 		},
 		{
 			"name": "Firma Betz",
@@ -7478,28 +7778,16 @@ var searchdb = {
 			"slug": "firma-mueller"
 		},
 		{
-			"name": "Firma Rentschler",
-			"slug": "firma-rentschler"
-		},
-		{
-			"name": "Firma Vetter-Pharma-Fertigung GmbH und Co. KG",
-			"slug": "firma-vetter-pharma-fertigung-gmbh-und-co-kg"
-		},
-		{
-			"name": "Firma Voith Turbo GmbH",
-			"slug": "firma-voith-turbo-gmbh"
-		},
-		{
-			"name": "Firmengruppe Dieter Conle",
-			"slug": "firmengruppe-dieter-conle"
-		},
-		{
-			"name": "Firmengruppe VETTER",
-			"slug": "firmengruppe-vetter"
+			"name": "Firma Wehrhahn, Hannover",
+			"slug": "firma-wehrhahn-hannover"
 		},
 		{
 			"name": "Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries",
 			"slug": "firmenkonsortium-20-firmen-aus-dem-landkreis-donau-ries"
+		},
+		{
+			"name": "FIT e. V.",
+			"slug": "fit-e-v"
 		},
 		{
 			"name": "Flüwo Bau + Service GmbH",
@@ -7520,6 +7808,10 @@ var searchdb = {
 		{
 			"name": "Florian Felix Weyh Berlin",
 			"slug": "florian-felix-weyh-berlin"
+		},
+		{
+			"name": "Flossbach von Storch AG",
+			"slug": "flossbach-von-storch-ag"
 		},
 		{
 			"name": "Flottweg",
@@ -7570,12 +7862,16 @@ var searchdb = {
 			"slug": "for-life"
 		},
 		{
+			"name": "Forberg Schneider Stiftung, 80796 München",
+			"slug": "forberg-schneider-stiftung-80796-muenchen"
+		},
+		{
 			"name": "Ford",
 			"slug": "ford"
 		},
 		{
-			"name": "Ford-Werke GmbH",
-			"slug": "ford-werke-gmbh"
+			"name": "Forest Laboratories Nederland B.V",
+			"slug": "forest-laboratories-nederland-bv"
 		},
 		{
 			"name": "Forschungs- und Entwicklungsgemeinschaft für Bauphysik e.V.",
@@ -7622,6 +7918,10 @@ var searchdb = {
 			"slug": "fotofinder-systems-gmbh"
 		},
 		{
+			"name": "Foundation Compositio",
+			"slug": "foundation-compositio"
+		},
+		{
 			"name": "Fr. Lürssen Werft GmbH & Co. KG",
 			"slug": "fr-luerssen-werft-gmbh-co-kg"
 		},
@@ -7630,8 +7930,20 @@ var searchdb = {
 			"slug": "fraenkische-rohrwerke-gebr-kirchner-gmbh-co-kg"
 		},
 		{
+			"name": "Frank Bremer",
+			"slug": "frank-bremer"
+		},
+		{
 			"name": "FRANK HIRSCHVOGEL STIFTUNG",
 			"slug": "frank-hirschvogel-stiftung"
+		},
+		{
+			"name": "Frank Thiele",
+			"slug": "frank-thiele"
+		},
+		{
+			"name": "Frank Wegner",
+			"slug": "frank-wegner"
 		},
 		{
 			"name": "Frankenberg GmbH",
@@ -7640,6 +7952,10 @@ var searchdb = {
 		{
 			"name": "Frankfurt School of Finance",
 			"slug": "frankfurt-school-of-finance"
+		},
+		{
+			"name": "Frankfurter Allgemeine Zeitung",
+			"slug": "frankfurter-allgemeine-zeitung"
 		},
 		{
 			"name": "Frankfurter Förderverein für Physikalische Grundlagenforschung",
@@ -7658,16 +7974,20 @@ var searchdb = {
 			"slug": "frankfurter-stiftung-fuer-krebskranke-kinder"
 		},
 		{
-			"name": "Frankfuter Allgemeine Zeitung",
-			"slug": "frankfuter-allgemeine-zeitung"
-		},
-		{
 			"name": "Franz HANIEL & Cie. GmbH",
 			"slug": "franz-haniel-cie-gmbh"
 		},
 		{
+			"name": "Franz Josef Holzenkamp, Berlin",
+			"slug": "franz-josef-holzenkamp-berlin"
+		},
+		{
 			"name": "Franz Kassecker GmbH",
 			"slug": "franz-kassecker-gmbh"
+		},
+		{
+			"name": "Franz Kessler GmbH",
+			"slug": "franz-kessler-gmbh"
 		},
 		{
 			"name": "Franz Liszt Gesellschaft Weimar",
@@ -7690,20 +8010,16 @@ var searchdb = {
 			"slug": "franz-w-aumund-stiftung"
 		},
 		{
-			"name": "Frau Dr. Doris Schawaller",
-			"slug": "frau-dr-doris-schawaller"
-		},
-		{
 			"name": "Frau Prof. Dr.-Ing. Gabriele von Voigt",
 			"slug": "frau-prof-dr-ing-gabriele-von-voigt"
 		},
 		{
-			"name": "Frau Roswitha Knopf (in Erinnerung an Günter Knopf, 1. Vizepräsident desADAC von 2000-2011)",
-			"slug": "frau-roswitha-knopf-in-erinnerung-an-guenter-knopf-1-vizepraesident-desadac-von-2000-2011"
+			"name": "Frau Prof. Lehmann, Hildesheim",
+			"slug": "frau-prof-lehmann-hildesheim"
 		},
 		{
-			"name": "Frauenhofergesellschaft",
-			"slug": "frauenhofergesellschaft"
+			"name": "Frau Roswitha Knopf (in Erinnerung an Günter Knopf, 1. Vizepräsident desADAC von 2000-2011)",
+			"slug": "frau-roswitha-knopf-in-erinnerung-an-guenter-knopf-1-vizepraesident-desadac-von-2000-2011"
 		},
 		{
 			"name": "Fraunhofer-Gesellschaft",
@@ -7754,12 +8070,16 @@ var searchdb = {
 			"slug": "freudenberg-co-kg"
 		},
 		{
-			"name": "Freudenberg & Co.KG",
-			"slug": "freudenberg-cokg"
+			"name": "Freunde der Architektur an der LUH e.V.",
+			"slug": "freunde-der-architektur-an-der-luh-ev"
 		},
 		{
 			"name": "Freunde der Gemeinnützigen Hertie-Stiftung",
 			"slug": "freunde-der-gemeinnuetzigen-hertie-stiftung"
+		},
+		{
+			"name": "Freunde der Herrenhäuser Gärten e.V.",
+			"slug": "freunde-der-herrenhaeuser-gaerten-ev"
 		},
 		{
 			"name": "Freunde der Universität Mainz e.V.",
@@ -7774,8 +8094,24 @@ var searchdb = {
 			"slug": "freunde-des-braunschweiger-botanischen-gartens"
 		},
 		{
+			"name": "Freunde des Braunschweiger Botanischen Gartens, Braunschweig",
+			"slug": "freunde-des-braunschweiger-botanischen-gartens-braunschweig"
+		},
+		{
+			"name": "Freunde und Förderer der Universitätsmedizin Nordwest e. V., 26122 Oldenburg",
+			"slug": "freunde-und-foerderer-der-universitaetsmedizin-nordwest-e-v-26122-oldenburg"
+		},
+		{
+			"name": "Freunde und Förderer des Lions Club Oldenburg e.V., Gottorpstr. 28, 26122 Oldenburg",
+			"slug": "freunde-und-foerderer-des-lions-club-oldenburg-ev-gottorpstr-28-26122-oldenburg"
+		},
+		{
 			"name": "Freundeskreis",
 			"slug": "freundeskreis"
+		},
+		{
+			"name": "Freundeskreis der Leibniz Universität Hannover",
+			"slug": "freundeskreis-der-leibniz-universitaet-hannover"
 		},
 		{
 			"name": "Freundeskreis der Leibniz Universität Hannover e.V.",
@@ -7784,6 +8120,10 @@ var searchdb = {
 		{
 			"name": "Freundeskreis der Leukämie",
 			"slug": "freundeskreis-der-leukaemie"
+		},
+		{
+			"name": "Freundeskreis der LUH",
+			"slug": "freundeskreis-der-luh"
 		},
 		{
 			"name": "Freundeskreis des Instituts für Pharmazie der Friedrich-Schiller-Universität Jena e. V.",
@@ -7802,6 +8142,14 @@ var searchdb = {
 			"slug": "friede-springer-stiftung"
 		},
 		{
+			"name": "Friedel & Gisela Bohnenkamp-Stiftung, Osnabrück",
+			"slug": "friedel-gisela-bohnenkamp-stiftung-osnabrueck"
+		},
+		{
+			"name": "Friedel Springer Verwaltung, Berlin",
+			"slug": "friedel-springer-verwaltung-berlin"
+		},
+		{
 			"name": "Friedhelm Loh",
 			"slug": "friedhelm-loh"
 		},
@@ -7810,8 +8158,8 @@ var searchdb = {
 			"slug": "friedhelm-nyhuis"
 		},
 		{
-			"name": "Friedrich Dertering GmbH",
-			"slug": "friedrich-dertering-gmbh"
+			"name": "Friedrich Detering GmbH",
+			"slug": "friedrich-detering-gmbh"
 		},
 		{
 			"name": "Friedrich Duensing GmbH",
@@ -7820,6 +8168,14 @@ var searchdb = {
 		{
 			"name": "Friedrich Grieb GmbH",
 			"slug": "friedrich-grieb-gmbh"
+		},
+		{
+			"name": "Friedrich Hüttenservice GmbH",
+			"slug": "friedrich-huettenservice-gmbh"
+		},
+		{
+			"name": "Friedrich Merz-Stiftung",
+			"slug": "friedrich-merz-stiftung"
 		},
 		{
 			"name": "Friedrich Schiedel-Stiftung",
@@ -7834,8 +8190,24 @@ var searchdb = {
 			"slug": "friedrich-zufall-gmbh-co-kg"
 		},
 		{
+			"name": "Friedrich-Weinhagen-Stiftung, Hildesheim",
+			"slug": "friedrich-weinhagen-stiftung-hildesheim"
+		},
+		{
 			"name": "Fries GmbH und Co. KG",
 			"slug": "fries-gmbh-und-co-kg"
+		},
+		{
+			"name": "Fries, Diana",
+			"slug": "fries-diana"
+		},
+		{
+			"name": "Frings und Kuschnerus",
+			"slug": "frings-und-kuschnerus"
+		},
+		{
+			"name": "Frischli GmbH",
+			"slug": "frischli-gmbh"
 		},
 		{
 			"name": "Frischli Milchwerke GmbH",
@@ -7862,20 +8234,20 @@ var searchdb = {
 			"slug": "fritz-mueller-stiftung-ingelfingen"
 		},
 		{
-			"name": "Fritz Thyssen Stiftung",
-			"slug": "fritz-thyssen-stiftung"
-		},
-		{
 			"name": "Fritz und Dorothea Oppermann geb. Kerle Stiftung",
 			"slug": "fritz-und-dorothea-oppermann-geb-kerle-stiftung"
+		},
+		{
+			"name": "Fritz und Hildegard Berg-Stiftung",
+			"slug": "fritz-und-hildegard-berg-stiftung"
 		},
 		{
 			"name": "Fritz Winter",
 			"slug": "fritz-winter"
 		},
 		{
-			"name": "Fritz-Henkel-Stiftung",
-			"slug": "fritz-henkel-stiftung"
+			"name": "Fritz-Behrens-Stiftung",
+			"slug": "fritz-behrens-stiftung"
 		},
 		{
 			"name": "Fritz-Kling-Stiftung",
@@ -7906,12 +8278,12 @@ var searchdb = {
 			"slug": "fsd-fahrzeugsystemdaten-gmbh"
 		},
 		{
-			"name": "Fuchs Petrolub AG",
-			"slug": "fuchs-petrolub-ag"
+			"name": "Fuchs Gewürze GmbH, Dissen",
+			"slug": "fuchs-gewuerze-gmbh-dissen"
 		},
 		{
-			"name": "FUCHS PETROLUB SE",
-			"slug": "fuchs-petrolub-se"
+			"name": "Fuchs Petrolub",
+			"slug": "fuchs-petrolub"
 		},
 		{
 			"name": "Fuchs, Christa und Prof. Manfred",
@@ -7962,8 +8334,20 @@ var searchdb = {
 			"slug": "g-u-p-roehm-soehne-gmbh-co-kg"
 		},
 		{
+			"name": "G.A.Röders GmbH & Co.KG, Soltau",
+			"slug": "garoeders-gmbh-cokg-soltau"
+		},
+		{
+			"name": "Göbel GmbH",
+			"slug": "goebel-gmbh"
+		},
+		{
 			"name": "GöRG",
 			"slug": "goerg"
+		},
+		{
+			"name": "Görg Rechtsanwälte, Essen",
+			"slug": "goerg-rechtsanwaelte-essen"
 		},
 		{
 			"name": "Götschmann, Dr. Norbert",
@@ -7978,6 +8362,14 @@ var searchdb = {
 			"slug": "goetz-management-holding-ag"
 		},
 		{
+			"name": "Günay Prof.Dr. Hüsametti",
+			"slug": "guenay-profdr-huesametti"
+		},
+		{
+			"name": "Günter Meyer Stiftung",
+			"slug": "guenter-meyer-stiftung"
+		},
+		{
 			"name": "Günter Meyer-Stiftung, Bremen",
 			"slug": "guenter-meyer-stiftung-bremen"
 		},
@@ -7990,8 +8382,8 @@ var searchdb = {
 			"slug": "guenter-koehler-institut-f-fuegetechn-uwerkstoffpr"
 		},
 		{
-			"name": "Günther Cramer, Hübner GmbH",
-			"slug": "guenther-cramer-huebner-gmbh"
+			"name": "Gürbet GmbH",
+			"slug": "guerbet-gmbh"
 		},
 		{
 			"name": "Gürst von Hohenzollern und Stihl",
@@ -8008,6 +8400,10 @@ var searchdb = {
 		{
 			"name": "Gabler",
 			"slug": "gabler"
+		},
+		{
+			"name": "Gabriele von Voigt",
+			"slug": "gabriele-von-voigt"
 		},
 		{
 			"name": "Gabriella Mebus-Pleuger",
@@ -8046,6 +8442,10 @@ var searchdb = {
 			"slug": "gasteig-muenchen-gmbh"
 		},
 		{
+			"name": "Gastro & Soul, Hildesheim",
+			"slug": "gastro-soul-hildesheim"
+		},
+		{
 			"name": "GAUFF GmbH & Co. Engineering KG",
 			"slug": "gauff-gmbh-co-engineering-kg"
 		},
@@ -8062,18 +8462,6 @@ var searchdb = {
 			"slug": "gdmb-gesellschaft-fuer-bergbau-metallurgie-rohstoff-und-umwelttechnik"
 		},
 		{
-			"name": "GE Germany",
-			"slug": "ge-germany"
-		},
-		{
-			"name": "GE Healthcare",
-			"slug": "ge-healthcare"
-		},
-		{
-			"name": "GE U/S Deutschland GmbH",
-			"slug": "ge-us-deutschland-gmbh"
-		},
-		{
 			"name": "GEA Air Treatment GmbH",
 			"slug": "gea-air-treatment-gmbh"
 		},
@@ -8086,10 +8474,6 @@ var searchdb = {
 			"slug": "gebr-brasseler-gmbh-co-kg-lemgo"
 		},
 		{
-			"name": "Gebr. Eickhoff Maschinenfabrik und Eisengieöerei GmbH",
-			"slug": "gebr-eickhoff-maschinenfabrik-und-eisengieoeerei-gmbh"
-		},
-		{
 			"name": "Gebr. Eickhoff Maschinenfabrik und Eisengießerei GmbH",
 			"slug": "gebr-eickhoff-maschinenfabrik-und-eisengiesserei-gmbh"
 		},
@@ -8100,10 +8484,6 @@ var searchdb = {
 		{
 			"name": "Gebr. Heinemann SE & Co. KG",
 			"slug": "gebr-heinemann-se-co-kg"
-		},
-		{
-			"name": "Gebr. Heyl Analysentechnik GmbH & Co. KG",
-			"slug": "gebr-heyl-analysentechnik-gmbh-co-kg"
 		},
 		{
 			"name": "Gebr. Hubert + Josef Kickartz Stiftung",
@@ -8154,6 +8534,10 @@ var searchdb = {
 			"slug": "geigle-verwaltungs-gmbh"
 		},
 		{
+			"name": "Geistlich Biomaterial",
+			"slug": "geistlich-biomaterial"
+		},
+		{
 			"name": "Geistlich Biomaterials GmbH",
 			"slug": "geistlich-biomaterials-gmbh"
 		},
@@ -8182,8 +8566,20 @@ var searchdb = {
 			"slug": "gemeinnuetzige-stiftung-der-familie-gude"
 		},
 		{
+			"name": "General Electric",
+			"slug": "general-electric"
+		},
+		{
 			"name": "Generali",
 			"slug": "generali"
+		},
+		{
+			"name": "Generalkonsulat der Republik, Polen",
+			"slug": "generalkonsulat-der-republik-polen"
+		},
+		{
+			"name": "Generel Electric",
+			"slug": "generel-electric"
 		},
 		{
 			"name": "Generic Assays GmbH",
@@ -8204,6 +8600,10 @@ var searchdb = {
 		{
 			"name": "Genossenschaftsverband Norddeutschland",
 			"slug": "genossenschaftsverband-norddeutschland"
+		},
+		{
+			"name": "GeoEnergy e.V.",
+			"slug": "geoenergy-ev"
 		},
 		{
 			"name": "GeoMark Research, Ltd",
@@ -8230,6 +8630,10 @@ var searchdb = {
 			"slug": "georg-menshen-gmbh-co-kg"
 		},
 		{
+			"name": "Georg Miskovic",
+			"slug": "georg-miskovic"
+		},
+		{
 			"name": "Georg Thieme-Verlag KG",
 			"slug": "georg-thieme-verlag-kg"
 		},
@@ -8240,6 +8644,10 @@ var searchdb = {
 		{
 			"name": "George P. Johnson GmbH",
 			"slug": "george-p-johnson-gmbh"
+		},
+		{
+			"name": "Georgmarienhütte GmbH",
+			"slug": "georgmarienhuette-gmbh"
 		},
 		{
 			"name": "Georgsmarienhütte GmbH",
@@ -8258,10 +8666,6 @@ var searchdb = {
 			"slug": "gerbstedter-agrar-gmbh-gerbstedt"
 		},
 		{
-			"name": "Gerda Henkel Stiftung",
-			"slug": "gerda-henkel-stiftung"
-		},
-		{
 			"name": "Gerda-Weöler-Stiftung",
 			"slug": "gerda-weoeler-stiftung"
 		},
@@ -8272,6 +8676,10 @@ var searchdb = {
 		{
 			"name": "Gerhard Bürger-Stiftungsprofessur",
 			"slug": "gerhard-buerger-stiftungsprofessur"
+		},
+		{
+			"name": "Gerhard-Rode-Stiftung, Herrn Chmielewski, Zur Bokeler Burg, 26180 Rastede",
+			"slug": "gerhard-rode-stiftung-herrn-chmielewski-zur-bokeler-burg-26180-rastede"
 		},
 		{
 			"name": "German Assistance Versicherung AG",
@@ -8300,6 +8708,10 @@ var searchdb = {
 		{
 			"name": "Gertrud und Hellmut Barthel-Stiftung",
 			"slug": "gertrud-und-hellmut-barthel-stiftung"
+		},
+		{
+			"name": "Gertrud und Hellmut Barthel-Stiftung Varel",
+			"slug": "gertrud-und-hellmut-barthel-stiftung-varel"
 		},
 		{
 			"name": "Gesamtverband der Deutschen Versicherungswirtschaft e. V.",
@@ -8334,16 +8746,20 @@ var searchdb = {
 			"slug": "gesellschaft-der-freunde-der-universitaet-bremen-und-der-jacobs-university"
 		},
 		{
+			"name": "Gesellschaft der Freunde für Fa. Shire",
+			"slug": "gesellschaft-der-freunde-fuer-fa-shire"
+		},
+		{
 			"name": "Gesellschaft der Freunde und Förderer der HfM Detmold e.V., Detmold",
 			"slug": "gesellschaft-der-freunde-und-foerderer-der-hfm-detmold-ev-detmold"
 		},
 		{
-			"name": "Gesellschaft deutscher Chemiker",
-			"slug": "gesellschaft-deutscher-chemiker"
+			"name": "Gesellschaft der Freunde und Förderer des Fachbereichs Wirtschaftswissenschaften der Universität Osnabrück e. V.",
+			"slug": "gesellschaft-der-freunde-und-foerderer-des-fachbereichs-wirtschaftswissenschaften-der-universitaet-osnabrueck-e-v"
 		},
 		{
-			"name": "Gesellschaft Deutscher Chemiker e.V.",
-			"slug": "gesellschaft-deutscher-chemiker-ev"
+			"name": "Gesellschaft deutscher Chemiker",
+			"slug": "gesellschaft-deutscher-chemiker"
 		},
 		{
 			"name": "Gesellschaft f. staatsbürgerl. Bildung, Saarbrücken",
@@ -8356,6 +8772,10 @@ var searchdb = {
 		{
 			"name": "Gesellschaft für Leben und Gesundheit mbH",
 			"slug": "gesellschaft-fuer-leben-und-gesundheit-mbh"
+		},
+		{
+			"name": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH, Göttingen",
+			"slug": "gesellschaft-fuer-wissenschaftliche-datenverarbeitung-mbh-goettingen"
 		},
 		{
 			"name": "Gesellschaft für Wohn- und Gewerbeimmobilien",
@@ -8372,6 +8792,10 @@ var searchdb = {
 		{
 			"name": "Gesellschaft von Freunden und Förderern der TU Dresden e.V.",
 			"slug": "gesellschaft-von-freunden-und-foerderern-der-tu-dresden-ev"
+		},
+		{
+			"name": "Gesellschaft zur Förderung der Fach.",
+			"slug": "gesellschaft-zur-foerderung-der-fach"
 		},
 		{
 			"name": "Gesellschaft zur Förderung der Katholisch-Theologischen Fakultät der RUB e.V.",
@@ -8392,6 +8816,10 @@ var searchdb = {
 		{
 			"name": "GESTRA AG",
 			"slug": "gestra-ag"
+		},
+		{
+			"name": "Gesundheitswirtschaft Nordwest e.V., 28195 Bremen",
+			"slug": "gesundheitswirtschaft-nordwest-ev-28195-bremen"
 		},
 		{
 			"name": "Gesundheitszentrum Bitterfeld-Wolfen gGmbH",
@@ -8428,10 +8856,6 @@ var searchdb = {
 		{
 			"name": "GfK Nürnberg e.V.",
 			"slug": "gfk-nuernberg-ev"
-		},
-		{
-			"name": "GHD",
-			"slug": "ghd"
 		},
 		{
 			"name": "GHD GesundHeits GmbH",
@@ -8478,6 +8902,10 @@ var searchdb = {
 			"slug": "gips-schuele-stiftung"
 		},
 		{
+			"name": "GIS Gesellschaft für Informationssysteme AG",
+			"slug": "gis-gesellschaft-fuer-informationssysteme-ag"
+		},
+		{
 			"name": "GISA GmbH",
 			"slug": "gisa-gmbh"
 		},
@@ -8496,10 +8924,6 @@ var searchdb = {
 		{
 			"name": "Glawon, Maike Deandra",
 			"slug": "glawon-maike-deandra"
-		},
-		{
-			"name": "Glaxo Wellcome GmbH & Co., Bad Oldesloe",
-			"slug": "glaxo-wellcome-gmbh-co-bad-oldesloe"
 		},
 		{
 			"name": "Glaxo-Smith-Kline GmbH & Co. KG",
@@ -8558,24 +8982,12 @@ var searchdb = {
 			"slug": "gns-gesellschaft-fuer-nuklear-sicherheit-mbh"
 		},
 		{
-			"name": "Göbel GmbH",
-			"slug": "goebel-gmbh"
+			"name": "Goeke, Bernhard",
+			"slug": "goeke-bernhard"
 		},
 		{
-			"name": "Goldbeck Ost GmbH",
-			"slug": "goldbeck-ost-gmbh"
-		},
-		{
-			"name": "GOLDBECK Stiftung, Bielefeld",
-			"slug": "goldbeck-stiftung-bielefeld"
-		},
-		{
-			"name": "Goldbeck West GmbH",
-			"slug": "goldbeck-west-gmbh"
-		},
-		{
-			"name": "Goldbeck-Stiftung",
-			"slug": "goldbeck-stiftung"
+			"name": "Goldbeck",
+			"slug": "goldbeck"
 		},
 		{
 			"name": "Goldhofer",
@@ -8606,6 +9018,10 @@ var searchdb = {
 			"slug": "gothaer-kulturstiftung"
 		},
 		{
+			"name": "Gottfried-Wilhelm-Leibniz- Bibliothek",
+			"slug": "gottfried-wilhelm-leibniz-bibliothek"
+		},
+		{
 			"name": "Gottlob Rommel GmbH & Co. KG",
 			"slug": "gottlob-rommel-gmbh-co-kg"
 		},
@@ -8618,12 +9034,8 @@ var searchdb = {
 			"slug": "gottschewsky-martin"
 		},
 		{
-			"name": "GP Günter Papenburg AG, Halle",
-			"slug": "gp-guenter-papenburg-ag-halle"
-		},
-		{
-			"name": "GP Papenburg Entsorgung Ost GmbH",
-			"slug": "gp-papenburg-entsorgung-ost-gmbh"
+			"name": "GP Günter Papenburg AG",
+			"slug": "gp-guenter-papenburg-ag"
 		},
 		{
 			"name": "Gröh, Walter",
@@ -8632,6 +9044,10 @@ var searchdb = {
 		{
 			"name": "Grünenthal GmbH",
 			"slug": "gruenenthal-gmbh"
+		},
+		{
+			"name": "Grüner Bereich GmbH",
+			"slug": "gruener-bereich-gmbh"
 		},
 		{
 			"name": "Graepel Löningen GmbH & Co. KG",
@@ -8650,12 +9066,24 @@ var searchdb = {
 			"slug": "grammer-ag"
 		},
 		{
+			"name": "Great Place to Work Deutschland GmbH",
+			"slug": "great-place-to-work-deutschland-gmbh"
+		},
+		{
+			"name": "Green Way Systems GmbH",
+			"slug": "green-way-systems-gmbh"
+		},
+		{
 			"name": "Greenworld",
 			"slug": "greenworld"
 		},
 		{
 			"name": "Grenzebach Maschinenbau GmbH",
 			"slug": "grenzebach-maschinenbau-gmbh"
+		},
+		{
+			"name": "Grifols Deutschland GmbH",
+			"slug": "grifols-deutschland-gmbh"
 		},
 		{
 			"name": "Grillo-Werke AG",
@@ -8666,16 +9094,12 @@ var searchdb = {
 			"slug": "grimme"
 		},
 		{
-			"name": "Grimme Landmaschinenfabrik GmbH & Co. KG, Damme",
-			"slug": "grimme-landmaschinenfabrik-gmbh-co-kg-damme"
+			"name": "Groökraftwerk Mannheim AG",
+			"slug": "grooekraftwerk-mannheim-ag"
 		},
 		{
 			"name": "GROB-WERKE",
 			"slug": "grob-werke"
-		},
-		{
-			"name": "Groökraftwerk Mannheim AG",
-			"slug": "grooekraftwerk-mannheim-ag"
 		},
 		{
 			"name": "Grohe-Treuhandstiftung",
@@ -8712,6 +9136,10 @@ var searchdb = {
 		{
 			"name": "GT Bischoff Glastechnik AG",
 			"slug": "gt-bischoff-glastechnik-ag"
+		},
+		{
+			"name": "GTT Gesellschaft für Technologie-Transfer mbH",
+			"slug": "gtt-gesellschaft-fuer-technologie-transfer-mbh"
 		},
 		{
 			"name": "GTT mbH",
@@ -8770,12 +9198,24 @@ var searchdb = {
 			"slug": "h-w-haerte-und-werkstofftechnik-gmbh"
 		},
 		{
+			"name": "H&D International Group",
+			"slug": "hd-international-group"
+		},
+		{
+			"name": "H. Bröring GmbH & Co. KG",
+			"slug": "h-broering-gmbh-co-kg"
+		},
+		{
 			"name": "H. Prof. Dr. jur. Carl-Heinrich Esser, Mannheim",
 			"slug": "h-prof-dr-jur-carl-heinrich-esser-mannheim"
 		},
 		{
 			"name": "H. u. E. Weichmann-Stiftung",
 			"slug": "h-u-e-weichmann-stiftung"
+		},
+		{
+			"name": "H.C. Starck GmbH, Goslar",
+			"slug": "hc-starck-gmbh-goslar"
 		},
 		{
 			"name": "H.E.R.Z. Holz-, Energie- und Rohstoffzentrum, Köthen",
@@ -8796,6 +9236,10 @@ var searchdb = {
 		{
 			"name": "Häusliche Krankenpflege, Christine Zwinscher GmbH",
 			"slug": "haeusliche-krankenpflege-christine-zwinscher-gmbh"
+		},
+		{
+			"name": "Höffmann Reisen GmbH",
+			"slug": "hoeffmann-reisen-gmbh"
 		},
 		{
 			"name": "Höft & Wessel AG",
@@ -8866,6 +9310,10 @@ var searchdb = {
 			"slug": "hahn-air"
 		},
 		{
+			"name": "Hahn, Prof. Dr. Hans- Henning, 26689 Augustfehn",
+			"slug": "hahn-prof-dr-hans-henning-26689-augustfehn"
+		},
+		{
 			"name": "Halfen GmbH",
 			"slug": "halfen-gmbh"
 		},
@@ -8892,10 +9340,6 @@ var searchdb = {
 		{
 			"name": "Hamburger Sparkasse AG",
 			"slug": "hamburger-sparkasse-ag"
-		},
-		{
-			"name": "Hamburger Stiftung zur Förderung von Wissenschaft",
-			"slug": "hamburger-stiftung-zur-foerderung-von-wissenschaft"
 		},
 		{
 			"name": "Hamburger Stiftung zur Förderung von Wissenschaft und Kultur",
@@ -8926,6 +9370,10 @@ var searchdb = {
 			"slug": "handelskammer-bremen"
 		},
 		{
+			"name": "Handwerkskammer Frankfurt-Rhein-Main",
+			"slug": "handwerkskammer-frankfurt-rhein-main"
+		},
+		{
 			"name": "Handwerkskammer Halle (Saale)",
 			"slug": "handwerkskammer-halle-saale"
 		},
@@ -8942,8 +9390,16 @@ var searchdb = {
 			"slug": "hanke-detlef"
 		},
 		{
+			"name": "Hannelore Lange",
+			"slug": "hannelore-lange"
+		},
+		{
 			"name": "Hannover 96 GmbH",
 			"slug": "hannover-96-gmbh"
+		},
+		{
+			"name": "Hannover Center of Finance e.V.",
+			"slug": "hannover-center-of-finance-ev"
 		},
 		{
 			"name": "Hannover Impuls GmbH",
@@ -8982,12 +9438,12 @@ var searchdb = {
 			"slug": "hans-hermann-voss-stiftung"
 		},
 		{
-			"name": "Hans-Hundegger Maschinenbau",
-			"slug": "hans-hundegger-maschinenbau"
-		},
-		{
 			"name": "Hans Hussmann GmbH",
 			"slug": "hans-hussmann-gmbh"
+		},
+		{
+			"name": "Hans- Mühlenhoff Stiftung, Osnabrück",
+			"slug": "hans-muehlenhoff-stiftung-osnabrueck"
 		},
 		{
 			"name": "Hans und Lilli Holl-Stiftung",
@@ -8998,8 +9454,8 @@ var searchdb = {
 			"slug": "hans-und-marlies-stock-stiftung"
 		},
 		{
-			"name": "Hans und Ottmar Binder GmbH Süddeutsche Aluminium Manufaktur GmbH",
-			"slug": "hans-und-ottmar-binder-gmbh-sueddeutsche-aluminium-manufaktur-gmbh"
+			"name": "Hans und Ottmar Binder GmbH",
+			"slug": "hans-und-ottmar-binder-gmbh"
 		},
 		{
 			"name": "Hans und Uli Nickel-Stiftung",
@@ -9030,6 +9486,10 @@ var searchdb = {
 			"slug": "hanse-club"
 		},
 		{
+			"name": "Hansestadt Lüneburg/Museumsstiftung Lüneburg",
+			"slug": "hansestadt-lueneburgmuseumsstiftung-lueneburg"
+		},
+		{
 			"name": "hanseWasser GmbH",
 			"slug": "hansewasser-gmbh"
 		},
@@ -9042,8 +9502,20 @@ var searchdb = {
 			"slug": "hans-fischer-gesellschaft-ev-85345-freising"
 		},
 		{
+			"name": "Hans-Hundegger Maschinenbau",
+			"slug": "hans-hundegger-maschinenbau"
+		},
+		{
 			"name": "Hans-Jürgen Schulz-Stiftung",
 			"slug": "hans-juergen-schulz-stiftung"
+		},
+		{
+			"name": "Hans-Jürgen Unverferth, Lengerich",
+			"slug": "hans-juergen-unverferth-lengerich"
+		},
+		{
+			"name": "Hans-Mühlenhoff-Stiftung, Osnabrück",
+			"slug": "hans-muehlenhoff-stiftung-osnabrueck"
 		},
 		{
 			"name": "Hans-Sauer-Stiftung",
@@ -9052,6 +9524,10 @@ var searchdb = {
 		{
 			"name": "Hans-Wilhelm-Renkhoff-Stiftung",
 			"slug": "hans-wilhelm-renkhoff-stiftung"
+		},
+		{
+			"name": "Hanwha Q Cells (Bitterfeld)",
+			"slug": "hanwha-q-cells-bitterfeld"
 		},
 		{
 			"name": "Hapag-LLoyd",
@@ -9086,8 +9562,20 @@ var searchdb = {
 			"slug": "hassler-katja"
 		},
 		{
+			"name": "Hauck, Dr. Heinz-Emil, Am Martinsrain 15, 64823 Groß-Umstadt",
+			"slug": "hauck-dr-heinz-emil-am-martinsrain-15-64823-gross-umstadt"
+		},
+		{
 			"name": "Haufe-Lexware GmbH",
 			"slug": "haufe-lexware-gmbh"
+		},
+		{
+			"name": "Hauptstadt Hannover",
+			"slug": "hauptstadt-hannover"
+		},
+		{
+			"name": "Haus + Grund Braunschweig, Braunschweig",
+			"slug": "haus-grund-braunschweig-braunschweig"
 		},
 		{
 			"name": "Haus Kölscher Brautradition - Ein Unternehmen der Radeberger Gruppe KG",
@@ -9114,6 +9602,10 @@ var searchdb = {
 			"slug": "hazet-werk-hermann-zerver-gmbh-co-kg"
 		},
 		{
+			"name": "HD Automation GmbH",
+			"slug": "hd-automation-gmbh"
+		},
+		{
 			"name": "HDI Gerling",
 			"slug": "hdi-gerling"
 		},
@@ -9124,6 +9616,10 @@ var searchdb = {
 		{
 			"name": "HDO Druckguö- und Oberflächentechnik GmbH, Paderborn",
 			"slug": "hdo-druckguoe-und-oberflaechentechnik-gmbh-paderborn"
+		},
+		{
+			"name": "Hearing Care Corp., USA, Bloomington MN 55420",
+			"slug": "hearing-care-corp-usa-bloomington-mn-55420"
 		},
 		{
 			"name": "HEC GmbH",
@@ -9138,6 +9634,10 @@ var searchdb = {
 			"slug": "hegemann-detlef"
 		},
 		{
+			"name": "Heger GmbH",
+			"slug": "heger-gmbh"
+		},
+		{
 			"name": "HEGGEMANN AG",
 			"slug": "heggemann-ag"
 		},
@@ -9148,10 +9648,6 @@ var searchdb = {
 		{
 			"name": "HeidelbergCement AG",
 			"slug": "heidelbergcement-ag"
-		},
-		{
-			"name": "Heidenhain, Dr. Johannes",
-			"slug": "heidenhain-dr-johannes"
 		},
 		{
 			"name": "Heike Laubinger und Marc Falkenstein",
@@ -9194,8 +9690,16 @@ var searchdb = {
 			"slug": "heinrich-hertz-gesellschaft"
 		},
 		{
+			"name": "Heinrich Hirdes GmbH",
+			"slug": "heinrich-hirdes-gmbh"
+		},
+		{
 			"name": "Heinrich Koch Internationale Spedition GmbH & Co. KG",
 			"slug": "heinrich-koch-internationale-spedition-gmbh-co-kg"
+		},
+		{
+			"name": "Heinrich Kramwinkel GmbH",
+			"slug": "heinrich-kramwinkel-gmbh"
 		},
 		{
 			"name": "Heinrich-Braun-Klinikum Zwickau gGmbH",
@@ -9246,6 +9750,10 @@ var searchdb = {
 			"slug": "heinz-trox-stiftung"
 		},
 		{
+			"name": "Heise Medien Gruppe GmbH & Co. KG",
+			"slug": "heise-medien-gruppe-gmbh-co-kg"
+		},
+		{
 			"name": "Heise Medien Gruppe GmbH & Co.KG",
 			"slug": "heise-medien-gruppe-gmbh-cokg"
 		},
@@ -9262,6 +9770,10 @@ var searchdb = {
 			"slug": "heldele-gmbh"
 		},
 		{
+			"name": "Helga Giese",
+			"slug": "helga-giese"
+		},
+		{
 			"name": "Helios Klinikum Wuppertal",
 			"slug": "helios-klinikum-wuppertal"
 		},
@@ -9272,6 +9784,10 @@ var searchdb = {
 		{
 			"name": "Hellmann Worldwide Logistics GmbH & Co. KG",
 			"slug": "hellmann-worldwide-logistics-gmbh-co-kg"
+		},
+		{
+			"name": "HELMA Wohnungsbau GmbH, Lehrte",
+			"slug": "helma-wohnungsbau-gmbh-lehrte"
 		},
 		{
 			"name": "Helmholtz Zentrum München",
@@ -9302,20 +9818,20 @@ var searchdb = {
 			"slug": "helmut-zipfel"
 		},
 		{
+			"name": "Hemmes Itex GmbH",
+			"slug": "hemmes-itex-gmbh"
+		},
+		{
+			"name": "Hengelbrock, Dr. Matthias, Christian-Runde-Weg 10, 26121 Oldenburg",
+			"slug": "hengelbrock-dr-matthias-christian-runde-weg-10-26121-oldenburg"
+		},
+		{
 			"name": "Hengeler Mueller",
 			"slug": "hengeler-mueller"
 		},
 		{
-			"name": "Hengeler Mueller Rechtsanwälte, Herr Reinhold Ernst",
-			"slug": "hengeler-mueller-rechtsanwaelte-herr-reinhold-ernst"
-		},
-		{
-			"name": "Henkel AG",
-			"slug": "henkel-ag"
-		},
-		{
-			"name": "Henkel AG & Co. KGaA",
-			"slug": "henkel-ag-co-kgaa"
+			"name": "Henkel",
+			"slug": "henkel"
 		},
 		{
 			"name": "Henkelhausen GmbH & Co. KG",
@@ -9338,28 +9854,16 @@ var searchdb = {
 			"slug": "henry-lamotte-food-gmbh"
 		},
 		{
-			"name": "Henry Lamotte Oils GmbH",
-			"slug": "henry-lamotte-oils-gmbh"
-		},
-		{
-			"name": "Heraeus GmbH",
-			"slug": "heraeus-gmbh"
-		},
-		{
-			"name": "Heraeus Holding GmbH",
-			"slug": "heraeus-holding-gmbh"
-		},
-		{
-			"name": "Heraeus Infosystems GmbH",
-			"slug": "heraeus-infosystems-gmbh"
-		},
-		{
-			"name": "Heraeus Kulzer GmbH",
-			"slug": "heraeus-kulzer-gmbh"
+			"name": "Heraeus",
+			"slug": "heraeus"
 		},
 		{
 			"name": "Herber & Petzel GmbH & Co. KG",
 			"slug": "herber-petzel-gmbh-co-kg"
+		},
+		{
+			"name": "Herbert Kannegie�er GmbH",
+			"slug": "herbert-kannegieer-gmbh"
 		},
 		{
 			"name": "Herbert Lutz-Gedächtnis-Stiftung",
@@ -9398,6 +9902,10 @@ var searchdb = {
 			"slug": "hermann-g-dethleffsen-familienholding"
 		},
 		{
+			"name": "Hermann Kappa GmbH, Peine",
+			"slug": "hermann-kappa-gmbh-peine"
+		},
+		{
 			"name": "Hermann Paus Maschinenfabrik GmbH",
 			"slug": "hermann-paus-maschinenfabrik-gmbh"
 		},
@@ -9416,6 +9924,10 @@ var searchdb = {
 		{
 			"name": "Hermann und Lilly Schilling Stiftung",
 			"slug": "hermann-und-lilly-schilling-stiftung"
+		},
+		{
+			"name": "Hermann Veeh GmbH & Co. KG",
+			"slug": "hermann-veeh-gmbh-co-kg"
 		},
 		{
 			"name": "Hermes Fulfilment GmbH",
@@ -9458,8 +9970,8 @@ var searchdb = {
 			"slug": "herr-hans-r-schmid"
 		},
 		{
-			"name": "Herr Prof. Dr. phil. Alexander Kosenina",
-			"slug": "herr-prof-dr-phil-alexander-kosenina"
+			"name": "Herr Prof. Dr. Erbach, Beiersdorf",
+			"slug": "herr-prof-dr-erbach-beiersdorf"
 		},
 		{
 			"name": "Herr Prof. Dr.-Ing. Erich Barke",
@@ -9472,6 +9984,10 @@ var searchdb = {
 		{
 			"name": "Herrenteichslaischaft",
 			"slug": "herrenteichslaischaft"
+		},
+		{
+			"name": "Herta Thiemann; Braunschweig, Nachlass; Amtsgericht Braunschweig",
+			"slug": "herta-thiemann-braunschweig-nachlass-amtsgericht-braunschweig"
 		},
 		{
 			"name": "Hertie-Stiftung",
@@ -9494,8 +10010,8 @@ var searchdb = {
 			"slug": "hessen-metall"
 		},
 		{
-			"name": "Hettich Holding GmbH & Co. oHG, Kirchlengern",
-			"slug": "hettich-holding-gmbh-co-ohg-kirchlengern"
+			"name": "Hettich Holding GmbH & Co. oHG",
+			"slug": "hettich-holding-gmbh-co-ohg"
 		},
 		{
 			"name": "Heuking Kühn Lüer Wojtek",
@@ -9554,16 +10070,16 @@ var searchdb = {
 			"slug": "his-gmbh"
 		},
 		{
-			"name": "HIS, Hannover",
-			"slug": "his-hannover"
-		},
-		{
 			"name": "HIT Gebäude-&Anlagentechnik GmbH",
 			"slug": "hit-gebaeude-anlagentechnik-gmbh"
 		},
 		{
 			"name": "hkk - Erste Gesundheit",
 			"slug": "hkk-erste-gesundheit"
+		},
+		{
+			"name": "HLB Dr. St�ckmann & Partner mbB",
+			"slug": "hlb-dr-stckmann-partner-mbb"
 		},
 		{
 			"name": "hmmh multimediahaus AG",
@@ -9594,6 +10110,10 @@ var searchdb = {
 			"slug": "hochschulsport-marketing-gmbh"
 		},
 		{
+			"name": "Hochschulstiftung HAWK",
+			"slug": "hochschulstiftung-hawk"
+		},
+		{
 			"name": "Hochschulstiftung Nürtingen-Geislingen",
 			"slug": "hochschulstiftung-nuertingen-geislingen"
 		},
@@ -9606,12 +10126,8 @@ var searchdb = {
 			"slug": "hochschulverein-mentor-e-v"
 		},
 		{
-			"name": "HOCHTIEF Concessions AG",
-			"slug": "hochtief-concessions-ag"
-		},
-		{
-			"name": "Hochtief Solutions AG",
-			"slug": "hochtief-solutions-ag"
+			"name": "Hochtief",
+			"slug": "hochtief"
 		},
 		{
 			"name": "Hoechst",
@@ -9646,8 +10162,16 @@ var searchdb = {
 			"slug": "holter-regelarmaturen-gmbh-cokg-schlooe-holte-stukenbrock"
 		},
 		{
+			"name": "Holzenkamp, Franz, 11011 Berlin",
+			"slug": "holzenkamp-franz-11011-berlin"
+		},
+		{
 			"name": "Holzhauer, Helmut, Dr.",
 			"slug": "holzhauer-helmut-dr"
+		},
+		{
+			"name": "Homann GmbH, Dissen",
+			"slug": "homann-gmbh-dissen"
 		},
 		{
 			"name": "Honeywell Specialty Chemicals",
@@ -9670,8 +10194,16 @@ var searchdb = {
 			"slug": "horst-goertz-stiftung"
 		},
 		{
+			"name": "Horst Wilhelm Bruno Engelhardt",
+			"slug": "horst-wilhelm-bruno-engelhardt"
+		},
+		{
 			"name": "Horster, Hermann",
 			"slug": "horster-hermann"
+		},
+		{
+			"name": "HorstmannGroup",
+			"slug": "horstmanngroup"
 		},
 		{
 			"name": "Horst-Rohde-Stiftung",
@@ -9714,6 +10246,10 @@ var searchdb = {
 			"slug": "hpc-aktiengesellschaft"
 		},
 		{
+			"name": "HQLabds GmbH",
+			"slug": "hqlabds-gmbh"
+		},
+		{
 			"name": "HSBC Globel Asset Management/Prof. Dr. - Ing. Jischa",
 			"slug": "hsbc-globel-asset-managementprof-dr-ing-jischa"
 		},
@@ -9754,12 +10290,12 @@ var searchdb = {
 			"slug": "huk-coburg"
 		},
 		{
-			"name": "HUK-COBURG Versicherungsgruppe",
-			"slug": "huk-coburg-versicherungsgruppe"
-		},
-		{
 			"name": "Hulek, Nancy und Klaus",
 			"slug": "hulek-nancy-und-klaus"
+		},
+		{
+			"name": "Human Environment LI",
+			"slug": "human-environment-li"
 		},
 		{
 			"name": "Human Gesellschaft für Biochemica und Diagnostica,",
@@ -9782,6 +10318,10 @@ var searchdb = {
 			"slug": "humboldt-innovation-gmbh"
 		},
 		{
+			"name": "Humbold-Universität Berlin, Institut f. Rehabilitationswissenscha ften",
+			"slug": "humbold-universitaet-berlin-institut-f-rehabilitationswissenscha-ften"
+		},
+		{
 			"name": "Hummel, Detlev",
 			"slug": "hummel-detlev"
 		},
@@ -9792,6 +10332,10 @@ var searchdb = {
 		{
 			"name": "Hundertmark GmbH, Gelsenkirchen",
 			"slug": "hundertmark-gmbh-gelsenkirchen"
+		},
+		{
+			"name": "Hungerer, Klaus-Dieter, 35041 Marburg",
+			"slug": "hungerer-klaus-dieter-35041-marburg"
 		},
 		{
 			"name": "Hupfer Metallwerke GmbH & Co. KG",
@@ -9890,6 +10434,10 @@ var searchdb = {
 			"slug": "ifm-electronic-gmbh-essen"
 		},
 		{
+			"name": "IFM Motorentechnik",
+			"slug": "ifm-motorentechnik"
+		},
+		{
 			"name": "IfMOS, Institut f. Mittelstandsfragen an der Universität Osnabrück",
 			"slug": "ifmos-institut-f-mittelstandsfragen-an-der-universitaet-osnabrueck"
 		},
@@ -9926,12 +10474,8 @@ var searchdb = {
 			"slug": "ihk-duisburg"
 		},
 		{
-			"name": "IHK Erfurt",
-			"slug": "ihk-erfurt"
-		},
-		{
-			"name": "IHK LLübeck",
-			"slug": "ihk-lluebeck"
+			"name": "IHK Lübeck",
+			"slug": "ihk-luebeck"
 		},
 		{
 			"name": "IHK Nordschwarzwald",
@@ -9974,6 +10518,10 @@ var searchdb = {
 			"slug": "iles-simmons-hegenscheidt-gruppe"
 		},
 		{
+			"name": "Ilex Freundeskreis Botanischer Garten e. V., 26121 Oldenburg",
+			"slug": "ilex-freundeskreis-botanischer-garten-e-v-26121-oldenburg"
+		},
+		{
 			"name": "Ille Papierservice GmbH",
 			"slug": "ille-papierservice-gmbh"
 		},
@@ -10006,8 +10554,16 @@ var searchdb = {
 			"slug": "imperia-ag"
 		},
 		{
+			"name": "IMS Ingenieurgesellschaft",
+			"slug": "ims-ingenieurgesellschaft"
+		},
+		{
 			"name": "In Time Personal-Dienstleistungen GmbH & Co. KG",
 			"slug": "in-time-personal-dienstleistungen-gmbh-co-kg"
+		},
+		{
+			"name": "Inbetriebnahmegesellschaf t Transporttechnik mbH , Lengede",
+			"slug": "inbetriebnahmegesellschaf-t-transporttechnik-mbh-lengede"
 		},
 		{
 			"name": "INDICOSOLUTIONS GmbH",
@@ -10022,16 +10578,16 @@ var searchdb = {
 			"slug": "industrie-u-handelskammer-osnabrueck"
 		},
 		{
-			"name": "Industrie- und Handelskammer (IHK) Aachen",
-			"slug": "industrie-und-handelskammer-ihk-aachen"
-		},
-		{
-			"name": "Industrie- und Handelskammer Braunschweig",
-			"slug": "industrie-und-handelskammer-braunschweig"
-		},
-		{
 			"name": "Industrie- und Handelskammer Erfurt",
 			"slug": "industrie-und-handelskammer-erfurt"
+		},
+		{
+			"name": "Industrie- und Handelskammer Lippe",
+			"slug": "industrie-und-handelskammer-lippe"
+		},
+		{
+			"name": "Industrie- und Handelskammer Ostwestfalen zu Bielefeld",
+			"slug": "industrie-und-handelskammer-ostwestfalen-zu-bielefeld"
 		},
 		{
 			"name": "Industrie- und Handelskammer Ulm",
@@ -10122,10 +10678,6 @@ var searchdb = {
 			"slug": "infraserv"
 		},
 		{
-			"name": "Infraserv GmbH & Co. Knapsack KG",
-			"slug": "infraserv-gmbh-co-knapsack-kg"
-		},
-		{
 			"name": "Ing.-büro Lange & Jürries",
 			"slug": "ing-buero-lange-juerries"
 		},
@@ -10154,8 +10706,16 @@ var searchdb = {
 			"slug": "ingenieurbuero-zwerner"
 		},
 		{
+			"name": "Ingenieurgemeinschaft Eriksen",
+			"slug": "ingenieurgemeinschaft-eriksen"
+		},
+		{
 			"name": "Ingenieurgesellschaft Auto und Verkehr GmbH (IAV)",
 			"slug": "ingenieurgesellschaft-auto-und-verkehr-gmbh-iav"
+		},
+		{
+			"name": "Ingenieurgesellschaft für Verkehrs- und Eisenbahnwesen mbH, Hannover",
+			"slug": "ingenieurgesellschaft-fuer-verkehrs-und-eisenbahnwesen-mbh-hannover"
 		},
 		{
 			"name": "Ingenieurkammer Sachsen",
@@ -10174,12 +10734,20 @@ var searchdb = {
 			"slug": "inneo-solutions"
 		},
 		{
+			"name": "Inno Tape, Alfeld (Leine)",
+			"slug": "inno-tape-alfeld-leine"
+		},
+		{
 			"name": "INNOMAR Technologie GmbH",
 			"slug": "innomar-technologie-gmbh"
 		},
 		{
 			"name": "innoscale AG",
 			"slug": "innoscale-ag"
+		},
+		{
+			"name": "Innotec Solar (Halle)",
+			"slug": "innotec-solar-halle"
 		},
 		{
 			"name": "innovas",
@@ -10202,6 +10770,10 @@ var searchdb = {
 			"slug": "inpraxi-unternehmensberatung-gmbh-co-kg"
 		},
 		{
+			"name": "Inpro Elektric, Wolfsburg",
+			"slug": "inpro-elektric-wolfsburg"
+		},
+		{
 			"name": "Inros Lackner AG",
 			"slug": "inros-lackner-ag"
 		},
@@ -10214,12 +10786,8 @@ var searchdb = {
 			"slug": "insight-health-gmbh-co-kg"
 		},
 		{
-			"name": "Institut der deutschen Wirtschaft Köln Akademie GmbH",
-			"slug": "institut-der-deutschen-wirtschaft-koeln-akademie-gmbh"
-		},
-		{
-			"name": "Institut der deutschen Wirtschaft Köln e.V.",
-			"slug": "institut-der-deutschen-wirtschaft-koeln-ev"
+			"name": "Institut der deutschen Wirtschaft Köln",
+			"slug": "institut-der-deutschen-wirtschaft-koeln"
 		},
 		{
 			"name": "Institut für Angewandte Geoinformatik und",
@@ -10240,6 +10808,10 @@ var searchdb = {
 		{
 			"name": "Institut für Bildsame Formgebung an der RWTH Aachen",
 			"slug": "institut-fuer-bildsame-formgebung-an-der-rwth-aachen"
+		},
+		{
+			"name": "Institut für Forschung und Bauwesen, Hildesheim",
+			"slug": "institut-fuer-forschung-und-bauwesen-hildesheim"
 		},
 		{
 			"name": "Institut für ImplantatTechnologie und Biomaterialien e. V. , Prof. K.-P. Schmitz",
@@ -10330,10 +10902,6 @@ var searchdb = {
 			"slug": "intel-gmbh"
 		},
 		{
-			"name": "Intel Mobile Communications GmbH",
-			"slug": "intel-mobile-communications-gmbh"
-		},
-		{
 			"name": "INTER Versicherungsgruppe",
 			"slug": "inter-versicherungsgruppe"
 		},
@@ -10346,6 +10914,10 @@ var searchdb = {
 			"slug": "intercontec-produkt-gmbh"
 		},
 		{
+			"name": "Interimskto. Kunden REWE",
+			"slug": "interimskto-kunden-rewe"
+		},
+		{
 			"name": "International Academy",
 			"slug": "international-academy"
 		},
@@ -10356,6 +10928,10 @@ var searchdb = {
 		{
 			"name": "Internationaler Freundeskreis",
 			"slug": "internationaler-freundeskreis"
+		},
+		{
+			"name": "Internorm Kunststofftechnik GmbH, 49401 Damme",
+			"slug": "internorm-kunststofftechnik-gmbh-49401-damme"
 		},
 		{
 			"name": "Interpane Glasgesellschaft mbH",
@@ -10376,6 +10952,10 @@ var searchdb = {
 		{
 			"name": "Intersoft consulting services AG",
 			"slug": "intersoft-consulting-services-ag"
+		},
+		{
+			"name": "Intevation GmbH, Osnabrück",
+			"slug": "intevation-gmbh-osnabrueck"
 		},
 		{
 			"name": "IntUV RuhrStadt e.V.",
@@ -10418,10 +10998,6 @@ var searchdb = {
 			"slug": "investor-center-ostbrandenburg"
 		},
 		{
-			"name": "IPH - Inst. f. Integrierte Prod.G.",
-			"slug": "iph-inst-f-integrierte-prodg"
-		},
-		{
 			"name": "IPH - Institut für Integrierte Produktion Hannover GmbH",
 			"slug": "iph-institut-fuer-integrierte-produktion-hannover-gmbh"
 		},
@@ -10440,10 +11016,6 @@ var searchdb = {
 		{
 			"name": "IPSEN LOGISTICS GmbH",
 			"slug": "ipsen-logistics-gmbh"
-		},
-		{
-			"name": "Ipsen Logistics GmbH, Bremen",
-			"slug": "ipsen-logistics-gmbh-bremen"
 		},
 		{
 			"name": "Ipsen Pharma GmbH",
@@ -10498,6 +11070,10 @@ var searchdb = {
 			"slug": "itax-concept-steuerberatungsgesellschaft-mbh"
 		},
 		{
+			"name": "ITC Training Consulting GmbH",
+			"slug": "itc-training-consulting-gmbh"
+		},
+		{
 			"name": "ITE-Engineering GmbH",
 			"slug": "ite-engineering-gmbh"
 		},
@@ -10522,8 +11098,8 @@ var searchdb = {
 			"slug": "itml-gmbh"
 		},
 		{
-			"name": "IURS (Institut für Umwelttechnik und Recycling Senftenberg e.V.)",
-			"slug": "iurs-institut-fuer-umwelttechnik-und-recycling-senftenberg-ev"
+			"name": "iTUBS - Innovationsgesellschaft Technische Universität Braunschweig mbH, Braunschweig",
+			"slug": "itubs-innovationsgesellschaft-technische-universitaet-braunschweig-mbh-braunschweig"
 		},
 		{
 			"name": "IURS Institut für Umwelttechnik und Recycling",
@@ -10540,10 +11116,6 @@ var searchdb = {
 		{
 			"name": "IWW Rheinisch-Westfälisches Institut für Wasser Beratungs- und Entwicklungsgesellschaft mbH",
 			"slug": "iww-rheinisch-westfaelisches-institut-fuer-wasser-beratungs-und-entwicklungsgesellschaft-mbh"
-		},
-		{
-			"name": "J. Bünting-Stiftung",
-			"slug": "j-buenting-stiftung"
 		},
 		{
 			"name": "J. Danielzik Baumanagement GmbH",
@@ -10610,6 +11182,10 @@ var searchdb = {
 			"slug": "jahr-heike"
 		},
 		{
+			"name": "Jakob Weets, Spedition",
+			"slug": "jakob-weets-spedition"
+		},
+		{
 			"name": "Janetzki, Hans-Ulrich",
 			"slug": "janetzki-hans-ulrich"
 		},
@@ -10620,6 +11196,10 @@ var searchdb = {
 		{
 			"name": "Janssen Cilag GmbH",
 			"slug": "janssen-cilag-gmbh"
+		},
+		{
+			"name": "JC Autobatterie GmbH & Co. KGaA",
+			"slug": "jc-autobatterie-gmbh-co-kgaa"
 		},
 		{
 			"name": "JCB Institut für Chemo- und Biosensorik GmbH",
@@ -10670,12 +11250,12 @@ var searchdb = {
 			"slug": "jobs-in-time-thueringen"
 		},
 		{
-			"name": "Jofo Pneumatik GmbH, Schloö Holte - Stukenbrock",
-			"slug": "jofo-pneumatik-gmbh-schlooe-holte-stukenbrock"
+			"name": "Jochen Bredemeyer",
+			"slug": "jochen-bredemeyer"
 		},
 		{
-			"name": "Joh. Bünting-Stiftung",
-			"slug": "joh-buenting-stiftung"
+			"name": "Jofo Pneumatik GmbH, Schloö Holte - Stukenbrock",
+			"slug": "jofo-pneumatik-gmbh-schlooe-holte-stukenbrock"
 		},
 		{
 			"name": "Joh. Hübner Stiftung",
@@ -10684,6 +11264,10 @@ var searchdb = {
 		{
 			"name": "Joh. Winklhofer Beteiligungs GmbH & Co. KG",
 			"slug": "joh-winklhofer-beteiligungs-gmbh-co-kg"
+		},
+		{
+			"name": "Johann Bünting-Stiftung",
+			"slug": "johann-buenting-stiftung"
 		},
 		{
 			"name": "Johanna Martens",
@@ -10706,12 +11290,16 @@ var searchdb = {
 			"slug": "johannes-fries-gmbh-co-kg"
 		},
 		{
-			"name": "Johannes Heidenhain GmbH",
-			"slug": "johannes-heidenhain-gmbh"
-		},
-		{
 			"name": "Johannes und Dorothea Ross Stiftung",
 			"slug": "johannes-und-dorothea-ross-stiftung"
+		},
+		{
+			"name": "Johanniter-Unfall-Hilfe e.V. Niedersachsen",
+			"slug": "johanniter-unfall-hilfe-ev-niedersachsen"
+		},
+		{
+			"name": "John + Bamberg GmbH & Co. KG",
+			"slug": "john-bamberg-gmbh-co-kg"
 		},
 		{
 			"name": "John Deere",
@@ -10738,6 +11326,10 @@ var searchdb = {
 			"slug": "josef-gartner-gmbh-co-kg"
 		},
 		{
+			"name": "Josef gr. Austing Mischfutterwerk GmbH & Co. KG",
+			"slug": "josef-gr-austing-mischfutterwerk-gmbh-co-kg"
+		},
+		{
 			"name": "Josef Saller Gewerbebau",
 			"slug": "josef-saller-gewerbebau"
 		},
@@ -10762,6 +11354,10 @@ var searchdb = {
 			"slug": "jowat"
 		},
 		{
+			"name": "jService GmbH",
+			"slug": "jservice-gmbh"
+		},
+		{
 			"name": "JT International Germany",
 			"slug": "jt-international-germany"
 		},
@@ -10772,6 +11368,10 @@ var searchdb = {
 		{
 			"name": "Julius Berger International",
 			"slug": "julius-berger-international"
+		},
+		{
+			"name": "Julius Zorn GmbH",
+			"slug": "julius-zorn-gmbh"
 		},
 		{
 			"name": "JUMO GmbH & Co. KG",
@@ -10788,6 +11388,10 @@ var searchdb = {
 		{
 			"name": "Jungheinrich AG / 20047 Hamburg",
 			"slug": "jungheinrich-ag-20047-hamburg"
+		},
+		{
+			"name": "juris-GmbH",
+			"slug": "juris-gmbh"
 		},
 		{
 			"name": "Juristisches Reptitorium hemmer Osnabrück GbR",
@@ -10808,6 +11412,10 @@ var searchdb = {
 		{
 			"name": "K.H. Bauer Stiftung",
 			"slug": "kh-bauer-stiftung"
+		},
+		{
+			"name": "K+S Aktiengesellschaft",
+			"slug": "ks-aktiengesellschaft"
 		},
 		{
 			"name": "Kählig Antriebstechnik GmbH",
@@ -10834,16 +11442,16 @@ var searchdb = {
 			"slug": "koehler-stiftung"
 		},
 		{
-			"name": "Kölner Gymnasial Stiftungsfond",
-			"slug": "koelner-gymnasial-stiftungsfond"
-		},
-		{
 			"name": "Kölner Gymnasial- und Stiftungsfonds",
 			"slug": "koelner-gymnasial-und-stiftungsfonds"
 		},
 		{
 			"name": "Kölner Verkehrs-Betriebe AG",
 			"slug": "koelner-verkehrs-betriebe-ag"
+		},
+		{
+			"name": "Kölnische Rundschau",
+			"slug": "koelnische-rundschau"
 		},
 		{
 			"name": "Königl. priv. Porzellanfabrik Tettau GmbH",
@@ -10860,6 +11468,10 @@ var searchdb = {
 		{
 			"name": "Köthen (Anhalt)",
 			"slug": "koethen-anhalt"
+		},
+		{
+			"name": "Kötting, Dr. Johann, August-Hinrichs-Str. 46, 25129 Oldenburg",
+			"slug": "koetting-dr-johann-august-hinrichs-str-46-25129-oldenburg"
 		},
 		{
 			"name": "Kötting, Johannes",
@@ -10904,6 +11516,10 @@ var searchdb = {
 		{
 			"name": "Kaeser Kompressoren SE",
 			"slug": "kaeser-kompressoren-se"
+		},
+		{
+			"name": "Kaffee Partner, Ost- Automaten GmbH, Osnabrück",
+			"slug": "kaffee-partner-ost-automaten-gmbh-osnabrueck"
 		},
 		{
 			"name": "KaGo & Hammerschmidt GmbH Wunsiedel",
@@ -11010,10 +11626,6 @@ var searchdb = {
 			"slug": "karlheinz-foehlinger"
 		},
 		{
-			"name": "Karl-Heinz Foehlinger",
-			"slug": "karl-heinz-foehlinger"
-		},
-		{
 			"name": "Karl-Kolle-Stiftung",
 			"slug": "karl-kolle-stiftung"
 		},
@@ -11058,6 +11670,22 @@ var searchdb = {
 			"slug": "kaufhaus-schwager-gmbh-co-kg"
 		},
 		{
+			"name": "Kaufmännische Krankenkasse (KKH)",
+			"slug": "kaufmaennische-krankenkasse-kkh"
+		},
+		{
+			"name": "Kaupp, Gerd, 26188 Edewecht",
+			"slug": "kaupp-gerd-26188-edewecht"
+		},
+		{
+			"name": "KBB Underground Technologies GmbH, Hannover",
+			"slug": "kbb-underground-technologies-gmbh-hannover"
+		},
+		{
+			"name": "Kedrion International GmbH",
+			"slug": "kedrion-international-gmbh"
+		},
+		{
 			"name": "Keller Grundbau GmbH",
 			"slug": "keller-grundbau-gmbh"
 		},
@@ -11098,6 +11726,10 @@ var searchdb = {
 			"slug": "kennametal-sintec-keramik"
 		},
 		{
+			"name": "Keramischer Ofenbau GmbH",
+			"slug": "keramischer-ofenbau-gmbh"
+		},
+		{
 			"name": "Kerckhoff-Stiftung",
 			"slug": "kerckhoff-stiftung"
 		},
@@ -11122,6 +11754,10 @@ var searchdb = {
 			"slug": "ketchum-pleon-gmbh"
 		},
 		{
+			"name": "Kettner, Christel",
+			"slug": "kettner-christel"
+		},
+		{
 			"name": "KG transmitter components GmbH",
 			"slug": "kg-transmitter-components-gmbh"
 		},
@@ -11136,6 +11772,10 @@ var searchdb = {
 		{
 			"name": "Kiekert AG",
 			"slug": "kiekert-ag"
+		},
+		{
+			"name": "Kienbaum Consultants International GmbH",
+			"slug": "kienbaum-consultants-international-gmbh"
 		},
 		{
 			"name": "Kiene, Dr, Bernd, Vechta",
@@ -11160,6 +11800,10 @@ var searchdb = {
 		{
 			"name": "Kinderhut GmbH",
 			"slug": "kinderhut-gmbh"
+		},
+		{
+			"name": "Kinderträume-Stiftung Essen",
+			"slug": "kindertraeume-stiftung-essen"
 		},
 		{
 			"name": "Kinder-und Jugendhilfezentrum Groö Börnecke GmbH",
@@ -11190,6 +11834,10 @@ var searchdb = {
 			"slug": "kjellberg-stiftung"
 		},
 		{
+			"name": "KKH Kaufm. Krankenkasse",
+			"slug": "kkh-kaufm-krankenkasse"
+		},
+		{
 			"name": "Klöckner & Co SE",
 			"slug": "kloeckner-co-se"
 		},
@@ -11202,12 +11850,12 @@ var searchdb = {
 			"slug": "klaus-hoechstetter-stiftung"
 		},
 		{
-			"name": "Klaus Krone Stiftung",
-			"slug": "klaus-krone-stiftung"
-		},
-		{
 			"name": "Klaus Schäfer Holding GmbH & Co. KG",
 			"slug": "klaus-schaefer-holding-gmbh-co-kg"
+		},
+		{
+			"name": "Klaus Tschira Stiftung",
+			"slug": "klaus-tschira-stiftung"
 		},
 		{
 			"name": "Klavierhaus M. Fiech",
@@ -11218,8 +11866,16 @@ var searchdb = {
 			"slug": "klebl-baulogistik-gmbh"
 		},
 		{
+			"name": "Kleine Herzen Hannover e.V.",
+			"slug": "kleine-herzen-hannover-ev"
+		},
+		{
 			"name": "Klemm Bohrtechnik GmbH",
 			"slug": "klemm-bohrtechnik-gmbh"
+		},
+		{
+			"name": "Klemm Sohn GmbH & Co.KG",
+			"slug": "klemm-sohn-gmbh-cokg"
 		},
 		{
 			"name": "Klett-Stiftung, Dr. Michael Klett",
@@ -11278,10 +11934,6 @@ var searchdb = {
 			"slug": "klinikum-oldenburg"
 		},
 		{
-			"name": "Klinikum Oldenburg gGmbH",
-			"slug": "klinikum-oldenburg-ggmbh"
-		},
-		{
 			"name": "Klinikum Solingen",
 			"slug": "klinikum-solingen"
 		},
@@ -11314,6 +11966,10 @@ var searchdb = {
 			"slug": "k-mail-order-gmbh-co-kg"
 		},
 		{
+			"name": "KMU Beratungsverband Bundesverband freier Berater e. V., 40221 Düsseldorf",
+			"slug": "kmu-beratungsverband-bundesverband-freier-berater-e-v-40221-duesseldorf"
+		},
+		{
 			"name": "Knödler-Decker-Stiftung",
 			"slug": "knoedler-decker-stiftung"
 		},
@@ -11342,6 +11998,10 @@ var searchdb = {
 			"slug": "kob"
 		},
 		{
+			"name": "Kobra Company",
+			"slug": "kobra-company"
+		},
+		{
 			"name": "Koda Stanz- und Biegetechnik GmbH",
 			"slug": "koda-stanz-und-biegetechnik-gmbh"
 		},
@@ -11354,6 +12014,10 @@ var searchdb = {
 			"slug": "koenig-bauer-ag"
 		},
 		{
+			"name": "Kohse-Höinghaus, Prof. Dr. Katharina, 26131 Oldenburg",
+			"slug": "kohse-hoeinghaus-prof-dr-katharina-26131-oldenburg"
+		},
+		{
 			"name": "Koinor Horst-Müller-Stiftung",
 			"slug": "koinor-horst-mueller-stiftung"
 		},
@@ -11362,12 +12026,12 @@ var searchdb = {
 			"slug": "koito-manufacturing"
 		},
 		{
-			"name": "Komatsu Hanomag GmbH",
-			"slug": "komatsu-hanomag-gmbh"
+			"name": "Kolbus GmbH & Co.KG",
+			"slug": "kolbus-gmbh-cokg"
 		},
 		{
-			"name": "Komatsu Mining Germany",
-			"slug": "komatsu-mining-germany"
+			"name": "Komatsu",
+			"slug": "komatsu"
 		},
 		{
 			"name": "Komet Group GmbH",
@@ -11386,8 +12050,16 @@ var searchdb = {
 			"slug": "kompetenzzentrum-bahnsicherungstechnik-cerss-ltd"
 		},
 		{
+			"name": "Kompetenzzentrum für Energieeffizienz e.V.",
+			"slug": "kompetenzzentrum-fuer-energieeffizienz-ev"
+		},
+		{
 			"name": "KOMSA Kommunikation Sachsen AG",
 			"slug": "komsa-kommunikation-sachsen-ag"
+		},
+		{
+			"name": "Kone GmbH",
+			"slug": "kone-gmbh"
 		},
 		{
 			"name": "Konrad Krieger Stiftung",
@@ -11546,6 +12218,10 @@ var searchdb = {
 			"slug": "kreissparkasse-waiblingen"
 		},
 		{
+			"name": "Kreiswohnbau GmbH Hildesheim",
+			"slug": "kreiswohnbau-gmbh-hildesheim"
+		},
+		{
 			"name": "Kremer Pigmente GmbH & Co. KG",
 			"slug": "kremer-pigmente-gmbh-co-kg"
 		},
@@ -11584,6 +12260,10 @@ var searchdb = {
 		{
 			"name": "KSK Biberach",
 			"slug": "ksk-biberach"
+		},
+		{
+			"name": "KSM Castings GmbH, Hildesheim",
+			"slug": "ksm-castings-gmbh-hildesheim"
 		},
 		{
 			"name": "KSPG AG",
@@ -11634,12 +12314,8 @@ var searchdb = {
 			"slug": "kverneland-group-deutschland-gmbh"
 		},
 		{
-			"name": "KWS Mais GmbH, Einbeck",
-			"slug": "kws-mais-gmbh-einbeck"
-		},
-		{
-			"name": "KWS Saat AG",
-			"slug": "kws-saat-ag"
+			"name": "KWS",
+			"slug": "kws"
 		},
 		{
 			"name": "KW-TV Wildau",
@@ -11682,8 +12358,20 @@ var searchdb = {
 			"slug": "lueder-unternehmensgruppe-gmbh"
 		},
 		{
+			"name": "Lüder Unternehmensgruppe, Hildesheim",
+			"slug": "lueder-unternehmensgruppe-hildesheim"
+		},
+		{
+			"name": "Lüder Unternehmungsgruppe GmbH, Hildesheim",
+			"slug": "lueder-unternehmungsgruppe-gmbh-hildesheim"
+		},
+		{
 			"name": "Lüers, Jan",
 			"slug": "lueers-jan"
+		},
+		{
+			"name": "Lüllau Engineering GmbH",
+			"slug": "luellau-engineering-gmbh"
 		},
 		{
 			"name": "Lüröen, Friedrich",
@@ -11696,6 +12384,10 @@ var searchdb = {
 		{
 			"name": "LAKUMED Landshut",
 			"slug": "lakumed-landshut"
+		},
+		{
+			"name": "Lamed GmbH",
+			"slug": "lamed-gmbh"
 		},
 		{
 			"name": "Lampe & Schwartze, Bremen",
@@ -11738,24 +12430,16 @@ var searchdb = {
 			"slug": "landeshauptstadt-hannover"
 		},
 		{
+			"name": "Landeskirche Hannover",
+			"slug": "landeskirche-hannover"
+		},
+		{
 			"name": "Landeskirchenamt",
 			"slug": "landeskirchenamt"
 		},
 		{
-			"name": "Landesparkasse Oldenburg",
-			"slug": "landesparkasse-oldenburg"
-		},
-		{
-			"name": "Landessparkasse Oldenburg",
-			"slug": "landessparkasse-oldenburg"
-		},
-		{
 			"name": "Landessparkasse zu Oldenburg",
 			"slug": "landessparkasse-zu-oldenburg"
-		},
-		{
-			"name": "Landessparkasse zu Oldenburg, Vechta",
-			"slug": "landessparkasse-zu-oldenburg-vechta"
 		},
 		{
 			"name": "Landesversicherungsanstalt Oberbayern (LVA)",
@@ -11778,12 +12462,12 @@ var searchdb = {
 			"slug": "landkreis-vechta"
 		},
 		{
-			"name": "Landschaftliche Brandkasse",
-			"slug": "landschaftliche-brandkasse"
-		},
-		{
 			"name": "Landschaftliche Brandkasse, Hannover",
 			"slug": "landschaftliche-brandkasse-hannover"
+		},
+		{
+			"name": "Landwirtschaftliche Brandkasse Hannover",
+			"slug": "landwirtschaftliche-brandkasse-hannover"
 		},
 		{
 			"name": "Landwirtschaftliche Rentenbank",
@@ -11810,8 +12494,16 @@ var searchdb = {
 			"slug": "lars-oddershede-sunesen"
 		},
 		{
+			"name": "LaSalle Investment Management Kapitalgesellschaft, München",
+			"slug": "lasalle-investment-management-kapitalgesellschaft-muenchen"
+		},
+		{
 			"name": "LASCO Umformtechnik GmbH",
 			"slug": "lasco-umformtechnik-gmbh"
+		},
+		{
+			"name": "Laseroptik GmbH",
+			"slug": "laseroptik-gmbh"
 		},
 		{
 			"name": "Latham & Watkins LLP",
@@ -11846,6 +12538,10 @@ var searchdb = {
 			"slug": "ldkka-des-okr-oldenburg"
 		},
 		{
+			"name": "Lds.Verband PR Vention",
+			"slug": "ldsverband-pr-vention"
+		},
+		{
 			"name": "LDW Lloyd Dynamowerke GmbH & Co. KG",
 			"slug": "ldw-lloyd-dynamowerke-gmbh-co-kg"
 		},
@@ -11870,6 +12566,10 @@ var searchdb = {
 			"slug": "lechwerke-ag"
 		},
 		{
+			"name": "Leffers & Co. GmbH & Co. KG, 26122 Oldenburg",
+			"slug": "leffers-co-gmbh-co-kg-26122-oldenburg"
+		},
+		{
 			"name": "LEG Thüringen",
 			"slug": "leg-thueringen"
 		},
@@ -11878,8 +12578,16 @@ var searchdb = {
 			"slug": "lehrstuhl-fuer-didaktik-der-mathematik"
 		},
 		{
+			"name": "Leiber, Carl, 49661 Cloppenburg",
+			"slug": "leiber-carl-49661-cloppenburg"
+		},
+		{
 			"name": "Leiber, Carl, Cloppenburg",
 			"slug": "leiber-carl-cloppenburg"
+		},
+		{
+			"name": "Leibniz Universitätsgesellschaft",
+			"slug": "leibniz-universitaetsgesellschaft"
 		},
 		{
 			"name": "Leinemann Stiftung",
@@ -11908,6 +12616,10 @@ var searchdb = {
 		{
 			"name": "LEMKEN GmbH & Co. KG",
 			"slug": "lemken-gmbh-co-kg"
+		},
+		{
+			"name": "Lenze Operations GmbH",
+			"slug": "lenze-operations-gmbh"
 		},
 		{
 			"name": "Lenze SE",
@@ -11966,10 +12678,6 @@ var searchdb = {
 			"slug": "liebherr-holding"
 		},
 		{
-			"name": "Liebherr-Verzahntechnik GmbH",
-			"slug": "liebherr-verzahntechnik-gmbh"
-		},
-		{
 			"name": "Lienstädt, Bernd",
 			"slug": "lienstaedt-bernd"
 		},
@@ -11990,6 +12698,10 @@ var searchdb = {
 			"slug": "limo-lissotschenko-mikrooptik-gmbh"
 		},
 		{
+			"name": "LINAK GmbH Nidda",
+			"slug": "linak-gmbh-nidda"
+		},
+		{
 			"name": "Lindauer Dornier GmbH",
 			"slug": "lindauer-dornier-gmbh"
 		},
@@ -12006,6 +12718,10 @@ var searchdb = {
 			"slug": "lindemann-irma"
 		},
 		{
+			"name": "Lindemann, Wilhelm, 27793 Wildeshausen",
+			"slug": "lindemann-wilhelm-27793-wildeshausen"
+		},
+		{
 			"name": "Lindenpartners",
 			"slug": "lindenpartners"
 		},
@@ -12020,6 +12736,10 @@ var searchdb = {
 		{
 			"name": "Lintker Unternehmensgruppe Osnabrück",
 			"slug": "lintker-unternehmensgruppe-osnabrueck"
+		},
+		{
+			"name": "Linz, Dorle",
+			"slug": "linz-dorle"
 		},
 		{
 			"name": "Lions Club Bad Homburg Kaiserin Friedrich",
@@ -12054,6 +12774,14 @@ var searchdb = {
 			"slug": "lions-club-hilfswerk-euregio-maas-rhein-ev"
 		},
 		{
+			"name": "Lions Club Oldenburg, 26121 Oldenburg",
+			"slug": "lions-club-oldenburg-26121-oldenburg"
+		},
+		{
+			"name": "Lions Club Oldenburg-Lappan, Präsident Herr Zugermeier, Alfred- Kubin-Str. 7, 26133 Oldenburg",
+			"slug": "lions-club-oldenburg-lappan-praesident-herr-zugermeier-alfred-kubin-str-7-26133-oldenburg"
+		},
+		{
 			"name": "Lions Club Pforzheim-Enz",
 			"slug": "lions-club-pforzheim-enz"
 		},
@@ -12062,8 +12790,20 @@ var searchdb = {
 			"slug": "lions-club-warburg"
 		},
 		{
+			"name": "Lions Club Wilhelmshaven",
+			"slug": "lions-club-wilhelmshaven"
+		},
+		{
+			"name": "Lions Club, Rotary District 1850",
+			"slug": "lions-club-rotary-district-1850"
+		},
+		{
 			"name": "Lions Hilfswerk Bochum-Ruhr",
 			"slug": "lions-hilfswerk-bochum-ruhr"
+		},
+		{
+			"name": "Lions Hilfswerk Braunschweig- Dankwarderode",
+			"slug": "lions-hilfswerk-braunschweig-dankwarderode"
 		},
 		{
 			"name": "Lions Hilfswerk Wattenscheid e.V.",
@@ -12076,10 +12816,6 @@ var searchdb = {
 		{
 			"name": "Lions-Club Frankfurt (Oder)",
 			"slug": "lions-club-frankfurt-oder"
-		},
-		{
-			"name": "Lions-Club Frankfurt (Oder) e.V.",
-			"slug": "lions-club-frankfurt-oder-ev"
 		},
 		{
 			"name": "Lionsclub Willa Thorade",
@@ -12102,6 +12838,10 @@ var searchdb = {
 			"slug": "liqui-moly-gmbh"
 		},
 		{
+			"name": "LISA laser products OHG",
+			"slug": "lisa-laser-products-ohg"
+		},
+		{
 			"name": "Lloyd's Register EMEA",
 			"slug": "lloyds-register-emea"
 		},
@@ -12114,8 +12854,16 @@ var searchdb = {
 			"slug": "lmt-leading-metalworking-technologies-group"
 		},
 		{
+			"name": "LMZ-Soft AG",
+			"slug": "lmz-soft-ag"
+		},
+		{
 			"name": "lock",
 			"slug": "lock"
+		},
+		{
+			"name": "Locomotec",
+			"slug": "locomotec"
 		},
 		{
 			"name": "Lodhiamedics",
@@ -12166,10 +12914,6 @@ var searchdb = {
 			"slug": "louise-blackborne-stiftung"
 		},
 		{
-			"name": "LPI Ingenieurgesellsch. mbH",
-			"slug": "lpi-ingenieurgesellsch-mbh"
-		},
-		{
 			"name": "LPI Ingenieursgesellschaft mbH",
 			"slug": "lpi-ingenieursgesellschaft-mbh"
 		},
@@ -12186,8 +12930,16 @@ var searchdb = {
 			"slug": "ltb-leitungsbau-gmbh"
 		},
 		{
+			"name": "Ludgerusschule Vechta, 49377 Vechta",
+			"slug": "ludgerusschule-vechta-49377-vechta"
+		},
+		{
 			"name": "Ludwig Weinrich GmbH & Co. KG",
 			"slug": "ludwig-weinrich-gmbh-co-kg"
+		},
+		{
+			"name": "Ludwig Weinrich GmbH, 32051 Herford",
+			"slug": "ludwig-weinrich-gmbh-32051-herford"
 		},
 		{
 			"name": "Ludwig-Heidenhain-Stiftung",
@@ -12310,10 +13062,6 @@ var searchdb = {
 			"slug": "muenchner-universitaetsgesellschaft"
 		},
 		{
-			"name": "Müsiad Berlin e.V.",
-			"slug": "muesiad-berlin-ev"
-		},
-		{
 			"name": "MüSIAD e.V.",
 			"slug": "muesiad-ev"
 		},
@@ -12326,16 +13074,24 @@ var searchdb = {
 			"slug": "madsack-gmbh-cokg"
 		},
 		{
-			"name": "Madsack-Media-Store GmbH & Co. KG",
-			"slug": "madsack-media-store-gmbh-co-kg"
+			"name": "Madsack Media Store",
+			"slug": "madsack-media-store"
 		},
 		{
 			"name": "Magdeburg",
 			"slug": "magdeburg"
 		},
 		{
+			"name": "Magma Gießereitechnologie GmbH",
+			"slug": "magma-giessereitechnologie-gmbh"
+		},
+		{
 			"name": "Magnet Schultz GmbH",
 			"slug": "magnet-schultz-gmbh"
+		},
+		{
+			"name": "Magrathea Informatik GmbH",
+			"slug": "magrathea-informatik-gmbh"
 		},
 		{
 			"name": "Mahle GmbH",
@@ -12344,6 +13100,10 @@ var searchdb = {
 		{
 			"name": "Mahr GmbH",
 			"slug": "mahr-gmbh"
+		},
+		{
+			"name": "Mahr, Göttingen",
+			"slug": "mahr-goettingen"
 		},
 		{
 			"name": "Mainau GmbH",
@@ -12356,6 +13116,10 @@ var searchdb = {
 		{
 			"name": "Mainsite GmbH & Co. KG",
 			"slug": "mainsite-gmbh-co-kg"
+		},
+		{
+			"name": "Main-Tauber-Kreis",
+			"slug": "main-tauber-kreis"
 		},
 		{
 			"name": "Mainzer Volksbank eG",
@@ -12422,12 +13186,20 @@ var searchdb = {
 			"slug": "mapal-praezisionswerkzeuge"
 		},
 		{
-			"name": "MAPAL Präzisionswerkzeuge KG",
-			"slug": "mapal-praezisionswerkzeuge-kg"
+			"name": "Maquet Cardiopulmonary AG",
+			"slug": "maquet-cardiopulmonary-ag"
+		},
+		{
+			"name": "Maquet Vertrieb+Service",
+			"slug": "maquet-vertriebservice"
 		},
 		{
 			"name": "Marburger Bund Bundesverband - Verband der angestellten und beamteten ärztinnen und ärzte Deutschlands e.V.",
 			"slug": "marburger-bund-bundesverband-verband-der-angestellten-und-beamteten-aerztinnen-und-aerzte-deutschlands-ev"
+		},
+		{
+			"name": "Marga Suesselbeck",
+			"slug": "marga-suesselbeck"
 		},
 		{
 			"name": "Marga und Kurt Möllgard-Stiftung",
@@ -12438,8 +13210,8 @@ var searchdb = {
 			"slug": "margaretha-und-josephinen-stiftung"
 		},
 		{
-			"name": "Mariaan Steegmann Foundation, Vaduz",
-			"slug": "mariaan-steegmann-foundation-vaduz"
+			"name": "Maria Dierkes",
+			"slug": "maria-dierkes"
 		},
 		{
 			"name": "Maria-Seltmann-Stiftung",
@@ -12490,6 +13262,10 @@ var searchdb = {
 			"slug": "martha-maria-krankenhaus-halle-doelau-ggmbh"
 		},
 		{
+			"name": "Martin Mohren",
+			"slug": "martin-mohren"
+		},
+		{
 			"name": "Marx Gómez, Jorge",
 			"slug": "marx-gmez-jorge"
 		},
@@ -12538,8 +13314,20 @@ var searchdb = {
 			"slug": "matthias-loehr-bocholt"
 		},
 		{
+			"name": "Matthias Segner",
+			"slug": "matthias-segner"
+		},
+		{
+			"name": "Matz, Irina",
+			"slug": "matz-irina"
+		},
+		{
 			"name": "Mauer, Ludwig und Mechthild",
 			"slug": "mauer-ludwig-und-mechthild"
+		},
+		{
+			"name": "Maurer Electronics",
+			"slug": "maurer-electronics"
 		},
 		{
 			"name": "Mauritzhof Hotel Münster",
@@ -12606,6 +13394,10 @@ var searchdb = {
 			"slug": "mckinsey-company-inc"
 		},
 		{
+			"name": "MCON GmbH Commerzbank DGIM",
+			"slug": "mcon-gmbh-commerzbank-dgim"
+		},
+		{
 			"name": "MCS Sachsen",
 			"slug": "mcs-sachsen"
 		},
@@ -12616,10 +13408,6 @@ var searchdb = {
 		{
 			"name": "mecca neue medien GmbH & Co. KG",
 			"slug": "mecca-neue-medien-gmbh-co-kg"
-		},
-		{
-			"name": "Mecklenburgische Versicherungsgesellschaft AG",
-			"slug": "mecklenburgische-versicherungsgesellschaft-ag"
 		},
 		{
 			"name": "Mecklenburgische Versicherungsgruppe",
@@ -12634,12 +13422,8 @@ var searchdb = {
 			"slug": "mectron-deutschland"
 		},
 		{
-			"name": "Meda Manufacturing GmbH",
-			"slug": "meda-manufacturing-gmbh"
-		},
-		{
-			"name": "Meda Pharma GmbH",
-			"slug": "meda-pharma-gmbh"
+			"name": "Meda",
+			"slug": "meda"
 		},
 		{
 			"name": "Medac GmbH",
@@ -12694,8 +13478,16 @@ var searchdb = {
 			"slug": "medizinische-verlags-und-informationsdienste"
 		},
 		{
+			"name": "Medreflex GmbH",
+			"slug": "medreflex-gmbh"
+		},
+		{
 			"name": "Medtronic GmbH",
 			"slug": "medtronic-gmbh"
+		},
+		{
+			"name": "Medxpert GmbH",
+			"slug": "medxpert-gmbh"
 		},
 		{
 			"name": "Mehl, Klaus",
@@ -12712,6 +13504,10 @@ var searchdb = {
 		{
 			"name": "Meier, Gerd",
 			"slug": "meier-gerd"
+		},
+		{
+			"name": "Meier, Marlen, An der Beverbäke 12, 26123 Oldenburg",
+			"slug": "meier-marlen-an-der-beverbaeke-12-26123-oldenburg"
 		},
 		{
 			"name": "MEIKO Maschinenbau GmbH & Co. KG",
@@ -12734,6 +13530,14 @@ var searchdb = {
 			"slug": "mela-sciences-inc"
 		},
 		{
+			"name": "Melitta Bentz GmbH & Co. KG",
+			"slug": "melitta-bentz-gmbh-co-kg"
+		},
+		{
+			"name": "Melos GmbH",
+			"slug": "melos-gmbh"
+		},
+		{
 			"name": "Mende Markenting GmbH",
 			"slug": "mende-markenting-gmbh"
 		},
@@ -12748,10 +13552,6 @@ var searchdb = {
 		{
 			"name": "Mercedes-Benz AG, Bielefeld",
 			"slug": "mercedes-benz-ag-bielefeld"
-		},
-		{
-			"name": "Mercedes-Benz Vans",
-			"slug": "mercedes-benz-vans"
 		},
 		{
 			"name": "Merck Group",
@@ -12774,6 +13574,10 @@ var searchdb = {
 			"slug": "merkur-bank-kgaa"
 		},
 		{
+			"name": "Merz Consumer Care",
+			"slug": "merz-consumer-care"
+		},
+		{
 			"name": "Messe Essen",
 			"slug": "messe-essen"
 		},
@@ -12788,6 +13592,10 @@ var searchdb = {
 		{
 			"name": "Messer Group GmbH",
 			"slug": "messer-group-gmbh"
+		},
+		{
+			"name": "Mesterharm, Dr. Michael , Ohewiesen 2 A, 38444 Wolfsburg",
+			"slug": "mesterharm-dr-michael-ohewiesen-2-a-38444-wolfsburg"
 		},
 		{
 			"name": "meta Motoren- und Energietechnik GmbH",
@@ -12834,8 +13642,16 @@ var searchdb = {
 			"slug": "meyer-christiane"
 		},
 		{
+			"name": "Meyerdierks Immobilien Treuhand- und Verwaltungsgesellschaft mbH, 26122 Oldenburg",
+			"slug": "meyerdierks-immobilien-treuhand-und-verwaltungsgesellschaft-mbh-26122-oldenburg"
+		},
+		{
 			"name": "MEYER-KöRING Rechtsanwälte Steuerberater Partnerschaft",
 			"slug": "meyer-koering-rechtsanwaelte-steuerberater-partnerschaft"
+		},
+		{
+			"name": "MEYTEC GmbH Informationssysteme",
+			"slug": "meytec-gmbh-informationssysteme"
 		},
 		{
 			"name": "MFPA Leipzig GmbH",
@@ -12846,12 +13662,20 @@ var searchdb = {
 			"slug": "mhh-alumni-ev"
 		},
 		{
+			"name": "Mibe Vertriebs GmbH",
+			"slug": "mibe-vertriebs-gmbh"
+		},
+		{
 			"name": "MIBRAG Mitteldeutsche Braunkohlengesellschaft mbH",
 			"slug": "mibrag-mitteldeutsche-braunkohlengesellschaft-mbh"
 		},
 		{
 			"name": "Mibrak",
 			"slug": "mibrak"
+		},
+		{
+			"name": "Michael Otto Stiftung f�r Umweltschutz",
+			"slug": "michael-otto-stiftung-fr-umweltschutz"
 		},
 		{
 			"name": "Michael-Balint-Klinik Königsfeld",
@@ -12872,6 +13696,10 @@ var searchdb = {
 		{
 			"name": "Micro Epsilon",
 			"slug": "micro-epsilon"
+		},
+		{
+			"name": "Micronex GmbH, Springe",
+			"slug": "micronex-gmbh-springe"
 		},
 		{
 			"name": "MicroNova AG",
@@ -12914,6 +13742,10 @@ var searchdb = {
 			"slug": "milupa-gmbh"
 		},
 		{
+			"name": "Mind-QM GmbH",
+			"slug": "mind-qm-gmbh"
+		},
+		{
 			"name": "mindsquare GmbH",
 			"slug": "mindsquare-gmbh"
 		},
@@ -12938,8 +13770,16 @@ var searchdb = {
 			"slug": "miro-mineraloelraffinerie-oberrhein-gmbh-co-kg"
 		},
 		{
+			"name": "Missing Link eG, 28199 Bremen",
+			"slug": "missing-link-eg-28199-bremen"
+		},
+		{
 			"name": "Mitbestimmungs-, Forschungs- und Studien- Förderungswerk des Deutschen Gewerkschaftsbundes",
 			"slug": "mitbestimmungs-forschungs-und-studien-foerderungswerk-des-deutschen-gewerkschaftsbundes"
+		},
+		{
+			"name": "MITEC Automotive AG",
+			"slug": "mitec-automotive-ag"
 		},
 		{
 			"name": "Mitglieder von KölnAlumni - Freunde und Förderer der Universität zu Köln e. V.",
@@ -12950,12 +13790,20 @@ var searchdb = {
 			"slug": "mitsubishi-electric-europe-bv"
 		},
 		{
+			"name": "Mitsubishi Pharma Deutschland GmbH",
+			"slug": "mitsubishi-pharma-deutschland-gmbh"
+		},
+		{
 			"name": "Mittelbayerische Medien Holding KG",
 			"slug": "mittelbayerische-medien-holding-kg"
 		},
 		{
 			"name": "Mittelbrandenburgische Sparkasse",
 			"slug": "mittelbrandenburgische-sparkasse"
+		},
+		{
+			"name": "Mitteldeutsche Braunkohlengesellschaft mbH, Zeitz",
+			"slug": "mitteldeutsche-braunkohlengesellschaft-mbh-zeitz"
 		},
 		{
 			"name": "Mitteldeutsche Flughafen AG",
@@ -12986,8 +13834,20 @@ var searchdb = {
 			"slug": "molkerei-soebbeke-gmbh-co-kg"
 		},
 		{
+			"name": "Monsanto Agrar Deutschland GmbH",
+			"slug": "monsanto-agrar-deutschland-gmbh"
+		},
+		{
 			"name": "Moog GmbH, Böblingen",
 			"slug": "moog-gmbh-boeblingen"
+		},
+		{
+			"name": "Morjan-Wermuth, Heide",
+			"slug": "morjan-wermuth-heide"
+		},
+		{
+			"name": "Moticon GmbH",
+			"slug": "moticon-gmbh"
 		},
 		{
 			"name": "Motor Presse Stuttgart",
@@ -13014,16 +13874,16 @@ var searchdb = {
 			"slug": "mt-propeller-entwicklung-gmbh"
 		},
 		{
+			"name": "MTS Sensor Technologie GmbH & Co.KG, Lüdenscheid",
+			"slug": "mts-sensor-technologie-gmbh-cokg-luedenscheid"
+		},
+		{
 			"name": "MTU Maintenance",
 			"slug": "mtu-maintenance"
 		},
 		{
 			"name": "MTU Reman Technologies GmbH",
 			"slug": "mtu-reman-technologies-gmbh"
-		},
-		{
-			"name": "Muhr & Bender KG",
-			"slug": "muhr-bender-kg"
 		},
 		{
 			"name": "Muhr und Bender KG",
@@ -13040,10 +13900,6 @@ var searchdb = {
 		{
 			"name": "Mundipharma GmbH",
 			"slug": "mundipharma-gmbh"
-		},
-		{
-			"name": "Mundstock Stiftung",
-			"slug": "mundstock-stiftung"
 		},
 		{
 			"name": "Munzinger-Mohsenzadeh, Heike",
@@ -13084,6 +13940,10 @@ var searchdb = {
 		{
 			"name": "Nürnberger Versicherungsgruppe",
 			"slug": "nuernberger-versicherungsgruppe"
+		},
+		{
+			"name": "Naif Abdullah",
+			"slug": "naif-abdullah"
 		},
 		{
 			"name": "Nanu Nana Einkaufs- und Verwaltungs GmbH",
@@ -13150,10 +14010,6 @@ var searchdb = {
 			"slug": "n-ergie-ag"
 		},
 		{
-			"name": "Nesseler Grünzig Bau GmbH",
-			"slug": "nesseler-gruenzig-bau-gmbh"
-		},
-		{
 			"name": "nesseler-grünzig-bau gmbh",
 			"slug": "nesseler-gruenzig-bau-gmbh"
 		},
@@ -13164,6 +14020,10 @@ var searchdb = {
 		{
 			"name": "net at work Netzwerksysteme GmbH",
 			"slug": "net-at-work-netzwerksysteme-gmbh"
+		},
+		{
+			"name": "Net.De. AG",
+			"slug": "netde-ag"
 		},
 		{
 			"name": "NetAachen GmbH",
@@ -13184,6 +14044,10 @@ var searchdb = {
 		{
 			"name": "Neubrandenburger Stadtwerke GmbH",
 			"slug": "neubrandenburger-stadtwerke-gmbh"
+		},
+		{
+			"name": "Neudorff GmbH KG",
+			"slug": "neudorff-gmbh-kg"
 		},
 		{
 			"name": "Neudorff, W. GmbH KG, Emmerthal",
@@ -13258,6 +14122,10 @@ var searchdb = {
 			"slug": "next-level-integration-gmbh"
 		},
 		{
+			"name": "NextHealth GmbH",
+			"slug": "nexthealth-gmbh"
+		},
+		{
 			"name": "NextiraOne Deutschland GmbH",
 			"slug": "nextiraone-deutschland-gmbh"
 		},
@@ -13278,6 +14146,10 @@ var searchdb = {
 			"slug": "nidag-gmbh"
 		},
 		{
+			"name": "Niederländische Taaluni",
+			"slug": "niederlaendische-taaluni"
+		},
+		{
 			"name": "Niederlande Taal",
 			"slug": "niederlande-taal"
 		},
@@ -13294,16 +14166,16 @@ var searchdb = {
 			"slug": "niedersaechsisches-institut-fuer-fruehkindliche-bildung-und-entwicklung-ev-osnabrueck"
 		},
 		{
+			"name": "Niedersächsisches Staatstheater Hannover GmbH",
+			"slug": "niedersaechsisches-staatstheater-hannover-gmbh"
+		},
+		{
 			"name": "NiedersachsenMetall e. V.",
 			"slug": "niedersachsenmetall-e-v"
 		},
 		{
 			"name": "Niehoffs Kaffeerösterei GmbH",
 			"slug": "niehoffs-kaffeeroesterei-gmbh"
-		},
-		{
-			"name": "Nietiedt Verwaltungs GmbH",
-			"slug": "nietiedt-verwaltungs-gmbh"
 		},
 		{
 			"name": "Nietiedt-Gruppe",
@@ -13322,12 +14194,12 @@ var searchdb = {
 			"slug": "nkt-cables-gmbh"
 		},
 		{
-			"name": "Noerr LLP",
-			"slug": "noerr-llp"
+			"name": "Nobilia-Werke J. Stickling GmbH & Co. KG",
+			"slug": "nobilia-werke-j-stickling-gmbh-co-kg"
 		},
 		{
-			"name": "Noerr-Gruppe/Noerr LLP",
-			"slug": "noerr-gruppenoerr-llp"
+			"name": "Noerr-Gruppe",
+			"slug": "noerr-gruppe"
 		},
 		{
 			"name": "Nolte, Prof. Dr. Helmut",
@@ -13342,8 +14214,8 @@ var searchdb = {
 			"slug": "nord-lb"
 		},
 		{
-			"name": "Nord LB, Hannover",
-			"slug": "nord-lb-hannover"
+			"name": "Nord/FM GmbH, Hannover",
+			"slug": "nordfm-gmbh-hannover"
 		},
 		{
 			"name": "Nordcap GmbH & Co. KG, Bremen",
@@ -13370,8 +14242,16 @@ var searchdb = {
 			"slug": "nordseezeitung"
 		},
 		{
+			"name": "Nordwest Assekuranzmakler GmbH & Co. KG, 28199 Bremen",
+			"slug": "nordwest-assekuranzmakler-gmbh-co-kg-28199-bremen"
+		},
+		{
 			"name": "Nordwest Assekuzanzmakler GmbH & Co.KG",
 			"slug": "nordwest-assekuzanzmakler-gmbh-cokg"
+		},
+		{
+			"name": "Nordwest Zeitung, 26121 Oldenburg",
+			"slug": "nordwest-zeitung-26121-oldenburg"
 		},
 		{
 			"name": "Nord-West-Metall",
@@ -13380,6 +14260,10 @@ var searchdb = {
 		{
 			"name": "Nordwest-Zeitung",
 			"slug": "nordwest-zeitung"
+		},
+		{
+			"name": "Nordzucker AG",
+			"slug": "nordzucker-ag"
 		},
 		{
 			"name": "Norton Rose Fulbright LLP",
@@ -13434,12 +14318,16 @@ var searchdb = {
 			"slug": "nt-ware-systemprogrammierungs-gmbh"
 		},
 		{
+			"name": "Nufarm Deutschland GmbH, Köln",
+			"slug": "nufarm-deutschland-gmbh-koeln"
+		},
+		{
 			"name": "nugg.ad",
 			"slug": "nuggad"
 		},
 		{
-			"name": "nugg.ad AG",
-			"slug": "nuggad-ag"
+			"name": "Nutrica GmbH",
+			"slug": "nutrica-gmbh"
 		},
 		{
 			"name": "NuVasive Europe GmbH",
@@ -13474,6 +14362,10 @@ var searchdb = {
 			"slug": "obo-werke-gmbh-co"
 		},
 		{
+			"name": "OCLC GmbH, 82041 Oberhaching",
+			"slug": "oclc-gmbh-82041-oberhaching"
+		},
+		{
 			"name": "Octapharma GmbH",
 			"slug": "octapharma-gmbh"
 		},
@@ -13506,6 +14398,10 @@ var searchdb = {
 			"slug": "oettinger-brauerei-gmbh"
 		},
 		{
+			"name": "Office Partner GmbH",
+			"slug": "office-partner-gmbh"
+		},
+		{
 			"name": "OFFIS",
 			"slug": "offis"
 		},
@@ -13518,6 +14414,14 @@ var searchdb = {
 			"slug": "olb-stiftung"
 		},
 		{
+			"name": "Oldbg.Landesbrandkasse öffentl.Versicherung",
+			"slug": "oldbglandesbrandkasse-oeffentlversicherung"
+		},
+		{
+			"name": "Oldenburger Förderdervein für Informationstechnologie, 26121 Oldenburg",
+			"slug": "oldenburger-foerderdervein-fuer-informationstechnologie-26121-oldenburg"
+		},
+		{
 			"name": "Oldenburgische Industrie- und Handelskammer",
 			"slug": "oldenburgische-industrie-und-handelskammer"
 		},
@@ -13526,12 +14430,28 @@ var searchdb = {
 			"slug": "oldenburgische-landesbank"
 		},
 		{
+			"name": "Oldenburgische Landesbank 26122 Oldenburg",
+			"slug": "oldenburgische-landesbank-26122-oldenburg"
+		},
+		{
+			"name": "Oldenburgische Landesbank AG, Frau Silchmüller, Stau 15/17, 26122 Oldenburg",
+			"slug": "oldenburgische-landesbank-ag-frau-silchmueller-stau-1517-26122-oldenburg"
+		},
+		{
+			"name": "Oldenburgische Landesbank, 26122 Oldenburg",
+			"slug": "oldenburgische-landesbank-26122-oldenburg"
+		},
+		{
 			"name": "Oldenburgische Volkszeitung, Vechta",
 			"slug": "oldenburgische-volkszeitung-vechta"
 		},
 		{
 			"name": "OLEC, Oldenburger Energiecluster e.V.",
 			"slug": "olec-oldenburger-energiecluster-ev"
+		},
+		{
+			"name": "OLEC, Oldenburger Energiecluster e.V., 26129 Oldenburg",
+			"slug": "olec-oldenburger-energiecluster-ev-26129-oldenburg"
 		},
 		{
 			"name": "Oltmanns & Partner GmbH",
@@ -13546,12 +14466,20 @@ var searchdb = {
 			"slug": "omnilab-laborzentrum"
 		},
 		{
+			"name": "Omnilab-Laborzentrum GmbH & Co.KG, 28359 Bremen",
+			"slug": "omnilab-laborzentrum-gmbh-cokg-28359-bremen"
+		},
+		{
 			"name": "omstudios GbR, Berlin",
 			"slug": "omstudios-gbr-berlin"
 		},
 		{
 			"name": "oncampus",
 			"slug": "oncampus"
+		},
+		{
+			"name": "One Subsea GmbH",
+			"slug": "one-subsea-gmbh"
 		},
 		{
 			"name": "Online GmbH",
@@ -13564,6 +14492,10 @@ var searchdb = {
 		{
 			"name": "Open Grid Europe GmbH",
 			"slug": "open-grid-europe-gmbh"
+		},
+		{
+			"name": "Ophardt Hygiene-Technik GmbH",
+			"slug": "ophardt-hygiene-technik-gmbh"
 		},
 		{
 			"name": "optek-Danulat GmbH",
@@ -13590,6 +14522,10 @@ var searchdb = {
 			"slug": "orga-systems-gmbh-paderborn"
 		},
 		{
+			"name": "Orgadata Software- Dienstleistungen AG, Leer",
+			"slug": "orgadata-software-dienstleistungen-ag-leer"
+		},
+		{
 			"name": "Orisa Software GmbH",
 			"slug": "orisa-software-gmbh"
 		},
@@ -13600,6 +14536,10 @@ var searchdb = {
 		{
 			"name": "ORWO Net AG , Bitterfeld-Wolfen",
 			"slug": "orwo-net-ag-bitterfeld-wolfen"
+		},
+		{
+			"name": "OS Steuerforum",
+			"slug": "os-steuerforum"
 		},
 		{
 			"name": "OSB AG",
@@ -13626,6 +14566,10 @@ var searchdb = {
 			"slug": "osmers-sabine"
 		},
 		{
+			"name": "Osnabrücker Steuerforum",
+			"slug": "osnabruecker-steuerforum"
+		},
+		{
 			"name": "Osram",
 			"slug": "osram"
 		},
@@ -13642,6 +14586,10 @@ var searchdb = {
 			"slug": "ostfalia-hochschulstiftung"
 		},
 		{
+			"name": "Ostfriesische Volksbank",
+			"slug": "ostfriesische-volksbank"
+		},
+		{
 			"name": "OSTO Systemberatung GmbH",
 			"slug": "osto-systemberatung-gmbh"
 		},
@@ -13652,6 +14600,10 @@ var searchdb = {
 		{
 			"name": "Oswald, Sigrit",
 			"slug": "oswald-sigrit"
+		},
+		{
+			"name": "Osypka",
+			"slug": "osypka"
 		},
 		{
 			"name": "Oticon A/S",
@@ -13718,6 +14670,10 @@ var searchdb = {
 			"slug": "outlaw-ggmbh"
 		},
 		{
+			"name": "Outotec GmbH, Oberursel",
+			"slug": "outotec-gmbh-oberursel"
+		},
+		{
 			"name": "Oventrop GmbH & Co. KG",
 			"slug": "oventrop-gmbh-co-kg"
 		},
@@ -13728,6 +14684,10 @@ var searchdb = {
 		{
 			"name": "OWL Marketing GmbH, Bielefeld",
 			"slug": "owl-marketing-gmbh-bielefeld"
+		},
+		{
+			"name": "OWR Reiseveranstaltter, Wallenhorst",
+			"slug": "owr-reiseveranstaltter-wallenhorst"
 		},
 		{
 			"name": "Oxford Instruments Analytical GmbH",
@@ -13744,6 +14704,10 @@ var searchdb = {
 		{
 			"name": "P.E. Concepts GmbH",
 			"slug": "pe-concepts-gmbh"
+		},
+		{
+			"name": "Péter Horváth",
+			"slug": "pter-horvth"
 		},
 		{
 			"name": "Pöllath+Partners",
@@ -13822,6 +14786,10 @@ var searchdb = {
 			"slug": "patent-und-innovationscentrum-bielefeld-pic-in-aufloesung-bielefeld"
 		},
 		{
+			"name": "Patrizia AG",
+			"slug": "patrizia-ag"
+		},
+		{
 			"name": "Paul Hartmann AG",
 			"slug": "paul-hartmann-ag"
 		},
@@ -13834,20 +14802,12 @@ var searchdb = {
 			"slug": "pck"
 		},
 		{
-			"name": "PCK Schwedt",
-			"slug": "pck-schwedt"
-		},
-		{
 			"name": "PC-Ware Information Technologies GmbH/AG",
 			"slug": "pc-ware-information-technologies-gmbhag"
 		},
 		{
-			"name": "P-D ChemiePark Bitterfeld Wolfen GmbH",
-			"slug": "p-d-chemiepark-bitterfeld-wolfen-gmbh"
-		},
-		{
-			"name": "P-D Management Industries - Technologies GmbH",
-			"slug": "p-d-management-industries-technologies-gmbh"
+			"name": "P-D group",
+			"slug": "p-d-group"
 		},
 		{
 			"name": "Peace Factory Augsburg GbR",
@@ -13918,12 +14878,20 @@ var searchdb = {
 			"slug": "pernod-ricard-deutschland-gmbh"
 		},
 		{
+			"name": "Perschmann GmbH, Braunschweig",
+			"slug": "perschmann-gmbh-braunschweig"
+		},
+		{
 			"name": "Perso Plankontor",
 			"slug": "perso-plankontor"
 		},
 		{
 			"name": "Pestalozzi-Fröbel-Haus Berlin",
 			"slug": "pestalozzi-froebel-haus-berlin"
+		},
+		{
+			"name": "Peter Behrens School of Architecture",
+			"slug": "peter-behrens-school-of-architecture"
 		},
 		{
 			"name": "Peter Gläsel Stiftung, Detmold",
@@ -13938,16 +14906,12 @@ var searchdb = {
 			"slug": "peter-stolleis-stipendienfonds"
 		},
 		{
-			"name": "Peter Wefing Stiftung, Bremen",
-			"slug": "peter-wefing-stiftung-bremen"
-		},
-		{
 			"name": "Peter-Lancier-Stiftung",
 			"slug": "peter-lancier-stiftung"
 		},
 		{
-			"name": "Peter-Osypka-Stiftung Grenzach",
-			"slug": "peter-osypka-stiftung-grenzach"
+			"name": "Peter-Osypka-Stiftung, Grenzach-Wyhlen",
+			"slug": "peter-osypka-stiftung-grenzach-wyhlen"
 		},
 		{
 			"name": "PETERSEN ARCHITEKTEN",
@@ -13982,8 +14946,20 @@ var searchdb = {
 			"slug": "pfizer"
 		},
 		{
+			"name": "PFK ARBICON ZINK KG, 26122 Oldenburg",
+			"slug": "pfk-arbicon-zink-kg-26122-oldenburg"
+		},
+		{
 			"name": "Pflitsch GmbH & Co. KG",
 			"slug": "pflitsch-gmbh-co-kg"
+		},
+		{
+			"name": "Pharm Allergan GmbH",
+			"slug": "pharm-allergan-gmbh"
+		},
+		{
+			"name": "Pharmar Mar GmbH",
+			"slug": "pharmar-mar-gmbh"
 		},
 		{
 			"name": "phenox GmbH",
@@ -14002,20 +14978,16 @@ var searchdb = {
 			"slug": "philips"
 		},
 		{
+			"name": "Philotech Systementwicklung und Software GmbH",
+			"slug": "philotech-systementwicklung-und-software-gmbh"
+		},
+		{
 			"name": "Phoenix Contact",
 			"slug": "phoenix-contact"
 		},
 		{
-			"name": "PHOENIX CONTACT GmbH & Co. KG",
-			"slug": "phoenix-contact-gmbh-co-kg"
-		},
-		{
 			"name": "PHOENIX Pharmahandel GmbH & Co. KG",
 			"slug": "phoenix-pharmahandel-gmbh-co-kg"
-		},
-		{
-			"name": "Phoenix-Contact GmbH & Co KG",
-			"slug": "phoenix-contact-gmbh-co-kg"
 		},
 		{
 			"name": "Phonak AG",
@@ -14028,6 +15000,14 @@ var searchdb = {
 		{
 			"name": "Phywe Systeme GmbH & Co.KG",
 			"slug": "phywe-systeme-gmbh-cokg"
+		},
+		{
+			"name": "Pich, Andreas u. Sigrid",
+			"slug": "pich-andreas-u-sigrid"
+		},
+		{
+			"name": "Picker Institut Deutschland gGmbH",
+			"slug": "picker-institut-deutschland-ggmbh"
 		},
 		{
 			"name": "PicoQuant GmbH",
@@ -14046,16 +15026,16 @@ var searchdb = {
 			"slug": "pilz-gmbh-co-kg"
 		},
 		{
-			"name": "Pilz GmbH & Co.KG",
-			"slug": "pilz-gmbh-cokg"
-		},
-		{
-			"name": "Pius Hospital",
-			"slug": "pius-hospital"
+			"name": "Piramal Healthcare",
+			"slug": "piramal-healthcare"
 		},
 		{
 			"name": "Pius-Hospital Oldenburg",
 			"slug": "pius-hospital-oldenburg"
+		},
+		{
+			"name": "Pixida GmbH",
+			"slug": "pixida-gmbh"
 		},
 		{
 			"name": "PKF Fasselt Schlage",
@@ -14078,8 +15058,16 @@ var searchdb = {
 			"slug": "planting-gmbh"
 		},
 		{
+			"name": "Planttec Medical GmbH",
+			"slug": "planttec-medical-gmbh"
+		},
+		{
 			"name": "Planungsbüro Rossow Gesellschaft für Versorgungstechnik mbH Neubrandenburg",
 			"slug": "planungsbuero-rossow-gesellschaft-fuer-versorgungstechnik-mbh-neubrandenburg"
+		},
+		{
+			"name": "Plattenhardt KG; Hattenhofen",
+			"slug": "plattenhardt-kg-hattenhofen"
 		},
 		{
 			"name": "Platz - Waury, Prof.Dr. Elke",
@@ -14092,6 +15080,10 @@ var searchdb = {
 		{
 			"name": "Pluradent AG",
 			"slug": "pluradent-ag"
+		},
+		{
+			"name": "PNE Wind AG, 27472 Cuxhaven",
+			"slug": "pne-wind-ag-27472-cuxhaven"
 		},
 		{
 			"name": "Poehler, Claudia",
@@ -14154,6 +15146,10 @@ var searchdb = {
 			"slug": "premium-aerotec-gmbh"
 		},
 		{
+			"name": "Prenzel, Dr. Regina, 26135 Oldenburg",
+			"slug": "prenzel-dr-regina-26135-oldenburg"
+		},
+		{
 			"name": "Presswerk Krefeld GmbH & Co. KG",
 			"slug": "presswerk-krefeld-gmbh-co-kg"
 		},
@@ -14164,10 +15160,6 @@ var searchdb = {
 		{
 			"name": "PricewaterhouseCoopers",
 			"slug": "pricewaterhousecoopers"
-		},
-		{
-			"name": "PrincewaterhouseCoopers",
-			"slug": "princewaterhousecoopers"
 		},
 		{
 			"name": "Pro Babelsberg gGmbH Potsdam",
@@ -14206,12 +15198,24 @@ var searchdb = {
 			"slug": "prof-dr-armand-blaschette"
 		},
 		{
+			"name": "Prof. Dr. Arnold Ganser",
+			"slug": "prof-dr-arnold-ganser"
+		},
+		{
+			"name": "Prof. Dr. Axel Haverich",
+			"slug": "prof-dr-axel-haverich"
+		},
+		{
 			"name": "Prof. Dr. Bernd Sonnenschein",
 			"slug": "prof-dr-bernd-sonnenschein"
 		},
 		{
 			"name": "Prof. Dr. Burkhard Jähnke",
 			"slug": "prof-dr-burkhard-jaehnke"
+		},
+		{
+			"name": "Prof. Dr. Claus Adams Wittmund",
+			"slug": "prof-dr-claus-adams-wittmund"
 		},
 		{
 			"name": "Prof. Dr. Claus Rollinger",
@@ -14234,6 +15238,26 @@ var searchdb = {
 			"slug": "prof-dr-eul-hermann"
 		},
 		{
+			"name": "Prof. Dr. Gabriele von Voigt",
+			"slug": "prof-dr-gabriele-von-voigt"
+		},
+		{
+			"name": "Prof. Dr. Hans-Werner Rengeling, Münster",
+			"slug": "prof-dr-hans-werner-rengeling-muenster"
+		},
+		{
+			"name": "Prof. Dr. Hans-Wolf Sievert, Osnabrück",
+			"slug": "prof-dr-hans-wolf-sievert-osnabrueck"
+		},
+		{
+			"name": "Prof. Dr. Ing. Heinz Duddeck, Braunschweig",
+			"slug": "prof-dr-ing-heinz-duddeck-braunschweig"
+		},
+		{
+			"name": "Prof. Dr. Ing. Rehm Gallus, München",
+			"slug": "prof-dr-ing-rehm-gallus-muenchen"
+		},
+		{
 			"name": "Prof. Dr. Isabella Proeller",
 			"slug": "prof-dr-isabella-proeller"
 		},
@@ -14252,6 +15276,10 @@ var searchdb = {
 		{
 			"name": "Prof. Dr. Joachim Freimuth, Bremen",
 			"slug": "prof-dr-joachim-freimuth-bremen"
+		},
+		{
+			"name": "Prof. Dr. Karl-Heinz Rosenwinkel",
+			"slug": "prof-dr-karl-heinz-rosenwinkel"
 		},
 		{
 			"name": "Prof. Dr. Katharina Kohse",
@@ -14280,6 +15308,10 @@ var searchdb = {
 		{
 			"name": "Prof. Dr. med. Dr. h.c. Rolf Krebs",
 			"slug": "prof-dr-med-dr-hc-rolf-krebs"
+		},
+		{
+			"name": "Prof. Dr. Michael Schilling",
+			"slug": "prof-dr-michael-schilling"
 		},
 		{
 			"name": "Prof. Dr. rer. nat. habil. Klaus Hulek",
@@ -14330,6 +15362,10 @@ var searchdb = {
 			"slug": "prof-em-dr-ing-heinz-duddeck"
 		},
 		{
+			"name": "Prof. Erich u. Heidemarie Barke",
+			"slug": "prof-erich-u-heidemarie-barke"
+		},
+		{
 			"name": "Prof. Hellriegel Institut, Bernburg (Saale)",
 			"slug": "prof-hellriegel-institut-bernburg-saale"
 		},
@@ -14340,6 +15376,14 @@ var searchdb = {
 		{
 			"name": "Prof. Kell, Gerhard",
 			"slug": "prof-kell-gerhard"
+		},
+		{
+			"name": "Prof. Klaus Hulek",
+			"slug": "prof-klaus-hulek"
+		},
+		{
+			"name": "Prof. Rie, Braunschweig",
+			"slug": "prof-rie-braunschweig"
 		},
 		{
 			"name": "Prof. Roland Koch, Bad Muskau",
@@ -14362,20 +15406,44 @@ var searchdb = {
 			"slug": "prof-wagner"
 		},
 		{
+			"name": "Prof.Dr, Claus Rollinger, Osnabrück",
+			"slug": "profdr-claus-rollinger-osnabrueck"
+		},
+		{
 			"name": "Prof.Dr. Hans Achenbach",
 			"slug": "profdr-hans-achenbach"
 		},
 		{
-			"name": "Prof.Dr. Hans-Wolf Sievert",
-			"slug": "profdr-hans-wolf-sievert"
+			"name": "Prof.Dr. Hans-Wolf Sievert, Osnabrück",
+			"slug": "profdr-hans-wolf-sievert-osnabrueck"
 		},
 		{
 			"name": "Prof.Dr. Jürgen Kriz",
 			"slug": "profdr-juergen-kriz"
 		},
 		{
+			"name": "Prof.Dr. Karl Welte",
+			"slug": "profdr-karl-welte"
+		},
+		{
 			"name": "Prof.Dr. Nana Schürer",
 			"slug": "profdr-nana-schuerer"
+		},
+		{
+			"name": "Prof.Dr. Nana Schürer, Osnabrück",
+			"slug": "profdr-nana-schuerer-osnabrueck"
+		},
+		{
+			"name": "Prof.Dr. Sabine Giesberecht, Osnabrück",
+			"slug": "profdr-sabine-giesberecht-osnabrueck"
+		},
+		{
+			"name": "Professor Altenmüller",
+			"slug": "professor-altenmueller"
+		},
+		{
+			"name": "Professor Dr.-Ing. e.h.Heinz Duddeck",
+			"slug": "professor-dr-ing-ehheinz-duddeck"
 		},
 		{
 			"name": "Professor Schaller",
@@ -14390,8 +15458,16 @@ var searchdb = {
 			"slug": "profiroll-technologies-gmbh"
 		},
 		{
+			"name": "profIT consulting GmbH",
+			"slug": "profit-consulting-gmbh"
+		},
+		{
 			"name": "Progress-Werk Oberkirch AG",
 			"slug": "progress-werk-oberkirch-ag"
+		},
+		{
+			"name": "ProIfEV e.V., Braunschweig",
+			"slug": "proifev-ev-braunschweig"
 		},
 		{
 			"name": "ProIng Begemann & Drabow GbR",
@@ -14430,8 +15506,16 @@ var searchdb = {
 			"slug": "provinzial-ag"
 		},
 		{
+			"name": "PSC Beratungscontor AG, 20354 Hamburg",
+			"slug": "psc-beratungscontor-ag-20354-hamburg"
+		},
+		{
 			"name": "psd Bank",
 			"slug": "psd-bank"
+		},
+		{
+			"name": "PSG Procurement Services GmbH, 53797 Lohmar",
+			"slug": "psg-procurement-services-gmbh-53797-lohmar"
 		},
 		{
 			"name": "PSI Metals Non Ferrus GmbH",
@@ -14456,6 +15540,10 @@ var searchdb = {
 		{
 			"name": "Push GmbH",
 			"slug": "push-gmbh"
+		},
+		{
+			"name": "PV Crystalox (Erfurt)",
+			"slug": "pv-crystalox-erfurt"
 		},
 		{
 			"name": "PVS - Privatärztliche VerrechnungsStelle Rhein-Ruhr GmbH",
@@ -14502,10 +15590,6 @@ var searchdb = {
 			"slug": "quante-alexander"
 		},
 		{
-			"name": "R + V Allgemeine Versicherung AG",
-			"slug": "r-v-allgemeine-versicherung-ag"
-		},
-		{
 			"name": "R,B & E Klinik GmbH, Pforzheim",
 			"slug": "rb-e-klinik-gmbh-pforzheim"
 		},
@@ -14526,6 +15610,14 @@ var searchdb = {
 			"slug": "ra-brehm-von-moers-berlin"
 		},
 		{
+			"name": "RA Görg, Essen",
+			"slug": "ra-goerg-essen"
+		},
+		{
+			"name": "Röben Tonbaustoffe, Zetel",
+			"slug": "roeben-tonbaustoffe-zetel"
+		},
+		{
 			"name": "Röchling Engineering Plastics SE & Co. KG",
 			"slug": "roechling-engineering-plastics-se-co-kg"
 		},
@@ -14542,12 +15634,8 @@ var searchdb = {
 			"slug": "roemisch-katholische-kirche-im-oldenburger-teil-des-bistums-muenster"
 		},
 		{
-			"name": "Rücker AG",
-			"slug": "ruecker-ag"
-		},
-		{
-			"name": "Rücker GmbH",
-			"slug": "ruecker-gmbh"
+			"name": "Rücker",
+			"slug": "ruecker"
 		},
 		{
 			"name": "Rügenwalder Mühle",
@@ -14588,6 +15676,10 @@ var searchdb = {
 		{
 			"name": "Randstad Deutschland GmbH & Co. KG, Eschborn",
 			"slug": "randstad-deutschland-gmbh-co-kg-eschborn"
+		},
+		{
+			"name": "Rapid Prototyping Technologie GmbH",
+			"slug": "rapid-prototyping-technologie-gmbh"
 		},
 		{
 			"name": "Rasspe Systemtechnik GmbH",
@@ -14636,6 +15728,10 @@ var searchdb = {
 		{
 			"name": "Recaro",
 			"slug": "recaro"
+		},
+		{
+			"name": "Rechtsanwälte Brandi",
+			"slug": "rechtsanwaelte-brandi"
 		},
 		{
 			"name": "Rechtsanwälte Lampmann, Haberkamm & Rosenbaum Partnerschaft",
@@ -14738,6 +15834,10 @@ var searchdb = {
 			"slug": "renolit-se"
 		},
 		{
+			"name": "Rentschler",
+			"slug": "rentschler"
+		},
+		{
 			"name": "Reply Deutschland GmbH & Co. KG, Gütersloh",
 			"slug": "reply-deutschland-gmbh-co-kg-guetersloh"
 		},
@@ -14760,10 +15860,6 @@ var searchdb = {
 		{
 			"name": "REWE Group",
 			"slug": "rewe-group"
-		},
-		{
-			"name": "REWE Zentralfinanz eG",
-			"slug": "rewe-zentralfinanz-eg"
 		},
 		{
 			"name": "RF Forschungsschiffahrt GmbH",
@@ -14800,6 +15896,10 @@ var searchdb = {
 		{
 			"name": "Rhein-Waal und die Wasserbehörde Velt und Vecht (Coevorden, Niederlande)",
 			"slug": "rhein-waal-und-die-wasserbehoerde-velt-und-vecht-coevorden-niederlande"
+		},
+		{
+			"name": "Richard Borek Stiftung, Braunschweig",
+			"slug": "richard-borek-stiftung-braunschweig"
 		},
 		{
 			"name": "Richard Wagner Verband Saarland",
@@ -14874,12 +15974,20 @@ var searchdb = {
 			"slug": "robert-breuning-stiftung"
 		},
 		{
+			"name": "Robert Enke-Stiftung",
+			"slug": "robert-enke-stiftung"
+		},
+		{
 			"name": "Robert Kunzmann GmbH & Co. KG",
 			"slug": "robert-kunzmann-gmbh-co-kg"
 		},
 		{
 			"name": "Roche",
 			"slug": "roche"
+		},
+		{
+			"name": "Rochus Mummert Healtcare",
+			"slug": "rochus-mummert-healtcare"
 		},
 		{
 			"name": "Rockwood Lithium GmbH",
@@ -14902,20 +16010,16 @@ var searchdb = {
 			"slug": "rogge-ines-r"
 		},
 		{
-			"name": "ROHDE & SCHWARZ GmbH & Co. KG",
-			"slug": "rohde-schwarz-gmbh-co-kg"
-		},
-		{
-			"name": "Rohde Familien Holding",
-			"slug": "rohde-familien-holding"
-		},
-		{
-			"name": "Rohde Tief- u. Straßenbau GmbH",
-			"slug": "rohde-tief-u-strassenbau-gmbh"
+			"name": "Rohde Gruppe",
+			"slug": "rohde-gruppe"
 		},
 		{
 			"name": "Roland Berger Strategy Consultants GmbH",
 			"slug": "roland-berger-strategy-consultants-gmbh"
+		},
+		{
+			"name": "Rolf Herrmann",
+			"slug": "rolf-herrmann"
 		},
 		{
 			"name": "Rolf-Maciejewski-Stiftung",
@@ -14934,6 +16038,10 @@ var searchdb = {
 			"slug": "romanowski-dr-gerd"
 		},
 		{
+			"name": "Ronge Metallbau GmbH, Alfeld (Leine)",
+			"slug": "ronge-metallbau-gmbh-alfeld-leine"
+		},
+		{
 			"name": "rose plastic AG",
 			"slug": "rose-plastic-ag"
 		},
@@ -14950,6 +16058,10 @@ var searchdb = {
 			"slug": "rosen-technology-research-center-gmbh"
 		},
 		{
+			"name": "Rosenberg, Uta, Alter Eichenhof 67, 26125 Oldenburg",
+			"slug": "rosenberg-uta-alter-eichenhof-67-26125-oldenburg"
+		},
+		{
 			"name": "Rosenwinkel, Prof. Dr. Karl-Heinz",
 			"slug": "rosenwinkel-prof-dr-karl-heinz"
 		},
@@ -14960,6 +16072,10 @@ var searchdb = {
 		{
 			"name": "Roswitha und Herbert Hielscher-Stiftung",
 			"slug": "roswitha-und-herbert-hielscher-stiftung"
+		},
+		{
+			"name": "Rot GmbH",
+			"slug": "rot-gmbh"
 		},
 		{
 			"name": "Rotaract Club Paderborn",
@@ -15002,6 +16118,10 @@ var searchdb = {
 			"slug": "rotary-club-duisburg"
 		},
 		{
+			"name": "Rotary Club Gemeindienst e.V., Herrn Dr. Andreas Blomenkamp, Memeler Str. 10a, 26122 Oldenburg",
+			"slug": "rotary-club-gemeindienst-ev-herrn-dr-andreas-blomenkamp-memeler-str-10a-26122-oldenburg"
+		},
+		{
 			"name": "Rotary Club Höxter",
 			"slug": "rotary-club-hoexter"
 		},
@@ -15036,6 +16156,10 @@ var searchdb = {
 		{
 			"name": "Rotary Club Oberhausen",
 			"slug": "rotary-club-oberhausen"
+		},
+		{
+			"name": "Rotary Club Oldenburg, 26121 Oldenburg",
+			"slug": "rotary-club-oldenburg-26121-oldenburg"
 		},
 		{
 			"name": "Rotary Club Oldenburg-Ammerland",
@@ -15098,6 +16222,10 @@ var searchdb = {
 			"slug": "rotary-clubs-oldenburg"
 		},
 		{
+			"name": "Rotary Clup, Osnabrück",
+			"slug": "rotary-clup-osnabrueck"
+		},
+		{
 			"name": "Rotary Deutschland Gemeindienst e.V. Düsseldorf",
 			"slug": "rotary-deutschland-gemeindienst-ev-duesseldorf"
 		},
@@ -15106,16 +16234,20 @@ var searchdb = {
 			"slug": "rotary-district-1850-osnabrueck"
 		},
 		{
+			"name": "Rotary Gemeindienst",
+			"slug": "rotary-gemeindienst"
+		},
+		{
 			"name": "Rotary Gemeindienst Förderverein des RC Hannover Eilenriede e.V.",
 			"slug": "rotary-gemeindienst-foerderverein-des-rc-hannover-eilenriede-ev"
 		},
 		{
-			"name": "Rotary International Distrikt 1940",
-			"slug": "rotary-international-distrikt-1940"
+			"name": "Rotary International",
+			"slug": "rotary-international"
 		},
 		{
-			"name": "Rotary International Dr. Pyritz",
-			"slug": "rotary-international-dr-pyritz"
+			"name": "Rotary International Distrikt 1940",
+			"slug": "rotary-international-distrikt-1940"
 		},
 		{
 			"name": "Rotary-Club",
@@ -15174,10 +16306,6 @@ var searchdb = {
 			"slug": "rud-ketten-rieger-dietz-gmbh-u-co-kg"
 		},
 		{
-			"name": "Rudolf Augstein Stiftung",
-			"slug": "rudolf-augstein-stiftung"
-		},
-		{
 			"name": "Rudolf Chaudoire-Stiftung",
 			"slug": "rudolf-chaudoire-stiftung"
 		},
@@ -15202,16 +16330,12 @@ var searchdb = {
 			"slug": "rudolf-augstein-stiftung"
 		},
 		{
-			"name": "Rudolf-Augstein-Stiftung Hamburg",
-			"slug": "rudolf-augstein-stiftung-hamburg"
-		},
-		{
 			"name": "Rudolf-Becker-Stiftung",
 			"slug": "rudolf-becker-stiftung"
 		},
 		{
-			"name": "Rudolf-Chaudoire-StiftungSparkasse Dortmund",
-			"slug": "rudolf-chaudoire-stiftungsparkasse-dortmund"
+			"name": "Rudolf-Chaudoire-Stiftung",
+			"slug": "rudolf-chaudoire-stiftung"
 		},
 		{
 			"name": "Rudolf-Steinberg-Stipendienfonds",
@@ -15220,6 +16344,10 @@ var searchdb = {
 		{
 			"name": "Ruge Krömer Rechtsanwälte",
 			"slug": "ruge-kroemer-rechtsanwaelte"
+		},
+		{
+			"name": "Ruhr-Oel GmbH",
+			"slug": "ruhr-oel-gmbh"
 		},
 		{
 			"name": "Ruhrverband",
@@ -15240,10 +16368,6 @@ var searchdb = {
 		{
 			"name": "RWE",
 			"slug": "rwe"
-		},
-		{
-			"name": "RWE Deutschland AG",
-			"slug": "rwe-deutschland-ag"
 		},
 		{
 			"name": "RWTüV-Stiftung",
@@ -15302,12 +16426,12 @@ var searchdb = {
 			"slug": "suedchemie-ag"
 		},
 		{
-			"name": "Südwestbank",
-			"slug": "suedwestbank"
+			"name": "Süddeutsche Aluminium Manufaktur GmbH",
+			"slug": "sueddeutsche-aluminium-manufaktur-gmbh"
 		},
 		{
-			"name": "Südwestbank AG",
-			"slug": "suedwestbank-ag"
+			"name": "Südwestbank",
+			"slug": "suedwestbank"
 		},
 		{
 			"name": "Südwestfälische Industrie- und Handelskammer zu Hagen",
@@ -15332,10 +16456,6 @@ var searchdb = {
 		{
 			"name": "Saint Gobain",
 			"slug": "saint-gobain"
-		},
-		{
-			"name": "Saint-Gobain Building Distribution Deutschland GmbH",
-			"slug": "saint-gobain-building-distribution-deutschland-gmbh"
 		},
 		{
 			"name": "Sal. Oppenheim jr. & Cie. AG & Co KGaA",
@@ -15378,6 +16498,10 @@ var searchdb = {
 			"slug": "sander-bernd-carsten"
 		},
 		{
+			"name": "Sanders, Heinrich, Hechtweg 10, 26203 Wardenburg",
+			"slug": "sanders-heinrich-hechtweg-10-26203-wardenburg"
+		},
+		{
 			"name": "Sanitäts- und Gesundheitshaus Carqueville GmbH",
 			"slug": "sanitaets-und-gesundheitshaus-carqueville-gmbh"
 		},
@@ -15406,24 +16530,8 @@ var searchdb = {
 			"slug": "sappi-gmbh"
 		},
 		{
-			"name": "Sartorius AG",
-			"slug": "sartorius-ag"
-		},
-		{
-			"name": "Sartorius Corporate Administration GmbH",
-			"slug": "sartorius-corporate-administration-gmbh"
-		},
-		{
-			"name": "Sartorius Corporate Administrative GmbH",
-			"slug": "sartorius-corporate-administrative-gmbh"
-		},
-		{
-			"name": "Sartorius Konzern",
-			"slug": "sartorius-konzern"
-		},
-		{
-			"name": "Sartorius Stedim Biotech GmbH",
-			"slug": "sartorius-stedim-biotech-gmbh"
+			"name": "Sartorius",
+			"slug": "sartorius"
 		},
 		{
 			"name": "SASOL Germany GmbH",
@@ -15458,6 +16566,10 @@ var searchdb = {
 			"slug": "schaefer-werke-gmbh"
 		},
 		{
+			"name": "Schäfter + Kirchhoff GmbH",
+			"slug": "schaefter-kirchhoff-gmbh"
+		},
+		{
 			"name": "Schärf, Brigitte",
 			"slug": "schaerf-brigitte"
 		},
@@ -15480,6 +16592,10 @@ var searchdb = {
 		{
 			"name": "Schönox GmbH",
 			"slug": "schoenox-gmbh"
+		},
+		{
+			"name": "Schött Druckguss GmbH, Menden",
+			"slug": "schoett-druckguss-gmbh-menden"
 		},
 		{
 			"name": "Schüco International KG",
@@ -15526,6 +16642,10 @@ var searchdb = {
 			"slug": "scherdel-waldershof-gmbh"
 		},
 		{
+			"name": "Schilling, Bernd",
+			"slug": "schilling-bernd"
+		},
+		{
 			"name": "Schlösser",
 			"slug": "schloesser"
 		},
@@ -15558,6 +16678,10 @@ var searchdb = {
 			"slug": "schmidt-haensch-gmbh-co"
 		},
 		{
+			"name": "Schmidt-Wilkens, Detlef, 26135 Oldenburg",
+			"slug": "schmidt-wilkens-detlef-26135-oldenburg"
+		},
+		{
 			"name": "Schmiedewerke Gröditz",
 			"slug": "schmiedewerke-groeditz"
 		},
@@ -15572,6 +16696,18 @@ var searchdb = {
 		{
 			"name": "Schneider Electric Sachsenwerk GmbH",
 			"slug": "schneider-electric-sachsenwerk-gmbh"
+		},
+		{
+			"name": "Schneider Markus GbR",
+			"slug": "schneider-markus-gbr"
+		},
+		{
+			"name": "Schnellecke Logistics AG & Co. KG",
+			"slug": "schnellecke-logistics-ag-co-kg"
+		},
+		{
+			"name": "Schnetkamp, Hildegard Dr., 49624 Löningen",
+			"slug": "schnetkamp-hildegard-dr-49624-loeningen"
 		},
 		{
 			"name": "Schnibben, Cordt",
@@ -15590,24 +16726,28 @@ var searchdb = {
 			"slug": "schoon-raphaela"
 		},
 		{
-			"name": "Schorch Elektrische Maschinen und Antriebe GmbH",
-			"slug": "schorch-elektrische-maschinen-und-antriebe-gmbh"
-		},
-		{
 			"name": "Schorch GmbH",
 			"slug": "schorch-gmbh"
+		},
+		{
+			"name": "Schott AG, Mainz",
+			"slug": "schott-ag-mainz"
 		},
 		{
 			"name": "Schott Fonds",
 			"slug": "schott-fonds"
 		},
 		{
-			"name": "Schott Glas Konzerns",
-			"slug": "schott-glas-konzerns"
+			"name": "Schott Glas",
+			"slug": "schott-glas"
 		},
 		{
-			"name": "Schott Jenaer Glas GmbH",
-			"slug": "schott-jenaer-glas-gmbh"
+			"name": "Schott-Fonds, Mainz",
+			"slug": "schott-fonds-mainz"
+		},
+		{
+			"name": "Schröder rent a car",
+			"slug": "schroeder-rent-a-car"
 		},
 		{
 			"name": "Schreier, Susanne und Hermann",
@@ -15626,8 +16766,12 @@ var searchdb = {
 			"slug": "schubert-ruediger"
 		},
 		{
-			"name": "Schuler, Beate",
-			"slug": "schuler-beate"
+			"name": "Schuler, Dr. Beate, Kaiser- Friedrich-Promenade 80, 61348 Bad Homburg",
+			"slug": "schuler-dr-beate-kaiser-friedrich-promenade-80-61348-bad-homburg"
+		},
+		{
+			"name": "Schuler,Beate, 61348 Bad Homburg",
+			"slug": "schulerbeate-61348-bad-homburg"
 		},
 		{
 			"name": "Schulministerium NRW",
@@ -15638,8 +16782,16 @@ var searchdb = {
 			"slug": "schulte-schlagbaum-ag"
 		},
 		{
+			"name": "Schultz/Feldmann, 26409 Wittmund/ 2 x anonym",
+			"slug": "schultzfeldmann-26409-wittmund-2-x-anonym"
+		},
+		{
 			"name": "Schulz, Dr. Norbert",
 			"slug": "schulz-dr-norbert"
+		},
+		{
+			"name": "Schulz, Prof.Dr. Thomas F.",
+			"slug": "schulz-profdr-thomas-f"
 		},
 		{
 			"name": "Schulz,Dr.Thomas",
@@ -15650,12 +16802,16 @@ var searchdb = {
 			"slug": "schwaebisch-hall"
 		},
 		{
-			"name": "Schwäbisch Hall Kredit Service AG",
-			"slug": "schwaebisch-hall-kredit-service-ag"
-		},
-		{
 			"name": "SchwörerHaus KG",
 			"slug": "schwoererhaus-kg"
+		},
+		{
+			"name": "Schwager GmbH & Co. KG, Holzminden",
+			"slug": "schwager-gmbh-co-kg-holzminden"
+		},
+		{
+			"name": "schwa-medico GmbH",
+			"slug": "schwa-medico-gmbh"
 		},
 		{
 			"name": "Schwander, Annette und Gerd",
@@ -15672,6 +16828,10 @@ var searchdb = {
 		{
 			"name": "Schweitzer Fachinformationen",
 			"slug": "schweitzer-fachinformationen"
+		},
+		{
+			"name": "Schweitzer Fachinformationen, 80687 München",
+			"slug": "schweitzer-fachinformationen-80687-muenchen"
 		},
 		{
 			"name": "Schwenk",
@@ -15700,6 +16860,10 @@ var searchdb = {
 		{
 			"name": "Scil Proteins GmbH",
 			"slug": "scil-proteins-gmbh"
+		},
+		{
+			"name": "Scopevisio AG, Bonn",
+			"slug": "scopevisio-ag-bonn"
 		},
 		{
 			"name": "SEAR GmbH",
@@ -15738,10 +16902,6 @@ var searchdb = {
 			"slug": "selbsthilfeverein-nutzer-i-l"
 		},
 		{
-			"name": "Selbsthilfeverein Nutzer i.L.",
-			"slug": "selbsthilfeverein-nutzer-il"
-		},
-		{
 			"name": "Selecta Klemm +Sohn GmbH & Co. KG",
 			"slug": "selecta-klemm-sohn-gmbh-co-kg"
 		},
@@ -15754,6 +16914,10 @@ var searchdb = {
 			"slug": "semcoglas-gmbh"
 		},
 		{
+			"name": "Semcon Holding GmbH & Co. KG",
+			"slug": "semcon-holding-gmbh-co-kg"
+		},
+		{
 			"name": "Semikron Elektronik GmbH & Co. KG",
 			"slug": "semikron-elektronik-gmbh-co-kg"
 		},
@@ -15764,6 +16928,10 @@ var searchdb = {
 		{
 			"name": "Senator für Finanzen",
 			"slug": "senator-fuer-finanzen"
+		},
+		{
+			"name": "Senator für Umwelt, Bau und Verkehr, 28195 Bremen",
+			"slug": "senator-fuer-umwelt-bau-und-verkehr-28195-bremen"
 		},
 		{
 			"name": "Senator h. c. Artur Maccari",
@@ -15846,12 +17014,20 @@ var searchdb = {
 			"slug": "sgl-kuempers-gmbh-co-kg"
 		},
 		{
+			"name": "SHE Informationstechnolgie AG, Ludwigshafen",
+			"slug": "she-informationstechnolgie-ag-ludwigshafen"
+		},
+		{
 			"name": "Shearman & Sterling LLP",
 			"slug": "shearman-sterling-llp"
 		},
 		{
 			"name": "Shell",
 			"slug": "shell"
+		},
+		{
+			"name": "Shenzhen Melasta Battery Co. LTD",
+			"slug": "shenzhen-melasta-battery-co-ltd"
 		},
 		{
 			"name": "Shimadzu",
@@ -15914,12 +17090,8 @@ var searchdb = {
 			"slug": "sievers-group"
 		},
 		{
-			"name": "Sievert AG",
-			"slug": "sievert-ag"
-		},
-		{
-			"name": "Sievert AG, Osnabrück",
-			"slug": "sievert-ag-osnabrueck"
+			"name": "Sievert",
+			"slug": "sievert"
 		},
 		{
 			"name": "SIG Combibloc GmbH",
@@ -15950,8 +17122,8 @@ var searchdb = {
 			"slug": "sillmanns-gmbh"
 		},
 		{
-			"name": "Simon Claussen-Stiftung",
-			"slug": "simon-claussen-stiftung"
+			"name": "Siltectra (Dresden)",
+			"slug": "siltectra-dresden"
 		},
 		{
 			"name": "SINGELMANN / BACH / Rechtsanwälte",
@@ -15970,8 +17142,16 @@ var searchdb = {
 			"slug": "sisteam-group"
 		},
 		{
+			"name": "SITEC Industrietechnologie (Chemnitz)",
+			"slug": "sitec-industrietechnologie-chemnitz"
+		},
+		{
 			"name": "SIV AG, Jörg Sinnig",
 			"slug": "siv-ag-joerg-sinnig"
+		},
+		{
+			"name": "SKF GmbH",
+			"slug": "skf-gmbh"
 		},
 		{
 			"name": "SKS",
@@ -15992,6 +17172,14 @@ var searchdb = {
 		{
 			"name": "SMA Solar Technology AG",
 			"slug": "sma-solar-technology-ag"
+		},
+		{
+			"name": "SMA Solar Technology AG, Niesttal",
+			"slug": "sma-solar-technology-ag-niesttal"
+		},
+		{
+			"name": "Smart Membranes (Halle)",
+			"slug": "smart-membranes-halle"
 		},
 		{
 			"name": "SMF KG, merkarion GmbH, Nicolai GmbH Dortmund",
@@ -16016,6 +17204,10 @@ var searchdb = {
 		{
 			"name": "Societe Generale",
 			"slug": "societe-generale"
+		},
+		{
+			"name": "Softing Automotive Electronics GmbH",
+			"slug": "softing-automotive-electronics-gmbh"
 		},
 		{
 			"name": "Software AG",
@@ -16054,12 +17246,8 @@ var searchdb = {
 			"slug": "sophia-kindergeneeskunde"
 		},
 		{
-			"name": "Sophien- und Hufeland-Klinikum gGmbH / Prof. Dr.-Ing. Jischa",
-			"slug": "sophien-und-hufeland-klinikum-ggmbh-prof-dr-ing-jischa"
-		},
-		{
-			"name": "Sophien-Klinik",
-			"slug": "sophien-klinik"
+			"name": "Sophien- und Hufeland-Klinikum gGmbH",
+			"slug": "sophien-und-hufeland-klinikum-ggmbh"
 		},
 		{
 			"name": "SOPTIM AG",
@@ -16094,6 +17282,10 @@ var searchdb = {
 			"slug": "sozial-holding-der-stadt-moenchengladbach-gmbh"
 		},
 		{
+			"name": "Sozialstation Ambulant helfen",
+			"slug": "sozialstation-ambulant-helfen"
+		},
+		{
 			"name": "Sozialwerk Bielefelder Freimaurer e.V., Bielefeld",
 			"slug": "sozialwerk-bielefelder-freimaurer-ev-bielefeld"
 		},
@@ -16118,12 +17310,8 @@ var searchdb = {
 			"slug": "spanner-re2-gmbh"
 		},
 		{
-			"name": "Sparda Bank Hannover Stiftung",
-			"slug": "sparda-bank-hannover-stiftung"
-		},
-		{
-			"name": "Sparda Bank Hannover-Stiftung",
-			"slug": "sparda-bank-hannover-stiftung"
+			"name": "Sparda Bank Münser, 48147 Münster",
+			"slug": "sparda-bank-muenser-48147-muenster"
 		},
 		{
 			"name": "Sparda Bank, Hannover",
@@ -16142,12 +17330,12 @@ var searchdb = {
 			"slug": "sparda-bank-muenster-eg"
 		},
 		{
-			"name": "Sparkasse Allgäu",
-			"slug": "sparkasse-allgaeu"
-		},
-		{
 			"name": "Sparkasse Aachen",
 			"slug": "sparkasse-aachen"
+		},
+		{
+			"name": "Sparkasse Allgäu",
+			"slug": "sparkasse-allgaeu"
 		},
 		{
 			"name": "Sparkasse Amberg-Sulzbach",
@@ -16186,12 +17374,24 @@ var searchdb = {
 			"slug": "sparkasse-bremerhaven"
 		},
 		{
-			"name": "Sparkasse Coburg � Lichtenfels",
+			"name": "Sparkasse Coburg - Lichtenfels",
 			"slug": "sparkasse-coburg-lichtenfels"
 		},
 		{
 			"name": "Sparkasse Düren",
 			"slug": "sparkasse-dueren"
+		},
+		{
+			"name": "Sparkasse Dortmund",
+			"slug": "sparkasse-dortmund"
+		},
+		{
+			"name": "Sparkasse Duderstadt",
+			"slug": "sparkasse-duderstadt"
+		},
+		{
+			"name": "Sparkasse Emden",
+			"slug": "sparkasse-emden"
 		},
 		{
 			"name": "Sparkasse Emsland",
@@ -16248,6 +17448,10 @@ var searchdb = {
 		{
 			"name": "Sparkasse KölnBonn",
 			"slug": "sparkasse-koelnbonn"
+		},
+		{
+			"name": "Sparkasse Kassel",
+			"slug": "sparkasse-kassel"
 		},
 		{
 			"name": "Sparkasse Kleve",
@@ -16350,6 +17554,10 @@ var searchdb = {
 			"slug": "sparkasse-spree-neisse"
 		},
 		{
+			"name": "Sparkasse Tauberfranken",
+			"slug": "sparkasse-tauberfranken"
+		},
+		{
 			"name": "Sparkasse Trier",
 			"slug": "sparkasse-trier"
 		},
@@ -16390,16 +17598,24 @@ var searchdb = {
 			"slug": "sparkassen-stiftung"
 		},
 		{
+			"name": "Sparkassen Stiftung Untereichsfeld",
+			"slug": "sparkassen-stiftung-untereichsfeld"
+		},
+		{
+			"name": "Sparkassen-Finanzgruppe",
+			"slug": "sparkassen-finanzgruppe"
+		},
+		{
 			"name": "Sparkassenstiftung Heilbronn",
 			"slug": "sparkassenstiftung-heilbronn"
 		},
 		{
-			"name": "Sparkassenstiftung Jena- Saale-Holzland",
-			"slug": "sparkassenstiftung-jena-saale-holzland"
-		},
-		{
 			"name": "Sparkassenstiftung zur Förderung der Wissenschaft",
 			"slug": "sparkassenstiftung-zur-foerderung-der-wissenschaft"
+		},
+		{
+			"name": "Sparkassenverband Niedersachsen",
+			"slug": "sparkassenverband-niedersachsen"
 		},
 		{
 			"name": "Sparkassenverband Bayern",
@@ -16414,16 +17630,20 @@ var searchdb = {
 			"slug": "spedition-jakob-weets"
 		},
 		{
-			"name": "Spender möchte namentlich nicht genannt werden",
-			"slug": "spender-moechte-namentlich-nicht-genannt-werden"
-		},
-		{
 			"name": "SPHINX ET, Dr. Robert Uhde",
 			"slug": "sphinx-et-dr-robert-uhde"
 		},
 		{
 			"name": "Spiekermann & CO AG",
 			"slug": "spiekermann-co-ag"
+		},
+		{
+			"name": "Spielmann Officehouse GmbH",
+			"slug": "spielmann-officehouse-gmbh"
+		},
+		{
+			"name": "Spindler, Detlef, Briggweg 15, 26723 Emden",
+			"slug": "spindler-detlef-briggweg-15-26723-emden"
 		},
 		{
 			"name": "Spinner GmbH",
@@ -16450,12 +17670,16 @@ var searchdb = {
 			"slug": "sponeta-gmbh"
 		},
 		{
+			"name": "Sponholz GmbH & Vermögensvrwaltung",
+			"slug": "sponholz-gmbh-vermoegensvrwaltung"
+		},
+		{
 			"name": "Sponsors Verlag GmbH",
 			"slug": "sponsors-verlag-gmbh"
 		},
 		{
-			"name": "Sport Thieme GmbH",
-			"slug": "sport-thieme-gmbh"
+			"name": "Sportgeräte 2000, Hildesheim",
+			"slug": "sportgeraete-2000-hildesheim"
 		},
 		{
 			"name": "sportradar",
@@ -16468,6 +17692,10 @@ var searchdb = {
 		{
 			"name": "Springer Science + Business Media Deutschland GmbH",
 			"slug": "springer-science-business-media-deutschland-gmbh"
+		},
+		{
+			"name": "Springer-Verlag GmbH",
+			"slug": "springer-verlag-gmbh"
 		},
 		{
 			"name": "SPS Europe Putten",
@@ -16494,16 +17722,12 @@ var searchdb = {
 			"slug": "st-josef-krankenhaus"
 		},
 		{
+			"name": "St. Jude Medical GmbH",
+			"slug": "st-jude-medical-gmbh"
+		},
+		{
 			"name": "St. Marien-Hospital GmbH",
 			"slug": "st-marien-hospital-gmbh"
-		},
-		{
-			"name": "Städt. Klinikum Wolfenbüttel gGmbH",
-			"slug": "staedt-klinikum-wolfenbuettel-ggmbh"
-		},
-		{
-			"name": "Städt. Sparkasse Bremerhaven",
-			"slug": "staedt-sparkasse-bremerhaven"
 		},
 		{
 			"name": "Städt.Klinikum BS",
@@ -16534,8 +17758,16 @@ var searchdb = {
 			"slug": "stada-arzneimittel-ag"
 		},
 		{
+			"name": "Stadt Aurich, Aurich",
+			"slug": "stadt-aurich-aurich"
+		},
+		{
 			"name": "Stadt Bad Homburg",
 			"slug": "stadt-bad-homburg"
+		},
+		{
+			"name": "Stadt Bad Mergentheim",
+			"slug": "stadt-bad-mergentheim"
 		},
 		{
 			"name": "Stadt Bernburg",
@@ -16626,6 +17858,10 @@ var searchdb = {
 			"slug": "stadt-sparkasse-solingen"
 		},
 		{
+			"name": "Stadtwerk Tauberfranken",
+			"slug": "stadtwerk-tauberfranken"
+		},
+		{
 			"name": "Stadtwerke Amberg GmbH",
 			"slug": "stadtwerke-amberg-gmbh"
 		},
@@ -16638,12 +17874,8 @@ var searchdb = {
 			"slug": "stadtwerke-bielefeld"
 		},
 		{
-			"name": "Stadtwerke Bochum GmbH",
-			"slug": "stadtwerke-bochum-gmbh"
-		},
-		{
-			"name": "Stadtwerke Bochum Holding GmbH",
-			"slug": "stadtwerke-bochum-holding-gmbh"
+			"name": "Stadtwerke Bochum",
+			"slug": "stadtwerke-bochum"
 		},
 		{
 			"name": "Stadtwerke Coesfeld GmbH",
@@ -16666,10 +17898,6 @@ var searchdb = {
 			"slug": "stadtwerke-goettingen"
 		},
 		{
-			"name": "Stadtwerke Göttingen AG",
-			"slug": "stadtwerke-goettingen-ag"
-		},
-		{
 			"name": "Stadtwerke Gieöen",
 			"slug": "stadtwerke-gieoeen"
 		},
@@ -16682,10 +17910,6 @@ var searchdb = {
 			"slug": "stadtwerke-hamm"
 		},
 		{
-			"name": "Stadtwerke Hamm GmbH",
-			"slug": "stadtwerke-hamm-gmbh"
-		},
-		{
 			"name": "Stadtwerke Hannover AG",
 			"slug": "stadtwerke-hannover-ag"
 		},
@@ -16696,10 +17920,6 @@ var searchdb = {
 		{
 			"name": "Stadtwerke Leipzig",
 			"slug": "stadtwerke-leipzig"
-		},
-		{
-			"name": "Stadtwerke Leipzig GmbH",
-			"slug": "stadtwerke-leipzig-gmbh"
 		},
 		{
 			"name": "Stadtwerke Münster GmbH",
@@ -16738,16 +17958,20 @@ var searchdb = {
 			"slug": "stadtwerke-wolfsburg-ag"
 		},
 		{
-			"name": "Stadtwerke, Hannover",
-			"slug": "stadtwerke-hannover"
+			"name": "Stadtwerke, Emden",
+			"slug": "stadtwerke-emden"
 		},
 		{
 			"name": "Stahl-Stiftung",
 			"slug": "stahl-stiftung"
 		},
 		{
-			"name": "Standortsicherung Kreis Lippe",
-			"slug": "standortsicherung-kreis-lippe"
+			"name": "Stallergenes GmbH",
+			"slug": "stallergenes-gmbh"
+		},
+		{
+			"name": "Star Cooperation GmbH",
+			"slug": "star-cooperation-gmbh"
 		},
 		{
 			"name": "Star Entertainment GmbH, Berlin",
@@ -16766,8 +17990,8 @@ var searchdb = {
 			"slug": "stawag-stadtwerke-aachen-ag"
 		},
 		{
-			"name": "Steegmann Foundation, Vaduz",
-			"slug": "steegmann-foundation-vaduz"
+			"name": "Steam 92 GmbH",
+			"slug": "steam-92-gmbh"
 		},
 		{
 			"name": "Steegmann Stiftung",
@@ -16776,6 +18000,14 @@ var searchdb = {
 		{
 			"name": "Stefan Quandt",
 			"slug": "stefan-quandt"
+		},
+		{
+			"name": "Stegdoc GmbH",
+			"slug": "stegdoc-gmbh"
+		},
+		{
+			"name": "Steinbeis GmbH & Co. Transferzentrum Lasertechnik, Hochwacht",
+			"slug": "steinbeis-gmbh-co-transferzentrum-lasertechnik-hochwacht"
 		},
 		{
 			"name": "Steinbeis-Stiftung für Wirtschaftsförderung",
@@ -16792,6 +18024,10 @@ var searchdb = {
 		{
 			"name": "Steinel Aktivelemente",
 			"slug": "steinel-aktivelemente"
+		},
+		{
+			"name": "Steinhoff GmbH, 26655 Westerstede",
+			"slug": "steinhoff-gmbh-26655-westerstede"
 		},
 		{
 			"name": "Stenger2 Architekten München",
@@ -16838,12 +18074,12 @@ var searchdb = {
 			"slug": "stifterverband-fuer-die-deutsche-wissenschaft"
 		},
 		{
-			"name": "Fritz und Hildegard Berg-Stiftung",
-			"slug": "fritz-und-hildegard-berg-stiftung"
-		},
-		{
 			"name": "Stifterverband Pro Berufsakademie Mosbach",
 			"slug": "stifterverband-pro-berufsakademie-mosbach"
+		},
+		{
+			"name": "Stifterverband, Essen",
+			"slug": "stifterverband-essen"
 		},
 		{
 			"name": "Stiftung Geld und Währung beim Stifterverband",
@@ -16866,6 +18102,10 @@ var searchdb = {
 			"slug": "stiftung-braunschweigischer-kulturbesitz"
 		},
 		{
+			"name": "Stiftung Braunschweigischer Kulturbesitz, Löwenwall 16, 38100 Braunschweig",
+			"slug": "stiftung-braunschweigischer-kulturbesitz-loewenwall-16-38100-braunschweig"
+		},
+		{
 			"name": "Stiftung Bremer Wertpapierbörse",
 			"slug": "stiftung-bremer-wertpapierboerse"
 		},
@@ -16876,10 +18116,6 @@ var searchdb = {
 		{
 			"name": "Stiftung Denkmalpflege",
 			"slug": "stiftung-denkmalpflege"
-		},
-		{
-			"name": "Stiftung der Bremer Landesbank",
-			"slug": "stiftung-der-bremer-landesbank"
 		},
 		{
 			"name": "Stiftung der Georg-August-Universität",
@@ -16894,14 +18130,6 @@ var searchdb = {
 			"slug": "stiftung-der-kreissparkasse-wiedenbrueck-pro-wirtschaft-gt-gmbh"
 		},
 		{
-			"name": "Stiftung der Metallindustrie im Nord-Westen",
-			"slug": "stiftung-der-metallindustrie-im-nord-westen"
-		},
-		{
-			"name": "Stiftung der Metallindustrie Nord-West Oldenburg",
-			"slug": "stiftung-der-metallindustrie-nord-west-oldenburg"
-		},
-		{
 			"name": "Stiftung der Metallindustrie Nord-Westen",
 			"slug": "stiftung-der-metallindustrie-nord-westen"
 		},
@@ -16912,10 +18140,6 @@ var searchdb = {
 		{
 			"name": "Stiftung der Sparkasse Gifhorn-Wolfsburg",
 			"slug": "stiftung-der-sparkasse-gifhorn-wolfsburg"
-		},
-		{
-			"name": "Stiftung der Sparkasse Oder-Spree",
-			"slug": "stiftung-der-sparkasse-oder-spree"
 		},
 		{
 			"name": "Stiftung der Universität Bremen",
@@ -16930,6 +18154,10 @@ var searchdb = {
 			"slug": "stiftung-der-volksbank-bad-oyenhausen"
 		},
 		{
+			"name": "Stiftung Deutsches Design Museum, 60327 Frankfurt am Main",
+			"slug": "stiftung-deutsches-design-museum-60327-frankfurt-am-main"
+		},
+		{
 			"name": "Stiftung Die Schwelle",
 			"slug": "stiftung-die-schwelle"
 		},
@@ -16940,6 +18168,10 @@ var searchdb = {
 		{
 			"name": "Stiftung Förderung praxisorientierter Arbeiten von Kunststoffverarbeitung und Recycling - Dr. Berger",
 			"slug": "stiftung-foerderung-praxisorientierter-arbeiten-von-kunststoffverarbeitung-und-recycling-dr-berger"
+		},
+		{
+			"name": "Stiftung Förderung praxisorientierter Arbeiten von Kunsttsoffverarbeitung und Recyling - Dr. Berger",
+			"slug": "stiftung-foerderung-praxisorientierter-arbeiten-von-kunsttsoffverarbeitung-und-recyling-dr-berger"
 		},
 		{
 			"name": "Stiftung für angewandte Wissenschaften Osnabrück",
@@ -16960,6 +18192,10 @@ var searchdb = {
 		{
 			"name": "Stiftung Familie Jindra",
 			"slug": "stiftung-familie-jindra"
+		},
+		{
+			"name": "Stiftung Familienunternehmen",
+			"slug": "stiftung-familienunternehmen"
 		},
 		{
 			"name": "Stiftung Freundeskreis Immobilienwirtschaft",
@@ -16994,12 +18230,12 @@ var searchdb = {
 			"slug": "stiftung-industrieforschung"
 		},
 		{
-			"name": "Stiftung Jugend, Natur und Heimat der Sparkasse Hohenlohekreis, Künzelsau",
-			"slug": "stiftung-jugend-natur-und-heimat-der-sparkasse-hohenlohekreis-kuenzelsau"
+			"name": "Stiftung Jugend forscht, Hamburg",
+			"slug": "stiftung-jugend-forscht-hamburg"
 		},
 		{
-			"name": "Stiftung Kreissparkasse Esslingen-Nürtingen",
-			"slug": "stiftung-kreissparkasse-esslingen-nuertingen"
+			"name": "Stiftung Jugend, Natur und Heimat der Sparkasse Hohenlohekreis, Künzelsau",
+			"slug": "stiftung-jugend-natur-und-heimat-der-sparkasse-hohenlohekreis-kuenzelsau"
 		},
 		{
 			"name": "Stiftung Kulturkreis WHV-Friesland Wilhelmshaven",
@@ -17058,6 +18294,10 @@ var searchdb = {
 			"slug": "stiftung-pro-bochum"
 		},
 		{
+			"name": "Stiftung Pro DHBW Mosbach",
+			"slug": "stiftung-pro-dhbw-mosbach"
+		},
+		{
 			"name": "Stiftung Pro Duale Ausbildung der Handwerkskammer zu Köln",
 			"slug": "stiftung-pro-duale-ausbildung-der-handwerkskammer-zu-koeln"
 		},
@@ -17078,10 +18318,6 @@ var searchdb = {
 			"slug": "stiftung-silberschlag"
 		},
 		{
-			"name": "Stiftung Stahlwerk Georgsmarienhütte",
-			"slug": "stiftung-stahlwerk-georgsmarienhuette"
-		},
-		{
 			"name": "Stiftung Standortsicherung Kreis Lippe",
 			"slug": "stiftung-standortsicherung-kreis-lippe"
 		},
@@ -17096,6 +18332,10 @@ var searchdb = {
 		{
 			"name": "Stiftung Universitätsmedizin Essen",
 			"slug": "stiftung-universitaetsmedizin-essen"
+		},
+		{
+			"name": "Stiftung Urologische Forschung",
+			"slug": "stiftung-urologische-forschung"
 		},
 		{
 			"name": "Stiftung van Meeteren",
@@ -17182,16 +18422,16 @@ var searchdb = {
 			"slug": "strukturfonds-nrw"
 		},
 		{
-			"name": "Stryker GmbH & Co. KG",
-			"slug": "stryker-gmbh-co-kg"
-		},
-		{
-			"name": "Stryker SA",
-			"slug": "stryker-sa"
+			"name": "Stryker",
+			"slug": "stryker"
 		},
 		{
 			"name": "Studentenwerk Hannover",
 			"slug": "studentenwerk-hannover"
+		},
+		{
+			"name": "Studentenwerk Osnabrück",
+			"slug": "studentenwerk-osnabrueck"
 		},
 		{
 			"name": "Studienpioniere-gemeinsame Initiative der Stiftung Mercator und des Stifterverbandes für die Deutsche Wissenschaft",
@@ -17222,6 +18462,10 @@ var searchdb = {
 			"slug": "styron-deutschland-gmbh"
 		},
 		{
+			"name": "Suding B. - Famielienstiftung, 49377 Vechta",
+			"slug": "suding-b-famielienstiftung-49377-vechta"
+		},
+		{
 			"name": "Suffel Fördertechnik GmbH & Co. KG",
 			"slug": "suffel-foerdertechnik-gmbh-co-kg"
 		},
@@ -17238,6 +18482,10 @@ var searchdb = {
 			"slug": "superbiomarkt-ag"
 		},
 		{
+			"name": "Survitec GmbH Deutsche Schlauchboot GmbH, Eschershausen",
+			"slug": "survitec-gmbh-deutsche-schlauchboot-gmbh-eschershausen"
+		},
+		{
 			"name": "Susanne Hormes und Manfred Hormes",
 			"slug": "susanne-hormes-und-manfred-hormes"
 		},
@@ -17250,16 +18498,8 @@ var searchdb = {
 			"slug": "sv-werder-bremen-gmbh-co-kg-bremen"
 		},
 		{
-			"name": "SV Werder Bremen Stiftung, Bremen",
-			"slug": "sv-werder-bremen-stiftung-bremen"
-		},
-		{
 			"name": "swb AG",
 			"slug": "swb-ag"
-		},
-		{
-			"name": "SWB AG, Bremen",
-			"slug": "swb-ag-bremen"
 		},
 		{
 			"name": "Swedish Orphan Biovitrum GmbH",
@@ -17306,6 +18546,18 @@ var searchdb = {
 			"slug": "syngenta-agro-gmbh"
 		},
 		{
+			"name": "Syntechnics GmbH",
+			"slug": "syntechnics-gmbh"
+		},
+		{
+			"name": "Syntellix AG",
+			"slug": "syntellix-ag"
+		},
+		{
+			"name": "Synthes GmbH",
+			"slug": "synthes-gmbh"
+		},
+		{
 			"name": "Synventive Molding Solution",
 			"slug": "synventive-molding-solution"
 		},
@@ -17330,32 +18582,20 @@ var searchdb = {
 			"slug": "tuev-nord-ag"
 		},
 		{
-			"name": "TüV Rheinland AG",
-			"slug": "tuev-rheinland-ag"
-		},
-		{
-			"name": "TüV Rheinland Group",
-			"slug": "tuev-rheinland-group"
-		},
-		{
-			"name": "TüV Rheinland Holding AG",
-			"slug": "tuev-rheinland-holding-ag"
+			"name": "TüV Rheinland",
+			"slug": "tuev-rheinland"
 		},
 		{
 			"name": "TüV Süd",
 			"slug": "tuev-sued"
 		},
 		{
-			"name": "TüV SüD AG",
-			"slug": "tuev-sued-ag"
-		},
-		{
-			"name": "TüV Süd Stiftung",
-			"slug": "tuev-sued-stiftung"
-		},
-		{
 			"name": "TüV Saarland Stiftung",
 			"slug": "tuev-saarland-stiftung"
+		},
+		{
+			"name": "TAG Asset-Management GmbH",
+			"slug": "tag-asset-management-gmbh"
 		},
 		{
 			"name": "Tailor & Francis",
@@ -17402,8 +18642,8 @@ var searchdb = {
 			"slug": "taylor-wessing"
 		},
 		{
-			"name": "Taylor Wessing Partnerschaftsgesellschaft",
-			"slug": "taylor-wessing-partnerschaftsgesellschaft"
+			"name": "TDS HR Services & Solution GmbH",
+			"slug": "tds-hr-services-solution-gmbh"
 		},
 		{
 			"name": "TEAM, Paderborn",
@@ -17424,6 +18664,14 @@ var searchdb = {
 		{
 			"name": "Techniker Krankenkasse Braunschweig",
 			"slug": "techniker-krankenkasse-braunschweig"
+		},
+		{
+			"name": "Techniker Krankenkasse, Minden, Wilhelmshaven u. Hamburg",
+			"slug": "techniker-krankenkasse-minden-wilhelmshaven-u-hamburg"
+		},
+		{
+			"name": "Technische Universität Dresden, Sektion Schulpädagogik der DGfE, Dresden",
+			"slug": "technische-universitaet-dresden-sektion-schulpaedagogik-der-dgfe-dresden"
 		},
 		{
 			"name": "Technische Werke Schussental",
@@ -17494,6 +18742,10 @@ var searchdb = {
 			"slug": "teneo-organisationsberatung-gbr"
 		},
 		{
+			"name": "Tenneco",
+			"slug": "tenneco"
+		},
+		{
 			"name": "TenneT TSO GmbH",
 			"slug": "tennet-tso-gmbh"
 		},
@@ -17516,6 +18768,18 @@ var searchdb = {
 		{
 			"name": "Teuttloff Technische Akademie",
 			"slug": "teuttloff-technische-akademie"
+		},
+		{
+			"name": "Teva GmbH",
+			"slug": "teva-gmbh"
+		},
+		{
+			"name": "Tewiss",
+			"slug": "tewiss"
+		},
+		{
+			"name": "Texilhaus Kressmann, Hildesheim",
+			"slug": "texilhaus-kressmann-hildesheim"
 		},
 		{
 			"name": "Textile und Fashion Network e.V.",
@@ -17570,6 +18834,10 @@ var searchdb = {
 			"slug": "the-mathworks-gmbh"
 		},
 		{
+			"name": "The MathWorks GmbH, 85737 Ismaning",
+			"slug": "the-mathworks-gmbh-85737-ismaning"
+		},
+		{
 			"name": "The Schaufler Foundation",
 			"slug": "the-schaufler-foundation"
 		},
@@ -17610,8 +18878,16 @@ var searchdb = {
 			"slug": "thiel-ag"
 		},
 		{
+			"name": "Thiele & Freese GmbH & Co KG",
+			"slug": "thiele-freese-gmbh-co-kg"
+		},
+		{
 			"name": "Thieme Compliance GmbH",
 			"slug": "thieme-compliance-gmbh"
+		},
+		{
+			"name": "Thieme GmbH & Co. KG",
+			"slug": "thieme-gmbh-co-kg"
 		},
 		{
 			"name": "Thimm Holding GmbH & Co. KG",
@@ -17620,6 +18896,14 @@ var searchdb = {
 		{
 			"name": "Thomas Gessmann-Stiftung Leingarten",
 			"slug": "thomas-gessmann-stiftung-leingarten"
+		},
+		{
+			"name": "Thoratec Europe Limited",
+			"slug": "thoratec-europe-limited"
+		},
+		{
+			"name": "Thoratec Europe Ltd.",
+			"slug": "thoratec-europe-ltd"
 		},
 		{
 			"name": "thp treuhandpartner gmbh",
@@ -17640,10 +18924,6 @@ var searchdb = {
 		{
 			"name": "Thyracont Vacuum Instruments GmbH",
 			"slug": "thyracont-vacuum-instruments-gmbh"
-		},
-		{
-			"name": "Thyssen Krupp Steel AG",
-			"slug": "thyssen-krupp-steel-ag"
 		},
 		{
 			"name": "ThyssenKrupp",
@@ -17694,12 +18974,12 @@ var searchdb = {
 			"slug": "toshiba-medical-system"
 		},
 		{
-			"name": "TOTAL Bitumen Deutschland GmbH",
-			"slug": "total-bitumen-deutschland-gmbh"
+			"name": "TOSHIBA Medical Systems GmbH",
+			"slug": "toshiba-medical-systems-gmbh"
 		},
 		{
-			"name": "TOTAL Raffinerie Mitteldeutschland GmbH",
-			"slug": "total-raffinerie-mitteldeutschland-gmbh"
+			"name": "TOTAL",
+			"slug": "total"
 		},
 		{
 			"name": "TOX Pressotechnik GmbH & Co. KG",
@@ -17724,6 +19004,10 @@ var searchdb = {
 		{
 			"name": "Trainings & Weiterbildungszentrum Wolfenbüttel e.V",
 			"slug": "trainings-weiterbildungszentrum-wolfenbuettel-ev"
+		},
+		{
+			"name": "Trainings- und Weiterbildungszentrum Wolfenbüttel e. V.",
+			"slug": "trainings-und-weiterbildungszentrum-wolfenbuettel-e-v"
 		},
 		{
 			"name": "trainingsworld",
@@ -17768,6 +19052,10 @@ var searchdb = {
 		{
 			"name": "TRILUX GmbH & Co. KG",
 			"slug": "trilux-gmbh-co-kg"
+		},
+		{
+			"name": "Trimet Aluminium AG, Sömmerda",
+			"slug": "trimet-aluminium-ag-soemmerda"
 		},
 		{
 			"name": "Trnd AG",
@@ -17826,6 +19114,10 @@ var searchdb = {
 			"slug": "ugo"
 		},
 		{
+			"name": "UGO, Postfach 4901, 26039 Oldenburg",
+			"slug": "ugo-postfach-4901-26039-oldenburg"
+		},
+		{
 			"name": "Uhlig-van Buren, Angela",
 			"slug": "uhlig-van-buren-angela"
 		},
@@ -17850,8 +19142,16 @@ var searchdb = {
 			"slug": "ulrich-walter-gmbh"
 		},
 		{
+			"name": "Ulrike Döpke",
+			"slug": "ulrike-doepke"
+		},
+		{
 			"name": "Ulrike und Dr. Axel Weber-Stiftung",
 			"slug": "ulrike-und-dr-axel-weber-stiftung"
+		},
+		{
+			"name": "UMS Gmbh, München",
+			"slug": "ums-gmbh-muenchen"
 		},
 		{
 			"name": "Unigesellschaft Osnabrück e.V.",
@@ -17870,12 +19170,20 @@ var searchdb = {
 			"slug": "union-kaufm-verein"
 		},
 		{
+			"name": "UNIQA Versicherungen AG",
+			"slug": "uniqa-versicherungen-ag"
+		},
+		{
 			"name": "Unister Holding GmbH",
 			"slug": "unister-holding-gmbh"
 		},
 		{
 			"name": "United Ambient Media AG",
 			"slug": "united-ambient-media-ag"
+		},
+		{
+			"name": "United Technologies Research Centre, Cork, Irland",
+			"slug": "united-technologies-research-centre-cork-irland"
 		},
 		{
 			"name": "UNITY AG, Büren",
@@ -17886,6 +19194,10 @@ var searchdb = {
 			"slug": "universitaet-siegen"
 		},
 		{
+			"name": "Universität Wien Instiutut für Bildungswissenschaft",
+			"slug": "universitaet-wien-instiutut-fuer-bildungswissenschaft"
+		},
+		{
 			"name": "Universitäts Buchhandlung",
 			"slug": "universitaets-buchhandlung"
 		},
@@ -17894,12 +19206,8 @@ var searchdb = {
 			"slug": "universitaetsgesellschaft-des-saarlandes"
 		},
 		{
-			"name": "UniversitätsGesellschaft Erfurt e.V.",
+			"name": "Universitätsgesellschaft Erfurt e.V.",
 			"slug": "universitaetsgesellschaft-erfurt-ev"
-		},
-		{
-			"name": "Universitäts-Gesellschaft Erfurt e.V.",
-			"slug": "universitaets-gesellschaft-erfurt-ev"
 		},
 		{
 			"name": "Universitätsgesellschaft Münster e.V.",
@@ -17908,6 +19216,10 @@ var searchdb = {
 		{
 			"name": "Universitätsgesellschaft Oldenburg e.V.",
 			"slug": "universitaetsgesellschaft-oldenburg-ev"
+		},
+		{
+			"name": "Universitätsgesellschaft Osnabrück e. V.",
+			"slug": "universitaetsgesellschaft-osnabrueck-e-v"
 		},
 		{
 			"name": "Universitätsgesellschaft Vechta e.V., Vechta",
@@ -17938,10 +19250,6 @@ var searchdb = {
 			"slug": "universitaetsklinikum-mannheim-ggmbh"
 		},
 		{
-			"name": "UNIQA Versicherungen AG",
-			"slug": "uniqa-versicherungen-ag"
-		},
-		{
 			"name": "Unternehmensgruppe Aschendorff",
 			"slug": "unternehmensgruppe-aschendorff"
 		},
@@ -17960,10 +19268,6 @@ var searchdb = {
 		{
 			"name": "Unternehmensverband Westfalen Mitte e.V.",
 			"slug": "unternehmensverband-westfalen-mitte-ev"
-		},
-		{
-			"name": "Unternehmer Verbände Niedersachsen e. V.",
-			"slug": "unternehmer-verbaende-niedersachsen-e-v"
 		},
 		{
 			"name": "Unternehmerverbände Niedersachsen e.V.",
@@ -18002,16 +19306,12 @@ var searchdb = {
 			"slug": "vacom-vakuum-komponenten-messtechnik-gmbh"
 		},
 		{
-			"name": "Valeo Eclairage Signalisation",
-			"slug": "valeo-eclairage-signalisation"
+			"name": "Valeo",
+			"slug": "valeo"
 		},
 		{
-			"name": "Valeo Klimasysteme GmbH",
-			"slug": "valeo-klimasysteme-gmbh"
-		},
-		{
-			"name": "Valeo Schalter und Sensoren GmbH Bietigheim-Bissingen",
-			"slug": "valeo-schalter-und-sensoren-gmbh-bietigheim-bissingen"
+			"name": "Varrelmann Beratungsgesellschaft MBH, 26129 Oldenburg",
+			"slug": "varrelmann-beratungsgesellschaft-mbh-26129-oldenburg"
 		},
 		{
 			"name": "Varus Gesellschaft",
@@ -18020,6 +19320,10 @@ var searchdb = {
 		{
 			"name": "Vascutek Deutschland GmbH",
 			"slug": "vascutek-deutschland-gmbh"
+		},
+		{
+			"name": "Vascutek, Ltd.",
+			"slug": "vascutek-ltd"
 		},
 		{
 			"name": "Vater Holding GmbH",
@@ -18090,6 +19394,18 @@ var searchdb = {
 			"slug": "vensys-ag"
 		},
 		{
+			"name": "Venteon Laser Technologie GmbH",
+			"slug": "venteon-laser-technologie-gmbh"
+		},
+		{
+			"name": "Veolia Wasser GmbH",
+			"slug": "veolia-wasser-gmbh"
+		},
+		{
+			"name": "Verband der Automobilindustrie",
+			"slug": "verband-der-automobilindustrie"
+		},
+		{
 			"name": "Verband der Bahnindustrie in Deutschland (VDB) e.V.",
 			"slug": "verband-der-bahnindustrie-in-deutschland-vdb-ev"
 		},
@@ -18114,6 +19430,14 @@ var searchdb = {
 			"slug": "verband-der-forschenden-pharmaunternehmen"
 		},
 		{
+			"name": "Verband der Metallindustrie, Göttingen",
+			"slug": "verband-der-metallindustrie-goettingen"
+		},
+		{
+			"name": "Verband der Metallindustriellen Niedersachen e.V., Schiffgraben 36, 30175 Hannover",
+			"slug": "verband-der-metallindustriellen-niedersachen-ev-schiffgraben-36-30175-hannover"
+		},
+		{
 			"name": "Verband der Metallindustriellen Niedersachsens, Bezirksgruppe Süd e.V.",
 			"slug": "verband-der-metallindustriellen-niedersachsens-bezirksgruppe-sued-ev"
 		},
@@ -18126,12 +19450,12 @@ var searchdb = {
 			"slug": "verband-metallindustriellen-niedersachsen"
 		},
 		{
-			"name": "Verein der Förderer der Fachhochschule Oldenburg e.V.",
-			"slug": "verein-der-foerderer-der-fachhochschule-oldenburg-ev"
+			"name": "Verband Sonderpädagogik e.V.",
+			"slug": "verband-sonderpaedagogik-ev"
 		},
 		{
-			"name": "Verein der Förderer der FH OL",
-			"slug": "verein-der-foerderer-der-fh-ol"
+			"name": "Verein der Förderer der Fachhochschule Oldenburg e.V.",
+			"slug": "verein-der-foerderer-der-fachhochschule-oldenburg-ev"
 		},
 		{
 			"name": "Verein der Förderer des Fachbereichs Versorgungstechnik",
@@ -18182,10 +19506,6 @@ var searchdb = {
 			"slug": "verein-deutscher-ingenieure-ev"
 		},
 		{
-			"name": "Verein Deutscher Ingenieure, Osnabrück",
-			"slug": "verein-deutscher-ingenieure-osnabrueck"
-		},
-		{
 			"name": "Verein Deutscher Zuckertechniker",
 			"slug": "verein-deutscher-zuckertechniker"
 		},
@@ -18202,12 +19522,24 @@ var searchdb = {
 			"slug": "verein-v-freunden-e-v"
 		},
 		{
+			"name": "Verein von Freunden",
+			"slug": "verein-von-freunden"
+		},
+		{
+			"name": "Verein von Freunden, Clausthal-Zellerfeld",
+			"slug": "verein-von-freunden-clausthal-zellerfeld"
+		},
+		{
 			"name": "Verein zur Förderung von Studierenden der Berliner Hochschulen e.V.",
 			"slug": "verein-zur-foerderung-von-studierenden-der-berliner-hochschulen-ev"
 		},
 		{
 			"name": "Verein zur Förderung anwaltsbez. Ausbildung",
 			"slug": "verein-zur-foerderung-anwaltsbez-ausbildung"
+		},
+		{
+			"name": "Verein zur Förderung anwaltsbezogener Ausbildung",
+			"slug": "verein-zur-foerderung-anwaltsbezogener-ausbildung"
 		},
 		{
 			"name": "Verein zur Förderung der Bilanzen und Steuern",
@@ -18230,8 +19562,16 @@ var searchdb = {
 			"slug": "verein-zur-foerderung-der-hochschule-weiden-ev"
 		},
 		{
+			"name": "Verein zur Förderung der Koordinierungsstelle Windenergierecht e.V., Eisenhartstr.18, 14469 Potsdam",
+			"slug": "verein-zur-foerderung-der-koordinierungsstelle-windenergierecht-ev-eisenhartstr18-14469-potsdam"
+		},
+		{
 			"name": "Verein zur Förderung der Kunststofftechnologie e. V., Universität Paderborn",
 			"slug": "verein-zur-foerderung-der-kunststofftechnologie-e-v-universitaet-paderborn"
+		},
+		{
+			"name": "Verein zur Förderung der Materialprüfung an der Jade Hochschule e.V.",
+			"slug": "verein-zur-foerderung-der-materialpruefung-an-der-jade-hochschule-ev"
 		},
 		{
 			"name": "Verein zur Förderung der Versicherungs- und Finanzmathematik",
@@ -18270,6 +19610,14 @@ var searchdb = {
 			"slug": "verein-zur-foerderung-des-zentrums-fuer-niederlande-studien-der-westfaelischen-wilhelms-universitaet-in-muenster-ev"
 		},
 		{
+			"name": "Verein zur Förderung Versicherungs- und Finanzmathematik-Uni OL e.V., 26122 Oldenburg",
+			"slug": "verein-zur-foerderung-versicherungs-und-finanzmathematik-uni-ol-ev-26122-oldenburg"
+		},
+		{
+			"name": "Vereinigung der Freunde des Wuppertal Institut e. V., 42103 Wuppertal",
+			"slug": "vereinigung-der-freunde-des-wuppertal-institut-e-v-42103-wuppertal"
+		},
+		{
 			"name": "Vereinigung von Förderern und Freunden der Universität Leipzig e.V.",
 			"slug": "vereinigung-von-foerderern-und-freunden-der-universitaet-leipzig-ev"
 		},
@@ -18280,6 +19628,10 @@ var searchdb = {
 		{
 			"name": "Verfers Elektromontagen GmbH",
 			"slug": "verfers-elektromontagen-gmbh"
+		},
+		{
+			"name": "Verkehrsverein Osnabrück",
+			"slug": "verkehrsverein-osnabrueck"
 		},
 		{
 			"name": "Verlag Dierichs GmbH & Co. KG",
@@ -18346,6 +19698,10 @@ var searchdb = {
 			"slug": "veterinaermedizinisches-dienstleistungszentrum-gmbh"
 		},
 		{
+			"name": "Vetter",
+			"slug": "vetter"
+		},
+		{
 			"name": "VFF Verwertungsgesellschaft der Film und Fernsehproduzenten mbH München",
 			"slug": "vff-verwertungsgesellschaft-der-film-und-fernsehproduzenten-mbh-muenchen"
 		},
@@ -18354,24 +19710,8 @@ var searchdb = {
 			"slug": "vg-wort-gmbh"
 		},
 		{
-			"name": "VGH - Landschaftliche Brandkasse Hannover",
-			"slug": "vgh-landschaftliche-brandkasse-hannover"
-		},
-		{
-			"name": "VGH Landschaftliche Brandkasse",
-			"slug": "vgh-landschaftliche-brandkasse"
-		},
-		{
-			"name": "VGH Stiftung und Sparkasse Hildesheim",
-			"slug": "vgh-stiftung-und-sparkasse-hildesheim"
-		},
-		{
 			"name": "VGH Versicherungen",
 			"slug": "vgh-versicherungen"
-		},
-		{
-			"name": "VGH, Hannover",
-			"slug": "vgh-hannover"
 		},
 		{
 			"name": "VHV Holding AG",
@@ -18418,6 +19758,10 @@ var searchdb = {
 			"slug": "vinopolis-stiftung-fuer-wirtschaftswissenschaften"
 		},
 		{
+			"name": "Virtalis GmbH",
+			"slug": "virtalis-gmbh"
+		},
+		{
 			"name": "Viscom AG",
 			"slug": "viscom-ag"
 		},
@@ -18430,6 +19774,10 @@ var searchdb = {
 			"slug": "vision-electric"
 		},
 		{
+			"name": "Vision GmbH, Göxe",
+			"slug": "vision-gmbh-goexe"
+		},
+		{
 			"name": "VISPIRON ENGINEERING GmbH",
 			"slug": "vispiron-engineering-gmbh"
 		},
@@ -18438,16 +19786,8 @@ var searchdb = {
 			"slug": "visus-gmbh"
 		},
 		{
-			"name": "Visus Technology Transfer",
-			"slug": "visus-technology-transfer"
-		},
-		{
 			"name": "VivaKi",
 			"slug": "vivaki"
-		},
-		{
-			"name": "VivaKi Service GmbH",
-			"slug": "vivaki-service-gmbh"
 		},
 		{
 			"name": "VME-Stiftung, Osnabrück",
@@ -18474,24 +19814,16 @@ var searchdb = {
 			"slug": "vogelsang-stiftung-essen"
 		},
 		{
-			"name": "Voith GmbH",
-			"slug": "voith-gmbh"
+			"name": "Vogels-Beydals,Antoinetta",
+			"slug": "vogels-beydalsantoinetta"
 		},
 		{
-			"name": "Voith Industrial Service Holding GmbH",
-			"slug": "voith-industrial-service-holding-gmbh"
+			"name": "VOGT Ultrasonics GmbH",
+			"slug": "vogt-ultrasonics-gmbh"
 		},
 		{
-			"name": "Voith Paper GmbH & Co. KG",
-			"slug": "voith-paper-gmbh-co-kg"
-		},
-		{
-			"name": "Voith Paper Holding GmbH & Co. KG",
-			"slug": "voith-paper-holding-gmbh-co-kg"
-		},
-		{
-			"name": "Voith Turbo BHS Getriebe GmbH",
-			"slug": "voith-turbo-bhs-getriebe-gmbh"
+			"name": "Voith",
+			"slug": "voith"
 		},
 		{
 			"name": "Volksbank",
@@ -18578,16 +19910,12 @@ var searchdb = {
 			"slug": "volksbank-vechta-eg"
 		},
 		{
-			"name": "Volksbank Vechta eG, Vechta",
-			"slug": "volksbank-vechta-eg-vechta"
+			"name": "Volksbanken im Allgäu",
+			"slug": "volksbanken-im-allgaeu"
 		},
 		{
 			"name": "Volksbanken im Kreis Siegen-Wittgenstein",
 			"slug": "volksbanken-im-kreis-siegen-wittgenstein"
-		},
-		{
-			"name": "Volksbanken im Allgäu",
-			"slug": "volksbanken-im-allgaeu"
 		},
 		{
 			"name": "Volkswagen",
@@ -18618,6 +19946,10 @@ var searchdb = {
 			"slug": "von-behring-roentgen-stiftung"
 		},
 		{
+			"name": "Von Bodelschwinghsche Stiftungen Bethel",
+			"slug": "von-bodelschwinghsche-stiftungen-bethel"
+		},
+		{
 			"name": "Von Bonin Personalberatung GmbH",
 			"slug": "von-bonin-personalberatung-gmbh"
 		},
@@ -18626,8 +19958,20 @@ var searchdb = {
 			"slug": "von-der-seipen-steinberg-rechtsanwaelte"
 		},
 		{
+			"name": "von Hörsten Erben Holger",
+			"slug": "von-hoersten-erben-holger"
+		},
+		{
 			"name": "Von Mende Marketing GmbH",
 			"slug": "von-mende-marketing-gmbh"
+		},
+		{
+			"name": "von Mende Marketing GmbH, 26122 Oldenburg",
+			"slug": "von-mende-marketing-gmbh-26122-oldenburg"
+		},
+		{
+			"name": "von Opel Hessischen Zoostiftung",
+			"slug": "von-opel-hessischen-zoostiftung"
 		},
 		{
 			"name": "von Saldern Gruppe",
@@ -18642,16 +19986,16 @@ var searchdb = {
 			"slug": "vorrichtungsbau-giggel-gmbh"
 		},
 		{
-			"name": "Vorwerk Autotec GmbH",
-			"slug": "vorwerk-autotec-gmbh"
-		},
-		{
-			"name": "Vorwerk Elektrowerke GmbH & Co. KG",
-			"slug": "vorwerk-elektrowerke-gmbh-co-kg"
+			"name": "Vorwerk",
+			"slug": "vorwerk"
 		},
 		{
 			"name": "Votum-Stiftung",
 			"slug": "votum-stiftung"
+		},
+		{
+			"name": "vph GmbH & Co. KG",
+			"slug": "vph-gmbh-co-kg"
 		},
 		{
 			"name": "VR Bank Landshut eG",
@@ -18682,6 +20026,10 @@ var searchdb = {
 			"slug": "vse-vertrauen-sicherheit-energie"
 		},
 		{
+			"name": "VTU Engineering Deutschland GmbH, Braunschweig",
+			"slug": "vtu-engineering-deutschland-gmbh-braunschweig"
+		},
+		{
 			"name": "Vulkan Energie",
 			"slug": "vulkan-energie"
 		},
@@ -18700,6 +20048,10 @@ var searchdb = {
 		{
 			"name": "W. Neudorff GmbH KG",
 			"slug": "w-neudorff-gmbh-kg"
+		},
+		{
+			"name": "W. Neudorff GmbH, Emmerthal",
+			"slug": "w-neudorff-gmbh-emmerthal"
 		},
 		{
 			"name": "W. Pilling Kesselfabrik GmbH & Co. KG",
@@ -18762,16 +20114,16 @@ var searchdb = {
 			"slug": "waldburg-zeil-kliniken"
 		},
 		{
-			"name": "Waldburg-Zeil Kliniken GmbH & Co. KG",
-			"slug": "waldburg-zeil-kliniken-gmbh-co-kg"
-		},
-		{
 			"name": "Waldeck Rechtsanwälte Partnerschaft",
 			"slug": "waldeck-rechtsanwaelte-partnerschaft"
 		},
 		{
 			"name": "Waldemar-Koch-Stiftung",
 			"slug": "waldemar-koch-stiftung"
+		},
+		{
+			"name": "Wallenius Wilhelmsen",
+			"slug": "wallenius-wilhelmsen"
 		},
 		{
 			"name": "Walter Beteiligungen- und Immobilien AG",
@@ -18806,6 +20158,10 @@ var searchdb = {
 			"slug": "washtec-ag"
 		},
 		{
+			"name": "Waskönig",
+			"slug": "waskoenig"
+		},
+		{
 			"name": "Wassermann, Prof. Dr. Gordon und Brigitte",
 			"slug": "wassermann-prof-dr-gordon-und-brigitte"
 		},
@@ -18814,16 +20170,20 @@ var searchdb = {
 			"slug": "wasserwerke-zwickau-gmbh"
 		},
 		{
+			"name": "Wavelabs (Leipzig)",
+			"slug": "wavelabs-leipzig"
+		},
+		{
 			"name": "WAZ",
 			"slug": "waz"
 		},
 		{
-			"name": "WAZ Westdeutsche Allgemeine Zeitung",
-			"slug": "waz-westdeutsche-allgemeine-zeitung"
-		},
-		{
 			"name": "WBI PROFESSOR DR.-ING. W. WITTKE Beratende Ingenieure für GRUNDBAU UND FELSBAU GmbH",
 			"slug": "wbi-professor-dr-ing-w-wittke-beratende-ingenieure-fuer-grundbau-und-felsbau-gmbh"
+		},
+		{
+			"name": "WBV Wohnbau Betreuungs- &",
+			"slug": "wbv-wohnbau-betreuungs-"
 		},
 		{
 			"name": "WBV Wohnbau Betreuungs- & Verwaltungs GmbH",
@@ -18882,6 +20242,10 @@ var searchdb = {
 			"slug": "wehrmann-dominique"
 		},
 		{
+			"name": "Weidemann Stiftung",
+			"slug": "weidemann-stiftung"
+		},
+		{
 			"name": "Weidemann-Stiftung",
 			"slug": "weidemann-stiftung"
 		},
@@ -18916,6 +20280,10 @@ var searchdb = {
 		{
 			"name": "Welge, Dr. Manfred",
 			"slug": "welge-dr-manfred"
+		},
+		{
+			"name": "Welge, Manfred",
+			"slug": "welge-manfred"
 		},
 		{
 			"name": "Welker, Günter, Quarkenbrück",
@@ -18958,10 +20326,6 @@ var searchdb = {
 			"slug": "werner-egerland-automobillogistik-gmbh-co-kg"
 		},
 		{
-			"name": "Werner Egerland, Automobillogistik GmbH & Co. KG",
-			"slug": "werner-egerland-automobillogistik-gmbh-co-kg"
-		},
-		{
 			"name": "Werner Kimmig GmbH",
 			"slug": "werner-kimmig-gmbh"
 		},
@@ -18990,8 +20354,16 @@ var searchdb = {
 			"slug": "wesermarsch-und-stadt-oldenburg"
 		},
 		{
+			"name": "Wesjohann, Erich",
+			"slug": "wesjohann-erich"
+		},
+		{
 			"name": "Weski, Veronika",
 			"slug": "weski-veronika"
+		},
+		{
+			"name": "Wessanen Fachhandels GmbH",
+			"slug": "wessanen-fachhandels-gmbh"
 		},
 		{
 			"name": "Wessels, Prof. Dr. h.c. Bernd-Artin",
@@ -19018,6 +20390,10 @@ var searchdb = {
 			"slug": "westfalia-automotive-gmbh-rheda-wiedenbrueck"
 		},
 		{
+			"name": "Westf�lisch-Lippische Universit�tsgesellschaft e.V.",
+			"slug": "westflisch-lippische-universittsgesellschaft-ev"
+		},
+		{
 			"name": "WestLB",
 			"slug": "westlb"
 		},
@@ -19030,12 +20406,24 @@ var searchdb = {
 			"slug": "westnetz-gmbh"
 		},
 		{
+			"name": "Westphal Präzisionstechnik GmbH & Co. KG, Celle",
+			"slug": "westphal-praezisionstechnik-gmbh-co-kg-celle"
+		},
+		{
 			"name": "Wetzel, Holger",
 			"slug": "wetzel-holger"
 		},
 		{
 			"name": "WEVG Salzgitter GmbH & Co. KG",
 			"slug": "wevg-salzgitter-gmbh-co-kg"
+		},
+		{
+			"name": "WFB Wirtschafatsförderung Bremen GmbH, 28195 Bremen",
+			"slug": "wfb-wirtschafatsfoerderung-bremen-gmbh-28195-bremen"
+		},
+		{
+			"name": "WGH Herrenhausen eG.",
+			"slug": "wgh-herrenhausen-eg"
 		},
 		{
 			"name": "WGP weichinger projekt entwicklung gmbh",
@@ -19078,6 +20466,10 @@ var searchdb = {
 			"slug": "wieland-werke"
 		},
 		{
+			"name": "WienerbergerGmbH",
+			"slug": "wienerbergergmbh"
+		},
+		{
 			"name": "Wienstroth Wärmebehandlungstechnik GmbH",
 			"slug": "wienstroth-waermebehandlungstechnik-gmbh"
 		},
@@ -19110,8 +20502,16 @@ var searchdb = {
 			"slug": "wilhelm-lambrecht-gmbh"
 		},
 		{
+			"name": "Wilhelm Lindenberg",
+			"slug": "wilhelm-lindenberg"
+		},
+		{
 			"name": "Wilhelm Müller-Stiftung",
 			"slug": "wilhelm-mueller-stiftung"
+		},
+		{
+			"name": "Wilhelm Sander-Stiftung",
+			"slug": "wilhelm-sander-stiftung"
 		},
 		{
 			"name": "Wilhelm Vogel GmbH",
@@ -19122,6 +20522,10 @@ var searchdb = {
 			"slug": "wilhelm-karmann-stiftung"
 		},
 		{
+			"name": "Wilhelmshavener Hafenwirtschaftsvereinigung e.V.",
+			"slug": "wilhelmshavener-hafenwirtschaftsvereinigung-ev"
+		},
+		{
 			"name": "WILKA Schließtechnik GmbH",
 			"slug": "wilka-schliesstechnik-gmbh"
 		},
@@ -19130,8 +20534,8 @@ var searchdb = {
 			"slug": "wilkinson-sword-gmbh"
 		},
 		{
-			"name": "Willborn, Kay",
-			"slug": "willborn-kay"
+			"name": "Willborn, Kay, 26121 Oldenburg",
+			"slug": "willborn-kay-26121-oldenburg"
 		},
 		{
 			"name": "Willenbrock Fördertechnik Holding GmbH & Co. KG",
@@ -19194,12 +20598,16 @@ var searchdb = {
 			"slug": "wintershall-holding-ag"
 		},
 		{
-			"name": "Winzer, Liselotte",
-			"slug": "winzer-liselotte"
+			"name": "Winzer, Liselotte, 26122 Oldenburg",
+			"slug": "winzer-liselotte-26122-oldenburg"
 		},
 		{
 			"name": "Wipotec Wagetechnik",
 			"slug": "wipotec-wagetechnik"
+		},
+		{
+			"name": "'Wir fördern'' - Braunschweig e. V.",
+			"slug": "wir-foerdern-braunschweig-e-v"
 		},
 		{
 			"name": "wirDesign Communications AG",
@@ -19212,6 +20620,10 @@ var searchdb = {
 		{
 			"name": "Wirtschaftliche Vereinigung Oldenburg DER KLEINE KREIS e.V.",
 			"slug": "wirtschaftliche-vereinigung-oldenburg-der-kleine-kreis-ev"
+		},
+		{
+			"name": "Wirtschaftliche Vereinigung Oldenburg DER KLEINE KREIS e.V., 26122 Oldenburg",
+			"slug": "wirtschaftliche-vereinigung-oldenburg-der-kleine-kreis-ev-26122-oldenburg"
 		},
 		{
 			"name": "Wirtschafts- u. Rechtswissenschaften",
@@ -19338,10 +20750,6 @@ var searchdb = {
 			"slug": "wolfenbuetteler-baugesellschaft-mbh"
 		},
 		{
-			"name": "Wolfenbüttler Baugesellschaft mbH",
-			"slug": "wolfenbuettler-baugesellschaft-mbh"
-		},
-		{
 			"name": "Wolff & Müller Holding GmbH & Co. KG",
 			"slug": "wolff-mueller-holding-gmbh-co-kg"
 		},
@@ -19370,6 +20778,10 @@ var searchdb = {
 			"slug": "wolfsburg-ag"
 		},
 		{
+			"name": "Wolfsburg Wirtschaft und Marketing",
+			"slug": "wolfsburg-wirtschaft-und-marketing"
+		},
+		{
 			"name": "Wolfthoff, Klaus",
 			"slug": "wolfthoff-klaus"
 		},
@@ -19392,10 +20804,6 @@ var searchdb = {
 		{
 			"name": "Wooga",
 			"slug": "wooga"
-		},
-		{
-			"name": "Wooga GmbH",
-			"slug": "wooga-gmbh"
 		},
 		{
 			"name": "Woolworth GmbH",
@@ -19430,6 +20838,10 @@ var searchdb = {
 			"slug": "wts-steuerberatungsgesellschaft-mbh"
 		},
 		{
+			"name": "Wucherpfennig",
+			"slug": "wucherpfennig"
+		},
+		{
 			"name": "WUMAG TEXROLL GmbH & Co. KG",
 			"slug": "wumag-texroll-gmbh-co-kg"
 		},
@@ -19450,20 +20862,32 @@ var searchdb = {
 			"slug": "wyeth-pharma"
 		},
 		{
+			"name": "Xella Deutschland",
+			"slug": "xella-deutschland"
+		},
+		{
+			"name": "Ximpix",
+			"slug": "ximpix"
+		},
+		{
 			"name": "XLAB Göttingen",
 			"slug": "xlab-goettingen"
+		},
+		{
+			"name": "Xsens Technologies B.V.",
+			"slug": "xsens-technologies-bv"
 		},
 		{
 			"name": "xTribo GmbH - Tribology & Damping Solutions",
 			"slug": "xtribo-gmbh-tribology-damping-solutions"
 		},
 		{
-			"name": "Yamaha Klavierabteilung",
-			"slug": "yamaha-klavierabteilung"
+			"name": "Yamaha",
+			"slug": "yamaha"
 		},
 		{
-			"name": "Yamaha Music Europe GmbH, Hamburg",
-			"slug": "yamaha-music-europe-gmbh-hamburg"
+			"name": "Yara GmbH",
+			"slug": "yara-gmbh"
 		},
 		{
 			"name": "YIT German",
@@ -19480,6 +20904,14 @@ var searchdb = {
 		{
 			"name": "ZöLLNER Holding GmbH",
 			"slug": "zoellner-holding-gmbh"
+		},
+		{
+			"name": "Züblin AG",
+			"slug": "zueblin-ag"
+		},
+		{
+			"name": "Zühlke Engineering GmbH",
+			"slug": "zuehlke-engineering-gmbh"
 		},
 		{
 			"name": "Zülow AG",
@@ -19502,16 +20934,16 @@ var searchdb = {
 			"slug": "zebotec-gmbh"
 		},
 		{
+			"name": "zebris Medical GmbH",
+			"slug": "zebris-medical-gmbh"
+		},
+		{
 			"name": "Zechbau GmbH",
 			"slug": "zechbau-gmbh"
 		},
 		{
 			"name": "Zeidler Forschungsstiftung",
 			"slug": "zeidler-forschungsstiftung"
-		},
-		{
-			"name": "Zeit-Stiftung",
-			"slug": "zeit-stiftung"
 		},
 		{
 			"name": "Zeller + Gmelin GmbH",
@@ -19570,10 +21002,6 @@ var searchdb = {
 			"slug": "zf-lenksysteme"
 		},
 		{
-			"name": "ZF Lenksysteme GmbH",
-			"slug": "zf-lenksysteme-gmbh"
-		},
-		{
 			"name": "ZF Passau GmbH",
 			"slug": "zf-passau-gmbh"
 		},
@@ -19584,6 +21012,10 @@ var searchdb = {
 		{
 			"name": "ZG Raiffeisen eG",
 			"slug": "zg-raiffeisen-eg"
+		},
+		{
+			"name": "ZI Imaging",
+			"slug": "zi-imaging"
 		},
 		{
 			"name": "Ziebell, Eva",
@@ -19622,12 +21054,20 @@ var searchdb = {
 			"slug": "zonta-club-siegen-area"
 		},
 		{
+			"name": "Zonta Club, 26131 Oldenburg",
+			"slug": "zonta-club-26131-oldenburg"
+		},
+		{
 			"name": "Zonta-Club Bad Homburg",
 			"slug": "zonta-club-bad-homburg"
 		},
 		{
 			"name": "Zonta-Club Erfurt",
 			"slug": "zonta-club-erfurt"
+		},
+		{
+			"name": "Zuken E3 GmbH",
+			"slug": "zuken-e3-gmbh"
 		},
 		{
 			"name": "Zukunft Inc. E. V.",
@@ -19644,6 +21084,10 @@ var searchdb = {
 		{
 			"name": "ZVEI - Zentralverband Elektrotechnik- und Elektroindustrie e.V.",
 			"slug": "zvei-zentralverband-elektrotechnik-und-elektroindustrie-ev"
+		},
+		{
+			"name": "Zweckverband KDO, Carina Sander, Elsässerstr. 66, 26121 Oldenburg",
+			"slug": "zweckverband-kdo-carina-sander-elsaesserstr-66-26121-oldenburg"
 		},
 		{
 			"name": "Zweckverband Kommunale Datenverarbeitung Oldenburg (KDO)",
