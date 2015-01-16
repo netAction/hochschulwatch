@@ -2702,8 +2702,8 @@ var searchdb = {
 			"slug": "aktion-gemeinsinn-e-v-berlin"
 		},
 		{
-			"name": "Aktionsb�ndnis Patientensicherheit e.V. (APS)",
-			"slug": "aktionsbndnis-patientensicherheit-ev-aps"
+			"name": "Aktionsbündnis Patientensicherheit e.V. (APS)",
+			"slug": "aktionsbuendnis-patientensicherheit-ev-aps"
 		},
 		{
 			"name": "Aktormed GmbH",
@@ -2792,6 +2792,10 @@ var searchdb = {
 		{
 			"name": "Alfred Toepfer Stiftung",
 			"slug": "alfred-toepfer-stiftung"
+		},
+		{
+			"name": "Alfred-Freiherr von Oppenheim-Stiftung",
+			"slug": "alfred-freiherr-von-oppenheim-stiftung"
 		},
 		{
 			"name": "AlFreDo e.V.",
@@ -3358,6 +3362,10 @@ var searchdb = {
 			"slug": "august-mainka-gmbh-co"
 		},
 		{
+			"name": "August Oetker",
+			"slug": "august-oetker"
+		},
+		{
 			"name": "Augusta-Bank Stiftung",
 			"slug": "augusta-bank-stiftung"
 		},
@@ -3680,6 +3688,10 @@ var searchdb = {
 		{
 			"name": "Bankhaus W. Fortmann & Söhne, Oldenburg",
 			"slug": "bankhaus-w-fortmann-soehne-oldenburg"
+		},
+		{
+			"name": "Bankverein Werther",
+			"slug": "bankverein-werther"
 		},
 		{
 			"name": "Barbara Huber, Ergolding",
@@ -4018,6 +4030,10 @@ var searchdb = {
 			"slug": "berner-group"
 		},
 		{
+			"name": "Bernhard von Schubert",
+			"slug": "bernhard-von-schubert"
+		},
+		{
 			"name": "Berninghausen-Stiftung",
 			"slug": "berninghausen-stiftung"
 		},
@@ -4036,6 +4052,14 @@ var searchdb = {
 		{
 			"name": "Bertrandt",
 			"slug": "bertrandt"
+		},
+		{
+			"name": "Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege (BGW)",
+			"slug": "berufsgenossenschaft-fuer-gesundheitsdienst-und-wohlfahrtspflege-bgw"
+		},
+		{
+			"name": "Berufsgenossenschaft Transport und Verkehrswirtschaft (BG Verkehr)",
+			"slug": "berufsgenossenschaft-transport-und-verkehrswirtschaft-bg-verkehr"
 		},
 		{
 			"name": "Besser Betreut GmbH",
@@ -4454,10 +4478,6 @@ var searchdb = {
 			"slug": "bremer-landesbank"
 		},
 		{
-			"name": "Bremer Landesbank, 28195 Bremen",
-			"slug": "bremer-landesbank-28195-bremen"
-		},
-		{
 			"name": "Bremer Rhederverein e.V.",
 			"slug": "bremer-rhederverein-ev"
 		},
@@ -4620,6 +4640,10 @@ var searchdb = {
 		{
 			"name": "Bundesministerium für Bildung und Forschung",
 			"slug": "bundesministerium-fuer-bildung-und-forschung"
+		},
+		{
+			"name": "Bundesministerium für Verteidigung und vom Auswärtigen Amt",
+			"slug": "bundesministerium-fuer-verteidigung-und-vom-auswaertigen-amt"
 		},
 		{
 			"name": "Bundesrechtsanwaltskammer Berlin",
@@ -5766,8 +5790,20 @@ var searchdb = {
 			"slug": "deutschen-forschungszentrum-fuer-kuenstliche-intelligenz-dfki"
 		},
 		{
+			"name": "Deutschen Gesellschaft für Urologie (DGU)",
+			"slug": "deutschen-gesellschaft-fuer-urologie-dgu"
+		},
+		{
+			"name": "Deutschen Hochdruckliga - Deutsche Gesellschaft für Hypertonie und Prävention",
+			"slug": "deutschen-hochdruckliga-deutsche-gesellschaft-fuer-hypertonie-und-praevention"
+		},
+		{
 			"name": "Deutschen Messe AG",
 			"slug": "deutschen-messe-ag"
+		},
+		{
+			"name": "Deutschen Rentenversicherung Braunschweig-Hannover",
+			"slug": "deutschen-rentenversicherung-braunschweig-hannover"
 		},
 		{
 			"name": "Deutscher ärzte-Verlag GmbH",
@@ -5814,8 +5850,8 @@ var searchdb = {
 			"slug": "deutsches-zentrum-fuer-neurodegenerative-erkrankung-ev-dzne"
 		},
 		{
-			"name": "Deutsch-Franz�sische Gesellschaft",
-			"slug": "deutsch-franzsische-gesellschaft"
+			"name": "Deutsch-Französische Gesellschaft",
+			"slug": "deutsch-franzoesische-gesellschaft"
 		},
 		{
 			"name": "Deutschsprachige Mykologische Gesellschaft e.V.",
@@ -6552,10 +6588,6 @@ var searchdb = {
 		{
 			"name": "E.ON",
 			"slug": "eon"
-		},
-		{
-			"name": "E+S Rückverischerung AG",
-			"slug": "es-rueckverischerung-ag"
 		},
 		{
 			"name": "E+S Rückversicherung AG",
@@ -7762,10 +7794,6 @@ var searchdb = {
 			"slug": "finanzgruppe-baden-wuerttemberg"
 		},
 		{
-			"name": "Firma",
-			"slug": "firma"
-		},
-		{
 			"name": "Firma Betz",
 			"slug": "firma-betz"
 		},
@@ -8188,6 +8216,10 @@ var searchdb = {
 		{
 			"name": "Friedrich Zufall GmbH & Co. KG",
 			"slug": "friedrich-zufall-gmbh-co-kg"
+		},
+		{
+			"name": "Friedrich-Stiftung Hannover",
+			"slug": "friedrich-stiftung-hannover"
 		},
 		{
 			"name": "Friedrich-Weinhagen-Stiftung, Hildesheim",
@@ -9016,6 +9048,10 @@ var searchdb = {
 		{
 			"name": "Gothaer Kulturstiftung",
 			"slug": "gothaer-kulturstiftung"
+		},
+		{
+			"name": "Gottfried Meulenbergh Stiftung",
+			"slug": "gottfried-meulenbergh-stiftung"
 		},
 		{
 			"name": "Gottfried-Wilhelm-Leibniz- Bibliothek",
@@ -9862,8 +9898,8 @@ var searchdb = {
 			"slug": "herber-petzel-gmbh-co-kg"
 		},
 		{
-			"name": "Herbert Kannegie�er GmbH",
-			"slug": "herbert-kannegieer-gmbh"
+			"name": "Herbert Kannegießer GmbH",
+			"slug": "herbert-kannegiesser-gmbh"
 		},
 		{
 			"name": "Herbert Lutz-Gedächtnis-Stiftung",
@@ -10078,8 +10114,8 @@ var searchdb = {
 			"slug": "hkk-erste-gesundheit"
 		},
 		{
-			"name": "HLB Dr. St�ckmann & Partner mbB",
-			"slug": "hlb-dr-stckmann-partner-mbb"
+			"name": "HLB Dr. Stückmann & Partner mbB",
+			"slug": "hlb-dr-stueckmann-partner-mbb"
 		},
 		{
 			"name": "hmmh multimediahaus AG",
@@ -10574,10 +10610,6 @@ var searchdb = {
 			"slug": "inditango-ag"
 		},
 		{
-			"name": "Industrie- u Handelskammer, Osnabrück",
-			"slug": "industrie-u-handelskammer-osnabrueck"
-		},
-		{
 			"name": "Industrie- und Handelskammer Erfurt",
 			"slug": "industrie-und-handelskammer-erfurt"
 		},
@@ -10596,6 +10628,10 @@ var searchdb = {
 		{
 			"name": "Industrie- und Handelskammer zu Arnsberg",
 			"slug": "industrie-und-handelskammer-zu-arnsberg"
+		},
+		{
+			"name": "Industrie- und Handelskammer, Osnabrück",
+			"slug": "industrie-und-handelskammer-osnabrueck"
 		},
 		{
 			"name": "Industrie- und Handelskammern MD/HAL",
@@ -11170,6 +11206,10 @@ var searchdb = {
 			"slug": "jackstaedt-stiftung"
 		},
 		{
+			"name": "Jacobs",
+			"slug": "jacobs"
+		},
+		{
 			"name": "Jaeger Ausbau Beteiligung GmbH & Co.",
 			"slug": "jaeger-ausbau-beteiligung-gmbh-co"
 		},
@@ -11336,6 +11376,10 @@ var searchdb = {
 		{
 			"name": "Josef Stix GmbH & Co. KG",
 			"slug": "josef-stix-gmbh-co-kg"
+		},
+		{
+			"name": "Josef und Luise Kraft-Stiftung",
+			"slug": "josef-und-luise-kraft-stiftung"
 		},
 		{
 			"name": "Josef-Hebel GmbH & Co KG",
@@ -11712,6 +11756,10 @@ var searchdb = {
 		{
 			"name": "KELSO Institut",
 			"slug": "kelso-institut"
+		},
+		{
+			"name": "Kelso-Stiftung",
+			"slug": "kelso-stiftung"
 		},
 		{
 			"name": "KEMAS GmbH Hohenstein-Ernstthal",
@@ -13434,6 +13482,10 @@ var searchdb = {
 			"slug": "medatixx-gmbh-co-kg"
 		},
 		{
+			"name": "medbo (Medizinische Einrichtungen des Bezirks Oberpfalz)",
+			"slug": "medbo-medizinische-einrichtungen-des-bezirks-oberpfalz"
+		},
+		{
 			"name": "medi GmbH & Co. KG",
 			"slug": "medi-gmbh-co-kg"
 		},
@@ -13674,8 +13726,8 @@ var searchdb = {
 			"slug": "mibrak"
 		},
 		{
-			"name": "Michael Otto Stiftung f�r Umweltschutz",
-			"slug": "michael-otto-stiftung-fr-umweltschutz"
+			"name": "Michael Otto Stiftung für Umweltschutz",
+			"slug": "michael-otto-stiftung-fuer-umweltschutz"
 		},
 		{
 			"name": "Michael-Balint-Klinik Königsfeld",
@@ -14244,10 +14296,6 @@ var searchdb = {
 		{
 			"name": "Nordwest Assekuranzmakler GmbH & Co. KG, 28199 Bremen",
 			"slug": "nordwest-assekuranzmakler-gmbh-co-kg-28199-bremen"
-		},
-		{
-			"name": "Nordwest Assekuzanzmakler GmbH & Co.KG",
-			"slug": "nordwest-assekuzanzmakler-gmbh-cokg"
 		},
 		{
 			"name": "Nordwest Zeitung, 26121 Oldenburg",
@@ -16446,6 +16494,10 @@ var searchdb = {
 			"slug": "suedzucker-ag"
 		},
 		{
+			"name": "Süwag Energie AG",
+			"slug": "suewag-energie-ag"
+		},
+		{
 			"name": "Sachiko Shioda-Krach Stipendien-Stiftung Japan",
 			"slug": "sachiko-shioda-krach-stipendien-stiftung-japan"
 		},
@@ -16508,10 +16560,6 @@ var searchdb = {
 		{
 			"name": "Sanofi Aventis",
 			"slug": "sanofi-aventis"
-		},
-		{
-			"name": "Sanofi-Aventis Deutschland GmbH",
-			"slug": "sanofi-aventis-deutschland-gmbh"
 		},
 		{
 			"name": "Santander Bank",
@@ -18094,6 +18142,10 @@ var searchdb = {
 			"slug": "stiftung-buergerengagement-saar"
 		},
 		{
+			"name": "Stiftung Bildung und Handwerk",
+			"slug": "stiftung-bildung-und-handwerk"
+		},
+		{
 			"name": "Stiftung Braunschweiger Land",
 			"slug": "stiftung-braunschweiger-land"
 		},
@@ -18204,6 +18256,10 @@ var searchdb = {
 		{
 			"name": "Stiftung Friedrichsheim",
 			"slug": "stiftung-friedrichsheim"
+		},
+		{
+			"name": "Stiftung für Technologie, Innovation und Forschung Thüringen (STIFT)",
+			"slug": "stiftung-fuer-technologie-innovation-und-forschung-thueringen-stift"
 		},
 		{
 			"name": "Stiftung Giersch",
@@ -18336,6 +18392,10 @@ var searchdb = {
 		{
 			"name": "Stiftung Urologische Forschung",
 			"slug": "stiftung-urologische-forschung"
+		},
+		{
+			"name": "Stiftung Vögele Institut",
+			"slug": "stiftung-voegele-institut"
 		},
 		{
 			"name": "Stiftung van Meeteren",
@@ -18668,6 +18728,10 @@ var searchdb = {
 		{
 			"name": "Techniker Krankenkasse, Minden, Wilhelmshaven u. Hamburg",
 			"slug": "techniker-krankenkasse-minden-wilhelmshaven-u-hamburg"
+		},
+		{
+			"name": "Technikzentrum Lübeck",
+			"slug": "technikzentrum-luebeck"
 		},
 		{
 			"name": "Technische Universität Dresden, Sektion Schulpädagogik der DGfE, Dresden",
@@ -19152,6 +19216,10 @@ var searchdb = {
 		{
 			"name": "UMS Gmbh, München",
 			"slug": "ums-gmbh-muenchen"
+		},
+		{
+			"name": "Unfallkasse Nord",
+			"slug": "unfallkasse-nord"
 		},
 		{
 			"name": "Unigesellschaft Osnabrück e.V.",
@@ -19688,6 +19756,10 @@ var searchdb = {
 		{
 			"name": "Versicherungskammer Bayern",
 			"slug": "versicherungskammer-bayern"
+		},
+		{
+			"name": "Verwaltungsberufsgenossenschaft (VBG)",
+			"slug": "verwaltungsberufsgenossenschaft-vbg"
 		},
 		{
 			"name": "Vestische Freundegesellschaft der Westfälischen Hochschule e.V.",
@@ -20290,6 +20362,10 @@ var searchdb = {
 			"slug": "welker-guenter-quarkenbrueck"
 		},
 		{
+			"name": "Welker-Stiftung",
+			"slug": "welker-stiftung"
+		},
+		{
 			"name": "Wella Stiftung",
 			"slug": "wella-stiftung"
 		},
@@ -20378,6 +20454,10 @@ var searchdb = {
 			"slug": "westdeutsche-lotterie-gmbh-co-ohg"
 		},
 		{
+			"name": "Westfälisch-Lippische Universitätsgesellschaft e.V.",
+			"slug": "westfaelisch-lippische-universitaetsgesellschaft-ev"
+		},
+		{
 			"name": "Westfalia Presstechnik GmbH & Co. KG",
 			"slug": "westfalia-presstechnik-gmbh-co-kg"
 		},
@@ -20388,10 +20468,6 @@ var searchdb = {
 		{
 			"name": "WESTFALIA-Automotive GmbH, Rheda-Wiedenbrück",
 			"slug": "westfalia-automotive-gmbh-rheda-wiedenbrueck"
-		},
-		{
-			"name": "Westf�lisch-Lippische Universit�tsgesellschaft e.V.",
-			"slug": "westflisch-lippische-universittsgesellschaft-ev"
 		},
 		{
 			"name": "WestLB",
@@ -21108,6 +21184,10 @@ var searchdb = {
 		{
 			"name": "Zwiesel Kristallglas AG",
 			"slug": "zwiesel-kristallglas-ag"
+		},
+		{
+			"name": "Schultz/Feldmann, 26409 Wittmund/ 2 x Anonym",
+			"slug": "schultzfeldmann-26409-wittmund-2-x-anonym"
 		}
 	]
 };

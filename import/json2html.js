@@ -70,8 +70,8 @@ function foerdererLookup() {
 	var foerderer = jf.readFileSync('daten/foerderer.json');
 	var foerdererLookup = {};
 	for (var i = 0, len = foerderer.length; i < len; i++) {
-		foerderer[i].Firma = beautify( foerderer[i].Name );
-		foerderer[i].Name = ''; // not used
+		foerderer[i].Firma = beautify( foerderer[i].Firma );
+		// foerderer[i].Name = ''; // not used
 		foerdererLookup[foerderer[i].Firma] = foerderer[i];
 	}
 	return foerdererLookup;
