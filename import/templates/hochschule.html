@@ -27,7 +27,19 @@
 					<tr>
 						<td>Orientierung</td>
 						<td>{{ orientierung }}</td>
+					</tr>{{ #Träger.length }}
+					<tr>
+						<td>Träger</td>
+						<td>{{ Träger }}</td>
 					</tr>
+					{{ /Träger.length }}
+					{{ #Gesellschafter.length }}
+					<tr>
+						<td>Gesellschafter</td>
+						<td>{{ Gesellschafter }}</td>
+					</tr>
+					{{ /Gesellschafter.length }}
+
 				</table>
 			</div>
 
