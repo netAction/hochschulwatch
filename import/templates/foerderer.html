@@ -16,7 +16,14 @@
 				{{ #hochschulraete }}
 				<tr>
 					<td>{{ Name }}</td>
-					<td><a href="../hochschule/{{ #Uni }}{{ slugify }}{{ /Uni }}.html">{{ Uni }}</a></td>
+					<td>
+						<a href="../hochschule/{{ #Uni }}{{ slugify }}{{ /Uni }}.html">{{ Uni }}</a>
+						{{ #Quelle.length }}
+							<a href="{{{Quelle}}}" class="pull-right">
+								<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
+							</a>
+						{{ /Quelle.length }}
+					</td>
 				</tr>
 				{{ /hochschulraete }}
 			</table>
@@ -40,6 +47,10 @@
 			{{ #Fördersumme insgesamt }}
 				<dd><em>Fördersumme insgesamt:</em> {{ Fördersumme insgesamt }}</dd>
 			{{ /Fördersumme insgesamt }}
+			{{ #Quelle.length }}
+				<dd><em>Quelle:</em> {{ Quelle }}</dd>
+			{{ /Quelle.length }}
+
 		</dl>
 		{{ /stiftungsprofessuren }}
 		{{ /stiftungsprofessuren.length }}
@@ -55,7 +66,9 @@
 					<tr>
 						<th>Hochschule</th>
 						<th class="text-right">Wert</th>
-						<th>Hinweis</th>
+						<th>
+							Hinweis
+						</th>
 					</tr>
 				</thead>
 				<tbody>
@@ -63,7 +76,14 @@
 					<tr>
 						<td><a href="../hochschule/{{ #Name }}{{ slugify }}{{ /Name }}.html">{{ Name }}</a></td>
 						<td class="text-right">{{ Wert }}</td>
-						<td>{{ Hinweis }}</td>
+						<td>
+							{{ Hinweis }}
+							{{ #Quelle.length }}
+								<a href="{{{Quelle}}}" class="pull-right">
+									<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
+								</a>
+							{{ /Quelle.length }}
+						</td>
 					</tr>
 					{{ /kooperation }}
 				</tbody>
@@ -77,7 +97,15 @@
 		<h2>Deutschlandstipendien <sup><a href="../themen/stipendien.html" class="badge">Infos</a></sup></h2>
 		<ul>
 			{{ #deutschlandstipendien }}
-			<li><a href="../hochschule/{{ #Name }}{{ slugify }}{{ /Name }}.html">{{ Name }}</a></li>
+			<li>
+				<a href="../hochschule/{{ #Name }}{{ slugify }}{{ /Name }}.html">{{ Name }}</a>
+				{{ #Quelle.length }}
+					&nbsp;
+					<a href="{{{Quelle}}}">
+						<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
+					</a>
+				{{ /Quelle.length }}
+			</li>
 			{{ /deutschlandstipendien }}
 		</ul>
 		{{ /deutschlandstipendien.length }}
@@ -106,7 +134,14 @@
 						<td>{{ Geld-/Sachspende }}</td>
 						<td>{{ Art der Leistung }}</td>
 						<td class="text-right" data-number="{{ Wert }}">{{ WertString }}</td>
-						<td>{{ Hinweis }}</td>
+						<td>
+							{{ Hinweis }}
+							{{ #Quelle.length }}
+								<a href="{{{Quelle}}}" class="pull-right">
+									<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
+								</a>
+							{{ /Quelle.length }}
+						</td>
 					</tr>
 					{{ /sponsoring }}
 				</tbody>
