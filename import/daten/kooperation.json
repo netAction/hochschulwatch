@@ -6102,11 +6102,11 @@
   {
     "uID":"1690",
     "Name":"TU Berlin",
-    "Förderer":"Volkswagen",
+    "Förderer":"Volkswagen-Stiftung",
     "Wert":"5113000",
     "Hinweis":"Sponsoring Bibliothek",
-    "Alternativname":"Volkswagen AG",
-    "Quelle":"https://pardok.parlament-berlin.de/starweb/adis/citat/VT/15/DruckSachen/d15-1800-01.pdf",
+    "Alternativname":"",
+    "Quelle":"http://pardok.parlament-berlin.de/starweb/adis/citat/VT/15/DruckSachen/d15-1800-01.pdf",
     "Quelle 2":""
   },
   {
@@ -6712,11 +6712,11 @@
   {
     "uID":"3500",
     "Name":"Universität Potsdam",
-    "Förderer":"",
+    "Förderer":"Hasso-Plattner-Institut für Softwaresystemtechnik GmbH",
     "Wert":"",
-    "Hinweis":"",
+    "Hinweis":"Kooperationsvertrag",
     "Alternativname":"",
-    "Quelle":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/kooperationsvertrag-mit-dem-hasso-plattner-institut/",
     "Quelle 2":""
   },
   {
@@ -7018,6 +7018,456 @@
     "Alternativname":"",
     "Quelle":"http://www.eurawasser-nord.de/geschaeftskunden/sonderseiten/presse/pressemitteilungen/einzelmeldung/archive/2004/march/article/statement-der-eurawasser-nord-gmbh-zur-kooperation-mit-der-universitaet-rostock/",
     "Quelle 2":"https://www.rostock-heute.de/eurawasser-nord-stiftungsprofessur-wasserwirtschaft-uni-rostock/22595"
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"50Hertz Transmission GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"ABB",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Airbus Group",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Berlin Heart GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Bosch",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"British American Tobacco Ltd.",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Bundeswehr/Wehrtechn. Dienststelle für Schiffe u. Marinewaffen",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Cremer Oleochemicals",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Dataport",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"DBFZ gGmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Deutsche Bundesstiftung Umwelt",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Deutsche Krebshilfe",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Deutsch-Polnische Wissenschaftsstiftung",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Diehl",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"Diehl Aerospace GmbH",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"DOT GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"e.n.o. energy systems GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Evonik",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"Evonik Industries AG",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Forschungskuratorium Maschinenbau e.V. (FKM e.V.)",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Forschungsstiftung Ostsee",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"ThyssenKrupp",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":"Fritz Thyssen Stiftung"
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Helmholtz Zentrum München",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"HERO Hafen-Entwicklungsgesellschaft Rostock GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"IAV GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Infineon Technologies AG",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Ing.büro Biesenbruch/DAT Bergbautechnik GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"IS Forschungsgesellschaft mbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"ISF GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"K.H. Brinkmann GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Karl-Vossloh-Stiftung",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"King Abdulaziz University Saudi Arabien",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"KSB-Stiftung",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"LONZA AG",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"MPI für Plasmaphysik",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Novelis Switzerland SA",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"PLANET intelligent systems GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"SASOL Germany GmbH ",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Siemens",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"SIV AG",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Spheros GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Sterling Industry Consult GmbH",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Vattenfall",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"VGB Forschungsstiftung",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"Volkswagen-Stiftung",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"WILO",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
+  },
+  {
+    "uID":"261",
+    "Name":"Universität Rostock (ohne Klinikum)",
+    "Förderer":"ZF Friedrichshafen",
+    "Wert":"mehr als 50000",
+    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
+    "Alternativname":"",
+    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
+    "Quelle 2":""
   },
   {
     "uID":"262",
