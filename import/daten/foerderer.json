@@ -3552,7 +3552,7 @@
     "Text":""
   },
   {
-    "Firma":"Deutscher Verband fu?r Schweißen und verwandte Verfahren e.V. ",
+    "Firma":"Deutscher Verband für Schweißen und verwandte Verfahren e.V. ",
     "Text":""
   },
   {
@@ -9440,7 +9440,7 @@
     "Text":""
   },
   {
-    "Firma":"Kaschke Components GmbH, Go?ttingen ",
+    "Firma":"Kaschke Components GmbH, Göttingen ",
     "Text":""
   },
   {
@@ -19016,7 +19016,7 @@
     "Text":""
   },
   {
-    "Firma":"Bundeswehr/Wehrtechn. Dienststelle f�r Schiffe u. Marinewaffen",
+    "Firma":"Bundeswehr/Wehrtechn. Dienststelle für Schiffe u. Marinewaffen",
     "Text":""
   },
   {
@@ -19101,6 +19101,14 @@
   },
   {
     "Firma":"VGB Forschungsstiftung",
+    "Text":""
+  },
+  {
+    "Firma":"Hasso-Plattner-Institut für Softwaresystemtechnik GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Fördererkreis der HBK ",
     "Text":""
   }
 ]
