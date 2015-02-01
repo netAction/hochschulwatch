@@ -508,8 +508,8 @@
     "Uni":"Universität Göttingen (ohne Klinikum)",
     "Name":"Dr. Wilhelm Krull",
     "Funktion":"",
-    "Unternehmen":"Volkswagen",
-    "Alternativname":"VolkswagenStiftung",
+    "Unternehmen":"Volkswagen-Stiftung",
+    "Alternativname":"",
     "Quelle":"https://www.uni-goettingen.de/de/11349.html"
   },
   {
@@ -2068,60 +2068,6 @@
     "Unternehmen":"N-ERGIE AG",
     "Alternativname":"",
     "Quelle":"http://www.th-nuernberg.de/seitenbaum/hochschule/leitung-und-organisation/gremien/hochschulrat/page.html"
-  },
-  {
-    "Bundesland":"Bayern",
-    "Uni":"TU München (ohne Klinikum)",
-    "Name":"Susanne Klatten",
-    "Funktion":"",
-    "Unternehmen":"BMW",
-    "Alternativname":"",
-    "Quelle":"https://portal.mytum.de/tum/gremien/hochschulrat/index_html"
-  },
-  {
-    "Bundesland":"Bayern",
-    "Uni":"TU München (ohne Klinikum)",
-    "Name":"Susanne Klatten",
-    "Funktion":"",
-    "Unternehmen":"SGL Carbon GmbH",
-    "Alternativname":"",
-    "Quelle":"https://portal.mytum.de/tum/gremien/hochschulrat/index_html"
-  },
-  {
-    "Bundesland":"Bayern",
-    "Uni":"TU München (ohne Klinikum)",
-    "Name":"Susanne Klatten",
-    "Funktion":"",
-    "Unternehmen":"Altana AG",
-    "Alternativname":"",
-    "Quelle":"https://portal.mytum.de/tum/gremien/hochschulrat/index_html"
-  },
-  {
-    "Bundesland":"Bayern",
-    "Uni":"TU München (ohne Klinikum)",
-    "Name":"Dr. Nicola Leibinger-Kammüller",
-    "Funktion":"",
-    "Unternehmen":"Trumpf",
-    "Alternativname":"",
-    "Quelle":"https://portal.mytum.de/tum/gremien/hochschulrat/index_html"
-  },
-  {
-    "Bundesland":"Bayern",
-    "Uni":"TU München (ohne Klinikum)",
-    "Name":"Peter Löscher",
-    "Funktion":"",
-    "Unternehmen":"Siemens",
-    "Alternativname":"",
-    "Quelle":"https://portal.mytum.de/tum/gremien/hochschulrat/index_html"
-  },
-  {
-    "Bundesland":"Bayern",
-    "Uni":"TU München (ohne Klinikum)",
-    "Name":"Dr.-Ing. Dr.-Ing. E.h. Norbert Reithofer",
-    "Funktion":"",
-    "Unternehmen":"BMW",
-    "Alternativname":"",
-    "Quelle":"https://portal.mytum.de/tum/gremien/hochschulrat/index_html"
   },
   {
     "Bundesland":"Bayern",
