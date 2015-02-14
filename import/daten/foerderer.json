@@ -3984,10 +3984,6 @@
     "Text":""
   },
   {
-    "Firma":"Dr. Hans-Peter Hamm, Osnabrück",
-    "Text":""
-  },
-  {
     "Firma":"Dr. Harro + Marianne Lührmann",
     "Text":""
   },
@@ -12792,6 +12788,10 @@
     "Text":""
   },
   {
+    "Firma":"Peter Lürßen",
+    "Text":""
+  },
+  {
     "Firma":"Peter Löscher",
     "Text":""
   },
@@ -13580,7 +13580,7 @@
     "Text":""
   },
   {
-    "Firma":"Randstad Deutschland GmbH & Co. KG, Eschborn",
+    "Firma":"randstad",
     "Text":"randstad stiftung"
   },
   {
@@ -19589,6 +19589,10 @@
   },
   {
     "Firma":"Ilse und Dr. Horst Rusch Stiftung",
+    "Text":""
+  },
+  {
+    "Firma":"Stiftelsen Riksbankens Jubileumsfond",
     "Text":""
   }
 ]
