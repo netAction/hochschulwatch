@@ -132,7 +132,7 @@ uID;Name;Firma;Alternativname;Quelle
 520;Universität Oldenburg;Lionsclub Willa Thorade;;http://www.uni-oldenburg.de/deutschlandstipendium/foerderer/
 520;Universität Oldenburg;Ludwig Weinrich GmbH & Co. KG;;http://www.uni-oldenburg.de/deutschlandstipendium/foerderer/
 520;Universität Oldenburg;Johanna Martens;;http://www.uni-oldenburg.de/deutschlandstipendium/foerderer/
-520;Universität Oldenburg;Prof. Dr. Jürgen Martens;;http://www.uni-oldenburg.de/deutschlandstipendium/foerderer/
+520;Universität Oldenburg;Martens, Jürgen;;http://www.uni-oldenburg.de/deutschlandstipendium/foerderer/
 520;Universität Oldenburg;MLP AG;;http://www.uni-oldenburg.de/deutschlandstipendium/foerderer/
 520;Universität Oldenburg;Oticon A/S;;http://www.uni-oldenburg.de/deutschlandstipendium/foerderer/
 520;Universität Oldenburg;Phonak AG;;http://www.uni-oldenburg.de/deutschlandstipendium/foerderer/
@@ -772,7 +772,7 @@ uID;Name;Firma;Alternativname;Quelle
 81;Universität Duisburg-Essen (ohne Klinikum);Fasselt-Stiftung;;https://www.uni-due.de/de/marketing/hochschulfoerderung.php
 81;Universität Duisburg-Essen (ohne Klinikum);Franz HANIEL & Cie. GmbH;;https://www.uni-due.de/de/marketing/hochschulfoerderung.php
 81;Universität Duisburg-Essen (ohne Klinikum);Franz-W. Aumund-Stiftung;;https://www.uni-due.de/de/marketing/hochschulfoerderung.php
-81;Universität Duisburg-Essen (ohne Klinikum);Gemeinnützige Hertie-Stiftung;;https://www.uni-due.de/de/marketing/hochschulfoerderung.php
+81;Universität Duisburg-Essen (ohne Klinikum);Hertie-Stiftung;;https://www.uni-due.de/de/marketing/hochschulfoerderung.php
 81;Universität Duisburg-Essen (ohne Klinikum);Geno Bank Essen eG;;https://www.uni-due.de/de/marketing/hochschulfoerderung.php
 81;Universität Duisburg-Essen (ohne Klinikum);GFF e.V., GFOS mbH;;https://www.uni-due.de/de/marketing/hochschulfoerderung.php
 81;Universität Duisburg-Essen (ohne Klinikum);Grillo-Werke AG;;https://www.uni-due.de/de/marketing/hochschulfoerderung.php
@@ -906,7 +906,7 @@ uID;Name;Firma;Alternativname;Quelle
 121;Universität Paderborn;Phoenix Contact;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;POS Tuning GmbH & Co. KG, Bad Salzuflen;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Projektplan Venture Consult GmbH, Osnabrück;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
-121;Universität Paderborn;Randstad Deutschland GmbH & Co. KG, Eschborn;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
+121;Universität Paderborn;randstad;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Reply Deutschland GmbH & Co. KG, Gütersloh;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;resolto Informatik GmbH, Herford;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;ROSE Systemtechnik GmbH, Porta Westfalica;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
@@ -1037,7 +1037,7 @@ uID;Name;Firma;Alternativname;Quelle
 1081;Ruhr-Universität Bochum (ohne Klinikum);Ferchau Engineering ;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
 1081;Ruhr-Universität Bochum (ohne Klinikum);Forschungsgesellschaft KIB;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
 1081;Ruhr-Universität Bochum (ohne Klinikum);Gebr. Eickhoff Maschinenfabrik und Eisengießerei GmbH;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
-1081;Ruhr-Universität Bochum (ohne Klinikum);Gemeinnützige Hertie-Stiftung;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
+1081;Ruhr-Universität Bochum (ohne Klinikum);Hertie-Stiftung;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
 1081;Ruhr-Universität Bochum (ohne Klinikum);Gesellschaft zur Förderung der Katholisch-Theologischen Fakultät der RUB e.V.;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
 1081;Ruhr-Universität Bochum (ohne Klinikum);Geugelin, Arne;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
 1081;Ruhr-Universität Bochum (ohne Klinikum);Halfen GmbH;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
@@ -1608,7 +1608,7 @@ uID;Name;Firma;Alternativname;Quelle
 1161;Universität Frankfurt a.M. (ohne Klinikum);Sparkasse Hanau;;http://www.deutschland-stipendium.uni-frankfurt.de/38986727/Foerderprogramm?
 1161;Universität Frankfurt a.M. (ohne Klinikum);Stadt Bad Homburg;;http://www.deutschland-stipendium.uni-frankfurt.de/38986727/Foerderprogramm?
 1161;Universität Frankfurt a.M. (ohne Klinikum);Stadtwerke Bad Homburg;;http://www.deutschland-stipendium.uni-frankfurt.de/38986727/Foerderprogramm?
-1161;Universität Frankfurt a.M. (ohne Klinikum);Stiftung Giersch;;http://www.deutschland-stipendium.uni-frankfurt.de/38986727/Foerderprogramm?
+1161;Universität Frankfurt a.M. (ohne Klinikum);Carlo und Karin Giersch-Stiftung;;http://www.deutschland-stipendium.uni-frankfurt.de/38986727/Foerderprogramm?
 1161;Universität Frankfurt a.M. (ohne Klinikum);Stolleis-Stipendienfonds;;http://www.deutschland-stipendium.uni-frankfurt.de/38986727/Foerderprogramm?
 1161;Universität Frankfurt a.M. (ohne Klinikum);Union Investment Stiftung;;http://www.deutschland-stipendium.uni-frankfurt.de/38986727/Foerderprogramm?
 1161;Universität Frankfurt a.M. (ohne Klinikum);VivaKi;;http://www.deutschland-stipendium.uni-frankfurt.de/38986727/Foerderprogramm?
