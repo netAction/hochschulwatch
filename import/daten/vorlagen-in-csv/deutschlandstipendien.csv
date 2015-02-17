@@ -3,7 +3,7 @@ uID;Name;Firma;Alternativname;Quelle
 1001;Universität Kiel;Schmidt & Hoffmann GmbH;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
 1001;Universität Kiel;Wind Energie Anlagen GmbH ;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
 1001;Universität Kiel;Hugendubel;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
-1001;Universität Kiel;ZöLLNER Holding GmbH;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
+1001;Universität Kiel;ZÖLLNER Holding GmbH;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
 1001;Universität Kiel;Murmann Verlagsgruppe;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
 1001;Universität Kiel;CITTI Handelsgesellschaft ;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
 1001;Universität Kiel;Vater Holding GmbH ;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
@@ -28,7 +28,7 @@ uID;Name;Firma;Alternativname;Quelle
 5030;FH Lübeck;Possehl-Stiftung;;http://www.fh-luebeck.de/Inhalt/01_Studieninteressierte_Ch011/Deutschlandstipendium/index.html
 5030;FH Lübeck;Tate & Lyle;;http://www.fh-luebeck.de/Inhalt/01_Studieninteressierte_Ch011/Deutschlandstipendium/index.html
 5030;FH Lübeck;Buhck Umweltservices GmbH;;http://www.fh-luebeck.de/Inhalt/01_Studieninteressierte_Ch011/Deutschlandstipendium/index.html
-5090;FH Westküste, Heide;Alfaref GmbHBroschüre;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
+5090;FH Westküste, Heide;Alfaref GmbH;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
 5090;FH Westküste, Heide;Brunsbüttel Ports GmbH;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
 5090;FH Westküste, Heide;Deutsche Telekom;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
 5090;FH Westküste, Heide;Ferchau Engineering ;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
@@ -501,7 +501,7 @@ uID;Name;Firma;Alternativname;Quelle
 1050;Universität Bremen;Dhem, Maike ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Distrelec Schuricht GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Dittmer, Jan Christian;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Dracklé, Prof. Dr. Dorle;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;DracklÃ©, Prof. Dr. Dorle;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Drechsler, Prof. Dr. Rolf;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Drewes, Robert;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Drewke, Roger D.;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
@@ -1124,7 +1124,7 @@ uID;Name;Firma;Alternativname;Quelle
 1111;Universität zu Köln (ohne Klinikum);Opel;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Ampega Investment GmbH;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Arendt & Medernach;;http://www.portal.uni-koeln.de/3651.html
-1111;Universität zu Köln (ohne Klinikum);A.S. Création Tapetenstiftung;;http://www.portal.uni-koeln.de/3651.html
+1111;Universität zu Köln (ohne Klinikum);A.S. CrÃ©ation Tapetenstiftung;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Association des Juristes Paris-Cologne;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);BNP PARIBAS LEASE GROUP S.A.;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Boehringer Ingelheim;;http://www.portal.uni-koeln.de/3651.html
@@ -1175,7 +1175,7 @@ uID;Name;Firma;Alternativname;Quelle
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Commerzbank;;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);CURACON GmbH;;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Currenta GmbH & Co. OHG;;http://www.uni-muenster.de/protalent/index.html
-1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Deutsche Apotheker- und ärztebank;;http://www.uni-muenster.de/protalent/index.html
+1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Deutsche Apotheker- und Ärztebank;;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Deutsche Bundesbank;;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Deutsche Telekom;Deutsche Telekom AG;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);DMI GmbH & Co. KG;;http://www.uni-muenster.de/protalent/index.html
@@ -1190,7 +1190,7 @@ uID;Name;Firma;Alternativname;Quelle
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Gilhaus Eventmarketing GmbH;;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Henkel;;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Herber & Petzel GmbH & Co. KG;;http://www.uni-muenster.de/protalent/index.html
-1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Horváth & Partner GmbH;;http://www.uni-muenster.de/protalent/index.html
+1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);HorvÃ¡th & Partner GmbH;;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);I-Advise AG Wirtschaftsprüfungsgesellschaft;;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Ingenieurbüro Nordhorn;;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Janinhoff GmbH & Co KG;;http://www.uni-muenster.de/protalent/index.html
@@ -1273,7 +1273,7 @@ uID;Name;Firma;Alternativname;Quelle
 6410;Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH);REWE Group;;http://www.eufh.de/chancen-und-vorteile/stipendien-finanzierung.html
 6410;Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH);Richartz;;http://www.eufh.de/chancen-und-vorteile/stipendien-finanzierung.html
 6410;Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH);Senioren Wohnheim Brühl gGmbH;;http://www.eufh.de/chancen-und-vorteile/stipendien-finanzierung.html
-8100;Priv. FH für �-konomie und Management Essen;;;
+8100;Priv. FH für Ã-konomie und Management Essen;;;
 3050;FH Westliches Ruhrgebiet;;;
 3060;Hochschule Rhein-Waal;;;
 3070;Hochschule Hamm-Lippstadt;;;
@@ -1872,7 +1872,7 @@ uID;Name;Firma;Alternativname;Quelle
 1800;Universität Hohenheim;Gips-Schüle-Stiftung;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
 1800;Universität Hohenheim;Horsch;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
 1800;Universität Hohenheim;Krone;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
-1800;Universität Hohenheim;Nestlé;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
+1800;Universität Hohenheim;NestlÃ©;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
 1800;Universität Hohenheim;Rauch;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
 1800;Universität Hohenheim;Edmund Rehwinkel-Stiftung;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
 1800;Universität Hohenheim;Porsche;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
@@ -2343,7 +2343,7 @@ uID;Name;Firma;Alternativname;Quelle
 30;Macromedia FH der Medien, München (Priv. FH);Otto Gruppe;;http://www.macromedia-fachhochschule.de/studienberatung/stipendien/deutschlandstipendium.html
 30;Macromedia FH der Medien, München (Priv. FH);AVANCE Gesellschaft für Marketing und Vertrieb mbH;;http://www.macromedia-fachhochschule.de/studienberatung/stipendien/deutschlandstipendium.html
 30;Macromedia FH der Medien, München (Priv. FH);HAVAS PR;;http://www.macromedia-fachhochschule.de/studienberatung/stipendien/deutschlandstipendium.html
-720;Hochschule für Angewandte Sprachen – Fachhochschule des SDI München;;;
+720;Hochschule für Angewandte Sprachen â€“ Fachhochschule des SDI München;;;
 5000;Hochschule für angewandte Wissenschaften Bamberg - Private Hochschule für Gesundheit (Priv. FH);;;
 6284;Hochschule Fresenius Idstein in München (Priv. FH);;;
 6680;Hochschule für angewandtes Management;;;
@@ -2636,7 +2636,7 @@ uID;Name;Firma;Alternativname;Quelle
 180;Charite - Universitätsmedizin Berlin;The Boston Consulting Group GmbH;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 180;Charite - Universitätsmedizin Berlin;Cytolon AG;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 180;Charite - Universitätsmedizin Berlin;Karl Storz GmbH;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
-180;Charite - Universitätsmedizin Berlin;Marburger Bund Bundesverband - Verband der angestellten und beamteten ärztinnen und ärzte Deutschlands e.V.;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
+180;Charite - Universitätsmedizin Berlin;Marburger Bund Bundesverband - Verband der angestellten und beamteten Ärztinnen und Ärzte Deutschlands e.V.;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 180;Charite - Universitätsmedizin Berlin;MEYER-KöRING Rechtsanwälte Steuerberater Partnerschaft ;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 180;Charite - Universitätsmedizin Berlin;Bayer;Schering Stiftung ;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 180;Charite - Universitätsmedizin Berlin;Novartis;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
@@ -2824,7 +2824,7 @@ uID;Name;Firma;Alternativname;Quelle
 271;Universität Greifswald (ohne Klinikum);Apothekerkammer Mecklenburg-Vorpommern;;http://www.uni-greifswald.de/foerdern/deutschland-stipendium/deutschland-stipendium/foerderer-des-deutschland-stipendiums.html
 272;Medizinische Fakultät Greifswald;;;
 3030;Hochschule für Musik und Theater, Rostock;;;
-7980;Baltic College – FHM Schwerin;;;
+7980;Baltic College â€“ FHM Schwerin;;;
 7780;Hochschule Neubrandenburg;Alfried Krupp von Bohlen und Halbach-Stiftung;;http://www.hs-nb.de/stipendien-hs-nb/foerderer/
 7780;Hochschule Neubrandenburg;Sparkasse Neubrandenburg-Demmin;;http://www.hs-nb.de/stipendien-hs-nb/foerderer/
 7780;Hochschule Neubrandenburg;NEUWOBA Neubrandenburger Wohnungsbaugenossenschaft eG;;http://www.hs-nb.de/stipendien-hs-nb/foerderer/
@@ -2923,7 +2923,7 @@ uID;Name;Firma;Alternativname;Quelle
 361;Universität Leipzig (ohne Klinikum);Concordia-Apotheke Plauen;;http://www.zv.uni-leipzig.de/universitaet/informationen-fuer-foerderer/deutschlandstipendium.html
 361;Universität Leipzig (ohne Klinikum);Creoven.de;;http://www.zv.uni-leipzig.de/universitaet/informationen-fuer-foerderer/deutschlandstipendium.html
 361;Universität Leipzig (ohne Klinikum);Datenlotsen Informationssysteme GmbH;;http://www.zv.uni-leipzig.de/universitaet/informationen-fuer-foerderer/deutschlandstipendium.html
-361;Universität Leipzig (ohne Klinikum);Deutsche Apotheker- und ärztebank;;http://www.zv.uni-leipzig.de/universitaet/informationen-fuer-foerderer/deutschlandstipendium.html
+361;Universität Leipzig (ohne Klinikum);Deutsche Apotheker- und Ärztebank;;http://www.zv.uni-leipzig.de/universitaet/informationen-fuer-foerderer/deutschlandstipendium.html
 361;Universität Leipzig (ohne Klinikum);Die Engel Apotheke, Gisa Wolff;;http://www.zv.uni-leipzig.de/universitaet/informationen-fuer-foerderer/deutschlandstipendium.html
 361;Universität Leipzig (ohne Klinikum);Deutsche Kreditbank;;http://www.zv.uni-leipzig.de/universitaet/informationen-fuer-foerderer/deutschlandstipendium.html
 361;Universität Leipzig (ohne Klinikum);Ev. Diakonissenkrankenhaus Leipzig;;http://www.zv.uni-leipzig.de/universitaet/informationen-fuer-foerderer/deutschlandstipendium.html
