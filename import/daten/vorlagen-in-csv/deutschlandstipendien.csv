@@ -1,13 +1,13 @@
 uID;Name;Firma;Alternativname;Quelle
 950;Universitätsklinikum Schleswig-Holstein;;;
 1001;Universität Kiel;Schmidt & Hoffmann GmbH;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
-1001;Universität Kiel;Wind Energie Anlagen GmbH ;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
+1001;Universität Kiel;Wind Energie Anlagen GmbH;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
 1001;Universität Kiel;Hugendubel;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
 1001;Universität Kiel;ZÖLLNER Holding GmbH;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
 1001;Universität Kiel;Murmann Verlagsgruppe;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
-1001;Universität Kiel;CITTI Handelsgesellschaft ;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
-1001;Universität Kiel;Vater Holding GmbH ;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
-1001;Universität Kiel;Investitionsbank Schleswig-Holstein ;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
+1001;Universität Kiel;CITTI Handelsgesellschaft;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
+1001;Universität Kiel;Vater Holding GmbH;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
+1001;Universität Kiel;Investitionsbank Schleswig-Holstein;;http://www.uni-kiel.de/foerderer/stipendien/de-stip-geber.shtml
 1011;Universität Lübeck;;;
 3100;Universität Flensburg;;;
 2590;Musikhochschule Lübeck;;;
@@ -31,12 +31,12 @@ uID;Name;Firma;Alternativname;Quelle
 5090;FH Westküste, Heide;Alfaref GmbH;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
 5090;FH Westküste, Heide;Brunsbüttel Ports GmbH;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
 5090;FH Westküste, Heide;Deutsche Telekom;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
-5090;FH Westküste, Heide;Ferchau Engineering ;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
+5090;FH Westküste, Heide;Ferchau Engineering;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
 5090;FH Westküste, Heide;Förderforum Fachhochschule Westküste e.V.;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
 5090;FH Westküste, Heide;JessenLenz GmbH;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
 5090;FH Westküste, Heide;Kernkraftwerk Brokdorf GmbH;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
 5090;FH Westküste, Heide;Lions-Club Dithmarschen;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
-5090;FH Westküste, Heide;SASOL Germany GmbH ;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
+5090;FH Westküste, Heide;SASOL Germany GmbH;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
 5090;FH Westküste, Heide;TOTAL;;http://www.fh-westkueste.de/studieninteressierte/finanzierung/deutschlandstipendium/foerderer/
 5060;FH für Verwaltung und Dienstleistung Altenholz;;;
 1060;Bucerius Law School Hamburg (Priv. H);;;
@@ -178,7 +178,7 @@ uID;Name;Firma;Alternativname;Quelle
 1430;TU Braunschweig;Miele & Cie. KG;;https://www.tu-braunschweig.de/stipendien/deutschlandstipendien/foerderer
 1430;TU Braunschweig;Prof. em. Dr.-Ing. Heinz Duddeck;;https://www.tu-braunschweig.de/stipendien/deutschlandstipendien/foerderer
 1430;TU Braunschweig;IHK Braunschweig;;https://www.tu-braunschweig.de/stipendien/deutschlandstipendien/foerderer
-1430;TU Braunschweig;Ferchau Engineering ;;https://www.tu-braunschweig.de/stipendien/deutschlandstipendien/foerderer
+1430;TU Braunschweig;Ferchau Engineering;;https://www.tu-braunschweig.de/stipendien/deutschlandstipendien/foerderer
 1430;TU Braunschweig;Ed. Züblin AG;;https://www.tu-braunschweig.de/stipendien/deutschlandstipendien/foerderer
 1430;TU Braunschweig;Lufthansa;Lufthansa Technik AG;https://www.tu-braunschweig.de/stipendien/deutschlandstipendien/foerderer
 1430;TU Braunschweig;Cray-Stiftung;;https://www.tu-braunschweig.de/stipendien/deutschlandstipendien/foerderer
@@ -211,7 +211,7 @@ uID;Name;Firma;Alternativname;Quelle
 1450;Universität Hannover;Herr Dipl.-Ing. Horst Engelhardt;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;E.ON;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;Exxonmobil;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
-1450;Universität Hannover;Ferchau Engineering ;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
+1450;Universität Hannover;Ferchau Engineering;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;Freundeskreis der Leibniz Universität Hannover e.V.;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;Gebrüder Heyl Analysentechnik GmbH & Co. KG;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;Harting;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
@@ -244,7 +244,7 @@ uID;Name;Firma;Alternativname;Quelle
 1450;Universität Hannover;Talanx AG;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;Herr Frank Thiele;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;Transnorm System GmbH;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
-1450;Universität Hannover;TüV Nord AG;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
+1450;Universität Hannover;TÜV Nord AG;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;Unternehmerverbände Niedersachsen e.V.;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;VGH Versicherungen;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;VHV Holding AG;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
@@ -252,7 +252,7 @@ uID;Name;Firma;Alternativname;Quelle
 1450;Universität Hannover;Frau Prof. Dr.-Ing. Gabriele von Voigt;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;Volkswagen;Volkswagen AG, Marke Nutzfahrzeuge;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1450;Universität Hannover;Herr Frank Wegner;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
-1450;Universität Hannover;Weidemann-Stiftung ;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
+1450;Universität Hannover;Weidemann-Stiftung;;http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/
 1740;Tierärztliche Hochschule Hannover;aniMedica GmbH;;http://www.tiho-hannover.de/de/universitaet/freunde-und-foerderer/ihre-foerdermoeglichkeiten/deutschlandstipendium/
 1740;Tierärztliche Hochschule Hannover;Bayer;Bayer-Stiftungen;http://www.tiho-hannover.de/de/universitaet/freunde-und-foerderer/ihre-foerdermoeglichkeiten/deutschlandstipendium/
 1740;Tierärztliche Hochschule Hannover;bela-pharm GmbH & Co. KG;;http://www.tiho-hannover.de/de/universitaet/freunde-und-foerderer/ihre-foerdermoeglichkeiten/deutschlandstipendium/
@@ -340,7 +340,7 @@ uID;Name;Firma;Alternativname;Quelle
 5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Siemens;Siemens AG - Industry Sector;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
 5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Sparda Bank, Hannover;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
 5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Sport-Thieme GmbH;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
-5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Stadtbetriebe Wolfenbüttel GmbH ;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
+5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Stadtbetriebe Wolfenbüttel GmbH;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
 5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Stadtwerke Wolfenbüttel GmbH;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
 5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Städtisches Klinikum Wolfenbüttel gGmbH;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
 5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Stiftung Förderung praxisorientierter Arbeiten von Kunststoffverarbeitung und Recycling - Dr. Berger;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
@@ -351,7 +351,7 @@ uID;Name;Firma;Alternativname;Quelle
 5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Volkswagen;Volkswagen Financial Services AG;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
 5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);WEVG Salzgitter GmbH & Co. KG;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
 5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Wohnungsbaugesellschaft mbH Salzgitter & WBV Wohnbau;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
-5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Betreuungs& Verwaltungs Gmbh Salzgitter;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
+5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Betreuungs& Verwaltungs GmbH Salzgitter;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
 5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Wolfenbütteler Baugesellschaft mbH;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
 5310;Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH);Wolfsburg AG;;http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html
 5330;Hochschule Hannover (FH);;;
@@ -420,7 +420,7 @@ uID;Name;Firma;Alternativname;Quelle
 5500;Hochschule Osnabrück (FH);inpraxi Unternehmensberatung GmbH & Co. KG;;http://www.hs-osnabrueck.de/45048.html
 5500;Hochschule Osnabrück (FH);ISP Salzbergen GmbH & Co. KG;;http://www.hs-osnabrueck.de/45048.html
 5500;Hochschule Osnabrück (FH);JKL Junker + Kollegen Landschaftsarchitektur BDLA;;http://www.hs-osnabrueck.de/45048.html
-5500;Hochschule Osnabrück (FH);KäMMERER GmbH;;http://www.hs-osnabrueck.de/45048.html
+5500;Hochschule Osnabrück (FH);KÄMMERER GmbH;;http://www.hs-osnabrueck.de/45048.html
 5500;Hochschule Osnabrück (FH);Kesseböhmer Beschlagsysteme GmbH & Co. KG;;http://www.hs-osnabrueck.de/45048.html
 5500;Hochschule Osnabrück (FH);Klasmann-Deilmann GmbH;;http://www.hs-osnabrueck.de/45048.html
 5500;Hochschule Osnabrück (FH);Lintker Unternehmensgruppe Osnabrück;;http://www.hs-osnabrueck.de/45048.html
@@ -466,16 +466,16 @@ uID;Name;Firma;Alternativname;Quelle
 1050;Universität Bremen;Alumni Förderfonds;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Antoni, Jörg;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;AOK;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Benthe, Karen Kerstin ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Benthe, Karen Kerstin;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Bouwer, Günter;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;BREBAU GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Breckling, Prof. Broder;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;BREKOM GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Bremer Landesbank;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Bremer Umweltinstitut GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Briskorn, Bettina von ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Broszio, Jan Markus ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Brucks, Antje ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Briskorn, Bettina von;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Broszio, Jan Markus;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Brucks, Antje;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Bruker Daltonik GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Brunel;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Bruns, Jens;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
@@ -493,15 +493,15 @@ uID;Name;Firma;Alternativname;Quelle
 1050;Universität Bremen;Conrad, Jörg Carsten;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Conrad Naber Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;construktiv GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;CONTACT Software GmbH ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Dahme, Hans-Jürgen ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;CONTACT Software GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Dahme, Hans-Jürgen;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Damasko Metallverarbeitung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Dericioglu, Petra;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Deutsche Telekom;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Dhem, Maike ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Dhem, Maike;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Distrelec Schuricht GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Dittmer, Jan Christian;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;DracklÃ©, Prof. Dr. Dorle;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Dracklé, Prof. Dr. Dorle;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Drechsler, Prof. Dr. Rolf;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Drewes, Robert;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Drewke, Roger D.;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
@@ -519,7 +519,7 @@ uID;Name;Firma;Alternativname;Quelle
 1050;Universität Bremen;Enova Energieanlagen GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Ernst A. C. Lange-Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Europa-Center Uwe Heinrich Suhr Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Ferchau Engineering ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Ferchau Engineering;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Fliege, Ilse;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Fluö, Sen. a.D. Manfred;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Fokken, Jürgen;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
@@ -531,17 +531,17 @@ uID;Name;Firma;Alternativname;Quelle
 1050;Universität Bremen;Gasconsult International Europe GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;GeoMark Research, Ltd;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;GEOS4;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Geraedts, Regine ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Geraedts, Regine;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Gerda-Weöler-Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Gesellschaft der Freunde der Universität Bremen und der Jacobs University;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;GESTRA AG;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Geuther, Dr. Ralph;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Glawon, Maike Deandra ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Götschmann, Dr. Norbert ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Gottschewsky, Martin ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Gröh, Walter ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Glawon, Maike Deandra;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Götschmann, Dr. Norbert;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Gottschewsky, Martin;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Gröh, Walter;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Grosse, Frank;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;GUT FüR BREMEN Stiftung der Sparkasse in Bremen;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;GUT FÜR BREMEN Stiftung der Sparkasse in Bremen;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Haas, Dr. Eberhard;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Hachenburg Lichtreklame;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Haedge, F.;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
@@ -558,31 +558,31 @@ uID;Name;Firma;Alternativname;Quelle
 1050;Universität Bremen;Heinz Peter und Annelotte Koch-Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Hegemann, Detlef;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Hella;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Henry Lamotte Food GmbH ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Henry Lamotte Food GmbH ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Henry Lamotte Food GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Henry Lamotte Food GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Hickel, Prof. Dr. Rudolf;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Hilbig, Dr. Winfried ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Hilbig, Dr. Winfried;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;hkk - Erste Gesundheit;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;hmmh multimediahaus AG;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Hollweg, Kai-Uwe;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Horster, Hermann ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Horster, Hermann;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;i2b - idea 2 business GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;IES Integrated Exoploration Systems;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;INDICOSOLUTIONS GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;International Campus AG;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;IPSEN LOGISTICS GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Janetzki, Hans-Ulrich;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Jäschke, Michael ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Jäschke, Michael;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Just, Christian;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Justus Grosse GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;KAEFER Isoliertechnik GmbH & Co. KG;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Kaemena, Dr. Bettina;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Kählig Antriebstechnik GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Kalkus, Horst;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Kellermann, Andreas ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Kellner & Stoll STIFTUNG FüR KLIMA UND UMWELT;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Kellermann, Andreas;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Kellner & Stoll STIFTUNG FÜR KLIMA UND UMWELT;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Kieserling-Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Kirchhoff, Jürgen ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Kirchhoff, Jürgen;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Kliemann, Prof. Dr. Wolfgang;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Kloft, Prof. Dr. Hans;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Knychala, Sven;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
@@ -592,17 +592,17 @@ uID;Name;Firma;Alternativname;Quelle
 1050;Universität Bremen;Kopf, Prof. Dr. Achim;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;KPMG;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Kramer, Ingo;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Kriwat, Klaus ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Kriwat, Klaus;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;KSB-Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Kück, Monika und Gerd-Rüdiger;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Kütter, Reinhard R.;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Lange, Carolin ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Lange, Carolin;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;LDW Lloyd Dynamowerke GmbH & Co. KG;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Leucht, Dr. Thomas;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Lienstädt, Bernd ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Lienstädt, Bernd;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Lindemann, Irma;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Luers Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Lückemeyer, Jörg ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Lückemeyer, Jörg;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Lüers, Jan;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Lüröen, Friedrich;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Manasse, Uwe;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
@@ -613,8 +613,8 @@ uID;Name;Firma;Alternativname;Quelle
 1050;Universität Bremen;Munzinger-Mohsenzadeh, Heike;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Müller-Leiendecker, Klaus;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Müller, Prof. Dr. Wilfried;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Narumiya, Generalkonsul Seisuke ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Nellen-Brand, Bianca ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Narumiya, Generalkonsul Seisuke;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Nellen-Brand, Bianca;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;neusta GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;New Horizons Bremen;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;NH IT Schulung GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
@@ -622,11 +622,11 @@ uID;Name;Firma;Alternativname;Quelle
 1050;Universität Bremen;NuVasive Europe GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;OSB AG;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Osmers, Sabine;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Otten-Aminger, Elisabeth ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Paape, Rainer ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Otten-Aminger, Elisabeth;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Paape, Rainer;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Peinemann, Frank Wilhelm;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Peitgen, Prof. Dr. Heinz-Otto;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Pleister, Hans ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Pleister, Hans;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Quante, Alexander;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;RF Forschungsschiffahrt GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Rogacka-Michels, Katarzyna;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
@@ -661,28 +661,28 @@ uID;Name;Firma;Alternativname;Quelle
 1050;Universität Bremen;tesa SE;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Thermo Fisher Scientific GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Thesenfitz, Klaus;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Thöle, Reiner ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Thöle, Reiner;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Timm-Giel, Andreas;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Toyota InfoTechnology Center Co. Ltd;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Tönjes-Vagt-Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Trecolan GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Tutein, Wolf ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Tutein, Wolf;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Uhlig-van Buren, Angela;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Universitäts Buchhandlung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Uphoff, Almut;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Vatsella, Dr. Katerina;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Verlag W. Wächter GmbH;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Vierkötter, Yasemin;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Vogel, Sabine ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Volkswagen-Stiftung ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Vogel, Sabine;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Volkswagen-Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Vollers, Lüder;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Waldemar-Koch-Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Wegener, Gunter ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Weghöft-Doehle, Bärbel ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Wegener, Gunter;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Weghöft-Doehle, Bärbel;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Wehrmann, Dominique;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Weise, Cheryl;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Familie C. Weiss;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Wetzel, Holger ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Wetzel, Holger;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Werner, Ansgar;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Wessels, Prof. Dr. h.c. Bernd-Artin;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Willenbrock Fördertechnik Holding GmbH & Co. KG;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
@@ -690,9 +690,9 @@ uID;Name;Firma;Alternativname;Quelle
 1050;Universität Bremen;Wintershall Holding AG;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Wolfgang-Ritter-Stiftung;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Wolfthoff, Klaus;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Woltersdorff, Hanns-Eduard ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Woltersdorff, Hanns-Eduard;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 1050;Universität Bremen;Ziebell, Eva;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
-1050;Universität Bremen;Zimmermann, Prof. Dr. Jochen ;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
+1050;Universität Bremen;Zimmermann, Prof. Dr. Jochen;;http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html
 2610;Hochschule für Künste Bremen;;;
 20;APOLLON Hochschule der Gesundheitswirtschaft;;;
 5660;Hochschule Bremerhaven;Dieckell-Stiftung;;http://www.hs-bremerhaven.de/organisation/servicestellen/career-service-center/stipendien/deutschlandstipendium/das-deutschlandstipendium/
@@ -718,7 +718,7 @@ uID;Name;Firma;Alternativname;Quelle
 5680;Hochschule Bremen;Diersch & Schröder GmbH & Co. KG, Bremen;;http://www.hs-bremen.de/internet/de/studium/finanzen/finanzierung/deutschlandstipendium/foerderer/geber/
 5680;Hochschule Bremen;DSI GmbH, Bremen;;http://www.hs-bremen.de/internet/de/studium/finanzen/finanzierung/deutschlandstipendium/foerderer/geber/
 5680;Hochschule Bremen;Europa-Center Uwe Heinrich Suhr Stiftung;;http://www.hs-bremen.de/internet/de/studium/finanzen/finanzierung/deutschlandstipendium/foerderer/geber/
-5680;Hochschule Bremen;Ferchau Engineering ;;http://www.hs-bremen.de/internet/de/studium/finanzen/finanzierung/deutschlandstipendium/foerderer/geber/
+5680;Hochschule Bremen;Ferchau Engineering;;http://www.hs-bremen.de/internet/de/studium/finanzen/finanzierung/deutschlandstipendium/foerderer/geber/
 5680;Hochschule Bremen;F. G. Conzen-Stiftung, Berlin;;http://www.hs-bremen.de/internet/de/studium/finanzen/finanzierung/deutschlandstipendium/foerderer/geber/
 5680;Hochschule Bremen;FIDES IT Consultants GmbH, Bremen;;http://www.hs-bremen.de/internet/de/studium/finanzen/finanzierung/deutschlandstipendium/foerderer/geber/
 5680;Hochschule Bremen;Flughafen Bremen GmbH, Bremen;;http://www.hs-bremen.de/internet/de/studium/finanzen/finanzierung/deutschlandstipendium/foerderer/geber/
@@ -857,7 +857,7 @@ uID;Name;Firma;Alternativname;Quelle
 121;Universität Paderborn;Emmy-Hüttemann-Stiftung, Zürich;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;E.ON;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Familie-Osthushenrich-Stiftung, Gütersloh;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
-121;Universität Paderborn;Ferchau Engineering ;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
+121;Universität Paderborn;Ferchau Engineering;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Fördergesellschaft der FH Bielefeld;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Franz Schneider Brakel GmbH, Brakel;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Fritz Becker KG, Brakel;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
@@ -883,7 +883,7 @@ uID;Name;Firma;Alternativname;Quelle
 121;Universität Paderborn;Krause-Biagosch GmbH, Bielefeld;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Kreis Höxter;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Kreis Lippe;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
-121;Universität Paderborn;Kreis Paderborn ;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
+121;Universität Paderborn;Kreis Paderborn;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Lenze SE;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Lions Club Warburg;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Lippische Landes-Brandversicherungsanstalt, Detmold;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
@@ -919,7 +919,7 @@ uID;Name;Firma;Alternativname;Quelle
 121;Universität Paderborn;Sozialwerk Bielefelder Freimaurer e.V., Bielefeld;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Sparkasse Bielefeld;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Sparkasse Herford;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
-121;Universität Paderborn;Sparkasse Höxter ;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
+121;Universität Paderborn;Sparkasse Höxter;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Sparkasse Lemgo;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Sparkasse Paderborn-Detmold;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Stadtwerke Bielefeld;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
@@ -938,7 +938,7 @@ uID;Name;Firma;Alternativname;Quelle
 121;Universität Paderborn;Verein zur Förderung der Kunststofftechnologie e. V., Universität Paderborn;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Volksbank Paderborn-Höxter-Detmold;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Weidmüller Interface GmbH & Co. KG, Detmold;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
-121;Universität Paderborn;Wentus Kunststoff GmbH, Höxter            ;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
+121;Universität Paderborn;Wentus Kunststoff GmbH, Höxter           ;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;WESTFALIA-Automotive GmbH, Rheda-Wiedenbrück;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;Westfalia Wärmetechnik Heinrich Schröder GmbH, Rödinghausen;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
 121;Universität Paderborn;WINCOR NIXDORF International GmbH;;http://www.deutschlandstipendium.de/de/1970.php?D=205&M=444
@@ -950,7 +950,7 @@ uID;Name;Firma;Alternativname;Quelle
 130;Universität Siegen;Christian Goswin Stiftung;;http://www.sff.uni-siegen.de/spender/?lang=de
 130;Universität Siegen;Deutsche Bank;;http://www.sff.uni-siegen.de/spender/?lang=de
 130;Universität Siegen;EJOT Holding GmbH & Co. KG;;http://www.sff.uni-siegen.de/spender/?lang=de
-130;Universität Siegen;Ferchau Engineering ;;http://www.sff.uni-siegen.de/spender/?lang=de
+130;Universität Siegen;Ferchau Engineering;;http://www.sff.uni-siegen.de/spender/?lang=de
 130;Universität Siegen;Georg Automation GmbH;;http://www.sff.uni-siegen.de/spender/?lang=de
 130;Universität Siegen;Hagen Tschoeltsch Stiftung;;http://www.sff.uni-siegen.de/spender/?lang=de
 130;Universität Siegen;Heinrich Georg GmbH Maschinenfabrik;;http://www.sff.uni-siegen.de/spender/?lang=de
@@ -1034,7 +1034,7 @@ uID;Name;Firma;Alternativname;Quelle
 1081;Ruhr-Universität Bochum (ohne Klinikum);Eugen-Gutmann-Gesellschaft e.V.;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
 1081;Ruhr-Universität Bochum (ohne Klinikum);Evonik;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
 1081;Ruhr-Universität Bochum (ohne Klinikum);Fasel-Stiftung;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
-1081;Ruhr-Universität Bochum (ohne Klinikum);Ferchau Engineering ;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
+1081;Ruhr-Universität Bochum (ohne Klinikum);Ferchau Engineering;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
 1081;Ruhr-Universität Bochum (ohne Klinikum);Forschungsgesellschaft KIB;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
 1081;Ruhr-Universität Bochum (ohne Klinikum);Gebr. Eickhoff Maschinenfabrik und Eisengießerei GmbH;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
 1081;Ruhr-Universität Bochum (ohne Klinikum);Hertie-Stiftung;;http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html
@@ -1120,17 +1120,17 @@ uID;Name;Firma;Alternativname;Quelle
 1111;Universität zu Köln (ohne Klinikum);Sparkasse KölnBonn;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Stadtwerke Köln GmbH;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Stiftung Macaria;;http://www.portal.uni-koeln.de/3651.html
-1111;Universität zu Köln (ohne Klinikum);TüV Rheinland;;http://www.portal.uni-koeln.de/3651.html
+1111;Universität zu Köln (ohne Klinikum);TÜV Rheinland;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Opel;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Ampega Investment GmbH;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Arendt & Medernach;;http://www.portal.uni-koeln.de/3651.html
-1111;Universität zu Köln (ohne Klinikum);A.S. CrÃ©ation Tapetenstiftung;;http://www.portal.uni-koeln.de/3651.html
+1111;Universität zu Köln (ohne Klinikum);A.S. Création Tapetenstiftung;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Association des Juristes Paris-Cologne;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);BNP PARIBAS LEASE GROUP S.A.;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Boehringer Ingelheim;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Canada Life Assurance Europe Limited;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Currenta GmbH & Co. OHG;;http://www.portal.uni-koeln.de/3651.html
-1111;Universität zu Köln (ohne Klinikum);d-fine Gmbh;;http://www.portal.uni-koeln.de/3651.html
+1111;Universität zu Köln (ohne Klinikum);d-fine GmbH;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Elvinger, Hoss & Prussen;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);EMP Planungsgesellschaft für Prozeöautomation mbH;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Ernst & Young;;http://www.portal.uni-koeln.de/3651.html
@@ -1158,7 +1158,7 @@ uID;Name;Firma;Alternativname;Quelle
 1111;Universität zu Köln (ohne Klinikum);Rechtsanwälte Lampmann, Haberkamm & Rosenbaum Partnerschaft;;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);REWE Group;REWE Zentralfinanz eG;http://www.portal.uni-koeln.de/3651.html
 1111;Universität zu Köln (ohne Klinikum);Studienstiftung Markommania-Franco-Guestphalia;;http://www.portal.uni-koeln.de/3651.html
-1111;Universität zu Köln (ohne Klinikum);VON DER SEIPEN & STEINBERG Rechtsanwälte ;;http://www.portal.uni-koeln.de/3651.html
+1111;Universität zu Köln (ohne Klinikum);VON DER SEIPEN & STEINBERG Rechtsanwälte;;http://www.portal.uni-koeln.de/3651.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Sybille Hahne-Stiftung;;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Universitätsgesellschaft Münster e.V.;;http://www.uni-muenster.de/protalent/index.html
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Verein zur Förderung des Zentrums für Niederlande-Studien der Westfälischen Wilhelms-Universität in Münster e.V.;;http://www.uni-muenster.de/protalent/index.html
@@ -1273,7 +1273,7 @@ uID;Name;Firma;Alternativname;Quelle
 6410;Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH);REWE Group;;http://www.eufh.de/chancen-und-vorteile/stipendien-finanzierung.html
 6410;Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH);Richartz;;http://www.eufh.de/chancen-und-vorteile/stipendien-finanzierung.html
 6410;Europäische FH (EUFH) Rhein/Erft, Brühl (Priv. FH);Senioren Wohnheim Brühl gGmbH;;http://www.eufh.de/chancen-und-vorteile/stipendien-finanzierung.html
-8100;Priv. FH für Ã-konomie und Management Essen;;;
+8100;Priv. FH für Ökonomie und Management Essen;;;
 3050;FH Westliches Ruhrgebiet;;;
 3060;Hochschule Rhein-Waal;;;
 3070;Hochschule Hamm-Lippstadt;;;
@@ -1372,7 +1372,7 @@ uID;Name;Firma;Alternativname;Quelle
 5710;FH Aachen;BFT Cognos GmbH;;http://www.fh-aachen.de/hochschule/stipendienprogramm/unsere-foerderer-2012/
 5710;FH Aachen;Brunel;;http://www.fh-aachen.de/hochschule/stipendienprogramm/unsere-foerderer-2012/
 5710;FH Aachen;Bürgerstiftung Lebensraum Aachen;;http://www.fh-aachen.de/hochschule/stipendienprogramm/unsere-foerderer-2012/
-5710;FH Aachen;Centrale Bond van Meubelfabrikanten (CBM); ;http://www.fh-aachen.de/hochschule/stipendienprogramm/unsere-foerderer-2012/
+5710;FH Aachen;Centrale Bond van Meubelfabrikanten (CBM);;http://www.fh-aachen.de/hochschule/stipendienprogramm/unsere-foerderer-2012/
 5710;FH Aachen;Dr. Babor GmbH & Co. KG;;http://www.fh-aachen.de/hochschule/stipendienprogramm/unsere-foerderer-2012/
 5710;FH Aachen;DSA - Daten- und Systemtechnik GmbH;;http://www.fh-aachen.de/hochschule/stipendienprogramm/unsere-foerderer-2012/
 5710;FH Aachen;Erich Tönnissen-Stiftung;;http://www.fh-aachen.de/hochschule/stipendienprogramm/unsere-foerderer-2012/
@@ -1417,16 +1417,16 @@ uID;Name;Firma;Alternativname;Quelle
 5770;FH Dortmund;Caspar-Ludwig-Opländer Stiftung;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
 5770;FH Dortmund;WILO;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
 5770;FH Dortmund;Der Innovationsstandort e.V.;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
-5770;FH Dortmund;Deutsche Telekom;Deutsche Telekom AG   ;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
+5770;FH Dortmund;Deutsche Telekom;Deutsche Telekom AG  ;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
 5770;FH Dortmund;Continentale Krankenversicherung a. G.;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
-5770;FH Dortmund;Dortmunder Volksbank Stiftung ;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
+5770;FH Dortmund;Dortmunder Volksbank Stiftung;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
 5770;FH Dortmund;Hugo Miebach GmbH;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
 5770;FH Dortmund;Koda Stanz- und Biegetechnik GmbH;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
-5770;FH Dortmund;otris Software AG ;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
+5770;FH Dortmund;otris Software AG;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
 5770;FH Dortmund;Provinzial AG;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
 5770;FH Dortmund;Rudolf-Chaudoire-Stiftung;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
 5770;FH Dortmund;Sparkasse Dortmund;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
-5770;FH Dortmund;Technologiezentrum Dortmund GmbH ;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
+5770;FH Dortmund;Technologiezentrum Dortmund GmbH;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
 5770;FH Dortmund;Unternehmensverband der Metallindustrie für Dortmund und Umgebung e.V.;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
 5770;FH Dortmund;Volkswohl-Bund Lebensversicherung a.G.;;http://www.fh-dortmund.de/de/studi/Berat/studBeitrag/dank_an_foerderer.php
 5780;FH Düsseldorf;;;
@@ -1446,7 +1446,7 @@ uID;Name;Firma;Alternativname;Quelle
 5830;FH Köln;Hein-Möller-Stiftung;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
 5830;FH Köln;ERGO Versicherungsgruppe AG;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
 5830;FH Köln;Exxonmobil;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
-5830;FH Köln;Ferchau Engineering ;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
+5830;FH Köln;Ferchau Engineering;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
 5830;FH Köln;Förderkreis Rückversicherung der Fachhochschule Köln;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
 5830;FH Köln;GAG Immobilien AG;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
 5830;FH Köln;Gebr. Hubert + Josef Kickartz Stiftung;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
@@ -1473,7 +1473,7 @@ uID;Name;Firma;Alternativname;Quelle
 5830;FH Köln;STRABAG AG;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
 5830;FH Köln;Studienstiftung der Fachhochschule Köln;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
 5830;FH Köln;TPA Gesellschaft für Qualitätssicherung und Innovation;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
-5830;FH Köln;TüV Rheinland;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
+5830;FH Köln;TÜV Rheinland;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
 5830;FH Köln;Väderstad GmbH;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
 5830;FH Köln;VdS Schadenverhütung GmbH;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
 5830;FH Köln;Verein der Förderer des Instituts für Versicherungswesen an der Fachhochschule Köln e.V.;;http://www.fh-koeln.de/studium/unsere-foerderer_7920.php
@@ -1523,14 +1523,14 @@ uID;Name;Firma;Alternativname;Quelle
 5840;Hochschule Niederrhein;thp treuhandpartner gmbh;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
 5840;Hochschule Niederrhein;Tokai Erftcarbon GmbH;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
 5840;Hochschule Niederrhein;Trützschler GmbH & Co. KG;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
-5840;Hochschule Niederrhein;TüV Rheinland;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
+5840;Hochschule Niederrhein;TÜV Rheinland;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
 5840;Hochschule Niederrhein;Verein zur Förderung des Fachbereichs Oecotrophologie der Hochschule Niederrhein e.V.;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
 5840;Hochschule Niederrhein;Vibro Beteiligungs GmbH & Co. KG;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
 5840;Hochschule Niederrhein;Voith;Voith Paper GmbH & Co. KG;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
 5840;Hochschule Niederrhein;Wilh. Schulz GmbH;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
 5840;Hochschule Niederrhein;Woolworth GmbH;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
 5840;Hochschule Niederrhein;WUMAG TEXROLL GmbH & Co. KG;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
-5840;Hochschule Niederrhein;WWS Wirtz, Walter, Schmitz GmbH ;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
+5840;Hochschule Niederrhein;WWS Wirtz, Walter, Schmitz GmbH;;http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf
 5860;Hochschule Ostwestfalen-Lippe;;;
 5890;FH Münster;;;
 8110;FH Bonn-Rhein-Sieg;;;
@@ -1700,7 +1700,7 @@ uID;Name;Firma;Alternativname;Quelle
 1210;TU Kaiserslautern;Bilfinger Berger;;https://www.uni-kl.de/universitaet/fundraising/deutschlandstipendium/aktuelle-foerderer/
 1210;TU Kaiserslautern;KSB-Stiftung;;https://www.uni-kl.de/universitaet/fundraising/deutschlandstipendium/aktuelle-foerderer/
 1210;TU Kaiserslautern;Wipotec Wagetechnik;;https://www.uni-kl.de/universitaet/fundraising/deutschlandstipendium/aktuelle-foerderer/
-1210;TU Kaiserslautern;TüV Süd;;https://www.uni-kl.de/universitaet/fundraising/deutschlandstipendium/aktuelle-foerderer/
+1210;TU Kaiserslautern;TÜV Süd;;https://www.uni-kl.de/universitaet/fundraising/deutschlandstipendium/aktuelle-foerderer/
 1210;TU Kaiserslautern;Carl Zeiss;Carl-Zeiss-Stiftung;https://www.uni-kl.de/universitaet/fundraising/deutschlandstipendium/aktuelle-foerderer/
 1210;TU Kaiserslautern;mb AEC Software;;https://www.uni-kl.de/universitaet/fundraising/deutschlandstipendium/aktuelle-foerderer/
 1210;TU Kaiserslautern;vwd group;;https://www.uni-kl.de/universitaet/fundraising/deutschlandstipendium/aktuelle-foerderer/
@@ -1737,7 +1737,7 @@ uID;Name;Firma;Alternativname;Quelle
 1223;Universität Mainz;Lotto Rheinland-Pfalz-Stiftung;;http://www.stiftungen.uni-mainz.de/1538.php
 1223;Universität Mainz;Löwen Entertainment GmbH;;http://www.stiftungen.uni-mainz.de/1538.php
 1223;Universität Mainz;Mainzer Volksbank eG;;http://www.stiftungen.uni-mainz.de/1538.php
-1223;Universität Mainz;medatixx GmbH & Co. KG ;;http://www.stiftungen.uni-mainz.de/1538.php
+1223;Universität Mainz;medatixx GmbH & Co. KG;;http://www.stiftungen.uni-mainz.de/1538.php
 1230;Hochschule für Verwaltungswissenschaften Speyer;;;
 1290;Universität Koblenz-Landau;;;
 2040;Theol. Fakultät Trier;;;
@@ -1830,7 +1830,7 @@ uID;Name;Firma;Alternativname;Quelle
 1590;Universität Stuttgart;Ed. Züblin AG;;http://www.uni-stuttgart.de/freunde_foerderer/projekte/deutschlandstipendium/
 1590;Universität Stuttgart;Ernst Klett Verlag GmbH;;http://www.uni-stuttgart.de/freunde_foerderer/projekte/deutschlandstipendium/
 1590;Universität Stuttgart;EXXETA AG;;http://www.uni-stuttgart.de/freunde_foerderer/projekte/deutschlandstipendium/
-1590;Universität Stuttgart;Ferchau Engineering ;;http://www.uni-stuttgart.de/freunde_foerderer/projekte/deutschlandstipendium/
+1590;Universität Stuttgart;Ferchau Engineering;;http://www.uni-stuttgart.de/freunde_foerderer/projekte/deutschlandstipendium/
 1590;Universität Stuttgart;Fichtner;;http://www.uni-stuttgart.de/freunde_foerderer/projekte/deutschlandstipendium/
 1590;Universität Stuttgart;Flüwo Bau + Service GmbH;;http://www.uni-stuttgart.de/freunde_foerderer/projekte/deutschlandstipendium/
 1590;Universität Stuttgart;Gips-Schüle-Stiftung;;http://www.uni-stuttgart.de/freunde_foerderer/projekte/deutschlandstipendium/
@@ -1872,7 +1872,7 @@ uID;Name;Firma;Alternativname;Quelle
 1800;Universität Hohenheim;Gips-Schüle-Stiftung;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
 1800;Universität Hohenheim;Horsch;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
 1800;Universität Hohenheim;Krone;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
-1800;Universität Hohenheim;NestlÃ©;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
+1800;Universität Hohenheim;Nestlé;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
 1800;Universität Hohenheim;Rauch;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
 1800;Universität Hohenheim;Edmund Rehwinkel-Stiftung;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
 1800;Universität Hohenheim;Porsche;;https://www.uni-hohenheim.de/deutschlandstipendium?&MP=1601-77057#c145747
@@ -2065,7 +2065,7 @@ uID;Name;Firma;Alternativname;Quelle
 6750;Hochschule Heilbronn;Tekrob GmbH;;https://www.hs-heilbronn.de/deutschlandstipendium
 6750;Hochschule Heilbronn;Thomas Gessmann-Stiftung Leingarten;;https://www.hs-heilbronn.de/deutschlandstipendium
 6750;Hochschule Heilbronn;Von Bonin Personalberatung GmbH;;https://www.hs-heilbronn.de/deutschlandstipendium
-6750;Hochschule Heilbronn;ZEAG Energie AG ;;https://www.hs-heilbronn.de/deutschlandstipendium
+6750;Hochschule Heilbronn;ZEAG Energie AG;;https://www.hs-heilbronn.de/deutschlandstipendium
 6760;Hochschule Karlsruhe (FH);;;
 6770;Hochschule Konstanz (HTWG);;;
 6780;Hochschule Mannheim (FH);BASF;;http://www.hs-mannheim.de/index.php?id=8062
@@ -2228,9 +2228,9 @@ uID;Name;Firma;Alternativname;Quelle
 1321;Universität München (ohne Klinikum);zeb.rolfes.schierenbeck.associates gmbh;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
 1321;Universität München (ohne Klinikum);aconso AG;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
 1321;Universität München (ohne Klinikum);General Electric;GE Healthcare;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
-1321;Universität München (ohne Klinikum);Münchner Universitätsgesellschaft   ;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
+1321;Universität München (ohne Klinikum);Münchner Universitätsgesellschaft  ;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
 1321;Universität München (ohne Klinikum);Freiherr von Handel'sche Stiftung;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
-1321;Universität München (ohne Klinikum);Louise-Blackborne-Stiftung ;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
+1321;Universität München (ohne Klinikum);Louise-Blackborne-Stiftung;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
 1321;Universität München (ohne Klinikum);Dr. Democh-Maurmeier-Stipendienstiftung;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
 1321;Universität München (ohne Klinikum);Deloitte & Touche;Deloitte-Stiftung;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
 1321;Universität München (ohne Klinikum);Bayer;Bayer Science and Education Foundation;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
@@ -2247,7 +2247,7 @@ uID;Name;Firma;Alternativname;Quelle
 1321;Universität München (ohne Klinikum);Erzdiözese München und Freising;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
 1321;Universität München (ohne Klinikum);Erich-Frank-Gesellschaft;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
 1321;Universität München (ohne Klinikum);Rotary Club München-Bogenhausen;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
-1321;Universität München (ohne Klinikum);Rotary Club München-Martinsried ;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
+1321;Universität München (ohne Klinikum);Rotary Club München-Martinsried;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
 1321;Universität München (ohne Klinikum);Soroptimist International Club München-Schwabing;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
 1321;Universität München (ohne Klinikum);Herbert Lutz-Gedächtnis-Stiftung;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
 1321;Universität München (ohne Klinikum);Franz von Holtzendorff'sche Stiftung;;https://www.uni-muenchen.de/studium/studienfinanzierung/dt_stipendium/index.html
@@ -2343,7 +2343,7 @@ uID;Name;Firma;Alternativname;Quelle
 30;Macromedia FH der Medien, München (Priv. FH);Otto Gruppe;;http://www.macromedia-fachhochschule.de/studienberatung/stipendien/deutschlandstipendium.html
 30;Macromedia FH der Medien, München (Priv. FH);AVANCE Gesellschaft für Marketing und Vertrieb mbH;;http://www.macromedia-fachhochschule.de/studienberatung/stipendien/deutschlandstipendium.html
 30;Macromedia FH der Medien, München (Priv. FH);HAVAS PR;;http://www.macromedia-fachhochschule.de/studienberatung/stipendien/deutschlandstipendium.html
-720;Hochschule für Angewandte Sprachen â€“ Fachhochschule des SDI München;;;
+720;Hochschule für Angewandte Sprachen - Fachhochschule des SDI München;;;
 5000;Hochschule für angewandte Wissenschaften Bamberg - Private Hochschule für Gesundheit (Priv. FH);;;
 6284;Hochschule Fresenius Idstein in München (Priv. FH);;;
 6680;Hochschule für angewandtes Management;;;
@@ -2381,7 +2381,7 @@ uID;Name;Firma;Alternativname;Quelle
 7220;Hochschule Coburg;Werkzeugmaschinenfabrik Waldrich;;https://www.hs-coburg.de/studium/service-fuer-studierende/studium-finanzieren/deutschland-stipendium.html
 7240;Hochschule München;MicroNova AG;;http://www.hm.edu/deutschlandstipendium/
 7240;Hochschule München;EOS GmbH;;http://www.hm.edu/deutschlandstipendium/
-7240;Hochschule München;TüV Süd;;http://www.hm.edu/deutschlandstipendium/
+7240;Hochschule München;TÜV Süd;;http://www.hm.edu/deutschlandstipendium/
 7240;Hochschule München;Zeidler Forschungsstiftung;;http://www.hm.edu/deutschlandstipendium/
 7240;Hochschule München;Sogeclair Aerospace GmbH;;http://www.hm.edu/deutschlandstipendium/
 7250;Technische Hochschule Nürnberg Georg Simon Ohm;Arvena Park;;http://www.th-nuernberg.de/deutschlandstipendium/
@@ -2391,7 +2391,7 @@ uID;Name;Firma;Alternativname;Quelle
 7250;Technische Hochschule Nürnberg Georg Simon Ohm;Conti Temic;;http://www.th-nuernberg.de/deutschlandstipendium/
 7250;Technische Hochschule Nürnberg Georg Simon Ohm;Dehn + Söhne GmbH & Co. KG;;http://www.th-nuernberg.de/deutschlandstipendium/
 7250;Technische Hochschule Nürnberg Georg Simon Ohm;Diehl;;http://www.th-nuernberg.de/deutschlandstipendium/
-7250;Technische Hochschule Nürnberg Georg Simon Ohm;Ferchau Engineering ;;http://www.th-nuernberg.de/deutschlandstipendium/
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;Ferchau Engineering;;http://www.th-nuernberg.de/deutschlandstipendium/
 7250;Technische Hochschule Nürnberg Georg Simon Ohm;GAUFF GmbH & Co. Engineering KG;;http://www.th-nuernberg.de/deutschlandstipendium/
 7250;Technische Hochschule Nürnberg Georg Simon Ohm;Hydrometer GmbH;;http://www.th-nuernberg.de/deutschlandstipendium/
 7250;Technische Hochschule Nürnberg Georg Simon Ohm;immowelt AG;;http://www.th-nuernberg.de/deutschlandstipendium/
@@ -2409,7 +2409,7 @@ uID;Name;Firma;Alternativname;Quelle
 7260;FH Regensburg;Dehn + Söhne GmbH & Co. KG;;https://www.oth-regensburg.de/studium/service-und-beratung/career-service/inlands-stipendien/deutschlandstipendium.html
 7260;FH Regensburg;Dömges Architekten AG;;https://www.oth-regensburg.de/studium/service-und-beratung/career-service/inlands-stipendien/deutschlandstipendium.html
 7260;FH Regensburg;Alice Eckl;;https://www.oth-regensburg.de/studium/service-und-beratung/career-service/inlands-stipendien/deutschlandstipendium.html
-7260;FH Regensburg;Ferchau Engineering ;;https://www.oth-regensburg.de/studium/service-und-beratung/career-service/inlands-stipendien/deutschlandstipendium.html
+7260;FH Regensburg;Ferchau Engineering;;https://www.oth-regensburg.de/studium/service-und-beratung/career-service/inlands-stipendien/deutschlandstipendium.html
 7260;FH Regensburg;Gewerbeplan GmbH;;https://www.oth-regensburg.de/studium/service-und-beratung/career-service/inlands-stipendien/deutschlandstipendium.html
 7260;FH Regensburg;Goldbeck;;https://www.oth-regensburg.de/studium/service-und-beratung/career-service/inlands-stipendien/deutschlandstipendium.html
 7260;FH Regensburg;Roswitha und Herbert Hielscher-Stiftung;;https://www.oth-regensburg.de/studium/service-und-beratung/career-service/inlands-stipendien/deutschlandstipendium.html
@@ -2496,7 +2496,7 @@ uID;Name;Firma;Alternativname;Quelle
 7520;Technische Hochschule Deggendorf;Dichtungstechnik Wallstabe & Schneider;;https://www.th-deg.de/de/studierende/career-service/stipendien
 7520;Technische Hochschule Deggendorf;Dr. Johannes Heidenhain GmbH;;https://www.th-deg.de/de/studierende/career-service/stipendien
 7520;Technische Hochschule Deggendorf;Flottweg;;https://www.th-deg.de/de/studierende/career-service/stipendien
-7520;Technische Hochschule Deggendorf;Ferchau Engineering ;;https://www.th-deg.de/de/studierende/career-service/stipendien
+7520;Technische Hochschule Deggendorf;Ferchau Engineering;;https://www.th-deg.de/de/studierende/career-service/stipendien
 7520;Technische Hochschule Deggendorf;HAAS Fertigbau;;https://www.th-deg.de/de/studierende/career-service/stipendien
 7520;Technische Hochschule Deggendorf;Intercontec Produkt GmbH;;https://www.th-deg.de/de/studierende/career-service/stipendien
 7520;Technische Hochschule Deggendorf;IGK Ingenieursgesellschaft Klein mbH;;https://www.th-deg.de/de/studierende/career-service/stipendien
@@ -2617,7 +2617,7 @@ uID;Name;Firma;Alternativname;Quelle
 1363;Universität des Saarlandes Saarbrücken in Saarbrücken;Sparkasse Saarbrücken;;http://www.uni-saarland.de/campus/studium/besser-studieren/chancen/deutschlandstipendium.html
 1363;Universität des Saarlandes Saarbrücken in Saarbrücken;Stiftung Bürgerengagement Saar;;http://www.uni-saarland.de/campus/studium/besser-studieren/chancen/deutschlandstipendium.html
 1363;Universität des Saarlandes Saarbrücken in Saarbrücken;Dr. Theiss Naturwaren GmbH;;http://www.uni-saarland.de/campus/studium/besser-studieren/chancen/deutschlandstipendium.html
-1363;Universität des Saarlandes Saarbrücken in Saarbrücken;TüV Saarland Stiftung;;http://www.uni-saarland.de/campus/studium/besser-studieren/chancen/deutschlandstipendium.html
+1363;Universität des Saarlandes Saarbrücken in Saarbrücken;TÜV Saarland Stiftung;;http://www.uni-saarland.de/campus/studium/besser-studieren/chancen/deutschlandstipendium.html
 1363;Universität des Saarlandes Saarbrücken in Saarbrücken;Universitätsgesellschaft des Saarlandes;;http://www.uni-saarland.de/campus/studium/besser-studieren/chancen/deutschlandstipendium.html
 1363;Universität des Saarlandes Saarbrücken in Saarbrücken;VSE - Vertrauen. Sicherheit. Energie.;;http://www.uni-saarland.de/campus/studium/besser-studieren/chancen/deutschlandstipendium.html
 2760;Hochschule für Musik, Saarbrücken;;;
@@ -2637,12 +2637,12 @@ uID;Name;Firma;Alternativname;Quelle
 180;Charite - Universitätsmedizin Berlin;Cytolon AG;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 180;Charite - Universitätsmedizin Berlin;Karl Storz GmbH;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 180;Charite - Universitätsmedizin Berlin;Marburger Bund Bundesverband - Verband der angestellten und beamteten Ärztinnen und Ärzte Deutschlands e.V.;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
-180;Charite - Universitätsmedizin Berlin;MEYER-KöRING Rechtsanwälte Steuerberater Partnerschaft ;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
-180;Charite - Universitätsmedizin Berlin;Bayer;Schering Stiftung ;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
+180;Charite - Universitätsmedizin Berlin;MEYER-KÖRING Rechtsanwälte Steuerberater Partnerschaft;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
+180;Charite - Universitätsmedizin Berlin;Bayer;Schering Stiftung;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 180;Charite - Universitätsmedizin Berlin;Novartis;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 180;Charite - Universitätsmedizin Berlin;Bayer;Bayer-Stiftungen;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 180;Charite - Universitätsmedizin Berlin;Stiftung für Nephrologie;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
-180;Charite - Universitätsmedizin Berlin;STADA Arzneimittel AG ;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
+180;Charite - Universitätsmedizin Berlin;STADA Arzneimittel AG;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 180;Charite - Universitätsmedizin Berlin;Johanna Quandt;;http://www.charite.de/studium_lehre/deutschlandstipendium/unsere_foerderer/
 201;Humboldt-Universität zu Berlin;artop GmbH, Institut an der Humboldt-Universität zu Berlin;;https://deutschlandstipendium.hu-berlin.de/foerderer/unsererfoerderer
 201;Humboldt-Universität zu Berlin;Bayer;Bayer-Stiftungen;https://deutschlandstipendium.hu-berlin.de/foerderer/unsererfoerderer
@@ -2655,7 +2655,7 @@ uID;Name;Firma;Alternativname;Quelle
 201;Humboldt-Universität zu Berlin;Humboldt-Innovation GmbH;;https://deutschlandstipendium.hu-berlin.de/foerderer/unsererfoerderer
 201;Humboldt-Universität zu Berlin;Kapellmann und Partner Rechtsanwälte;;https://deutschlandstipendium.hu-berlin.de/foerderer/unsererfoerderer
 201;Humboldt-Universität zu Berlin;Karl-Schlecht-Stiftung;;https://deutschlandstipendium.hu-berlin.de/foerderer/unsererfoerderer
-201;Humboldt-Universität zu Berlin;MüSIAD e.V.;;https://deutschlandstipendium.hu-berlin.de/foerderer/unsererfoerderer
+201;Humboldt-Universität zu Berlin;MÜSIAD e.V.;;https://deutschlandstipendium.hu-berlin.de/foerderer/unsererfoerderer
 201;Humboldt-Universität zu Berlin;Renate Küchler;;https://deutschlandstipendium.hu-berlin.de/foerderer/unsererfoerderer
 201;Humboldt-Universität zu Berlin;Krone;Klaus Krone Stiftung;https://deutschlandstipendium.hu-berlin.de/foerderer/unsererfoerderer
 201;Humboldt-Universität zu Berlin;Philip Morris Stiftung;;https://deutschlandstipendium.hu-berlin.de/foerderer/unsererfoerderer
@@ -2824,7 +2824,7 @@ uID;Name;Firma;Alternativname;Quelle
 271;Universität Greifswald (ohne Klinikum);Apothekerkammer Mecklenburg-Vorpommern;;http://www.uni-greifswald.de/foerdern/deutschland-stipendium/deutschland-stipendium/foerderer-des-deutschland-stipendiums.html
 272;Medizinische Fakultät Greifswald;;;
 3030;Hochschule für Musik und Theater, Rostock;;;
-7980;Baltic College â€“ FHM Schwerin;;;
+7980;Baltic College - FHM Schwerin;;;
 7780;Hochschule Neubrandenburg;Alfried Krupp von Bohlen und Halbach-Stiftung;;http://www.hs-nb.de/stipendien-hs-nb/foerderer/
 7780;Hochschule Neubrandenburg;Sparkasse Neubrandenburg-Demmin;;http://www.hs-nb.de/stipendien-hs-nb/foerderer/
 7780;Hochschule Neubrandenburg;NEUWOBA Neubrandenburger Wohnungsbaugenossenschaft eG;;http://www.hs-nb.de/stipendien-hs-nb/foerderer/
@@ -2861,7 +2861,7 @@ uID;Name;Firma;Alternativname;Quelle
 371;TU Dresden (ohne Klinikum);Dr. Walter GmbH Versicherungsmakler;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
 371;TU Dresden (ohne Klinikum);Dresdner Verkehrsbetriebe AG;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
 371;TU Dresden (ohne Klinikum);Dresdner Volksbank Raiffeisenbank eG;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
-371;TU Dresden (ohne Klinikum);DREWAG - Stadtwerke Dresden GmbH ;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
+371;TU Dresden (ohne Klinikum);DREWAG - Stadtwerke Dresden GmbH;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
 371;TU Dresden (ohne Klinikum);Ed. Züblin AG;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
 371;TU Dresden (ohne Klinikum);Ernst & Young;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
 371;TU Dresden (ohne Klinikum);Europäisches Insitut für postgraduale Bildung an der Technischen Universität Dresden e.V. -EIPOS-;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
@@ -2905,8 +2905,8 @@ uID;Name;Firma;Alternativname;Quelle
 371;TU Dresden (ohne Klinikum);Stiftung zur Förderung der Wissenschaftlichen Schule Zunker - Busch - Luckner;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
 371;TU Dresden (ohne Klinikum);Thales Transportation Systems GmbH;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
 371;TU Dresden (ohne Klinikum);The Schaufler Foundation;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
-371;TU Dresden (ohne Klinikum);TüV Nord AG;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
-371;TU Dresden (ohne Klinikum);TüV Süd;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
+371;TU Dresden (ohne Klinikum);TÜV Nord AG;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
+371;TU Dresden (ohne Klinikum);TÜV Süd;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
 371;TU Dresden (ohne Klinikum);Vattenfall;Vattenfall Europe Generation AG;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
 371;TU Dresden (ohne Klinikum);Vattenfall;Vattenfall Europe Mining AG;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
 371;TU Dresden (ohne Klinikum);Voith;;http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien
@@ -3132,7 +3132,7 @@ uID;Name;Firma;Alternativname;Quelle
 8010;Hochschule Magdeburg-Stendal (FH);Environmental Technology Magdeburg GmbH;;https://www.hs-magdeburg.de/forschung/deutschlandstipendium.html
 8010;Hochschule Magdeburg-Stendal (FH);Glass Ingenieurbau Leipzig GmbH, Niederlassung Berlin;;https://www.hs-magdeburg.de/forschung/deutschlandstipendium.html
 8010;Hochschule Magdeburg-Stendal (FH);Serviceebene der Hochschule;;https://www.hs-magdeburg.de/forschung/deutschlandstipendium.html
-8010;Hochschule Magdeburg-Stendal (FH);Partner Bau Quedlinburg GmbH ;;https://www.hs-magdeburg.de/forschung/deutschlandstipendium.html
+8010;Hochschule Magdeburg-Stendal (FH);Partner Bau Quedlinburg GmbH;;https://www.hs-magdeburg.de/forschung/deutschlandstipendium.html
 8010;Hochschule Magdeburg-Stendal (FH);Woodward Aken GmbH;;https://www.hs-magdeburg.de/forschung/deutschlandstipendium.html
 8010;Hochschule Magdeburg-Stendal (FH);Ing.-büro Lange & Jürries;;https://www.hs-magdeburg.de/forschung/deutschlandstipendium.html
 8010;Hochschule Magdeburg-Stendal (FH);IBL GmbH - Ingenieurbüro Lambrecht;;https://www.hs-magdeburg.de/forschung/deutschlandstipendium.html
