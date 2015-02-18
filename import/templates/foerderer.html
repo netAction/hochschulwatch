@@ -38,6 +38,9 @@
 		<dl>
 			<dt>{{ Stiftungsprofessur }}</dt>
 			<dd><em>Hochschule:</em> <a href="../hochschule/{{ #Hochschule }}{{ slugify }}{{ /Hochschule }}.html">{{ Hochschule }}</a></dd>
+			{{ #Startpunkt.length }}
+				<dd><em>Startpunkt:</em> {{ Startpunkt }}</dd>
+			{{ /Startpunkt.length }}
 			{{ #Laufzeit.length }}
 				<dd><em>Laufzeit:</em> {{ Laufzeit }}</dd>
 			{{ /Laufzeit.length }}

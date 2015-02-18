@@ -141,6 +141,9 @@
 		<dl>
 			<dt>{{ Stiftungsprofessur }}</dt>
 			<dd><em>Stifter:</em> <a href="../foerderer/{{ #Stifter }}{{ slugify }}{{ /Stifter }}.html">{{ Stifter }}</a></dd>
+			{{ #Startpunkt.length }}
+				<dd><em>Startpunkt:</em> {{ Startpunkt }}</dd>
+			{{ /Startpunkt.length }}
 			{{ #Laufzeit.length }}
 				<dd><em>Laufzeit:</em> {{ Laufzeit }}</dd>
 			{{ /Laufzeit.length }}
