@@ -21398,10 +21398,6 @@ var searchdb = {
 			"slug": "peter-luessen"
 		},
 		{
-			"name": "Debaka",
-			"slug": "debaka"
-		},
-		{
 			"name": "Stiftung Tumorforschung Kopf-Hals",
 			"slug": "stiftung-tumorforschung-kopf-hals"
 		},
@@ -21860,6 +21856,10 @@ var searchdb = {
 		{
 			"name": "Denker & Wulf AG",
 			"slug": "denker-wulf-ag"
+		},
+		{
+			"name": "Debeka",
+			"slug": "debeka"
 		}
 	]
 };
