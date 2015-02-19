@@ -137,10 +137,10 @@
 
 		{{ #stiftungsprofessuren.length }}
 		<h2>Stiftungsprofessuren <sup><a href="../themen/stiftungsprofessuren.html" class="badge">Infos</a></sup></h2>
+		<em>Stiftungprofessuren mit demselben Namen beziehen sich auf eine einzige Professur.</em>
 		{{ #stiftungsprofessuren }}
 		<dl>
 			<dt>{{ Stiftungsprofessur }}</dt>
-			<dd><em>Stiftungprofessuren mit demselben Namen beziehen sich auf eine einzige Professur.</em></dd>
 			<dd><em>Stifter:</em> <a href="../foerderer/{{ #Stifter }}{{ slugify }}{{ /Stifter }}.html">{{ Stifter }}</a></dd>
 			{{ #Startpunkt.length }}
 				<dd><em>Startpunkt:</em> {{ Startpunkt }}</dd>
