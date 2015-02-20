@@ -244,7 +244,7 @@
     "Text":""
   },
   {
-    "Firma":"Adolf I. Döpfert-Stiftung Ludwigsburg",
+    "Firma":"Adolf I. Döpert-Stiftung Ludwigsburg",
     "Text":""
   },
   {
@@ -4889,7 +4889,7 @@
   },
   {
     "Firma":"Ernst & Young",
-    "Text":"Ernst & Young AG, Ernst & Young GmbH, Ernst &Young Real Estate"
+    "Text":"Ernst & Young AG, Ernst & Young GmbH, Ernst & Young Real Estate, Ernst & Young-Stiftung"
   },
   {
     "Firma":"Ernst A. C. Lange-Stiftung",
@@ -8332,6 +8332,10 @@
     "Text":""
   },
   {
+    "Firma":"IHK Wiesbaden",
+    "Text":""
+  },
+  {
     "Firma":"IHK-Akademie Ostwestfalen-Lippe, Bielefeld",
     "Text":""
   },
@@ -10033,10 +10037,6 @@
   },
   {
     "Firma":"Krankenhaus Bad Doberan GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Krankenhausverbund Barmherzige Brüder",
     "Text":""
   },
   {
@@ -12873,7 +12873,7 @@
   },
   {
     "Firma":"Philips",
-    "Text":""
+    "Text":"Philips Respironics"
   },
   {
     "Firma":"Philotech Systementwicklung und Software GmbH",
@@ -13297,10 +13297,6 @@
   },
   {
     "Firma":"Prof. Roland Koch, Bad Muskau",
-    "Text":""
-  },
-  {
-    "Firma":"Prof. Ulrich L. Rohde",
     "Text":""
   },
   {
@@ -17100,10 +17096,6 @@
     "Text":""
   },
   {
-    "Firma":"Ulrich L. Rohde Stiftung",
-    "Text":""
-  },
-  {
     "Firma":"Ulrich Walter GmbH",
     "Text":""
   },
@@ -19605,6 +19597,30 @@
   },
   {
     "Firma":"Debeka",
+    "Text":""
+  },
+  {
+    "Firma":"Stiftung für die Rechte zukünftiger Generationen",
+    "Text":""
+  },
+  {
+    "Firma":"Holtzbrinck-Stiftung",
+    "Text":""
+  },
+  {
+    "Firma":"ResMed GmbH & Co. KG",
+    "Text":""
+  },
+  {
+    "Firma":"PolyAn GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"ING-DiBa AG",
+    "Text":""
+  },
+  {
+    "Firma":"MAIRDUMONT",
     "Text":""
   }
 ]
