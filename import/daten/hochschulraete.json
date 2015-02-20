@@ -2378,15 +2378,6 @@
   {
     "Bundesland":"Hessen",
     "Uni":"Universität Kassel",
-    "Name":"Dr.-Ing. Günther Cramer",
-    "Funktion":"",
-    "Unternehmen":"SMA Solar Technology AG",
-    "Alternativname":"",
-    "Quelle":"https://www.uni-kassel.de/uni/universitaet/ueber-uns/universitaetsleitung/hochschulrat.html"
-  },
-  {
-    "Bundesland":"Hessen",
-    "Uni":"Universität Kassel",
     "Name":"Prof. Dr. Ing. Werner Neubauer",
     "Funktion":"",
     "Unternehmen":"Volkswagen",
@@ -2504,7 +2495,7 @@
   {
     "Bundesland":"Hessen",
     "Uni":"Hochschule für Gestaltung Offenbach",
-    "Name":"Sylvia von Metzler",
+    "Name":"Sylvia von Metzler (Mitglied im HR in Eigenschaft als Mäzenin)",
     "Funktion":"",
     "Unternehmen":"Bankhaus Metzler seel. Sohn & Co. KGaA",
     "Alternativname":"",
@@ -2513,11 +2504,38 @@
   {
     "Bundesland":"Hessen",
     "Uni":"Hochschule RheinMain (FH)",
-    "Name":"Herr Dr. Tobias Sünner",
+    "Name":"Prof. Dr. Tobias Sünner",
     "Funktion":"",
     "Unternehmen":"Opel",
     "Alternativname":"",
     "Quelle":"http://www.hs-rm.de/hochschule/ueber/gremien/hochschulrat/"
+  },
+  {
+    "Bundesland":"Hessen",
+    "Uni":"Hochschule RheinMain (FH)",
+    "Name":"Katharina Herrmann",
+    "Funktion":"",
+    "Unternehmen":"ING-DiBa AG",
+    "Alternativname":"",
+    "Quelle":"Hinweis"
+  },
+  {
+    "Bundesland":"Hessen",
+    "Uni":"Hochschule RheinMain (FH)",
+    "Name":"RA Jörg E. Feuchthofen",
+    "Funktion":"",
+    "Unternehmen":"Vereinigung der hessischen Unternehmerverbände",
+    "Alternativname":"",
+    "Quelle":"Hinweis"
+  },
+  {
+    "Bundesland":"Hessen",
+    "Uni":"Hochschule RheinMain (FH)",
+    "Name":"Joachim Nolde",
+    "Funktion":"",
+    "Unternehmen":"IHK Wiesbaden",
+    "Alternativname":"",
+    "Quelle":"Hinweis"
   },
   {
     "Bundesland":"Hessen",
@@ -3044,7 +3062,7 @@
   {
     "Bundesland":"Baden-Württemberg",
     "Uni":"FH Stuttgart, H der Medien",
-    "Name":"Dr. Jürgen Rautert",
+    "Name":"Dr. Jürgen Rautert (bis 2014)",
     "Funktion":"Vorsitzender",
     "Unternehmen":"WashTec AG",
     "Alternativname":"",
@@ -3053,7 +3071,16 @@
   {
     "Bundesland":"Baden-Württemberg",
     "Uni":"FH Stuttgart, H der Medien",
-    "Name":"Dr. Friedrich Wehrle",
+    "Name":"Dr. Stephanie Mair-Huydts",
+    "Funktion":"",
+    "Unternehmen":"MAIRDUMONT",
+    "Alternativname":"",
+    "Quelle":"https://www.hdm-stuttgart.de/hochschule/organisation/organigramm/hochschulrat"
+  },
+  {
+    "Bundesland":"Baden-Württemberg",
+    "Uni":"FH Stuttgart, H der Medien",
+    "Name":"Dr. Friedrich Wehrle (ehemalige Motor Presse))",
     "Funktion":"",
     "Unternehmen":"Motor Presse Stuttgart",
     "Alternativname":"",
