@@ -2562,8 +2562,8 @@ var searchdb = {
 			"slug": "admedes-schuessler-gmbh"
 		},
 		{
-			"name": "Adolf I. Döpfert-Stiftung Ludwigsburg",
-			"slug": "adolf-i-doepfert-stiftung-ludwigsburg"
+			"name": "Adolf I. Döpert-Stiftung Ludwigsburg",
+			"slug": "adolf-i-doepert-stiftung-ludwigsburg"
 		},
 		{
 			"name": "Adolf Illig GmbH & Co.",
@@ -10614,6 +10614,10 @@ var searchdb = {
 			"slug": "ihk-siegen-wittgenstein"
 		},
 		{
+			"name": "IHK Wiesbaden",
+			"slug": "ihk-wiesbaden"
+		},
+		{
 			"name": "IHK-Akademie Ostwestfalen-Lippe, Bielefeld",
 			"slug": "ihk-akademie-ostwestfalen-lippe-bielefeld"
 		},
@@ -12316,10 +12320,6 @@ var searchdb = {
 		{
 			"name": "Krankenhaus Bad Doberan GmbH",
 			"slug": "krankenhaus-bad-doberan-gmbh"
-		},
-		{
-			"name": "Krankenhausverbund Barmherzige Brüder",
-			"slug": "krankenhausverbund-barmherzige-brueder"
 		},
 		{
 			"name": "Krause-Biagosch GmbH, Bielefeld",
@@ -15580,10 +15580,6 @@ var searchdb = {
 		{
 			"name": "Prof. Roland Koch, Bad Muskau",
 			"slug": "prof-roland-koch-bad-muskau"
-		},
-		{
-			"name": "Prof. Ulrich L. Rohde",
-			"slug": "prof-ulrich-l-rohde"
 		},
 		{
 			"name": "Prof. Vierhaus",
@@ -19374,10 +19370,6 @@ var searchdb = {
 			"slug": "ulmer-universitaetsgesellschaft-e-v"
 		},
 		{
-			"name": "Ulrich L. Rohde Stiftung",
-			"slug": "ulrich-l-rohde-stiftung"
-		},
-		{
 			"name": "Ulrich Walter GmbH",
 			"slug": "ulrich-walter-gmbh"
 		},
@@ -21860,6 +21852,34 @@ var searchdb = {
 		{
 			"name": "Debeka",
 			"slug": "debeka"
+		},
+		{
+			"name": "Stiftung für die Rechte zukünftiger Generationen",
+			"slug": "stiftung-fuer-die-rechte-zukuenftiger-generationen"
+		},
+		{
+			"name": "Holtzbrinck-Stiftung",
+			"slug": "holtzbrinck-stiftung"
+		},
+		{
+			"name": "ResMed GmbH & Co. KG",
+			"slug": "resmed-gmbh-co-kg"
+		},
+		{
+			"name": "PolyAn GmbH",
+			"slug": "polyan-gmbh"
+		},
+		{
+			"name": "ING-DiBa AG",
+			"slug": "ing-diba-ag"
+		},
+		{
+			"name": "MAIRDUMONT",
+			"slug": "mairdumont"
+		},
+		{
+			"name": "Vereinigung der hessischen Unternehmerverbände",
+			"slug": "vereinigung-der-hessischen-unternehmerverbaende"
 		}
 	]
 };
