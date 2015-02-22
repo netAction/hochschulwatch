@@ -3462,16 +3462,6 @@
   {
     "uID":"1223",
     "Name":"Universität Mainz",
-    "Förderer":"ThyssenKrupp",
-    "Wert":"",
-    "Hinweis":"Fritz-Thyssen-Foundation: Reactivating the long-term unemployed more effectively: Evidence from a randomized controlled field study (2012 � 2014)",
-    "Alternativname":"",
-    "Quelle":"http://wiwi.uni-mainz.de/926_DEU_HTML.php",
-    "Quelle 2":""
-  },
-  {
-    "uID":"1223",
-    "Name":"Universität Mainz",
     "Förderer":"Mann + Hummel GmbH",
     "Wert":"",
     "Hinweis":"MANN+HUMMEL GmbH: Theorie trifft Praxis mit MANN+HUMMEL (2011)",
@@ -7308,16 +7298,6 @@
     "Alternativname":"",
     "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
     "Quelle 2":""
-  },
-  {
-    "uID":"261",
-    "Name":"Universität Rostock (ohne Klinikum)",
-    "Förderer":"ThyssenKrupp",
-    "Wert":"mehr als 50000",
-    "Hinweis":"Drittmittel in den Jahren 2013 und 2014",
-    "Alternativname":"",
-    "Quelle":"https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606",
-    "Quelle 2":"Fritz Thyssen Stiftung"
   },
   {
     "uID":"261",
