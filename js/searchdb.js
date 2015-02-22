@@ -301,9 +301,9 @@ var searchdb = {
 			"slug": "hochschule-fuer-technik-stuttgart"
 		},
 		{
-			"name": "FH Stuttgart, H der Medien",
+			"name": "Hochschule der Medien Stuttgart",
 			"bundesland": "Baden-Württemberg",
-			"slug": "fh-stuttgart-h-der-medien"
+			"slug": "hochschule-der-medien-stuttgart"
 		},
 		{
 			"name": "Hochschule Ulm",
@@ -611,9 +611,9 @@ var searchdb = {
 			"slug": "hochschule-fuer-angewandte-wissenschaften-hof"
 		},
 		{
-			"name": "Hochschule für angewandte Wissenschaft Ingolstadt",
+			"name": "Technische Hochschule Ingolstadt",
 			"bundesland": "Bayern",
-			"slug": "hochschule-fuer-angewandte-wissenschaft-ingolstadt"
+			"slug": "technische-hochschule-ingolstadt"
 		},
 		{
 			"name": "Hochschule Amberg-Weiden",
@@ -2151,9 +2151,9 @@ var searchdb = {
 			"slug": "hochschule-merseburg-fh"
 		},
 		{
-			"name": "Hochschule Magdeburg-Stendal (FH)",
+			"name": "Hochschule Magdeburg-Stendal",
 			"bundesland": "Sachsen-Anhalt",
-			"slug": "hochschule-magdeburg-stendal-fh"
+			"slug": "hochschule-magdeburg-stendal"
 		},
 		{
 			"name": "Hochschule Harz (FH)",
@@ -17122,8 +17122,8 @@ var searchdb = {
 			"slug": "semcon-holding-gmbh-co-kg"
 		},
 		{
-			"name": "Semikron Elektronik GmbH & Co. KG",
-			"slug": "semikron-elektronik-gmbh-co-kg"
+			"name": "Semikron",
+			"slug": "semikron"
 		},
 		{
 			"name": "Senacor Technologies AG",
@@ -21880,6 +21880,26 @@ var searchdb = {
 		{
 			"name": "Vereinigung der hessischen Unternehmerverbände",
 			"slug": "vereinigung-der-hessischen-unternehmerverbaende"
+		},
+		{
+			"name": "Freescale",
+			"slug": "freescale"
+		},
+		{
+			"name": "Sparkasse Nürnberg",
+			"slug": "sparkasse-nuernberg"
+		},
+		{
+			"name": "PAMEC Ingenieurgesellschaft",
+			"slug": "pamec-ingenieurgesellschaft"
+		},
+		{
+			"name": "Staedler",
+			"slug": "staedler"
+		},
+		{
+			"name": "Morgan Stanley Bank AG",
+			"slug": "morgan-stanley-bank-ag"
 		}
 	]
 };
