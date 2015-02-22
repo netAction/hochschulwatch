@@ -919,7 +919,7 @@
   },
   {
     "Bundesland":"Sachsen-Anhalt",
-    "Uni":"Hochschule Magdeburg-Stendal (FH)",
+    "Uni":"Hochschule Magdeburg-Stendal",
     "Name":"Dr. Lutz Petermann",
     "Funktion":"",
     "Unternehmen":"FAM Magdeburger Förderanlagen und Baumaschinen GmbH",
@@ -928,7 +928,7 @@
   },
   {
     "Bundesland":"Sachsen-Anhalt",
-    "Uni":"Hochschule Magdeburg-Stendal (FH)",
+    "Uni":"Hochschule Magdeburg-Stendal",
     "Name":"Klemens Gutmann",
     "Funktion":"",
     "Unternehmen":"regiocom GmbH",
@@ -1972,7 +1972,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule für angewandte Wissenschaft Ingolstadt",
+    "Uni":"Technische Hochschule Ingolstadt",
     "Name":"Dipl.-Ing. Reinhard Büchl",
     "Funktion":"Vorsitzender",
     "Unternehmen":"Büchl Entsorgungswirtschaft GmbH",
@@ -1981,7 +1981,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule für angewandte Wissenschaft Ingolstadt",
+    "Uni":"Technische Hochschule Ingolstadt",
     "Name":"Prof. Dr.-Ing. Sebastian Bauer",
     "Funktion":"",
     "Unternehmen":"Bauer Maschinen GmbH",
@@ -1990,8 +1990,8 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule für angewandte Wissenschaft Ingolstadt",
-    "Name":"Dipl.-Ing. Frank Dreves",
+    "Uni":"Technische Hochschule Ingolstadt",
+    "Name":"Dr.-Ing. Hubert Waltl",
     "Funktion":"",
     "Unternehmen":"Audi",
     "Alternativname":"",
@@ -1999,7 +1999,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule für angewandte Wissenschaft Ingolstadt",
+    "Uni":"Technische Hochschule Ingolstadt",
     "Name":"Dr. Gerlinde Honold",
     "Funktion":"",
     "Unternehmen":"Airbus Group",
@@ -2008,7 +2008,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule für angewandte Wissenschaft Ingolstadt",
+    "Uni":"Technische Hochschule Ingolstadt",
     "Name":"Janina Kugel",
     "Funktion":"",
     "Unternehmen":"Siemens",
@@ -2017,7 +2017,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule für angewandte Wissenschaft Ingolstadt",
+    "Uni":"Technische Hochschule Ingolstadt",
     "Name":"Stephanie Spinner-König",
     "Funktion":"",
     "Unternehmen":"Spinner GmbH",
@@ -2026,7 +2026,7 @@
   },
   {
     "Bundesland":"Bayern",
-    "Uni":"Hochschule für angewandte Wissenschaft Ingolstadt",
+    "Uni":"Technische Hochschule Ingolstadt",
     "Name":"Leopold Stiefel",
     "Funktion":"",
     "Unternehmen":"Media-Saturn-Holding GmbH",
@@ -2481,16 +2481,7 @@
     "Funktion":"Vorsitzender",
     "Unternehmen":"DVAG Deutsche Vermögensberatung",
     "Alternativname":"",
-    "Quelle":"http://www.hfg-offenbach.de/w3.php?nodeId=2121"
-  },
-  {
-    "Bundesland":"Hessen",
-    "Uni":"Hochschule für Gestaltung Offenbach",
-    "Name":"Alfred Clouth (bis 2014)",
-    "Funktion":"",
-    "Unternehmen":"Alfred Clouth Lackfabrik",
-    "Alternativname":"",
-    "Quelle":"http://www.hfg-offenbach.de/w3.php?nodeId=2121"
+    "Quelle":"http://www.hfg-offenbach.de/de/pages/hochschulrat#ueber"
   },
   {
     "Bundesland":"Hessen",
@@ -2499,7 +2490,25 @@
     "Funktion":"",
     "Unternehmen":"Bankhaus Metzler seel. Sohn & Co. KGaA",
     "Alternativname":"",
-    "Quelle":"http://www.hfg-offenbach.de/w3.php?nodeId=2121"
+    "Quelle":"http://www.hfg-offenbach.de/de/pages/hochschulrat#ueber"
+  },
+  {
+    "Bundesland":"Hessen",
+    "Uni":"Hochschule für Gestaltung Offenbach",
+    "Name":"Lutz Raettig",
+    "Funktion":"",
+    "Unternehmen":"Morgan Stanley Bank AG",
+    "Alternativname":"",
+    "Quelle":"http://www.hfg-offenbach.de/de/pages/hochschulrat#ueber"
+  },
+  {
+    "Bundesland":"Hessen",
+    "Uni":"Hochschule für Gestaltung Offenbach",
+    "Name":"Alfred Clouth (bis 2014)",
+    "Funktion":"",
+    "Unternehmen":"Alfred Clouth Lackfabrik",
+    "Alternativname":"",
+    "Quelle":"http://www.hfg-offenbach.de/de/pages/hochschulrat#ueber"
   },
   {
     "Bundesland":"Hessen",
@@ -3061,8 +3070,8 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"FH Stuttgart, H der Medien",
-    "Name":"Dr. Jürgen Rautert (bis 2014)",
+    "Uni":"Hochschule der Medien Stuttgart",
+    "Name":"Dr. Jürgen Rautert (bis 2015 Vorstand von WasTech)",
     "Funktion":"Vorsitzender",
     "Unternehmen":"WashTec AG",
     "Alternativname":"",
@@ -3070,7 +3079,7 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"FH Stuttgart, H der Medien",
+    "Uni":"Hochschule der Medien Stuttgart",
     "Name":"Dr. Stephanie Mair-Huydts",
     "Funktion":"",
     "Unternehmen":"MAIRDUMONT",
@@ -3079,8 +3088,8 @@
   },
   {
     "Bundesland":"Baden-Württemberg",
-    "Uni":"FH Stuttgart, H der Medien",
-    "Name":"Dr. Friedrich Wehrle (ehemalige Motor Presse))",
+    "Uni":"Hochschule der Medien Stuttgart",
+    "Name":"Dr. Friedrich Wehrle (ehemaliger Geschäftsführer)",
     "Funktion":"",
     "Unternehmen":"Motor Presse Stuttgart",
     "Alternativname":"",
