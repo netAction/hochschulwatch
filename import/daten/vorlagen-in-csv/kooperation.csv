@@ -345,7 +345,6 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1210;TU Kaiserslautern;;;;;;
 1223;Universität Mainz;Deutsche Post;180000;Deutsche Post DHL: ''Flexible Bezirksschneidung'' (2014 � 2016);;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
 1223;Universität Mainz;Jacobs;490000;Jacobs-Foundation: ''KIDS-WIN: Enhancing cognitive and motivational skills in children: An intervention study with primary school children'' (2012 � 2014);;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
-1223;Universität Mainz;ThyssenKrupp;;Fritz-Thyssen-Foundation: Reactivating the long-term unemployed more effectively: Evidence from a randomized controlled field study (2012 � 2014);;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
 1223;Universität Mainz;Mann + Hummel GmbH;;MANN+HUMMEL GmbH: Theorie trifft Praxis mit MANN+HUMMEL (2011);;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
 1223;Universität Mainz;KPMG;;KPMG: Accounting and Taxation in Kooperation mit KPMG (2011 � 2013);;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
 1230;Hochschule für Verwaltungswissenschaften Speyer;;;;;;
@@ -430,7 +429,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 6830;Hochschule Reutlingen;;;;;;
 6840;Hochschule Albstadt-Sigmaringen (FH);;;;;;
 6850;Hochschule für Technik Stuttgart;;;;;;
-6860;FH Stuttgart, H der Medien;;;;;;
+6860;Hochschule der Medien Stuttgart;;;;;;
 6870;Hochschule Ulm;;;;;;
 7050;Hochschule für Gestaltung Schwäbisch Gmünd;;;;;;
 7110;Hochschule für Forstwirtschaft Rottenburg (FH);;;;;;
@@ -491,7 +490,17 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 7210;Hochschule Augsburg;Patrizia AG;;Hörsaalsponsoring;;http://www.hs-augsburg.de/hochschule/foerderung/partner/;
 7220;Hochschule Coburg;;;;;;
 7240;Hochschule München;;;;;;
-7250;Technische Hochschule Nürnberg Georg Simon Ohm;;;;;;
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;Hays AG;;Hörsaalsponsoring;;http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html;
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;Freescale;;Sponsoring 3 Labore;;http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html;
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;Schaeffler Gruppe;;Hörsaalsponsoring;;http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html;
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;Ferchau Engineering;;Hörsaalsponsoring;;http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html;
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;Bionorica AG;;Hörsaalsponsoring;;http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html;
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;PAMEC Ingenieurgesellschaft;;Hörsaalsponsoring;;http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html;
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;Sparkasse Nürnberg;;Hörsaalsponsoring;;http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html;
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;Semikron;;Hörsaalsponsoring;;http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html;
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;GAUFF GmbH & Co. Engineering KG;;Hörsaalsponsoring;;http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html;
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;Staedler;;Hörsaalsponsoring;;http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html;
+7250;Technische Hochschule Nürnberg Georg Simon Ohm;Euro Engineering;;Hörsaalsponsoring;;http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html;
 7260;FH Regensburg;;;;;;
 7300;FH Rosenheim;;;;;;
 7310;Hochschule Weihenstephan-Triesdorf;;;;;;
@@ -580,7 +589,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 7450;Hochschule Landshut;;;;;;
 7520;Technische Hochschule Deggendorf;;;;;;
 7530;Hochschule für Angewandte Wissenschaften Hof;;;;;;
-7540;Hochschule für angewandte Wissenschaft Ingolstadt;;;;;;
+7540;Technische Hochschule Ingolstadt;;;;;;
 7550;Hochschule Amberg-Weiden;;;;;;
 7560;FH Ansbach;;;;;;
 7570;Hochschule Neu-Ulm;;;;;;
@@ -609,7 +618,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 201;Humboldt-Universität zu Berlin;Deutsche Bank;;ehemalige Stiftungsprofessur unter fraglichen Bedingungen;https://http//www.spiegel.de/unispiegel/studium/deutsche-bank-deal-mit-berliner-unis-kauf-dir-einen-prof-a-765337.html;;
 201;Humboldt-Universität zu Berlin;Deutsches Atomforum;135000;Studie in Auftrag;https://http//www.taz.de/!89878/;;
 1381;FU Berlin;;;;;;
-1690;TU Berlin;Volkswagen-Stiftung;5113000;Sponsoring Bibliothek;;http://pardok.parlament-berlin.de/starweb/adis/citat/VT/15/DruckSachen/d15-1800-01.pdf;
+1690;TU Berlin;Volkswagen;5113000;Sponsoring Volkswagen-Bibliothek;;http://pardok.parlament-berlin.de/starweb/adis/citat/VT/15/DruckSachen/d15-1800-01.pdf;
 1690;TU Berlin;Deutsche Bank;;ehemalige Stiftungsprofessur unter fraglichen Bedingungen;;http://www.spiegel.de/unispiegel/studium/deutsche-bank-deal-mit-berliner-unis-kauf-dir-einen-prof-a-765337.html;
 1690;TU Berlin;Bayer;;Förderer;Bayer-Stiftungen;https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/;
 1690;TU Berlin;Berliner Stadtreinigung;;Förderer;;https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/;
@@ -640,7 +649,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 2510;Weißensee Kunsthochschule Berlin;;;;;;
 2520;Hochschule für Musik Berlin Hanns Eisler;;;;;;
 2540;Hochschule für Schauspielkunst Berlin Ernst Busch;;;;;;
-2790;Universität der Künste Berlin;;;;;;
+2790;Universität der Künste Berlin;Volkswagen;5113000;Sponsoring Volkswagen-Bibliothek;;http://pardok.parlament-berlin.de/starweb/adis/citat/VT/15/DruckSachen/d15-1800-01.pdf;
 100;Berliner Technische Kunsthochschule;;;;;;
 160;EBC Hochschule Berlin (Priv. FH);;;;;;
 170;Touro College Berlin;;;;;;
@@ -720,7 +729,6 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 261;Universität Rostock (ohne Klinikum);Evonik;mehr als 50000;Drittmittel in den Jahren 2013 und 2014;Evonik Industries AG;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);Forschungskuratorium Maschinenbau e.V. (FKM e.V.);mehr als 50000;Drittmittel in den Jahren 2013 und 2014;;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);Forschungsstiftung Ostsee;mehr als 50000;Drittmittel in den Jahren 2013 und 2014;;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
-261;Universität Rostock (ohne Klinikum);ThyssenKrupp;mehr als 50000;Drittmittel in den Jahren 2013 und 2014;;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;Fritz Thyssen Stiftung
 261;Universität Rostock (ohne Klinikum);Helmholtz Zentrum München;mehr als 50000;Drittmittel in den Jahren 2013 und 2014;;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);HERO Hafen-Entwicklungsgesellschaft Rostock GmbH;mehr als 50000;Drittmittel in den Jahren 2013 und 2014;;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);IAV GmbH;mehr als 50000;Drittmittel in den Jahren 2013 und 2014;;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
@@ -809,7 +817,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 2600;Burg Giebichenstein Kunsthochschule, Halle;;;;;;
 3000;Evang. Hochschule für Kirchenmusik Halle;;;;;;
 8000;Hochschule Merseburg (FH);;;;;;
-8010;Hochschule Magdeburg-Stendal (FH);;;;;;
+8010;Hochschule Magdeburg-Stendal;;;;;;
 8020;Hochschule Harz (FH);;;;;;
 8030;Hochschule Anhalt (FH);;;;;;
 8060;FH Polizei Sachsen-Anhalt, Aschersleben;;;;;;
