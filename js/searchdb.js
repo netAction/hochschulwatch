@@ -931,11 +931,6 @@ var searchdb = {
 			"slug": "fh-der-polizei-brandenburg-verwfh-in-oranienburg"
 		},
 		{
-			"name": "Universität Rostock (Klinikum)",
-			"bundesland": "Brandenburg",
-			"slug": "universitaet-rostock-klinikum"
-		},
-		{
 			"name": "Jacobs University Bremen (Priv. H)",
 			"bundesland": "Bremen",
 			"slug": "jacobs-university-bremen-priv-h"
@@ -1259,6 +1254,11 @@ var searchdb = {
 			"name": "FH Bund, FB Landwirtschaftliche Sozialversicherung in Kassel",
 			"bundesland": "Hessen",
 			"slug": "fh-bund-fb-landwirtschaftliche-sozialversicherung-in-kassel"
+		},
+		{
+			"name": "Universität Rostock (Klinikum)",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "universitaet-rostock-klinikum"
 		},
 		{
 			"name": "Universität Greifswald (Klinikum)",
