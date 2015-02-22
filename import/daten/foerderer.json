@@ -14840,7 +14840,7 @@
     "Text":""
   },
   {
-    "Firma":"Semikron Elektronik GmbH & Co. KG",
+    "Firma":"Semikron",
     "Text":""
   },
   {
@@ -19625,6 +19625,26 @@
   },
   {
     "Firma":"Vereinigung der hessischen Unternehmerverbände",
+    "Text":""
+  },
+  {
+    "Firma":"Freescale",
+    "Text":""
+  },
+  {
+    "Firma":"Sparkasse Nürnberg",
+    "Text":""
+  },
+  {
+    "Firma":"PAMEC Ingenieurgesellschaft",
+    "Text":""
+  },
+  {
+    "Firma":"Staedler",
+    "Text":""
+  },
+  {
+    "Firma":"Morgan Stanley Bank AG",
     "Text":""
   }
 ]
