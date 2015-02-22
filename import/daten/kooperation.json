@@ -4311,7 +4311,7 @@
   },
   {
     "uID":"6860",
-    "Name":"FH Stuttgart, H der Medien",
+    "Name":"Hochschule der Medien Stuttgart",
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
@@ -4922,11 +4922,111 @@
   {
     "uID":"7250",
     "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
-    "Förderer":"",
+    "Förderer":"Hays AG",
     "Wert":"",
-    "Hinweis":"",
+    "Hinweis":"Hörsaalsponsoring",
     "Alternativname":"",
-    "Quelle":"",
+    "Quelle":"http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html",
+    "Quelle 2":""
+  },
+  {
+    "uID":"7250",
+    "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
+    "Förderer":"Freescale",
+    "Wert":"",
+    "Hinweis":"Sponsoring 3 Labore",
+    "Alternativname":"",
+    "Quelle":"http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html",
+    "Quelle 2":""
+  },
+  {
+    "uID":"7250",
+    "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
+    "Förderer":"Schaeffler Gruppe",
+    "Wert":"",
+    "Hinweis":"Hörsaalsponsoring",
+    "Alternativname":"",
+    "Quelle":"http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html",
+    "Quelle 2":""
+  },
+  {
+    "uID":"7250",
+    "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
+    "Förderer":"Ferchau Engineering",
+    "Wert":"",
+    "Hinweis":"Hörsaalsponsoring",
+    "Alternativname":"",
+    "Quelle":"http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html",
+    "Quelle 2":""
+  },
+  {
+    "uID":"7250",
+    "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
+    "Förderer":"Bionorica AG",
+    "Wert":"",
+    "Hinweis":"Hörsaalsponsoring",
+    "Alternativname":"",
+    "Quelle":"http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html",
+    "Quelle 2":""
+  },
+  {
+    "uID":"7250",
+    "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
+    "Förderer":"PAMEC Ingenieurgesellschaft",
+    "Wert":"",
+    "Hinweis":"Hörsaalsponsoring",
+    "Alternativname":"",
+    "Quelle":"http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html",
+    "Quelle 2":""
+  },
+  {
+    "uID":"7250",
+    "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
+    "Förderer":"Sparkasse Nürnberg",
+    "Wert":"",
+    "Hinweis":"Hörsaalsponsoring",
+    "Alternativname":"",
+    "Quelle":"http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html",
+    "Quelle 2":""
+  },
+  {
+    "uID":"7250",
+    "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
+    "Förderer":"Semikron",
+    "Wert":"",
+    "Hinweis":"Hörsaalsponsoring",
+    "Alternativname":"",
+    "Quelle":"http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html",
+    "Quelle 2":""
+  },
+  {
+    "uID":"7250",
+    "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
+    "Förderer":"GAUFF GmbH & Co. Engineering KG",
+    "Wert":"",
+    "Hinweis":"Hörsaalsponsoring",
+    "Alternativname":"",
+    "Quelle":"http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html",
+    "Quelle 2":""
+  },
+  {
+    "uID":"7250",
+    "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
+    "Förderer":"Staedler",
+    "Wert":"",
+    "Hinweis":"Hörsaalsponsoring",
+    "Alternativname":"",
+    "Quelle":"http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html",
+    "Quelle 2":""
+  },
+  {
+    "uID":"7250",
+    "Name":"Technische Hochschule Nürnberg Georg Simon Ohm",
+    "Förderer":"Euro Engineering",
+    "Wert":"",
+    "Hinweis":"Hörsaalsponsoring",
+    "Alternativname":"",
+    "Quelle":"http://www.th-nuernberg.de/seitenbaum/home/hochschulkommunikation/sponsoring-und-werbung-am-ohm/hoersaal-sponsoring/unsere-partner/page.html",
     "Quelle 2":""
   },
   {
@@ -5811,7 +5911,7 @@
   },
   {
     "uID":"7540",
-    "Name":"Hochschule für angewandte Wissenschaft Ingolstadt",
+    "Name":"Technische Hochschule Ingolstadt",
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
@@ -6102,9 +6202,9 @@
   {
     "uID":"1690",
     "Name":"TU Berlin",
-    "Förderer":"Volkswagen-Stiftung",
+    "Förderer":"Volkswagen",
     "Wert":"5113000",
-    "Hinweis":"Sponsoring Bibliothek",
+    "Hinweis":"Sponsoring Volkswagen-Bibliothek",
     "Alternativname":"",
     "Quelle":"http://pardok.parlament-berlin.de/starweb/adis/citat/VT/15/DruckSachen/d15-1800-01.pdf",
     "Quelle 2":""
@@ -6412,11 +6512,11 @@
   {
     "uID":"2790",
     "Name":"Universität der Künste Berlin",
-    "Förderer":"",
-    "Wert":"",
-    "Hinweis":"",
+    "Förderer":"Volkswagen",
+    "Wert":"5113000",
+    "Hinweis":"Sponsoring Volkswagen-Bibliothek",
     "Alternativname":"",
-    "Quelle":"",
+    "Quelle":"http://pardok.parlament-berlin.de/starweb/adis/citat/VT/15/DruckSachen/d15-1800-01.pdf",
     "Quelle 2":""
   },
   {
@@ -8101,7 +8201,7 @@
   },
   {
     "uID":"8010",
-    "Name":"Hochschule Magdeburg-Stendal (FH)",
+    "Name":"Hochschule Magdeburg-Stendal",
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
