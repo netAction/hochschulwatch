@@ -1758,7 +1758,7 @@
     "Fördersumme pro Jahr":"",
     "Fördersumme insgesamt":"",
     "Laufzeit":"",
-    "Startpunkt":"",
+    "Startpunkt":"2012",
     "Quelle":"",
     "Alternativname":"",
     "Status":""
@@ -5503,7 +5503,7 @@
   },
   {
     "Land":"Baden-Württemberg",
-    "Hochschule":"FH Stuttgart, H der Medien",
+    "Hochschule":"Hochschule der Medien Stuttgart",
     "Fakultät":"",
     "Stiftungsprofessur":"Konstruktion und Gesamtherstellung von graphischen Produkten",
     "Stifter":"Adolf I. Döpert-Stiftung Ludwigsburg",
@@ -11327,20 +11327,6 @@
   },
   {
     "Land":"Bayern",
-    "Hochschule":"Universität Augsburg",
-    "Fakultät":"",
-    "Stiftungsprofessur":"Finanzcontrolling",
-    "Stifter":"DekaBank",
-    "Fördersumme pro Jahr":"300000",
-    "Fördersumme insgesamt":"",
-    "Laufzeit":"unbefristet",
-    "Startpunkt":"2008",
-    "Quelle":"",
-    "Alternativname":"",
-    "Status":""
-  },
-  {
-    "Land":"Bayern",
     "Hochschule":"Hochschule Augsburg",
     "Fakultät":"Maschinenbau",
     "Stiftungsprofessur":"Professur für Mechatronik",
@@ -11839,6 +11825,20 @@
     "Fördersumme insgesamt":"337300",
     "Laufzeit":"3 Jahre",
     "Startpunkt":"2013",
+    "Quelle":"",
+    "Alternativname":"",
+    "Status":""
+  },
+  {
+    "Land":"Bayern",
+    "Hochschule":"Universität Passau",
+    "Fakultät":"",
+    "Stiftungsprofessur":"Finanzcontrolling",
+    "Stifter":"DekaBank",
+    "Fördersumme pro Jahr":"300000",
+    "Fördersumme insgesamt":"",
+    "Laufzeit":"unbefristet",
+    "Startpunkt":"2008",
     "Quelle":"",
     "Alternativname":"",
     "Status":""
@@ -13371,7 +13371,7 @@
   },
   {
     "Land":"Bayern",
-    "Hochschule":"Technische Hochschule Ingolstadt (FH)",
+    "Hochschule":"Technische Hochschule Ingolstadt",
     "Fakultät":"",
     "Stiftungsprofessur":"Internationales Handelsmanagement, Strategisches Marketing und Innovationsmanagement",
     "Stifter":"",
@@ -13385,7 +13385,7 @@
   },
   {
     "Land":"Bayern",
-    "Hochschule":"Technische Hochschule Ingolstadt (FH)",
+    "Hochschule":"Technische Hochschule Ingolstadt",
     "Fakultät":"",
     "Stiftungsprofessur":"Handelsmarketing, Personal- und Organisationsmanagement",
     "Stifter":"",
@@ -13399,7 +13399,7 @@
   },
   {
     "Land":"Bayern",
-    "Hochschule":"Technische Hochschule Ingolstadt (FH)",
+    "Hochschule":"Technische Hochschule Ingolstadt",
     "Fakultät":"",
     "Stiftungsprofessur":"International Retail Management und Marketing",
     "Stifter":"",
@@ -13413,7 +13413,7 @@
   },
   {
     "Land":"Bayern",
-    "Hochschule":"Technische Hochschule Ingolstadt (FH)",
+    "Hochschule":"Technische Hochschule Ingolstadt",
     "Fakultät":"",
     "Stiftungsprofessur":"Wirtschaftsprivatrecht",
     "Stifter":"",
@@ -13427,7 +13427,7 @@
   },
   {
     "Land":"Bayern",
-    "Hochschule":"Technische Hochschule Ingolstadt (FH)",
+    "Hochschule":"Technische Hochschule Ingolstadt",
     "Fakultät":"",
     "Stiftungsprofessur":"Beschaffungsmanagement und Betriebswirtschaftslehre",
     "Stifter":"",
@@ -13441,7 +13441,7 @@
   },
   {
     "Land":"Bayern",
-    "Hochschule":"Technische Hochschule Ingolstadt (FH)",
+    "Hochschule":"Technische Hochschule Ingolstadt",
     "Fakultät":"",
     "Stiftungsprofessur":"Akustik und Technische Mechanik",
     "Stifter":"",
@@ -13455,7 +13455,7 @@
   },
   {
     "Land":"Bayern",
-    "Hochschule":"Technische Hochschule Ingolstadt (FH)",
+    "Hochschule":"Technische Hochschule Ingolstadt",
     "Fakultät":"",
     "Stiftungsprofessur":"Systemtechnik in sicherheitsgerichteten Anwendungen",
     "Stifter":"",
@@ -13469,7 +13469,7 @@
   },
   {
     "Land":"Bayern",
-    "Hochschule":"Technische Hochschule Ingolstadt (FH)",
+    "Hochschule":"Technische Hochschule Ingolstadt",
     "Fakultät":"",
     "Stiftungsprofessur":"Fahrzeugsicherheit und Signalverarbeitung",
     "Stifter":"",
@@ -17266,7 +17266,7 @@
     "Hochschule":"Universität Bonn (ohne Klinikum)",
     "Fakultät":"",
     "Stiftungsprofessur":"Schumpeter Fellowship \"Mikroökonomik\" ",
-    "Stifter":"Volkswagen",
+    "Stifter":"Volkswagen-Stiftung",
     "Fördersumme pro Jahr":"k.A.",
     "Fördersumme insgesamt":"",
     "Laufzeit":"",
