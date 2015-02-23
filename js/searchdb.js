@@ -9674,10 +9674,6 @@ var searchdb = {
 			"slug": "haufe-lexware-gmbh"
 		},
 		{
-			"name": "Hauptstadt Hannover",
-			"slug": "hauptstadt-hannover"
-		},
-		{
 			"name": "Haus + Grund Braunschweig, Braunschweig",
 			"slug": "haus-grund-braunschweig-braunschweig"
 		},
@@ -19428,6 +19424,10 @@ var searchdb = {
 		{
 			"name": "Universität Siegen",
 			"slug": "universitaet-siegen"
+		},
+		{
+			"name": "Universität Hannover",
+			"slug": "universitaet-hannover"
 		},
 		{
 			"name": "Universität Wien Instiutut für Bildungswissenschaft",
