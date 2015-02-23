@@ -21900,6 +21900,14 @@ var searchdb = {
 		{
 			"name": "Morgan Stanley Bank AG",
 			"slug": "morgan-stanley-bank-ag"
+		},
+		{
+			"name": "Heraeus-Kulzer Stiftung",
+			"slug": "heraeus-kulzer-stiftung"
+		},
+		{
+			"name": "Werner-Siemens-Stiftung",
+			"slug": "werner-siemens-stiftung"
 		}
 	]
 };
