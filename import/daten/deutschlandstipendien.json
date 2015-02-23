@@ -21473,7 +21473,7 @@
     "Name":"Universität Halle (ohne Klinikum)",
     "Firma":"Asklepios Fachkliniken GmbH",
     "Alternativname":"",
-    "Quelle":"http://www.uni-halle.de/deutschland-stipendium/wir-sind-dabei/"
+    "Quelle":"http://www.uni-halle.de/deutschland-stipendium/wir-sind-dabei"/
   },
   {
     "uID":"301",
@@ -21541,14 +21541,7 @@
   {
     "uID":"301",
     "Name":"Universität Halle (ohne Klinikum)",
-    "Firma":"Gesellschaft für Wohn- und Gewerbeimmobilien",
-    "Alternativname":"",
-    "Quelle":"http://www.uni-halle.de/deutschland-stipendium/wir-sind-dabei/"
-  },
-  {
-    "uID":"301",
-    "Name":"Universität Halle (ohne Klinikum)",
-    "Firma":"Halle-Neustadt mbH (GWG)",
+    "Firma":"Gesellschaft für Wohn- und Gewerbeimmobilien Halle-Neustadt mbH (GWG)",
     "Alternativname":"",
     "Quelle":"http://www.uni-halle.de/deutschland-stipendium/wir-sind-dabei/"
   },
