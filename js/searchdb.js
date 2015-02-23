@@ -21908,6 +21908,22 @@ var searchdb = {
 		{
 			"name": "Werner-Siemens-Stiftung",
 			"slug": "werner-siemens-stiftung"
+		},
+		{
+			"name": "Dürr Dental AG",
+			"slug": "duerr-dental-ag"
+		},
+		{
+			"name": "Forestadent GmbH",
+			"slug": "forestadent-gmbh"
+		},
+		{
+			"name": "Acandis GmbH & Co. KG",
+			"slug": "acandis-gmbh-co-kg"
+		},
+		{
+			"name": "Stratec Biomedical AG",
+			"slug": "stratec-biomedical-ag"
 		}
 	]
 };
