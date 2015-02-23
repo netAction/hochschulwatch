@@ -21924,6 +21924,46 @@ var searchdb = {
 		{
 			"name": "Stratec Biomedical AG",
 			"slug": "stratec-biomedical-ag"
+		},
+		{
+			"name": "Alfred Kärcher",
+			"slug": "alfred-kaercher"
+		},
+		{
+			"name": "Parkhotel Pforzheim",
+			"slug": "parkhotel-pforzheim"
+		},
+		{
+			"name": "Fa. Omikron",
+			"slug": "fa-omikron"
+		},
+		{
+			"name": "Fa. Stiegele",
+			"slug": "fa-stiegele"
+		},
+		{
+			"name": "Laboratoire Biosthetique Kosmetik",
+			"slug": "laboratoire-biosthetique-kosmetik"
+		},
+		{
+			"name": "Pforzheimer Zeitung",
+			"slug": "pforzheimer-zeitung"
+		},
+		{
+			"name": "Polyrack Tech-Group",
+			"slug": "polyrack-tech-group"
+		},
+		{
+			"name": "Rutronik Elektronische Bauelemente GmbH",
+			"slug": "rutronik-elektronische-bauelemente-gmbh"
+		},
+		{
+			"name": "Volksbank Pforzheim",
+			"slug": "volksbank-pforzheim"
+		},
+		{
+			"name": "WSP Wirtschaft und Stadtmarketing Pforzheim",
+			"slug": "wsp-wirtschaft-und-stadtmarketing-pforzheim"
 		}
 	]
 };
