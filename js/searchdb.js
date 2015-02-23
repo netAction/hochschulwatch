@@ -2438,8 +2438,8 @@ var searchdb = {
 			"slug": "abeking-rasmussen-schiffs-und-yachtwerft-ag-lemwerder"
 		},
 		{
-			"name": "Abfallwirtschaft Gmb",
-			"slug": "abfallwirtschaft-gmb"
+			"name": "Abfallwirtschaft GmbH",
+			"slug": "abfallwirtschaft-gmbh"
 		},
 		{
 			"name": "ABG Allg.Baumaschinen-Gesellschaft mbH",
@@ -21964,6 +21964,10 @@ var searchdb = {
 		{
 			"name": "WSP Wirtschaft und Stadtmarketing Pforzheim",
 			"slug": "wsp-wirtschaft-und-stadtmarketing-pforzheim"
+		},
+		{
+			"name": "Uni Hannover",
+			"slug": "uni-hannover"
 		}
 	]
 };
