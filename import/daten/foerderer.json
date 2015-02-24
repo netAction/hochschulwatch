@@ -1348,16 +1348,12 @@
     "Text":""
   },
   {
-    "Firma":"Baden Badener Unternehmensgespräche",
+    "Firma":"Baden Badener Unternehmergespräche",
     "Text":""
   },
   {
     "Firma":"Bahlsen",
     "Text":"Bahlsen GmbH, Rut- und Klaus-Bahlsen-Stiftung"
-  },
-  {
-    "Firma":"Bahlsen",
-    "Text":""
   },
   {
     "Firma":"Baker & McKenzie",
@@ -6053,6 +6049,10 @@
   },
   {
     "Firma":"Fritz-Behrens-Stiftung",
+    "Text":""
+  },
+  {
+    "Firma":"Fritz-Hüttinger-Stiftung",
     "Text":""
   },
   {
@@ -19709,6 +19709,18 @@
   },
   {
     "Firma":"Uni Hannover",
+    "Text":""
+  },
+  {
+    "Firma":"Peter-Osypka-Stiftung",
+    "Text":""
+  },
+  {
+    "Firma":"Bad Krozingen GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Universitäts-Herzzentrum Freiburg",
     "Text":""
   }
 ]
