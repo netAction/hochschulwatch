@@ -3650,8 +3650,8 @@ var searchdb = {
 			"slug": "bach-friedrich-wilhelm"
 		},
 		{
-			"name": "Baden Badener Unternehmensgespräche",
-			"slug": "baden-badener-unternehmensgespraeche"
+			"name": "Baden Badener Unternehmergespräche",
+			"slug": "baden-badener-unternehmergespraeche"
 		},
 		{
 			"name": "Bahlsen",
@@ -8338,6 +8338,10 @@ var searchdb = {
 			"slug": "fritz-behrens-stiftung"
 		},
 		{
+			"name": "Fritz-Hüttinger-Stiftung",
+			"slug": "fritz-huettinger-stiftung"
+		},
+		{
 			"name": "Fritz-Kling-Stiftung",
 			"slug": "fritz-kling-stiftung"
 		},
@@ -8866,8 +8870,8 @@ var searchdb = {
 			"slug": "gesellschaft-fuer-wissenschaftliche-datenverarbeitung-mbh-goettingen"
 		},
 		{
-			"name": "Gesellschaft für Wohn- und Gewerbeimmobilien",
-			"slug": "gesellschaft-fuer-wohn-und-gewerbeimmobilien"
+			"name": "Gesellschaft für Wohn- und Gewerbeimmobilien Halle-Neustadt mbH (GWG)",
+			"slug": "gesellschaft-fuer-wohn-und-gewerbeimmobilien-halle-neustadt-mbh-gwg"
 		},
 		{
 			"name": "Gesellschaft von Freunden der HFF e.V. (hier: Förderung durch Medienboard Berlin-Brandenburg)",
@@ -9412,10 +9416,6 @@ var searchdb = {
 		{
 			"name": "Halfen GmbH",
 			"slug": "halfen-gmbh"
-		},
-		{
-			"name": "Halle-Neustadt mbH (GWG)",
-			"slug": "halle-neustadt-mbh-gwg"
 		},
 		{
 			"name": "Hallesche Wohnungsgesellschaft mbH",
@@ -21968,6 +21968,18 @@ var searchdb = {
 		{
 			"name": "Uni Hannover",
 			"slug": "uni-hannover"
+		},
+		{
+			"name": "Peter-Osypka-Stiftung",
+			"slug": "peter-osypka-stiftung"
+		},
+		{
+			"name": "Bad Krozingen GmbH",
+			"slug": "bad-krozingen-gmbh"
+		},
+		{
+			"name": "Universitäts-Herzzentrum Freiburg",
+			"slug": "universitaets-herzzentrum-freiburg"
 		}
 	]
 };
