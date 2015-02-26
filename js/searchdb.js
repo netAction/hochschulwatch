@@ -21992,6 +21992,18 @@ var searchdb = {
 		{
 			"name": "Hauptverband der gewerblichen Berufgenossenschaft",
 			"slug": "hauptverband-der-gewerblichen-berufgenossenschaft"
+		},
+		{
+			"name": "Techem",
+			"slug": "techem"
+		},
+		{
+			"name": "Verein Wohnen in Genossenschaften e.V.",
+			"slug": "verein-wohnen-in-genossenschaften-ev"
+		},
+		{
+			"name": "Aaeron",
+			"slug": "aaeron"
 		}
 	]
 };
