@@ -21984,6 +21984,14 @@ var searchdb = {
 		{
 			"name": "Umwelt-Lufttechnik AG",
 			"slug": "umwelt-lufttechnik-ag"
+		},
+		{
+			"name": "Brühlsche Universitätsdruckerei GmbH & Co KG",
+			"slug": "bruehlsche-universitaetsdruckerei-gmbh-co-kg"
+		},
+		{
+			"name": "Hauptverband der gewerblichen Berufgenossenschaft",
+			"slug": "hauptverband-der-gewerblichen-berufgenossenschaft"
 		}
 	]
 };
