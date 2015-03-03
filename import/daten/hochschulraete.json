@@ -1163,9 +1163,18 @@
   {
     "Bundesland":"Berlin",
     "Uni":"Humboldt-Universität zu Berlin",
-    "Name":"Burkhard Ischler",
+    "Name":"Burkhard Ischler (Kuratorium)",
     "Funktion":"",
-    "Unternehmen":"Siemens",
+    "Unternehmen":"A und b Holding",
+    "Alternativname":"",
+    "Quelle":"http://gremien.hu-berlin.de/de/kuratorium/mitglieder"
+  },
+  {
+    "Bundesland":"Berlin",
+    "Uni":"Humboldt-Universität zu Berlin",
+    "Name":"Dr. Christine Hohmann-Dennhardt (Kuratorium)",
+    "Funktion":"",
+    "Unternehmen":"Daimler",
     "Alternativname":"",
     "Quelle":"http://gremien.hu-berlin.de/de/kuratorium/mitglieder"
   },
