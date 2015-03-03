@@ -343,10 +343,10 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1390;Universitätsmedizin der Johannes Gutenberg-Universität Mainz;;;;;;
 1200;Universität Trier;;;;;;
 1210;TU Kaiserslautern;;;;;;
-1223;Universität Mainz;Deutsche Post;180000;Deutsche Post DHL: ''Flexible Bezirksschneidung'' (2014 � 2016);;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
-1223;Universität Mainz;Jacobs;490000;Jacobs-Foundation: ''KIDS-WIN: Enhancing cognitive and motivational skills in children: An intervention study with primary school children'' (2012 � 2014);;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
-1223;Universität Mainz;Mann + Hummel GmbH;;MANN+HUMMEL GmbH: Theorie trifft Praxis mit MANN+HUMMEL (2011);;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
-1223;Universität Mainz;KPMG;;KPMG: Accounting and Taxation in Kooperation mit KPMG (2011 � 2013);;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
+1223;Universität Mainz;Deutsche Post;180000;Deutsche Post DHL: ''Flexible Bezirksschneidung'' (2014 - 2016) - Mainzer Wirtschaftswissenschaften;;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
+1223;Universität Mainz;Jacobs;490000;Jacobs-Foundation: ''KIDS-WIN: Enhancing cognitive and motivational skills in children: An intervention study with primary school children'' (2012 - 2014) - Mainzer Wirtschaftswissenschaften;;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
+1223;Universität Mainz;Mann + Hummel GmbH;;MANN+HUMMEL GmbH: Theorie trifft Praxis mit MANN+HUMMEL (2011) - Mainzer Wirtschaftswissenschaften;;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
+1223;Universität Mainz;KPMG;;KPMG: Accounting and Taxation in Kooperation mit KPMG (2011 - 2013) - Mainzer Wirtschaftswissenschaften;;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
 1230;Hochschule für Verwaltungswissenschaften Speyer;;;;;;
 1290;Universität Koblenz-Landau;;;;;;
 2040;Theol. Fakultät Trier;;;;;;
@@ -376,6 +376,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1260;Universität Konstanz;Airbus Group;;Kooperation, Stiftung Forschungspreis;http://cms.uni-konstanz.de/zivilklausel/pressespiegel/;;
 1271;Universität Tübingen (ohne Klinikum);CMS Hasche Sigle;;Spende Zivilrecht-Hörsaal;http://www.jura.uni-tuebingen.de/fakultaet/nachrichten/grossspende-ermoeglicht-modernisierung-im-juristischen-seminar?searchterm=lesesaal;;
 1580;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Daimler;;Förderung Nachwuchswissenschaftler;https://www.dradio.de/dlf/sendungen/campus/1496758/;;
+1580;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Altana AG;;Kooperation;http://www.altana.com/innovation/open-innovation-at-altana-ag/networks.html;;
 1590;Universität Stuttgart;;;;;;
 1800;Universität Hohenheim;Südwestmetall;5000;Preis;tp://www.bwl.uni-mannheim.de/de/allgemeines/dekanat/p;;
 1800;Universität Hohenheim;Südwestbank;7500;Preis;http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html;;
