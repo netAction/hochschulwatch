@@ -22004,6 +22004,10 @@ var searchdb = {
 		{
 			"name": "Aaeron",
 			"slug": "aaeron"
+		},
+		{
+			"name": "A und b Holding",
+			"slug": "a-und-b-holding"
 		}
 	]
 };
