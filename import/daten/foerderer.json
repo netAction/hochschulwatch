@@ -1836,8 +1836,8 @@
     "Text":""
   },
   {
-    "Firma":"BHF-Bank-Stiftung",
-    "Text":""
+    "Firma":"BHF-Bank",
+    "Text":"BHF-Bank AG, BHF-Bank-Stiftung"
   },
   {
     "Firma":"BHS Corrugated GmbH",
@@ -3549,10 +3549,6 @@
   },
   {
     "Firma":"Deutschen Hochdruckliga - Deutsche Gesellschaft für Hypertonie und Prävention",
-    "Text":""
-  },
-  {
-    "Firma":"Deutschen Messe AG",
     "Text":""
   },
   {
@@ -5857,7 +5853,7 @@
   },
   {
     "Firma":"Fresenius Medical Care",
-    "Text":"Else Kröner-Fresenius-Stiftung"
+    "Text":""
   },
   {
     "Firma":"Freshfields Bruckhaus Deringer LLP",
@@ -9121,7 +9117,7 @@
   },
   {
     "Firma":"Johanna Quandt",
-    "Text":""
+    "Text":"Johanna Quandt Universitätsstiftung"
   },
   {
     "Firma":"Johanna und Fritz Buch Gedächtnisstiftung",
@@ -11452,8 +11448,8 @@
     "Text":""
   },
   {
-    "Firma":"Merz Consumer Care",
-    "Text":""
+    "Firma":"Merz",
+    "Text":"Merz Holding, Merz Consumer Care"
   },
   {
     "Firma":"Messe Essen",
@@ -16016,10 +16012,6 @@
     "Text":""
   },
   {
-    "Firma":"Stiftung  Geld und Währung beim Stifterverband",
-    "Text":""
-  },
-  {
     "Firma":"Stiftung Arzneimittelsicherheit",
     "Text":""
   },
@@ -19749,6 +19741,38 @@
   },
   {
     "Firma":"A und b Holding",
+    "Text":""
+  },
+  {
+    "Firma":"Josef-Buchmann-Stiftung",
+    "Text":""
+  },
+  {
+    "Firma":"Deufol SE",
+    "Text":""
+  },
+  {
+    "Firma":"Werner Reimers Stiftung",
+    "Text":""
+  },
+  {
+    "Firma":"Bundesverband Investment- und Asset Management",
+    "Text":""
+  },
+  {
+    "Firma":"Alfons und Gertrud Kassel-Stiftung",
+    "Text":""
+  },
+  {
+    "Firma":"Else Kröner-Fresenius-Stiftung",
+    "Text":""
+  },
+  {
+    "Firma":"Bölingen",
+    "Text":""
+  },
+  {
+    "Firma":"Verband Südwesttextil",
     "Text":""
   }
 ]
