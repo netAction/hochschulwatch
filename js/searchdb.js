@@ -4134,8 +4134,8 @@ var searchdb = {
 			"slug": "bgv-badische-versicherungen"
 		},
 		{
-			"name": "BHF-Bank-Stiftung",
-			"slug": "bhf-bank-stiftung"
+			"name": "BHF-Bank",
+			"slug": "bhf-bank"
 		},
 		{
 			"name": "BHS Corrugated GmbH",
@@ -5844,10 +5844,6 @@ var searchdb = {
 		{
 			"name": "Deutschen Hochdruckliga - Deutsche Gesellschaft für Hypertonie und Prävention",
 			"slug": "deutschen-hochdruckliga-deutsche-gesellschaft-fuer-hypertonie-und-praevention"
-		},
-		{
-			"name": "Deutschen Messe AG",
-			"slug": "deutschen-messe-ag"
 		},
 		{
 			"name": "Deutschen Rentenversicherung Braunschweig-Hannover",
@@ -13738,8 +13734,8 @@ var searchdb = {
 			"slug": "merkur-bank-kgaa"
 		},
 		{
-			"name": "Merz Consumer Care",
-			"slug": "merz-consumer-care"
+			"name": "Merz",
+			"slug": "merz"
 		},
 		{
 			"name": "Messe Essen",
@@ -18298,10 +18294,6 @@ var searchdb = {
 			"slug": "stifterverband-essen"
 		},
 		{
-			"name": "Stiftung Geld und Währung beim Stifterverband",
-			"slug": "stiftung-geld-und-waehrung-beim-stifterverband"
-		},
-		{
 			"name": "Stiftung Arzneimittelsicherheit",
 			"slug": "stiftung-arzneimittelsicherheit"
 		},
@@ -18428,6 +18420,10 @@ var searchdb = {
 		{
 			"name": "Stiftung Friedrichsheim",
 			"slug": "stiftung-friedrichsheim"
+		},
+		{
+			"name": "Stiftung Geld und Währung beim Stifterverband",
+			"slug": "stiftung-geld-und-waehrung-beim-stifterverband"
 		},
 		{
 			"name": "Stiftung Hermann Schaedla, Lemwerder",
@@ -22008,6 +22004,38 @@ var searchdb = {
 		{
 			"name": "A und b Holding",
 			"slug": "a-und-b-holding"
+		},
+		{
+			"name": "Josef-Buchmann-Stiftung",
+			"slug": "josef-buchmann-stiftung"
+		},
+		{
+			"name": "Deufol SE",
+			"slug": "deufol-se"
+		},
+		{
+			"name": "Werner Reimers Stiftung",
+			"slug": "werner-reimers-stiftung"
+		},
+		{
+			"name": "Bundesverband Investment- und Asset Management",
+			"slug": "bundesverband-investment-und-asset-management"
+		},
+		{
+			"name": "Alfons und Gertrud Kassel-Stiftung",
+			"slug": "alfons-und-gertrud-kassel-stiftung"
+		},
+		{
+			"name": "Else Kröner-Fresenius-Stiftung",
+			"slug": "else-kroener-fresenius-stiftung"
+		},
+		{
+			"name": "Bölingen",
+			"slug": "boelingen"
+		},
+		{
+			"name": "Verband Südwesttextil",
+			"slug": "verband-suedwesttextil"
 		}
 	]
 };
