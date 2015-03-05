@@ -22036,6 +22036,10 @@ var searchdb = {
 		{
 			"name": "Verband Südwesttextil",
 			"slug": "verband-suedwesttextil"
+		},
+		{
+			"name": "iDerm GmbH",
+			"slug": "iderm-gmbh"
 		}
 	]
 };
