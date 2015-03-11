@@ -5574,14 +5574,14 @@
   {
     "uID":"81",
     "Name":"Universität Duisburg-Essen (ohne Klinikum)",
-    "Firma":"RAG",
+    "Firma":"RAG AG",
     "Alternativname":"RAG Aktiengesellschaft",
     "Quelle":"https://www.uni-due.de/de/marketing/hochschulfoerderung.php"
   },
   {
     "uID":"81",
     "Name":"Universität Duisburg-Essen (ohne Klinikum)",
-    "Firma":"RAG",
+    "Firma":"RAG-Stiftung",
     "Alternativname":"RAG-Stiftung",
     "Quelle":"https://www.uni-due.de/de/marketing/hochschulfoerderung.php"
   },
@@ -7499,7 +7499,7 @@
   {
     "uID":"1081",
     "Name":"Ruhr-Universität Bochum (ohne Klinikum)",
-    "Firma":"RAG",
+    "Firma":"RAG AG",
     "Alternativname":"RAG Aktiengesellschaft",
     "Quelle":"http://www.ruhr-uni-bochum.de/bildungsfonds/unsere-foerderer/foerderer_12-13.html"
   },
@@ -9431,7 +9431,7 @@
   {
     "uID":"5700",
     "Name":"Westfälische Hochschule Gelsenkirchen Bocholt Recklinghausen",
-    "Firma":"RAG",
+    "Firma":"RAG-Stiftung",
     "Alternativname":"RAG-Stiftung",
     "Quelle":"http://www.w-hs.de/deutschlandstipendium/"
   },
@@ -18342,7 +18342,7 @@
   {
     "uID":"7610",
     "Name":"Hochschule für Technik und Wirtschaft des Saarlandes Saarbrücken",
-    "Firma":"RAG",
+    "Firma":"RAG-Stiftung",
     "Alternativname":"RAG-Stiftung",
     "Quelle":"http://www.htwsaar.de/service/Hochschulkommunikation/htwonline/htw-online-2013/101/38-htw-studierende-erhalten-deutschlandstipendium?searchterm=deutschlandstipendium"
   },
