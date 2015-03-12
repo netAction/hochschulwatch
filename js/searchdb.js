@@ -15822,8 +15822,12 @@ var searchdb = {
 			"slug": "radprax"
 		},
 		{
-			"name": "RAG",
-			"slug": "rag"
+			"name": "RAG AG",
+			"slug": "rag-ag"
+		},
+		{
+			"name": "RAG-Stiftung",
+			"slug": "rag-stiftung"
 		},
 		{
 			"name": "Raiffeisen Volksbank eG",
