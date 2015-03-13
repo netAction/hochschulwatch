@@ -2459,13 +2459,6 @@
   {
     "uID":"5310",
     "Name":"Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
-    "Firma":"Betreuungs& Verwaltungs Gmbh Salzgitter",
-    "Alternativname":"",
-    "Quelle":"http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html"
-  },
-  {
-    "uID":"5310",
-    "Name":"Hochschule Ostfalia (Braunschweig/Wolfenbüttel) (FH)",
     "Firma":"Wolfenbütteler Baugesellschaft mbH",
     "Alternativname":"",
     "Quelle":"http://www.ostfalia.de/cms/de/alumni/deutschlandstipendium/foerderer.html"
@@ -14029,63 +14022,42 @@
   },
   {
     "uID":"6710",
-    "Name":"FH Aalen",
+    "Name":"Hochschule Aalen",
     "Firma":"Inneo Solutions",
     "Alternativname":"",
     "Quelle":"http://www.htw-aalen.de/de-stipendium"
   },
   {
     "uID":"6710",
-    "Name":"FH Aalen",
+    "Name":"Hochschule Aalen",
     "Firma":"Kreissparkasse Ostalb",
     "Alternativname":"",
     "Quelle":"http://www.htw-aalen.de/de-stipendium"
   },
   {
     "uID":"6710",
-    "Name":"FH Aalen",
+    "Name":"Hochschule Aalen",
     "Firma":"Kessler & Co.",
     "Alternativname":"",
     "Quelle":"http://www.htw-aalen.de/de-stipendium"
   },
   {
     "uID":"6710",
-    "Name":"FH Aalen",
-    "Firma":"TRW Automotive",
-    "Alternativname":"",
-    "Quelle":"http://www.htw-aalen.de/de-stipendium"
-  },
-  {
-    "uID":"6710",
-    "Name":"FH Aalen",
+    "Name":"Hochschule Aalen",
     "Firma":"LMT Leading Metalworking Technologies Group",
     "Alternativname":"",
     "Quelle":"http://www.htw-aalen.de/de-stipendium"
   },
   {
     "uID":"6710",
-    "Name":"FH Aalen",
+    "Name":"Hochschule Aalen",
     "Firma":"ZF Lenksysteme",
     "Alternativname":"",
     "Quelle":"http://www.htw-aalen.de/de-stipendium"
   },
   {
     "uID":"6710",
-    "Name":"FH Aalen",
-    "Firma":"Brunel",
-    "Alternativname":"",
-    "Quelle":"http://www.htw-aalen.de/de-stipendium"
-  },
-  {
-    "uID":"6710",
-    "Name":"FH Aalen",
-    "Firma":"FNT",
-    "Alternativname":"",
-    "Quelle":"http://www.htw-aalen.de/de-stipendium"
-  },
-  {
-    "uID":"6710",
-    "Name":"FH Aalen",
+    "Name":"Hochschule Aalen",
     "Firma":"C. & E. Fein",
     "Alternativname":"",
     "Quelle":"http://www.htw-aalen.de/de-stipendium"
