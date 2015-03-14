@@ -336,9 +336,9 @@ var searchdb = {
 			"slug": "fh-aachen"
 		},
 		{
-			"name": "FH Aalen",
+			"name": "Hochschule Aalen",
 			"bundesland": "Baden-Württemberg",
-			"slug": "fh-aalen"
+			"slug": "hochschule-aalen"
 		},
 		{
 			"name": "FH Ansbach",
@@ -2370,39 +2370,39 @@ var searchdb = {
 			"slug": "asi-wirtschaftsberatung-ag"
 		},
 		{
-			"name": "ärzte KV",
+			"name": "Ärzte KV",
 			"slug": "aerzte-kv"
 		},
 		{
-			"name": "ärztekammer Nordrhein",
+			"name": "Ärztekammer Nordrhein",
 			"slug": "aerztekammer-nordrhein"
 		},
 		{
-			"name": "öffentliche Versicherung Braunschweig",
+			"name": "Öffentliche Versicherung Braunschweig",
 			"slug": "oeffentliche-versicherung-braunschweig"
 		},
 		{
-			"name": "öffentliche Versicherungen Oldenburg",
+			"name": "Öffentliche Versicherungen Oldenburg",
 			"slug": "oeffentliche-versicherungen-oldenburg"
 		},
 		{
-			"name": "ökodorf Brodowin GmbH",
+			"name": "Ökodorf Brodowin GmbH",
 			"slug": "oekodorf-brodowin-gmbh"
 		},
 		{
-			"name": "ölmühle Anklam",
+			"name": "Ölmühle Anklam",
 			"slug": "oelmuehle-anklam"
 		},
 		{
-			"name": "ömer Akcay",
+			"name": "Ömer Akcay",
 			"slug": "oemer-akcay"
 		},
 		{
-			"name": "östreich, Michael Dr.",
+			"name": "Östreich, Michael Dr.",
 			"slug": "oestreich-michael-dr"
 		},
 		{
-			"name": "überlandwerk Fulda AG",
+			"name": "Überlandwerk Fulda AG",
 			"slug": "ueberlandwerk-fulda-ag"
 		},
 		{
@@ -2790,8 +2790,8 @@ var searchdb = {
 			"slug": "alexion-pharma-gmbh"
 		},
 		{
-			"name": "Alfaref GmbHBroschüre",
-			"slug": "alfaref-gmbhbroschuere"
+			"name": "Alfaref GmbH",
+			"slug": "alfaref-gmbh"
 		},
 		{
 			"name": "Alfred Clouth Lackfabrik",
@@ -4100,10 +4100,6 @@ var searchdb = {
 		{
 			"name": "Bethmann Bank",
 			"slug": "bethmann-bank"
-		},
-		{
-			"name": "Betreuungs& Verwaltungs Gmbh Salzgitter",
-			"slug": "betreuungs-verwaltungs-gmbh-salzgitter"
 		},
 		{
 			"name": "Bette GmbH & Co. KG, Delbrück",
@@ -5706,7 +5702,7 @@ var searchdb = {
 			"slug": "deutsche-altamerika-stiftung"
 		},
 		{
-			"name": "Deutsche Apotheker- und ärztebank",
+			"name": "Deutsche Apotheker- und Ärztebank",
 			"slug": "deutsche-apotheker-und-aerztebank"
 		},
 		{
@@ -5918,7 +5914,7 @@ var searchdb = {
 			"slug": "develop-group"
 		},
 		{
-			"name": "d-fine Gmbh",
+			"name": "d-fine GmbH",
 			"slug": "d-fine-gmbh"
 		},
 		{
@@ -9258,7 +9254,7 @@ var searchdb = {
 			"slug": "gustav-berger-stiftung"
 		},
 		{
-			"name": "GUT FüR BREMEN Stiftung der Sparkasse in Bremen",
+			"name": "Gut für Bremen Stiftung der Sparkasse in Bremen",
 			"slug": "gut-fuer-bremen-stiftung-der-sparkasse-in-bremen"
 		},
 		{
@@ -10622,8 +10618,8 @@ var searchdb = {
 			"slug": "ikn-gmbh-ingenieurbuero-kuehlerbau"
 		},
 		{
-			"name": "iles-Simmons-Hegenscheidt-Gruppe",
-			"slug": "iles-simmons-hegenscheidt-gruppe"
+			"name": "Niles-Simmons-Hegenscheidt-Gruppe",
+			"slug": "niles-simmons-hegenscheidt-gruppe"
 		},
 		{
 			"name": "Ilex Freundeskreis Botanischer Garten e. V., 26121 Oldenburg",
@@ -11562,7 +11558,7 @@ var searchdb = {
 			"slug": "kaeltetechnik-gmbh"
 		},
 		{
-			"name": "KäMMERER GmbH",
+			"name": "KÄMMERER GmbH",
 			"slug": "kaemmerer-gmbh"
 		},
 		{
@@ -11846,7 +11842,7 @@ var searchdb = {
 			"slug": "kellermann-andreas"
 		},
 		{
-			"name": "Kellner & Stoll STIFTUNG FüR KLIMA UND UMWELT",
+			"name": "Kellner & Stoll STIFTUNG FÜR KLIMA UND UMWELT",
 			"slug": "kellner-stoll-stiftung-fuer-klima-und-umwelt"
 		},
 		{
@@ -13350,7 +13346,7 @@ var searchdb = {
 			"slug": "maquet-vertriebservice"
 		},
 		{
-			"name": "Marburger Bund Bundesverband - Verband der angestellten und beamteten ärztinnen und ärzte Deutschlands e.V.",
+			"name": "Marburger Bund Bundesverband - Verband der angestellten und beamteten Ärztinnen und Ärzte Deutschlands e.V.",
 			"slug": "marburger-bund-bundesverband-verband-der-angestellten-und-beamteten-aerztinnen-und-aerzte-deutschlands-ev"
 		},
 		{
@@ -16554,7 +16550,7 @@ var searchdb = {
 			"slug": "rwe"
 		},
 		{
-			"name": "RWTüV-Stiftung",
+			"name": "RWTÜV-Stiftung",
 			"slug": "rwtuev-stiftung"
 		},
 		{
@@ -18354,8 +18350,8 @@ var searchdb = {
 			"slug": "stiftung-der-ruhr-universitaet-bochum"
 		},
 		{
-			"name": "Stiftung der Sparkasse Gifhorn-Wolfsburg",
-			"slug": "stiftung-der-sparkasse-gifhorn-wolfsburg"
+			"name": "Fachhochschulstiftung der Sparkasse Gifhorn-Wolfsburg",
+			"slug": "fachhochschulstiftung-der-sparkasse-gifhorn-wolfsburg"
 		},
 		{
 			"name": "Stiftung der Universität Bremen",
@@ -18798,23 +18794,23 @@ var searchdb = {
 			"slug": "toenjes-vagt-stiftung"
 		},
 		{
-			"name": "TüV Hannover / Sachsen-Anhalt",
+			"name": "TÜV Hannover / Sachsen-Anhalt",
 			"slug": "tuev-hannover-sachsen-anhalt"
 		},
 		{
-			"name": "TüV Nord AG",
+			"name": "TÜV Nord AG",
 			"slug": "tuev-nord-ag"
 		},
 		{
-			"name": "TüV Rheinland",
+			"name": "TÜV Rheinland",
 			"slug": "tuev-rheinland"
 		},
 		{
-			"name": "TüV Süd",
+			"name": "TÜV Süd",
 			"slug": "tuev-sued"
 		},
 		{
-			"name": "TüV Saarland Stiftung",
+			"name": "TÜV Saarland Stiftung",
 			"slug": "tuev-saarland-stiftung"
 		},
 		{
@@ -21150,7 +21146,7 @@ var searchdb = {
 			"slug": "yokogawa-deutschland-gmbh"
 		},
 		{
-			"name": "ZöLLNER Holding GmbH",
+			"name": "ZÖLLNER Holding GmbH",
 			"slug": "zoellner-holding-gmbh"
 		},
 		{
@@ -22044,6 +22040,18 @@ var searchdb = {
 		{
 			"name": "iDerm GmbH",
 			"slug": "iderm-gmbh"
+		},
+		{
+			"name": "Uhl Windkraft",
+			"slug": "uhl-windkraft"
+		},
+		{
+			"name": "VR-Bank Aalen",
+			"slug": "vr-bank-aalen"
+		},
+		{
+			"name": "Stadtwerke Aalen",
+			"slug": "stadtwerke-aalen"
 		}
 	]
 };
