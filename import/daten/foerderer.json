@@ -52,39 +52,39 @@
     "Text":""
   },
   {
-    "Firma":"ärzte KV",
+    "Firma":"Ärzte KV",
     "Text":""
   },
   {
-    "Firma":"ärztekammer Nordrhein",
+    "Firma":"Ärztekammer Nordrhein",
     "Text":""
   },
   {
-    "Firma":"öffentliche Versicherung Braunschweig",
+    "Firma":"Öffentliche Versicherung Braunschweig",
     "Text":""
   },
   {
-    "Firma":"öffentliche Versicherungen Oldenburg",
+    "Firma":"Öffentliche Versicherungen Oldenburg",
     "Text":""
   },
   {
-    "Firma":"ökodorf Brodowin GmbH",
+    "Firma":"Ökodorf Brodowin GmbH",
     "Text":""
   },
   {
-    "Firma":"ölmühle Anklam",
+    "Firma":"Ölmühle Anklam",
     "Text":""
   },
   {
-    "Firma":"ömer Akcay",
+    "Firma":"Ömer Akcay",
     "Text":""
   },
   {
-    "Firma":"östreich, Michael Dr.",
+    "Firma":"Östreich, Michael Dr.",
     "Text":""
   },
   {
-    "Firma":"überlandwerk Fulda AG",
+    "Firma":"Überlandwerk Fulda AG",
     "Text":""
   },
   {
@@ -472,7 +472,7 @@
     "Text":""
   },
   {
-    "Firma":"Alfaref GmbHBroschüre",
+    "Firma":"Alfaref GmbH",
     "Text":""
   },
   {
@@ -1801,10 +1801,6 @@
   },
   {
     "Firma":"Bethmann Bank",
-    "Text":""
-  },
-  {
-    "Firma":"Betreuungs& Verwaltungs Gmbh Salzgitter",
     "Text":""
   },
   {
@@ -3412,7 +3408,7 @@
     "Text":""
   },
   {
-    "Firma":"Deutsche Apotheker- und ärztebank",
+    "Firma":"Deutsche Apotheker- und Ärztebank",
     "Text":""
   },
   {
@@ -3624,7 +3620,7 @@
     "Text":""
   },
   {
-    "Firma":"d-fine Gmbh",
+    "Firma":"d-fine GmbH",
     "Text":""
   },
   {
@@ -6972,7 +6968,7 @@
     "Text":""
   },
   {
-    "Firma":"GUT FüR BREMEN Stiftung der Sparkasse in Bremen",
+    "Firma":"Gut für Bremen Stiftung der Sparkasse in Bremen",
     "Text":""
   },
   {
@@ -8336,7 +8332,7 @@
     "Text":""
   },
   {
-    "Firma":"iles-Simmons-Hegenscheidt-Gruppe",
+    "Firma":"Niles-Simmons-Hegenscheidt-Gruppe",
     "Text":""
   },
   {
@@ -9276,7 +9272,7 @@
     "Text":""
   },
   {
-    "Firma":"KäMMERER GmbH",
+    "Firma":"KÄMMERER GmbH",
     "Text":""
   },
   {
@@ -9560,7 +9556,7 @@
     "Text":""
   },
   {
-    "Firma":"Kellner & Stoll STIFTUNG FüR KLIMA UND UMWELT",
+    "Firma":"Kellner & Stoll STIFTUNG FÜR KLIMA UND UMWELT",
     "Text":""
   },
   {
@@ -11064,7 +11060,7 @@
     "Text":""
   },
   {
-    "Firma":"Marburger Bund Bundesverband - Verband der angestellten und beamteten ärztinnen und ärzte Deutschlands e.V.",
+    "Firma":"Marburger Bund Bundesverband - Verband der angestellten und beamteten Ärztinnen und Ärzte Deutschlands e.V.",
     "Text":""
   },
   {
@@ -14268,7 +14264,7 @@
     "Text":""
   },
   {
-    "Firma":"RWTüV-Stiftung",
+    "Firma":"RWTÜV-Stiftung",
     "Text":""
   },
   {
@@ -16072,7 +16068,7 @@
     "Text":""
   },
   {
-    "Firma":"Stiftung der Sparkasse Gifhorn-Wolfsburg",
+    "Firma":"Fachhochschulstiftung der Sparkasse Gifhorn-Wolfsburg",
     "Text":""
   },
   {
@@ -16516,23 +16512,23 @@
     "Text":""
   },
   {
-    "Firma":"TüV Hannover / Sachsen-Anhalt",
+    "Firma":"TÜV Hannover / Sachsen-Anhalt",
     "Text":""
   },
   {
-    "Firma":"TüV Nord AG",
+    "Firma":"TÜV Nord AG",
     "Text":""
   },
   {
-    "Firma":"TüV Rheinland",
+    "Firma":"TÜV Rheinland",
     "Text":""
   },
   {
-    "Firma":"TüV Süd",
+    "Firma":"TÜV Süd",
     "Text":""
   },
   {
-    "Firma":"TüV Saarland Stiftung",
+    "Firma":"TÜV Saarland Stiftung",
     "Text":""
   },
   {
@@ -18868,7 +18864,7 @@
     "Text":""
   },
   {
-    "Firma":"ZöLLNER Holding GmbH",
+    "Firma":"ZÖLLNER Holding GmbH",
     "Text":""
   },
   {
@@ -19781,6 +19777,18 @@
   },
   {
     "Firma":"iDerm GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Uhl Windkraft",
+    "Text":""
+  },
+  {
+    "Firma":"VR-Bank Aalen",
+    "Text":""
+  },
+  {
+    "Firma":"Stadtwerke Aalen",
     "Text":""
   }
 ]
