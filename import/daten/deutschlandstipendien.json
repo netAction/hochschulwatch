@@ -1710,7 +1710,7 @@
   {
     "uID":"1450",
     "Name":"Universität Hannover",
-    "Firma":"TüV Nord AG",
+    "Firma":" Nord AG",
     "Alternativname":"",
     "Quelle":"http://www.uni-hannover.de/de/studium/stipendien/stipendienvergabe/"
   },
@@ -2935,7 +2935,7 @@
   {
     "uID":"5500",
     "Name":"Hochschule Osnabrück (FH)",
-    "Firma":"KäMMERER GmbH",
+    "Firma":"KÄMMERER GmbH",
     "Alternativname":"",
     "Quelle":"http://www.hs-osnabrueck.de/45048.html"
   },
@@ -3782,7 +3782,7 @@
   {
     "uID":"1050",
     "Name":"Universität Bremen",
-    "Firma":"GUT FüR BREMEN Stiftung der Sparkasse in Bremen",
+    "Firma":"Gut für Bremen Stiftung der Sparkasse in Bremen",
     "Alternativname":"",
     "Quelle":"http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html"
   },
@@ -4055,7 +4055,7 @@
   {
     "uID":"1050",
     "Name":"Universität Bremen",
-    "Firma":"Kellner & Stoll STIFTUNG FüR KLIMA UND UMWELT",
+    "Firma":"Kellner & Stoll STIFTUNG FÜR KLIMA UND UMWELT",
     "Alternativname":"",
     "Quelle":"http://www.uni-bremen.de/universitaet/foerderer-partner/deutschlandstipendium.html"
   },
@@ -7835,7 +7835,7 @@
   {
     "uID":"1111",
     "Name":"Universität zu Köln (ohne Klinikum)",
-    "Firma":"TüV Rheinland",
+    "Firma":" Rheinland",
     "Alternativname":"",
     "Quelle":"http://www.portal.uni-koeln.de/3651.html"
   },
@@ -7905,7 +7905,7 @@
   {
     "uID":"1111",
     "Name":"Universität zu Köln (ohne Klinikum)",
-    "Firma":"d-fine Gmbh",
+    "Firma":"d-fine GmbH",
     "Alternativname":"",
     "Quelle":"http://www.portal.uni-koeln.de/3651.html"
   },
@@ -10306,7 +10306,7 @@
   {
     "uID":"5830",
     "Name":"FH Köln",
-    "Firma":"TüV Rheinland",
+    "Firma":" Rheinland",
     "Alternativname":"",
     "Quelle":"http://www.fh-koeln.de/studium/unsere-foerderer_7920.php"
   },
@@ -10656,7 +10656,7 @@
   {
     "uID":"5840",
     "Name":"Hochschule Niederrhein",
-    "Firma":"TüV Rheinland",
+    "Firma":" Rheinland",
     "Alternativname":"",
     "Quelle":"http://www.hs-niederrhein.de/fileadmin/dateien/studierendenbuero/Deutschland_Stipendium/Anzeige_Stipendien_WS1112.pdf"
   },
@@ -11895,7 +11895,7 @@
   {
     "uID":"1210",
     "Name":"TU Kaiserslautern",
-    "Firma":"TüV Süd",
+    "Firma":" Süd",
     "Alternativname":"",
     "Quelle":"https://www.uni-kl.de/universitaet/fundraising/deutschlandstipendium/aktuelle-foerderer/"
   },
@@ -16641,7 +16641,7 @@
   {
     "uID":"7240",
     "Name":"Hochschule München",
-    "Firma":"TüV Süd",
+    "Firma":" Süd",
     "Alternativname":"",
     "Quelle":"http://www.hm.edu/deutschlandstipendium/"
   },
@@ -18272,7 +18272,7 @@
   {
     "uID":"1363",
     "Name":"Universität des Saarlandes Saarbrücken in Saarbrücken",
-    "Firma":"TüV Saarland Stiftung",
+    "Firma":"TÜV Saarland Stiftung",
     "Alternativname":"",
     "Quelle":"http://www.uni-saarland.de/campus/studium/besser-studieren/chancen/deutschlandstipendium.html"
   },
@@ -20288,14 +20288,14 @@
   {
     "uID":"371",
     "Name":"TU Dresden (ohne Klinikum)",
-    "Firma":"TüV Nord AG",
+    "Firma":"TÜV Nord AG",
     "Alternativname":"",
     "Quelle":"http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien"
   },
   {
     "uID":"371",
     "Name":"TU Dresden (ohne Klinikum)",
-    "Firma":"TüV Süd",
+    "Firma":"TÜV Süd",
     "Alternativname":"",
     "Quelle":"http://tu-dresden.de/die_tu_dresden/foerderer/deutschlandstipendien"
   },
