@@ -22052,6 +22052,50 @@ var searchdb = {
 		{
 			"name": "Stadtwerke Aalen",
 			"slug": "stadtwerke-aalen"
+		},
+		{
+			"name": "Saarland Sporttoto GmbH",
+			"slug": "saarland-sporttoto-gmbh"
+		},
+		{
+			"name": "Weltkulturerbe VK",
+			"slug": "weltkulturerbe-vk"
+		},
+		{
+			"name": "Netzwerk Musik Saar",
+			"slug": "netzwerk-musik-saar"
+		},
+		{
+			"name": "Country Life von Boch-Galhau",
+			"slug": "country-life-von-boch-galhau"
+		},
+		{
+			"name": "Freunde und Förderer der HfM e.V.",
+			"slug": "freunde-und-foerderer-der-hfm-ev"
+		},
+		{
+			"name": "Lions Club Saarbrücken",
+			"slug": "lions-club-saarbruecken"
+		},
+		{
+			"name": "Lions Hilfe Saarbrücken-Halberg",
+			"slug": "lions-hilfe-saarbruecken-halberg"
+		},
+		{
+			"name": "Saar LB",
+			"slug": "saar-lb"
+		},
+		{
+			"name": "DeutschlandRadio",
+			"slug": "deutschlandradio"
+		},
+		{
+			"name": "Ministerium für Bildung und Kultur Saarland",
+			"slug": "ministerium-fuer-bildung-und-kultur-saarland"
+		},
+		{
+			"name": "Hager Elektro GmbH & Co.KG",
+			"slug": "hager-elektro-gmbh-cokg"
 		}
 	]
 };
