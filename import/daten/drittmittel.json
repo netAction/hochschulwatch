@@ -3722,7 +3722,7 @@
   {
     "uID":"5100",
     "Name":"Hochschule für Telekommunikation Leipzig",
-    "Alternativname":"HfK Leipzig",
+    "Alternativname":"HfT Leipzig",
     "text":"",
     "addi":"Gustav-Freytag-Str. 43-45, 04277 Leipzig",
     "hs-art":"Private Fachhochschulen",
@@ -3736,8 +3736,8 @@
     "wirtschaft-2011":55680,
     "absolut-2012":158086,
     "wirtschaft-2012":41954,
-    "Träger":"",
-    "Gesellschafter":""
+    "Träger":"HFTL Trägergesellschaft mbH",
+    "Gesellschafter":"Deutsche Telekom"
   },
   {
     "uID":"2520",
