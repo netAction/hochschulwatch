@@ -931,9 +931,9 @@ var searchdb = {
 			"slug": "hochschule-fuer-kirchenmusik-der-evang-luth-landeskirche-sachsens-dresden"
 		},
 		{
-			"name": "Hochschule für Kommunikation Leipzig",
+			"name": "Hochschule für Telekommunikation Leipzig",
 			"bundesland": "Sachsen",
-			"slug": "hochschule-fuer-kommunikation-leipzig"
+			"slug": "hochschule-fuer-telekommunikation-leipzig"
 		},
 		{
 			"name": "Hochschule für Musik Berlin Hanns Eisler",
