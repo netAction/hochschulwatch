@@ -6602,6 +6602,16 @@
   {
     "uID":"1690",
     "Name":"TU Berlin",
+    "Förderer":"BASF",
+    "Wert":"13000000",
+    "Hinweis":"gemeinsames Labor BasCat",
+    "Alternativname":"",
+    "Quelle":"https://www.bascat.tu-berlin.de/",
+    "Quelle 2":""
+  },
+  {
+    "uID":"1690",
+    "Name":"TU Berlin",
     "Förderer":"Bayer",
     "Wert":"",
     "Hinweis":"Förderer",
@@ -8381,7 +8391,7 @@
   },
   {
     "uID":"5100",
-    "Name":"Hochschule für Kommunikation Leipzig",
+    "Name":"Hochschule für Telekommunikation Leipzig",
     "Förderer":"",
     "Wert":"",
     "Hinweis":"",
