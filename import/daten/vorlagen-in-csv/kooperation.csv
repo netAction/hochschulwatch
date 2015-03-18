@@ -659,6 +659,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1381;FU Berlin;;;;;;
 1690;TU Berlin;Volkswagen;5113000;Sponsoring Volkswagen-Bibliothek;;http://pardok.parlament-berlin.de/starweb/adis/citat/VT/15/DruckSachen/d15-1800-01.pdf;
 1690;TU Berlin;Deutsche Bank;;ehemalige Stiftungsprofessur unter fraglichen Bedingungen;;http://www.spiegel.de/unispiegel/studium/deutsche-bank-deal-mit-berliner-unis-kauf-dir-einen-prof-a-765337.html;
+1690;TU Berlin;BASF;13000000;gemeinsames Labor BasCat;;https://www.bascat.tu-berlin.de/;
 1690;TU Berlin;Bayer;;Förderer;Bayer-Stiftungen;https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/;
 1690;TU Berlin;Berliner Stadtreinigung;;Förderer;;https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/;
 1690;TU Berlin;Bosch;;Förderer;;https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/;
@@ -837,7 +838,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 2930;Hochschule für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden;;;;;;
 1850;Fachochschule Dresden;;;;;;
 1860;Euro-Business-College Dresden (Priv. FH);;;;;;
-5100;Hochschule für Kommunikation Leipzig;;;;;;
+5100;Hochschule für Telekommunikation Leipzig;;;;;;
 5180;AKAD Hochschule Leipzig;;;;;;
 5120;Hochschule für Technik und Wirtschaft Dresden;;;;;;
 5130;Hochschule für Technik, Wirtschaft und Kultur Leipzig;;;;;;
