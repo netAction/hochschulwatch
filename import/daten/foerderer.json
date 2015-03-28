@@ -1892,7 +1892,7 @@
     "Text":""
   },
   {
-    "Firma":"Bilfinger Berger",
+    "Firma":"Bilfinger",
     "Text":""
   },
   {
@@ -16140,8 +16140,8 @@
     "Text":""
   },
   {
-    "Firma":"Stiftung Geld und Währung beim Stifterverband",
-    "Text":""
+    "Firma":"Stiftung Geld und Währung",
+    "Text":"(öffentlich)"
   },
   {
     "Firma":"Stiftung Hermann Schaedla, Lemwerder",
@@ -19833,6 +19833,94 @@
   },
   {
     "Firma":"Hager Elektro GmbH & Co.KG ",
+    "Text":""
+  },
+  {
+    "Firma":"Albert Polenz GmbH & Co. KG Döbeln",
+    "Text":""
+  },
+  {
+    "Firma":"EAST-4D Carbon Technologies GmbH Dresden",
+    "Text":""
+  },
+  {
+    "Firma":"ERMAFA Sondermaschinen- und Anlagenbau GmbH Chemnitz",
+    "Text":""
+  },
+  {
+    "Firma":"KARL MAYER MALIMO Textilmaschinenfabrik GmbH Chemnitz",
+    "Text":""
+  },
+  {
+    "Firma":"KraussMaffei Technologies GmbH München",
+    "Text":""
+  },
+  {
+    "Firma":"Lätzsch GmbH Kunststoffverarbeitung Thierbach",
+    "Text":""
+  },
+  {
+    "Firma":"SKL Schwergewebekonfektion Lichtenstein GmbH Oberlungwitz",
+    "Text":""
+  },
+  {
+    "Firma":"Spengler & Fürst GmbH & Co. KG Crimmitschau",
+    "Text":""
+  },
+  {
+    "Firma":"FIBER-TECH Products GmbH Chemnitz",
+    "Text":""
+  },
+  {
+    "Firma":"GOEPFERT Werkzeug & Formenbau GmbH & Co. Teilefertigung KG Weimar",
+    "Text":""
+  },
+  {
+    "Firma":"ALTRATEC Automation GmbH Schwieberdingen",
+    "Text":""
+  },
+  {
+    "Firma":"Beyer Maschinenbau GmbH Roßwein",
+    "Text":""
+  },
+  {
+    "Firma":"Delta Antriebstechnik GmbH Leichlingen",
+    "Text":""
+  },
+  {
+    "Firma":"Institut für Technische Textilien GmbH (ITT) Chemnitz",
+    "Text":""
+  },
+  {
+    "Firma":"KD Stahl- und Maschinenbau GmbH Breitenworbis",
+    "Text":""
+  },
+  {
+    "Firma":"MUGLER AG Oberlungwitz",
+    "Text":""
+  },
+  {
+    "Firma":"Raritan Deutschland GmbH Zwickau",
+    "Text":""
+  },
+  {
+    "Firma":"Intelligente Sensorsysteme Dresden GmbH Dresden",
+    "Text":""
+  },
+  {
+    "Firma":"Intenta GmbH Chemnitz",
+    "Text":""
+  },
+  {
+    "Firma":"3D Insight GmbH Chemnitz",
+    "Text":""
+  },
+  {
+    "Firma":"Software & Research GmbH Laubusch",
+    "Text":""
+  },
+  {
+    "Firma":"Sparkasse Chemnitz",
     "Text":""
   }
 ]
