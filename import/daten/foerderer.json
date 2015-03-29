@@ -588,12 +588,8 @@
     "Text":""
   },
   {
-    "Firma":"Alpha Industrial Service GmbH",
-    "Text":"ALPHA Vermögensverwaltung GmbH"
-  },
-  {
-    "Firma":"Alpha Industrial Service GmbH",
-    "Text":""
+    "Firma":"Alpha",
+    "Text":"Alpha Industrial Service GmbH, ALPHA Vermögensverwaltung GmbH"
   },
   {
     "Firma":"Alsleben, Gert",
@@ -964,12 +960,8 @@
     "Text":""
   },
   {
-    "Firma":"Arwed Löseke Papierverarbeitung und Druckerei GmbH",
-    "Text":"Arwed Löseke Stiftung, Hildesheim"
-  },
-  {
-    "Firma":"Arwed Löseke Papierverarbeitung und Druckerei GmbH",
-    "Text":""
+    "Firma":"Arwed Löseke",
+    "Text":"Arwed Löseke Papierverarbeitung und Druckerei GmbH, Arwed Löseke Stiftung, Hildesheim"
   },
   {
     "Firma":"ASAP Engineering GmbH",
@@ -19921,6 +19913,10 @@
   },
   {
     "Firma":"Sparkasse Chemnitz",
+    "Text":""
+  },
+  {
+    "Firma":"Fritz Thyssen Stiftung",
     "Text":""
   }
 ]
