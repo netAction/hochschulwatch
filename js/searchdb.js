@@ -2902,8 +2902,8 @@ var searchdb = {
 			"slug": "alois-berger-gmbh"
 		},
 		{
-			"name": "Alpha Industrial Service GmbH",
-			"slug": "alpha-industrial-service-gmbh"
+			"name": "Alpha",
+			"slug": "alpha"
 		},
 		{
 			"name": "Alsleben, Gert",
@@ -3270,8 +3270,8 @@ var searchdb = {
 			"slug": "arvena-park"
 		},
 		{
-			"name": "Arwed Löseke Papierverarbeitung und Druckerei GmbH",
-			"slug": "arwed-loeseke-papierverarbeitung-und-druckerei-gmbh"
+			"name": "Arwed Löseke",
+			"slug": "arwed-loeseke"
 		},
 		{
 			"name": "ASAP Engineering GmbH",
@@ -4190,8 +4190,8 @@ var searchdb = {
 			"slug": "bildungswerk-der-ostwestfaelisch-lippischen-wirtschaft-"
 		},
 		{
-			"name": "Bilfinger Berger",
-			"slug": "bilfinger-berger"
+			"name": "Bilfinger",
+			"slug": "bilfinger"
 		},
 		{
 			"name": "Billy Rubin-Förderverein Kindergastroeteologie MHH",
@@ -18422,8 +18422,8 @@ var searchdb = {
 			"slug": "stiftung-friedrichsheim"
 		},
 		{
-			"name": "Stiftung Geld und Währung beim Stifterverband",
-			"slug": "stiftung-geld-und-waehrung-beim-stifterverband"
+			"name": "Stiftung Geld und Währung",
+			"slug": "stiftung-geld-und-waehrung"
 		},
 		{
 			"name": "Stiftung Hermann Schaedla, Lemwerder",
@@ -22096,6 +22096,106 @@ var searchdb = {
 		{
 			"name": "Hager Elektro GmbH & Co.KG",
 			"slug": "hager-elektro-gmbh-cokg"
+		},
+		{
+			"name": "Albert Polenz GmbH & Co. KG Döbeln",
+			"slug": "albert-polenz-gmbh-co-kg-doebeln"
+		},
+		{
+			"name": "EAST-4D Carbon Technologies GmbH Dresden",
+			"slug": "east-4d-carbon-technologies-gmbh-dresden"
+		},
+		{
+			"name": "ERMAFA Sondermaschinen- und Anlagenbau GmbH Chemnitz",
+			"slug": "ermafa-sondermaschinen-und-anlagenbau-gmbh-chemnitz"
+		},
+		{
+			"name": "KARL MAYER MALIMO Textilmaschinenfabrik GmbH Chemnitz",
+			"slug": "karl-mayer-malimo-textilmaschinenfabrik-gmbh-chemnitz"
+		},
+		{
+			"name": "KraussMaffei Technologies GmbH München",
+			"slug": "kraussmaffei-technologies-gmbh-muenchen"
+		},
+		{
+			"name": "Lätzsch GmbH Kunststoffverarbeitung Thierbach",
+			"slug": "laetzsch-gmbh-kunststoffverarbeitung-thierbach"
+		},
+		{
+			"name": "SKL Schwergewebekonfektion Lichtenstein GmbH Oberlungwitz",
+			"slug": "skl-schwergewebekonfektion-lichtenstein-gmbh-oberlungwitz"
+		},
+		{
+			"name": "Spengler & Fürst GmbH & Co. KG Crimmitschau",
+			"slug": "spengler-fuerst-gmbh-co-kg-crimmitschau"
+		},
+		{
+			"name": "FIBER-TECH Products GmbH Chemnitz",
+			"slug": "fiber-tech-products-gmbh-chemnitz"
+		},
+		{
+			"name": "GOEPFERT Werkzeug & Formenbau GmbH & Co. Teilefertigung KG Weimar",
+			"slug": "goepfert-werkzeug-formenbau-gmbh-co-teilefertigung-kg-weimar"
+		},
+		{
+			"name": "ALTRATEC Automation GmbH Schwieberdingen",
+			"slug": "altratec-automation-gmbh-schwieberdingen"
+		},
+		{
+			"name": "Beyer Maschinenbau GmbH Roßwein",
+			"slug": "beyer-maschinenbau-gmbh-rosswein"
+		},
+		{
+			"name": "Delta Antriebstechnik GmbH Leichlingen",
+			"slug": "delta-antriebstechnik-gmbh-leichlingen"
+		},
+		{
+			"name": "Institut für Technische Textilien GmbH (ITT) Chemnitz",
+			"slug": "institut-fuer-technische-textilien-gmbh-itt-chemnitz"
+		},
+		{
+			"name": "KD Stahl- und Maschinenbau GmbH Breitenworbis",
+			"slug": "kd-stahl-und-maschinenbau-gmbh-breitenworbis"
+		},
+		{
+			"name": "MUGLER AG Oberlungwitz",
+			"slug": "mugler-ag-oberlungwitz"
+		},
+		{
+			"name": "Raritan Deutschland GmbH Zwickau",
+			"slug": "raritan-deutschland-gmbh-zwickau"
+		},
+		{
+			"name": "Intelligente Sensorsysteme Dresden GmbH Dresden",
+			"slug": "intelligente-sensorsysteme-dresden-gmbh-dresden"
+		},
+		{
+			"name": "Intenta GmbH Chemnitz",
+			"slug": "intenta-gmbh-chemnitz"
+		},
+		{
+			"name": "3D Insight GmbH Chemnitz",
+			"slug": "3d-insight-gmbh-chemnitz"
+		},
+		{
+			"name": "Software & Research GmbH Laubusch",
+			"slug": "software-research-gmbh-laubusch"
+		},
+		{
+			"name": "Sparkasse Chemnitz",
+			"slug": "sparkasse-chemnitz"
+		},
+		{
+			"name": "Fritz Thyssen Stiftung",
+			"slug": "fritz-thyssen-stiftung"
+		},
+		{
+			"name": "Bausie Gemeinnützige Wohnungsbau- und Siedlungsgesellschaft für den Landkreis Holzminden mbH, Holzminden",
+			"slug": "bausie-gemeinnuetzige-wohnungsbau-und-siedlungsgesellschaft-fuer-den-landkreis-holzminden-mbh-holzminden"
+		},
+		{
+			"name": "Vereinigung der Freunde und Förderer e.V., Holzminden",
+			"slug": "vereinigung-der-freunde-und-foerderer-ev-holzminden"
 		}
 	]
 };
