@@ -1190,7 +1190,7 @@
   {
     "Bundesland":"Berlin",
     "Uni":"SRH Hochschule Berlin (Priv. FH)",
-    "Name":"PROF. KLAUS HEKKING",
+    "Name":"Prof. Klaus Hekking",
     "Funktion":"Vorsitzender",
     "Unternehmen":"SRH Holding",
     "Alternativname":"",
@@ -1199,16 +1199,7 @@
   {
     "Bundesland":"Berlin",
     "Uni":"SRH Hochschule Berlin (Priv. FH)",
-    "Name":"DR. HANS-JüRGEN AHLBRECHT",
-    "Funktion":"",
-    "Unternehmen":"debis Immobilienmanagement",
-    "Alternativname":"",
-    "Quelle":"http://www.srh-hochschule-berlin.de/de/unsere-hochschule/hochschulleitung/hochschulrat/"
-  },
-  {
-    "Bundesland":"Berlin",
-    "Uni":"SRH Hochschule Berlin (Priv. FH)",
-    "Name":"BERND EULER",
+    "Name":"Bernd Euler",
     "Funktion":"",
     "Unternehmen":"Siemens",
     "Alternativname":"",
@@ -1217,25 +1208,7 @@
   {
     "Bundesland":"Berlin",
     "Uni":"SRH Hochschule Berlin (Priv. FH)",
-    "Name":"DR. ARMGARD VON REDEN",
-    "Funktion":"",
-    "Unternehmen":"IBM",
-    "Alternativname":"",
-    "Quelle":"http://www.srh-hochschule-berlin.de/de/unsere-hochschule/hochschulleitung/hochschulrat/"
-  },
-  {
-    "Bundesland":"Berlin",
-    "Uni":"SRH Hochschule Berlin (Priv. FH)",
-    "Name":"DR. HERBERT RISCHE",
-    "Funktion":"",
-    "Unternehmen":"Deutsche Rentenversicherung Bund",
-    "Alternativname":"",
-    "Quelle":"http://www.srh-hochschule-berlin.de/de/unsere-hochschule/hochschulleitung/hochschulrat/"
-  },
-  {
-    "Bundesland":"Berlin",
-    "Uni":"SRH Hochschule Berlin (Priv. FH)",
-    "Name":"GRäFIN ANNETTE VON WEDEL",
+    "Name":"Gräfin Annette von Wedel",
     "Funktion":"",
     "Unternehmen":"Deutsche Bahn",
     "Alternativname":"Deutsche Bahn AG",
