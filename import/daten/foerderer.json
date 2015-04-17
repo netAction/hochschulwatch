@@ -765,11 +765,7 @@
   },
   {
     "Firma":"AOK",
-    "Text":"AOK Niedersachsen"
-  },
-  {
-    "Firma":"AOK",
-    "Text":""
+    "Text":"AOK Berlin, AOK Niedersachsen"
   },
   {
     "Firma":"AP Elektronikanlagen Planung",
@@ -7629,7 +7625,7 @@
   },
   {
     "Firma":"Henkel",
-    "Text":"Henkel AG, Fritz-Henkel-Stiftung, Gerda Henkel Stiftung"
+    "Text":"Henkel AG, Fritz-Henkel-Stiftung"
   },
   {
     "Firma":"Henkelhausen GmbH & Co. KG",
@@ -10216,14 +10212,6 @@
     "Text":""
   },
   {
-    "Firma":"Lüder Unternehmensgruppe, Hildesheim",
-    "Text":""
-  },
-  {
-    "Firma":"Lüder Unternehmungsgruppe GmbH, Hildesheim",
-    "Text":""
-  },
-  {
     "Firma":"Lüers, Jan",
     "Text":""
   },
@@ -10952,15 +10940,11 @@
     "Text":""
   },
   {
-    "Firma":"Mahle GmbH",
-    "Text":""
+    "Firma":"Mahle",
+    "Text":"Mahle GmbH, Mahle-Stiftung GmbH"
   },
   {
     "Firma":"Mahr GmbH",
-    "Text":""
-  },
-  {
-    "Firma":"Mahr, Göttingen",
     "Text":""
   },
   {
@@ -19372,7 +19356,7 @@
     "Text":""
   },
   {
-    "Firma":"Förderverein des Zentralverbands Sanitär Heizung Klima",
+    "Firma":"Zentralverband Sanitär Heizung Klima",
     "Text":""
   },
   {
@@ -19925,6 +19909,494 @@
   },
   {
     "Firma":"Vereinigung der Freunde und Förderer e.V., Holzminden",
+    "Text":""
+  },
+  {
+    "Firma":"diverse",
+    "Text":""
+  },
+  {
+    "Firma":"Axel-Springer-Stiftung",
+    "Text":""
+  },
+  {
+    "Firma":"Barner",
+    "Text":""
+  },
+  {
+    "Firma":"Brandenburgische Sommerkonzerte GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Casino Royale - Br. Enter GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Cassens-Geppert",
+    "Text":""
+  },
+  {
+    "Firma":"DL in EDV & IT-Miroslawa Kornicki",
+    "Text":""
+  },
+  {
+    "Firma":"EQUA Solutions",
+    "Text":""
+  },
+  {
+    "Firma":"Freunde Junger Musiker e. V. Berlin",
+    "Text":""
+  },
+  {
+    "Firma":"Freundeskreis der UdK Berlin e. V.",
+    "Text":""
+  },
+  {
+    "Firma":"Gazprom Germania GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Go In GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Goethe Institut Addis Abeba",
+    "Text":""
+  },
+  {
+    "Firma":"Heckel GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"HLZ Communication",
+    "Text":""
+  },
+  {
+    "Firma":"Innovationsstiftung U. Sauer",
+    "Text":""
+  },
+  {
+    "Firma":"Institute of Electronic Business e.V.",
+    "Text":""
+  },
+  {
+    "Firma":"Karl-Hofer-Gesellschaft",
+    "Text":""
+  },
+  {
+    "Firma":"KWG-Kirchengemeinde",
+    "Text":""
+  },
+  {
+    "Firma":"L Oreal Deutschland GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Lambrecht-Schadeberg",
+    "Text":""
+  },
+  {
+    "Firma":"Leuphana Uni",
+    "Text":""
+  },
+  {
+    "Firma":"Studio O. Eliasson GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Swan Operations Ltd.",
+    "Text":""
+  },
+  {
+    "Firma":"Verein der Freunde u. Förderer des SDC",
+    "Text":""
+  },
+  {
+    "Firma":"Verein R. C. Berlin-Zitadelle",
+    "Text":""
+  },
+  {
+    "Firma":"WALA Heilmittel GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Zinkann",
+    "Text":""
+  },
+  {
+    "Firma":"Hermann Kappe GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Bürgerinitiative \"Zukunft für unseren Hochschulstandort Holzminden\", Holzminden",
+    "Text":""
+  },
+  {
+    "Firma":"Diakonie Himmelsthür e.V., Hildesheim",
+    "Text":""
+  },
+  {
+    "Firma":"Desatec Systems UG, Güttingen",
+    "Text":""
+  },
+  {
+    "Firma":"Hadeler, Prof. Dr. Ralf, Güttingen",
+    "Text":""
+  },
+  {
+    "Firma":"HKS Unternehmensberatung & Service GmbH, Adelsleben",
+    "Text":""
+  },
+  {
+    "Firma":"HKS Sicherheitsservice GmbH, Hardegsen",
+    "Text":""
+  },
+  {
+    "Firma":"LaVision GmbH, Güttingen",
+    "Text":""
+  },
+  {
+    "Firma":"e.wa riss GmbH & Co. KG",
+    "Text":""
+  },
+  {
+    "Firma":"Hochschule Karlsruhe",
+    "Text":""
+  },
+  {
+    "Firma":"Neues Museum Nürnberg",
+    "Text":""
+  },
+  {
+    "Firma":"Stadt Ochsenhausen",
+    "Text":""
+  },
+  {
+    "Firma":"Landesbeirat Holz Baden-Württemberg e. V., Stuttgart",
+    "Text":""
+  },
+  {
+    "Firma":"Universidad del BioBio, Chile",
+    "Text":""
+  },
+  {
+    "Firma":"Holzbau Baden e. V.",
+    "Text":""
+  },
+  {
+    "Firma":"LONMark Deutschland e.V., Aachen",
+    "Text":""
+  },
+  {
+    "Firma":"Sonnenhof-Therme Bad Saulgau",
+    "Text":""
+  },
+  {
+    "Firma":"Erdgas Südwest GmbH, Ettlingen",
+    "Text":""
+  },
+  {
+    "Firma":"Federseeklinik, Moor-Heilbad Buchau gGmbH,",
+    "Text":""
+  },
+  {
+    "Firma":"Bad Buchau",
+    "Text":""
+  },
+  {
+    "Firma":"Ingenieurbüro für technische Gebäudeausrüstung & Energieberatung, Mengen",
+    "Text":""
+  },
+  {
+    "Firma":"Grüne Werte Energie GmbH, Eitting",
+    "Text":""
+  },
+  {
+    "Firma":"Zent-Frenger GmbH, Heppenheim",
+    "Text":""
+  },
+  {
+    "Firma":"Technoform Kunststoffprofile GmbH, Lohfelden",
+    "Text":""
+  },
+  {
+    "Firma":"Max Weishaupt GmbH, Schwendi",
+    "Text":""
+  },
+  {
+    "Firma":"MSR-Solutions GmbH, Wangen",
+    "Text":""
+  },
+  {
+    "Firma":"ennovatis GmbH, Großpösna",
+    "Text":""
+  },
+  {
+    "Firma":"Mc Donald�s GmbH, München",
+    "Text":""
+  },
+  {
+    "Firma":"Stadtwerke Bad Saulgau",
+    "Text":""
+  },
+  {
+    "Firma":"Gesellschaft zur Wirtschafts- und Strukturförderung im Märkischen Kreis mbH, Altena",
+    "Text":""
+  },
+  {
+    "Firma":"Isocal HeizKühlSysteme GmbH, Friedrichshafen",
+    "Text":""
+  },
+  {
+    "Firma":"Netze BW GmbH, Stuttgart",
+    "Text":""
+  },
+  {
+    "Firma":"Stadt Biberach",
+    "Text":""
+  },
+  {
+    "Firma":"Stadtwerke Biberach SWBC ",
+    "Text":""
+  },
+  {
+    "Firma":"Bayrisches Zentrum für Angewandte Energieforschung e. V. (ZAE Bayern)",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"",
+    "Text":""
+  },
+  {
+    "Firma":"Dürr AG, Bietigheim-Bissingen",
+    "Text":""
+  },
+  {
+    "Firma":"Elektro-Maschinenfabrik Franz Kessler GmbH, Bad Buchau",
+    "Text":""
+  },
+  {
+    "Firma":"WindTec international GmbH, Ochsenhausen",
+    "Text":""
+  },
+  {
+    "Firma":"BWU Bürgerwindpark GmbH & Co. KG, Ummendorf",
+    "Text":""
+  },
+  {
+    "Firma":"Büro Knecht und Partner GmbH, Wildpoldsried",
+    "Text":""
+  },
+  {
+    "Firma":"Dresdner Kühlanlagenbau GmbH, Dresden",
+    "Text":""
+  },
+  {
+    "Firma":"ILK Institut für Luft- und Kältetechnik gGmbH, Dresden",
+    "Text":""
+  },
+  {
+    "Firma":"Grickscheidt Gebäudeautomation GmbH, Ummendorf",
+    "Text":""
+  },
+  {
+    "Firma":"Saia-burgess Controls GmbH & Co. KG, Neu-Isenburg",
+    "Text":""
+  },
+  {
+    "Firma":"Gira Giersiepen GmbH & Co. KG, Radevormwald",
+    "Text":""
+  },
+  {
+    "Firma":"cbb Software GmbH. Lübeck",
+    "Text":""
+  },
+  {
+    "Firma":"Spelsberg Gebäudeautomation GmbH & Co. KG, Moers",
+    "Text":""
+  },
+  {
+    "Firma":"ICONAG-Leittechnik GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Beckhoff Automation GmbH, Verl",
+    "Text":""
+  },
+  {
+    "Firma":"Hydro Building Systems GmbH, Ulm",
+    "Text":""
+  },
+  {
+    "Firma":"Tewag GmbH, Starzach",
+    "Text":""
+  },
+  {
+    "Firma":"BauGrund Süd, ErdEnergie Management GmbH, Bad Wurzach",
+    "Text":""
+  },
+  {
+    "Firma":"IdE Institut dezentrale Energietechnologien Kassel gGmbH, Kassel",
+    "Text":""
+  },
+  {
+    "Firma":"Fraunhofer Institut für System- und Innovationsforschung (ISI), Karlsruhe",
+    "Text":""
+  },
+  {
+    "Firma":"Stadtwerke Karlsruhe Netze gGmbH, Karlsruhe",
+    "Text":""
+  },
+  {
+    "Firma":"BROCHIER Holding GmbH + Co. KG, Nürnberg",
+    "Text":""
+  },
+  {
+    "Firma":"Stadtentwässerung Mannheim",
+    "Text":""
+  },
+  {
+    "Firma":"Regierungspräsidium Karlsruhe",
+    "Text":""
+  },
+  {
+    "Firma":"Stadt Karlsruhe",
+    "Text":""
+  },
+  {
+    "Firma":"DWA Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall e.V., Landesverband Baden-Württemberg, Stuttgart ",
+    "Text":""
+  },
+  {
+    "Firma":"Universität Stuttgart",
+    "Text":""
+  },
+  {
+    "Firma":"Stadtentwässerung Mannheim",
+    "Text":""
+  },
+  {
+    "Firma":"Stadtentwässerung Pforzheim",
+    "Text":""
+  },
+  {
+    "Firma":"AWEL � Amt für Abfall, Wasser, Energie und Luft - Kanton Zürich",
+    "Text":""
+  },
+  {
+    "Firma":"Swiss Life Asset Management GmbH, München",
+    "Text":""
+  },
+  {
+    "Firma":"Sachverständigen Büro Lehn & Partner, München",
+    "Text":""
+  },
+  {
+    "Firma":"ENA Experts GmbH & Co. KG, Frankfurt a. M.",
+    "Text":""
+  },
+  {
+    "Firma":"vRönne Grünwald Partner, Hamburg",
+    "Text":""
+  },
+  {
+    "Firma":"Sachverständigenbüro Michael Schlarp, Essen",
+    "Text":""
+  },
+  {
+    "Firma":"sab Aktiengesellschaft, Friedrichshafen",
+    "Text":""
+  },
+  {
+    "Firma":"Cellca GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Endress+Hauser Conducta, Gesellschaft für Mess- und Regeltechnik mbH & Co. KG, Gerlingen",
+    "Text":""
+  },
+  {
+    "Firma":"Boehringer Ingelheim Deutschland GmbH, Biberach",
+    "Text":""
+  },
+  {
+    "Firma":"Rentschler Biotechnologie GmbH, Laupheim",
+    "Text":""
+  },
+  {
+    "Firma":"Cevec Pharmaceuticals GmbH",
+    "Text":""
+  },
+  {
+    "Firma":"Max-Planck-Institut für Dynamik komplexer technischer Systeme, Magdeburg",
+    "Text":""
+  },
+  {
+    "Firma":"InCella GmbH, Eggenstein-Leopoldshafen",
+    "Text":""
+  },
+  {
+    "Firma":"KIT Karlsruher Institut für Technologie ",
+    "Text":""
+  },
+  {
+    "Firma":"Universität Stuttgart",
+    "Text":""
+  },
+  {
+    "Firma":"NMI Naturwissenschaftliches und Medizinisches Institut an der Universität Tübingen",
     "Text":""
   }
 ]
