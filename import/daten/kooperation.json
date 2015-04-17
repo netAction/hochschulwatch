@@ -1852,7 +1852,7 @@
   {
     "uID":"1481",
     "Name":"RWTH Aachen (ohne Klinikum)",
-    "Förderer":"Mahle GmbH",
+    "Förderer":"Mahle",
     "Wert":"",
     "Hinweis":"Förderer",
     "Alternativname":"",
@@ -3995,8 +3995,8 @@
     "Förderer":"Airbus Group",
     "Wert":"",
     "Hinweis":"Kooperation, Stiftung Forschungspreis",
-    "Alternativname":"http://cms.uni-konstanz.de/zivilklausel/pressespiegel/",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"http://cms.uni-konstanz.de/zivilklausel/pressespiegel/",
     "Quelle 2":""
   },
   {
@@ -4005,8 +4005,8 @@
     "Förderer":"CMS Hasche Sigle",
     "Wert":"",
     "Hinweis":"Spende Zivilrecht-Hörsaal",
-    "Alternativname":"http://www.jura.uni-tuebingen.de/fakultaet/nachrichten/grossspende-ermoeglicht-modernisierung-im-juristischen-seminar?searchterm=lesesaal",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"http://www.jura.uni-tuebingen.de/fakultaet/nachrichten/grossspende-ermoeglicht-modernisierung-im-juristischen-seminar?searchterm=lesesaal",
     "Quelle 2":""
   },
   {
@@ -4015,8 +4015,8 @@
     "Förderer":"Daimler",
     "Wert":"",
     "Hinweis":"Förderung Nachwuchswissenschaftler",
-    "Alternativname":"https://www.dradio.de/dlf/sendungen/campus/1496758/",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"https://www.dradio.de/dlf/sendungen/campus/1496758/",
     "Quelle 2":""
   },
   {
@@ -4025,8 +4025,8 @@
     "Förderer":"Altana AG",
     "Wert":"",
     "Hinweis":"Kooperation",
-    "Alternativname":"http://www.altana.com/innovation/open-innovation-at-altana-ag/networks.html",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"http://www.altana.com/innovation/open-innovation-at-altana-ag/networks.html",
     "Quelle 2":""
   },
   {
@@ -4045,8 +4045,8 @@
     "Förderer":"Südwestmetall",
     "Wert":"5000",
     "Hinweis":"Preis",
-    "Alternativname":"tp://www.bwl.uni-mannheim.de/de/allgemeines/dekanat/p",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"tp://www.bwl.uni-mannheim.de/de/allgemeines/dekanat/p",
     "Quelle 2":""
   },
   {
@@ -4055,8 +4055,8 @@
     "Förderer":"Südwestbank",
     "Wert":"7500",
     "Hinweis":"Preis",
-    "Alternativname":"http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html",
     "Quelle 2":""
   },
   {
@@ -4065,8 +4065,8 @@
     "Förderer":"Frankfurter Allgemeine Zeitung",
     "Wert":"",
     "Hinweis":"FAZ-Lounge",
-    "Alternativname":"tner_des_dekanats/, http://www.uni-mannheim.de/forum/schwerpunkt/ausgabe_1_2010_stifter_und_maezene/stiftungsprofessuren/, http://www.service",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"tner_des_dekanats/, http://www.uni-mannheim.de/forum/schwerpunkt/ausgabe_1_2010_stifter_und_maezene/stiftungsprofessuren/, http://www.service",
     "Quelle 2":""
   },
   {
@@ -4075,8 +4075,8 @@
     "Förderer":"PricewaterhouseCoopers",
     "Wert":"300000",
     "Hinweis":"Hörsaalsponsoring",
-    "Alternativname":"http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html, http://www.bwl.uni-mannheim.de/de/allgemeines/dekanat/partner_des_dekanats/, http://www.uni-mannheim.de/forum/schwerpunkt/ausgabe_1_2010_stifter_und_maezene/stiftungsprofessuren/, http://www.service.uni-mannheim.de/de/campus_service/, http://hochschulanzeiger.faz.net/magazin/neue-f-a-z-lounge-an-der-universitaet-mannheim-eroeffnung-mit-grosser-poetry-slam-show-11371303.html",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html, http://www.bwl.uni-mannheim.de/de/allgemeines/dekanat/partner_des_dekanats/, http://www.uni-mannheim.de/forum/schwerpunkt/ausgabe_1_2010_stifter_und_maezene/stiftungsprofessuren/, http://www.service.uni-mannheim.de/de/campus_service/, http://hochschulanzeiger.faz.net/magazin/neue-f-a-z-lounge-an-der-universitaet-mannheim-eroeffnung-mit-grosser-poetry-slam-show-11371303.html",
     "Quelle 2":""
   },
   {
@@ -4365,8 +4365,8 @@
     "Förderer":"Carl Zeiss",
     "Wert":"",
     "Hinweis":"umfangreiche Einrichtung, Finanzierung",
-    "Alternativname":"http://www.htw-aalen.de/einrichtungen/n2099_bibliothek/n1314_service/content.php?id=791, http://www.htw-aalen.de/studium/vs/news.popup.php?id=2312, http://www.htw-aalen.de/aktuell/presse/presse.popup.php?id=2624",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"http://www.htw-aalen.de/einrichtungen/n2099_bibliothek/n1314_service/content.php?id=791, http://www.htw-aalen.de/studium/vs/news.popup.php?id=2312, http://www.htw-aalen.de/aktuell/presse/presse.popup.php?id=2624",
     "Quelle 2":""
   },
   {
@@ -4375,8 +4375,858 @@
     "Förderer":"s.a.b. AG",
     "Wert":"",
     "Hinweis":"Kooperation",
-    "Alternativname":"http://idw-online.de/pages/de/news513163, http://www.openpr.de/news/524612/sab-kooperiert-mit-Hochschule-Biberach.html",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"http://idw-online.de/pages/de/news513163, http://www.openpr.de/news/524612/sab-kooperiert-mit-Hochschule-Biberach.html",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Adidas",
+    "Wert":"",
+    "Hinweis":"IAS | Institut für Architektur und Städtebau ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"e.wa riss GmbH & Co. KG",
+    "Wert":"",
+    "Hinweis":"IAS | Institut für Architektur und Städtebau ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadt Biberach",
+    "Wert":"",
+    "Hinweis":"IAS | Institut für Architektur und Städtebau ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Hochschule Karlsruhe",
+    "Wert":"",
+    "Hinweis":"IAS | Institut für Architektur und Städtebau ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadtwerke Biberach SWBC ",
+    "Wert":"",
+    "Hinweis":"IAS | Institut für Architektur und Städtebau ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Neues Museum Nürnberg",
+    "Wert":"",
+    "Hinweis":"IAS | Institut für Architektur und Städtebau ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadt Ochsenhausen",
+    "Wert":"",
+    "Hinweis":"IKI | Institut für Konstruktiven Ingenierbau",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Landesbeirat Holz Baden-Württemberg e. V., Stuttgart",
+    "Wert":"",
+    "Hinweis":"IfH | Institut für Holzbau ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Universidad del BioBio, Chile",
+    "Wert":"",
+    "Hinweis":"IfH | Institut für Holzbau ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Holzbau Baden e. V.",
+    "Wert":"",
+    "Hinweis":"IfH | Institut für Holzbau ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"DAAD",
+    "Wert":"",
+    "Hinweis":"IfH | Institut für Holzbau ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Zentralverband Elektrotechnik- und Elektronikindustrie e.V.",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"LONMark Deutschland e.V., Aachen",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Sonnenhof-Therme Bad Saulgau",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Erdgas Südwest GmbH, Ettlingen",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Federseeklinik, Moor-Heilbad Buchau gGmbH,",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Bad Buchau",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Ingenieurbüro für technische Gebäudeausrüstung & Energieberatung, Mengen",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Grüne Werte Energie GmbH, Eitting",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"EnBW",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Viessmann Werke",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Vetter",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Zent-Frenger GmbH, Heppenheim",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Technoform Kunststoffprofile GmbH, Lohfelden",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Max Weishaupt GmbH, Schwendi",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"ZEAG Energie AG ",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"MSR-Solutions GmbH, Wangen",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"ennovatis GmbH, Großpösna",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Mc Donald�s GmbH, München",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadtwerke Bad Saulgau",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Gesellschaft zur Wirtschafts- und Strukturförderung im Märkischen Kreis mbH, Altena",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Isocal HeizKühlSysteme GmbH, Friedrichshafen",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Netze BW GmbH, Stuttgart",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadt Biberach",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Hochschule Karlsruhe",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadt Biberach",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadtwerke Biberach SWBC ",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Bayrisches Zentrum für Angewandte Energieforschung e. V. (ZAE Bayern)",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"e.wa riss GmbH & Co. KG",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadtwerke Biberach SWBC ",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Dürr AG, Bietigheim-Bissingen",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Elektro-Maschinenfabrik Franz Kessler GmbH, Bad Buchau",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"WindTec international GmbH, Ochsenhausen",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"BWU Bürgerwindpark GmbH & Co. KG, Ummendorf",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Büro Knecht und Partner GmbH, Wildpoldsried",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Dresdner Kühlanlagenbau GmbH, Dresden",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"ILK Institut für Luft- und Kältetechnik gGmbH, Dresden",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Grickscheidt Gebäudeautomation GmbH, Ummendorf",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Saia-burgess Controls GmbH & Co. KG, Neu-Isenburg",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Gira Giersiepen GmbH & Co. KG, Radevormwald",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"cbb Software GmbH. Lübeck",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Spelsberg Gebäudeautomation GmbH & Co. KG, Moers",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"ICONAG-Leittechnik GmbH",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Beckhoff Automation GmbH, Verl",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Hydro Building Systems GmbH, Ulm",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Tewag GmbH, Starzach",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"BauGrund Süd, ErdEnergie Management GmbH, Bad Wurzach",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"IdE Institut dezentrale Energietechnologien Kassel gGmbH, Kassel",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Fraunhofer Institut für System- und Innovationsforschung (ISI), Karlsruhe",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadtwerke Karlsruhe Netze gGmbH, Karlsruhe",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"BROCHIER Holding GmbH + Co. KG, Nürnberg",
+    "Wert":"",
+    "Hinweis":"IGE | Institut für Gebäude- und Energiesysteme ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadtentwässerung Mannheim",
+    "Wert":"",
+    "Hinweis":"IGU | Institut für Geo und Umwelt",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Regierungspräsidium Karlsruhe",
+    "Wert":"",
+    "Hinweis":"IGU | Institut für Geo und Umwelt",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadt Karlsruhe",
+    "Wert":"",
+    "Hinweis":"IGU | Institut für Geo und Umwelt",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"DWA Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall e.V., Landesverband Baden-Württemberg, Stuttgart ",
+    "Wert":"",
+    "Hinweis":"IGU | Institut für Geo und Umwelt ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Universität Stuttgart",
+    "Wert":"",
+    "Hinweis":"IGU | Institut für Geo und Umwelt ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadtentwässerung Mannheim",
+    "Wert":"",
+    "Hinweis":"IGU | Institut für Geo und Umwelt ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Stadtentwässerung Pforzheim",
+    "Wert":"",
+    "Hinweis":"IGU | Institut für Geo und Umwelt ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"AWEL � Amt für Abfall, Wasser, Energie und Luft - Kanton Zürich",
+    "Wert":"",
+    "Hinweis":"IGU | Institut für Geo und Umwelt ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Swiss Life Asset Management GmbH, München",
+    "Wert":"",
+    "Hinweis":"IIP | Institut für Immobilienökonomie, Infrastrukturplanung und Projektmanagement ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Sachverständigen Büro Lehn & Partner, München",
+    "Wert":"",
+    "Hinweis":"IIP | Institut für Immobilienökonomie, Infrastrukturplanung und Projektmanagement ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"ENA Experts GmbH & Co. KG, Frankfurt a. M.",
+    "Wert":"",
+    "Hinweis":"IIP | Institut für Immobilienökonomie, Infrastrukturplanung und Projektmanagement ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"vRönne Grünwald Partner, Hamburg",
+    "Wert":"",
+    "Hinweis":"IIP | Institut für Immobilienökonomie, Infrastrukturplanung und Projektmanagement ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Sachverständigenbüro Michael Schlarp, Essen",
+    "Wert":"",
+    "Hinweis":"IIP | Institut für Immobilienökonomie, Infrastrukturplanung und Projektmanagement ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"sab Aktiengesellschaft, Friedrichshafen",
+    "Wert":"",
+    "Hinweis":"IIP | Institut für Immobilienökonomie, Infrastrukturplanung und Projektmanagement ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Cellca GmbH",
+    "Wert":"",
+    "Hinweis":"IAB | Institut für Angewandte Biotechnologie ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Endress+Hauser Conducta, Gesellschaft für Mess- und Regeltechnik mbH & Co. KG, Gerlingen",
+    "Wert":"",
+    "Hinweis":"IAB | Institut für Angewandte Biotechnologie ",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Boehringer Ingelheim Deutschland GmbH, Biberach",
+    "Wert":"",
+    "Hinweis":"IAB | Institut für Angewandte Biotechnologie ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Rentschler Biotechnologie GmbH, Laupheim",
+    "Wert":"",
+    "Hinweis":"IAB | Institut für Angewandte Biotechnologie ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Cevec Pharmaceuticals GmbH",
+    "Wert":"",
+    "Hinweis":"IAB | Institut für Angewandte Biotechnologie ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Max-Planck-Institut für Dynamik komplexer technischer Systeme, Magdeburg",
+    "Wert":"",
+    "Hinweis":"IAB | Institut für Angewandte Biotechnologie ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"InCella GmbH, Eggenstein-Leopoldshafen",
+    "Wert":"",
+    "Hinweis":"IAB | Institut für Angewandte Biotechnologie ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"KIT Karlsruher Institut für Technologie ",
+    "Wert":"",
+    "Hinweis":"IAB | Institut für Angewandte Biotechnologie ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"Universität Stuttgart",
+    "Wert":"",
+    "Hinweis":"IAB | Institut für Angewandte Biotechnologie ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
+    "Quelle 2":""
+  },
+  {
+    "uID":"6720",
+    "Name":"Hochschule Biberach",
+    "Förderer":"NMI Naturwissenschaftliches und Medizinisches Institut an der Universität Tübingen",
+    "Wert":"",
+    "Hinweis":"IAB | Institut für Angewandte Biotechnologie ((Mit-)Finanzierung durch öffentlich-rechtliche Fördermittelgeber)",
+    "Alternativname":"",
+    "Quelle":"http://www.hochschule-bc.de/web/rektorat/rechenschaftsbericht",
     "Quelle 2":""
   },
   {
@@ -4735,9 +5585,9 @@
     "Förderer":"Dieter-Schwarz-Stiftung",
     "Wert":"75000000",
     "Hinweis":"Finanzierung Bildungscampus",
-    "Alternativname":"http://www.stimme.de/heilbronn/nachrichten/region/sonstige-Schwarz-Stiftung-fuer-Bildungscampus;art16305,1355363",
-    "Quelle":"http://www.stimme.de/heilbronn/nachrichten/region/Heilbronn-Neckarsulm-Lidl-Kaufland-Stiftungsgeschaeftsfuehrer-Dr-Erhard-Klotz-und-Klaus-Czernuska-Jaehrlich-20-Millionen-investieren;art16305,1511508",
-    "Quelle 2":""
+    "Alternativname":"",
+    "Quelle":"http://www.stimme.de/heilbronn/nachrichten/region/sonstige-Schwarz-Stiftung-fuer-Bildungscampus;art16305,1355363",
+    "Quelle 2":"http://www.stimme.de/heilbronn/nachrichten/region/Heilbronn-Neckarsulm-Lidl-Kaufland-Stiftungsgeschaeftsfuehrer-Dr-Erhard-Klotz-und-Klaus-Czernuska-Jaehrlich-20-Millionen-investieren;art16305,1511508"
   },
   {
     "uID":"6900",
@@ -6522,11 +7372,11 @@
   {
     "uID":"180",
     "Name":"Charite - Universitätsmedizin Berlin",
-    "Förderer":"",
+    "Förderer":"Sanofi Aventis",
     "Wert":"",
-    "Hinweis":"",
+    "Hinweis":"Partnerschaft",
     "Alternativname":"",
-    "Quelle":"",
+    "Quelle":"http://www.charite.de/charite/presse/pressemitteilungen/artikel/detail/charite_und_sanofi_erweitern_ihre_partnerschaft_um_eine_diabetes_allianz/",
     "Quelle 2":""
   },
   {
@@ -6535,8 +7385,8 @@
     "Förderer":"Google",
     "Wert":"4500000",
     "Hinweis":"An-Institut für Internet und Gesellschaft",
-    "Alternativname":"http://www.spiegel.de/netzwelt/netzpolitik/millionenfoerderung-googles-berliner-internet-institut-startet-im-oktober-a-773592.html",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"http://www.spiegel.de/netzwelt/netzpolitik/millionenfoerderung-googles-berliner-internet-institut-startet-im-oktober-a-773592.html",
     "Quelle 2":""
   },
   {
@@ -6545,8 +7395,8 @@
     "Förderer":"KPMG",
     "Wert":"",
     "Hinweis":"Finanzierung Doktorandenstelle",
-    "Alternativname":"https://www.hiig.de/pm-institut-fur-internet-und-gesellschaft-sichert-langfristige-finanzierung/, https://www.taz.de/!89878/",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"https://www.hiig.de/pm-institut-fur-internet-und-gesellschaft-sichert-langfristige-finanzierung/, https://www.taz.de/!89878/",
     "Quelle 2":""
   },
   {
@@ -6555,8 +7405,8 @@
     "Förderer":"Deutsche Bank",
     "Wert":"",
     "Hinweis":"ehemalige Stiftungsprofessur unter fraglichen Bedingungen",
-    "Alternativname":"https://http//www.spiegel.de/unispiegel/studium/deutsche-bank-deal-mit-berliner-unis-kauf-dir-einen-prof-a-765337.html",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"https://http//www.spiegel.de/unispiegel/studium/deutsche-bank-deal-mit-berliner-unis-kauf-dir-einen-prof-a-765337.html",
     "Quelle 2":""
   },
   {
@@ -6565,8 +7415,8 @@
     "Förderer":"Deutsches Atomforum",
     "Wert":"135000",
     "Hinweis":"Studie in Auftrag",
-    "Alternativname":"https://http//www.taz.de/!89878/",
-    "Quelle":"",
+    "Alternativname":"",
+    "Quelle":"https://http//www.taz.de/!89878/",
     "Quelle 2":""
   },
   {
