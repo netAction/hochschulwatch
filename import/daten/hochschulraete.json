@@ -2936,33 +2936,6 @@
   {
     "Bundesland":"Baden-Württemberg",
     "Uni":"Hochschule Furtwangen",
-    "Name":"Dr. Eugen Göller",
-    "Funktion":"Vorsitzender",
-    "Unternehmen":"Trumpf",
-    "Alternativname":"",
-    "Quelle":"http://www.hs-furtwangen.de/willkommen/die-hochschule/zentrale-services/organe/hochschulrat.html"
-  },
-  {
-    "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Furtwangen",
-    "Name":"Silke Burger",
-    "Funktion":"",
-    "Unternehmen":"SBS-Feintechnik GmbH & Co. KG",
-    "Alternativname":"",
-    "Quelle":"http://www.hs-furtwangen.de/willkommen/die-hochschule/zentrale-services/organe/hochschulrat.html"
-  },
-  {
-    "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Furtwangen",
-    "Name":"Ulrich van der Meer",
-    "Funktion":"",
-    "Unternehmen":"Hewlett-Packard GmbH",
-    "Alternativname":"",
-    "Quelle":"http://www.hs-furtwangen.de/willkommen/die-hochschule/zentrale-services/organe/hochschulrat.html"
-  },
-  {
-    "Bundesland":"Baden-Württemberg",
-    "Uni":"Hochschule Furtwangen",
     "Name":"Gabriele Siedle",
     "Funktion":"",
     "Unternehmen":"S. Siedle & Söhne",
@@ -3055,7 +3028,7 @@
     "Uni":"Universität Ulm (ohne Klinikum)",
     "Name":"Dr. Dr. h.c. Klaus Bleyer",
     "Funktion":"Vorsitzender",
-    "Unternehmen":"Mahle GmbH",
+    "Unternehmen":"Mahle",
     "Alternativname":"",
     "Quelle":"http://www.uni-ulm.de/universitaet/universitaetsrat.html"
   },
