@@ -12510,14 +12510,6 @@ var searchdb = {
 			"slug": "lueder-unternehmensgruppe-gmbh"
 		},
 		{
-			"name": "Lüder Unternehmensgruppe, Hildesheim",
-			"slug": "lueder-unternehmensgruppe-hildesheim"
-		},
-		{
-			"name": "Lüder Unternehmungsgruppe GmbH, Hildesheim",
-			"slug": "lueder-unternehmungsgruppe-gmbh-hildesheim"
-		},
-		{
 			"name": "Lüers, Jan",
 			"slug": "lueers-jan"
 		},
@@ -13246,16 +13238,12 @@ var searchdb = {
 			"slug": "magrathea-informatik-gmbh"
 		},
 		{
-			"name": "Mahle GmbH",
-			"slug": "mahle-gmbh"
+			"name": "Mahle",
+			"slug": "mahle"
 		},
 		{
 			"name": "Mahr GmbH",
 			"slug": "mahr-gmbh"
-		},
-		{
-			"name": "Mahr, Göttingen",
-			"slug": "mahr-goettingen"
 		},
 		{
 			"name": "Mainau GmbH",
@@ -21642,8 +21630,8 @@ var searchdb = {
 			"slug": "deutschen-rentenversicherung-bayern-sued"
 		},
 		{
-			"name": "Förderverein des Zentralverbands Sanitär Heizung Klima",
-			"slug": "foerderverein-des-zentralverbands-sanitaer-heizung-klima"
+			"name": "Zentralverband Sanitär Heizung Klima",
+			"slug": "zentralverband-sanitaer-heizung-klima"
 		},
 		{
 			"name": "RoMed Kliniken",
@@ -22196,6 +22184,434 @@ var searchdb = {
 		{
 			"name": "Vereinigung der Freunde und Förderer e.V., Holzminden",
 			"slug": "vereinigung-der-freunde-und-foerderer-ev-holzminden"
+		},
+		{
+			"name": "diverse",
+			"slug": "diverse"
+		},
+		{
+			"name": "Axel-Springer-Stiftung",
+			"slug": "axel-springer-stiftung"
+		},
+		{
+			"name": "Barner",
+			"slug": "barner"
+		},
+		{
+			"name": "Brandenburgische Sommerkonzerte GmbH",
+			"slug": "brandenburgische-sommerkonzerte-gmbh"
+		},
+		{
+			"name": "Casino Royale - Br. Enter GmbH",
+			"slug": "casino-royale-br-enter-gmbh"
+		},
+		{
+			"name": "Cassens-Geppert",
+			"slug": "cassens-geppert"
+		},
+		{
+			"name": "DL in EDV & IT-Miroslawa Kornicki",
+			"slug": "dl-in-edv-it-miroslawa-kornicki"
+		},
+		{
+			"name": "EQUA Solutions",
+			"slug": "equa-solutions"
+		},
+		{
+			"name": "Freunde Junger Musiker e. V. Berlin",
+			"slug": "freunde-junger-musiker-e-v-berlin"
+		},
+		{
+			"name": "Freundeskreis der UdK Berlin e. V.",
+			"slug": "freundeskreis-der-udk-berlin-e-v"
+		},
+		{
+			"name": "Gazprom Germania GmbH",
+			"slug": "gazprom-germania-gmbh"
+		},
+		{
+			"name": "Go In GmbH",
+			"slug": "go-in-gmbh"
+		},
+		{
+			"name": "Goethe Institut Addis Abeba",
+			"slug": "goethe-institut-addis-abeba"
+		},
+		{
+			"name": "Heckel GmbH",
+			"slug": "heckel-gmbh"
+		},
+		{
+			"name": "HLZ Communication",
+			"slug": "hlz-communication"
+		},
+		{
+			"name": "Innovationsstiftung U. Sauer",
+			"slug": "innovationsstiftung-u-sauer"
+		},
+		{
+			"name": "Institute of Electronic Business e.V.",
+			"slug": "institute-of-electronic-business-ev"
+		},
+		{
+			"name": "Karl-Hofer-Gesellschaft",
+			"slug": "karl-hofer-gesellschaft"
+		},
+		{
+			"name": "KWG-Kirchengemeinde",
+			"slug": "kwg-kirchengemeinde"
+		},
+		{
+			"name": "L Oreal Deutschland GmbH",
+			"slug": "l-oreal-deutschland-gmbh"
+		},
+		{
+			"name": "Lambrecht-Schadeberg",
+			"slug": "lambrecht-schadeberg"
+		},
+		{
+			"name": "Leuphana Uni",
+			"slug": "leuphana-uni"
+		},
+		{
+			"name": "Studio O. Eliasson GmbH",
+			"slug": "studio-o-eliasson-gmbh"
+		},
+		{
+			"name": "Swan Operations Ltd.",
+			"slug": "swan-operations-ltd"
+		},
+		{
+			"name": "Verein der Freunde u. Förderer des SDC",
+			"slug": "verein-der-freunde-u-foerderer-des-sdc"
+		},
+		{
+			"name": "Verein R. C. Berlin-Zitadelle",
+			"slug": "verein-r-c-berlin-zitadelle"
+		},
+		{
+			"name": "WALA Heilmittel GmbH",
+			"slug": "wala-heilmittel-gmbh"
+		},
+		{
+			"name": "Zinkann",
+			"slug": "zinkann"
+		},
+		{
+			"name": "Hermann Kappe GmbH",
+			"slug": "hermann-kappe-gmbh"
+		},
+		{
+			"name": "Bürgerinitiative \"Zukunft für unseren Hochschulstandort Holzminden\", Holzminden",
+			"slug": "buergerinitiative-zukunft-fuer-unseren-hochschulstandort-holzminden-holzminden"
+		},
+		{
+			"name": "Diakonie Himmelsthür e.V., Hildesheim",
+			"slug": "diakonie-himmelsthuer-ev-hildesheim"
+		},
+		{
+			"name": "Desatec Systems UG, Göttingen",
+			"slug": "desatec-systems-ug-goettingen"
+		},
+		{
+			"name": "Hadeler, Prof. Dr. Ralf, Göttingen",
+			"slug": "hadeler-prof-dr-ralf-goettingen"
+		},
+		{
+			"name": "HKS Unternehmensberatung & Service GmbH, Adelsleben",
+			"slug": "hks-unternehmensberatung-service-gmbh-adelsleben"
+		},
+		{
+			"name": "HKS Sicherheitsservice GmbH, Hardegsen",
+			"slug": "hks-sicherheitsservice-gmbh-hardegsen"
+		},
+		{
+			"name": "LaVision GmbH, Göttingen",
+			"slug": "lavision-gmbh-goettingen"
+		},
+		{
+			"name": "e.wa riss GmbH & Co. KG",
+			"slug": "ewa-riss-gmbh-co-kg"
+		},
+		{
+			"name": "Hochschule Karlsruhe",
+			"slug": "hochschule-karlsruhe"
+		},
+		{
+			"name": "Neues Museum Nürnberg",
+			"slug": "neues-museum-nuernberg"
+		},
+		{
+			"name": "Stadt Ochsenhausen",
+			"slug": "stadt-ochsenhausen"
+		},
+		{
+			"name": "Landesbeirat Holz Baden-Württemberg e. V., Stuttgart",
+			"slug": "landesbeirat-holz-baden-wuerttemberg-e-v-stuttgart"
+		},
+		{
+			"name": "Universidad del BioBio, Chile",
+			"slug": "universidad-del-biobio-chile"
+		},
+		{
+			"name": "Holzbau Baden e. V.",
+			"slug": "holzbau-baden-e-v"
+		},
+		{
+			"name": "LONMark Deutschland e.V., Aachen",
+			"slug": "lonmark-deutschland-ev-aachen"
+		},
+		{
+			"name": "Sonnenhof-Therme Bad Saulgau",
+			"slug": "sonnenhof-therme-bad-saulgau"
+		},
+		{
+			"name": "Erdgas Südwest GmbH, Ettlingen",
+			"slug": "erdgas-suedwest-gmbh-ettlingen"
+		},
+		{
+			"name": "Federseeklinik, Moor-Heilbad Buchau gGmbH,",
+			"slug": "federseeklinik-moor-heilbad-buchau-ggmbh"
+		},
+		{
+			"name": "Bad Buchau",
+			"slug": "bad-buchau"
+		},
+		{
+			"name": "Ingenieurbüro für technische Gebäudeausrüstung & Energieberatung, Mengen",
+			"slug": "ingenieurbuero-fuer-technische-gebaeudeausruestung-energieberatung-mengen"
+		},
+		{
+			"name": "Grüne Werte Energie GmbH, Eitting",
+			"slug": "gruene-werte-energie-gmbh-eitting"
+		},
+		{
+			"name": "Zent-Frenger GmbH, Heppenheim",
+			"slug": "zent-frenger-gmbh-heppenheim"
+		},
+		{
+			"name": "Technoform Kunststoffprofile GmbH, Lohfelden",
+			"slug": "technoform-kunststoffprofile-gmbh-lohfelden"
+		},
+		{
+			"name": "Max Weishaupt GmbH, Schwendi",
+			"slug": "max-weishaupt-gmbh-schwendi"
+		},
+		{
+			"name": "MSR-Solutions GmbH, Wangen",
+			"slug": "msr-solutions-gmbh-wangen"
+		},
+		{
+			"name": "ennovatis GmbH, Großpösna",
+			"slug": "ennovatis-gmbh-grosspoesna"
+		},
+		{
+			"name": "Mc Donald�s GmbH, München",
+			"slug": "mc-donalds-gmbh-muenchen"
+		},
+		{
+			"name": "Stadtwerke Bad Saulgau",
+			"slug": "stadtwerke-bad-saulgau"
+		},
+		{
+			"name": "Gesellschaft zur Wirtschafts- und Strukturförderung im Märkischen Kreis mbH, Altena",
+			"slug": "gesellschaft-zur-wirtschafts-und-strukturfoerderung-im-maerkischen-kreis-mbh-altena"
+		},
+		{
+			"name": "Isocal HeizKühlSysteme GmbH, Friedrichshafen",
+			"slug": "isocal-heizkuehlsysteme-gmbh-friedrichshafen"
+		},
+		{
+			"name": "Netze BW GmbH, Stuttgart",
+			"slug": "netze-bw-gmbh-stuttgart"
+		},
+		{
+			"name": "Stadt Biberach",
+			"slug": "stadt-biberach"
+		},
+		{
+			"name": "Stadtwerke Biberach SWBC",
+			"slug": "stadtwerke-biberach-swbc"
+		},
+		{
+			"name": "Bayrisches Zentrum für Angewandte Energieforschung e. V. (ZAE Bayern)",
+			"slug": "bayrisches-zentrum-fuer-angewandte-energieforschung-e-v-zae-bayern"
+		},
+		{
+			"name": "",
+			"slug": ""
+		},
+		{
+			"name": "Dürr AG, Bietigheim-Bissingen",
+			"slug": "duerr-ag-bietigheim-bissingen"
+		},
+		{
+			"name": "Elektro-Maschinenfabrik Franz Kessler GmbH, Bad Buchau",
+			"slug": "elektro-maschinenfabrik-franz-kessler-gmbh-bad-buchau"
+		},
+		{
+			"name": "WindTec international GmbH, Ochsenhausen",
+			"slug": "windtec-international-gmbh-ochsenhausen"
+		},
+		{
+			"name": "BWU Bürgerwindpark GmbH & Co. KG, Ummendorf",
+			"slug": "bwu-buergerwindpark-gmbh-co-kg-ummendorf"
+		},
+		{
+			"name": "Büro Knecht und Partner GmbH, Wildpoldsried",
+			"slug": "buero-knecht-und-partner-gmbh-wildpoldsried"
+		},
+		{
+			"name": "Dresdner Kühlanlagenbau GmbH, Dresden",
+			"slug": "dresdner-kuehlanlagenbau-gmbh-dresden"
+		},
+		{
+			"name": "ILK Institut für Luft- und Kältetechnik gGmbH, Dresden",
+			"slug": "ilk-institut-fuer-luft-und-kaeltetechnik-ggmbh-dresden"
+		},
+		{
+			"name": "Grickscheidt Gebäudeautomation GmbH, Ummendorf",
+			"slug": "grickscheidt-gebaeudeautomation-gmbh-ummendorf"
+		},
+		{
+			"name": "Saia-burgess Controls GmbH & Co. KG, Neu-Isenburg",
+			"slug": "saia-burgess-controls-gmbh-co-kg-neu-isenburg"
+		},
+		{
+			"name": "Gira Giersiepen GmbH & Co. KG, Radevormwald",
+			"slug": "gira-giersiepen-gmbh-co-kg-radevormwald"
+		},
+		{
+			"name": "cbb Software GmbH. Lübeck",
+			"slug": "cbb-software-gmbh-luebeck"
+		},
+		{
+			"name": "Spelsberg Gebäudeautomation GmbH & Co. KG, Moers",
+			"slug": "spelsberg-gebaeudeautomation-gmbh-co-kg-moers"
+		},
+		{
+			"name": "ICONAG-Leittechnik GmbH",
+			"slug": "iconag-leittechnik-gmbh"
+		},
+		{
+			"name": "Beckhoff Automation GmbH, Verl",
+			"slug": "beckhoff-automation-gmbh-verl"
+		},
+		{
+			"name": "Hydro Building Systems GmbH, Ulm",
+			"slug": "hydro-building-systems-gmbh-ulm"
+		},
+		{
+			"name": "Tewag GmbH, Starzach",
+			"slug": "tewag-gmbh-starzach"
+		},
+		{
+			"name": "BauGrund Süd, ErdEnergie Management GmbH, Bad Wurzach",
+			"slug": "baugrund-sued-erdenergie-management-gmbh-bad-wurzach"
+		},
+		{
+			"name": "IdE Institut dezentrale Energietechnologien Kassel gGmbH, Kassel",
+			"slug": "ide-institut-dezentrale-energietechnologien-kassel-ggmbh-kassel"
+		},
+		{
+			"name": "Fraunhofer Institut für System- und Innovationsforschung (ISI), Karlsruhe",
+			"slug": "fraunhofer-institut-fuer-system-und-innovationsforschung-isi-karlsruhe"
+		},
+		{
+			"name": "Stadtwerke Karlsruhe Netze gGmbH, Karlsruhe",
+			"slug": "stadtwerke-karlsruhe-netze-ggmbh-karlsruhe"
+		},
+		{
+			"name": "BROCHIER Holding GmbH + Co. KG, Nürnberg",
+			"slug": "brochier-holding-gmbh-co-kg-nuernberg"
+		},
+		{
+			"name": "Stadtentwässerung Mannheim",
+			"slug": "stadtentwaesserung-mannheim"
+		},
+		{
+			"name": "Regierungspräsidium Karlsruhe",
+			"slug": "regierungspraesidium-karlsruhe"
+		},
+		{
+			"name": "Stadt Karlsruhe",
+			"slug": "stadt-karlsruhe"
+		},
+		{
+			"name": "DWA Deutsche Vereinigung für Wasserwirtschaft, Abwasser und Abfall e.V., Landesverband Baden-Württemberg, Stuttgart",
+			"slug": "dwa-deutsche-vereinigung-fuer-wasserwirtschaft-abwasser-und-abfall-ev-landesverband-baden-wuerttemberg-stuttgart"
+		},
+		{
+			"name": "Universität Stuttgart",
+			"slug": "universitaet-stuttgart"
+		},
+		{
+			"name": "Stadtentwässerung Pforzheim",
+			"slug": "stadtentwaesserung-pforzheim"
+		},
+		{
+			"name": "AWEL � Amt für Abfall, Wasser, Energie und Luft - Kanton Zürich",
+			"slug": "awel-amt-fuer-abfall-wasser-energie-und-luft-kanton-zuerich"
+		},
+		{
+			"name": "Swiss Life Asset Management GmbH, München",
+			"slug": "swiss-life-asset-management-gmbh-muenchen"
+		},
+		{
+			"name": "Sachverständigen Büro Lehn & Partner, München",
+			"slug": "sachverstaendigen-buero-lehn-partner-muenchen"
+		},
+		{
+			"name": "ENA Experts GmbH & Co. KG, Frankfurt a. M.",
+			"slug": "ena-experts-gmbh-co-kg-frankfurt-a-m"
+		},
+		{
+			"name": "vRönne Grünwald Partner, Hamburg",
+			"slug": "vroenne-gruenwald-partner-hamburg"
+		},
+		{
+			"name": "Sachverständigenbüro Michael Schlarp, Essen",
+			"slug": "sachverstaendigenbuero-michael-schlarp-essen"
+		},
+		{
+			"name": "sab Aktiengesellschaft, Friedrichshafen",
+			"slug": "sab-aktiengesellschaft-friedrichshafen"
+		},
+		{
+			"name": "Cellca GmbH",
+			"slug": "cellca-gmbh"
+		},
+		{
+			"name": "Endress+Hauser Conducta, Gesellschaft für Mess- und Regeltechnik mbH & Co. KG, Gerlingen",
+			"slug": "endresshauser-conducta-gesellschaft-fuer-mess-und-regeltechnik-mbh-co-kg-gerlingen"
+		},
+		{
+			"name": "Boehringer Ingelheim Deutschland GmbH, Biberach",
+			"slug": "boehringer-ingelheim-deutschland-gmbh-biberach"
+		},
+		{
+			"name": "Rentschler Biotechnologie GmbH, Laupheim",
+			"slug": "rentschler-biotechnologie-gmbh-laupheim"
+		},
+		{
+			"name": "Cevec Pharmaceuticals GmbH",
+			"slug": "cevec-pharmaceuticals-gmbh"
+		},
+		{
+			"name": "Max-Planck-Institut für Dynamik komplexer technischer Systeme, Magdeburg",
+			"slug": "max-planck-institut-fuer-dynamik-komplexer-technischer-systeme-magdeburg"
+		},
+		{
+			"name": "InCella GmbH, Eggenstein-Leopoldshafen",
+			"slug": "incella-gmbh-eggenstein-leopoldshafen"
+		},
+		{
+			"name": "KIT Karlsruher Institut für Technologie",
+			"slug": "kit-karlsruher-institut-fuer-technologie"
+		},
+		{
+			"name": "NMI Naturwissenschaftliches und Medizinisches Institut an der Universität Tübingen",
+			"slug": "nmi-naturwissenschaftliches-und-medizinisches-institut-an-der-universitaet-tuebingen"
 		}
 	]
 };
