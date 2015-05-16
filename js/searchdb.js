@@ -336,11 +336,6 @@ var searchdb = {
 			"slug": "fh-aachen"
 		},
 		{
-			"name": "Hochschule Aalen",
-			"bundesland": "Baden-Württemberg",
-			"slug": "hochschule-aalen"
-		},
-		{
 			"name": "FH Ansbach",
 			"bundesland": "Bayern",
 			"slug": "fh-ansbach"
@@ -691,6 +686,11 @@ var searchdb = {
 			"slug": "hhl-leipzig-graduate-school-of-management"
 		},
 		{
+			"name": "Hochschule Aalen",
+			"bundesland": "Baden-Württemberg",
+			"slug": "hochschule-aalen"
+		},
+		{
 			"name": "Hochschule Albstadt-Sigmaringen (FH)",
 			"bundesland": "Baden-Württemberg",
 			"slug": "hochschule-albstadt-sigmaringen-fh"
@@ -931,11 +931,6 @@ var searchdb = {
 			"slug": "hochschule-fuer-kirchenmusik-der-evang-luth-landeskirche-sachsens-dresden"
 		},
 		{
-			"name": "Hochschule für Telekommunikation Leipzig",
-			"bundesland": "Sachsen",
-			"slug": "hochschule-fuer-telekommunikation-leipzig"
-		},
-		{
 			"name": "Hochschule für Musik Berlin Hanns Eisler",
 			"bundesland": "Berlin",
 			"slug": "hochschule-fuer-musik-berlin-hanns-eisler"
@@ -1054,6 +1049,11 @@ var searchdb = {
 			"name": "Hochschule für Technik, Wirtschaft und Kultur Leipzig",
 			"bundesland": "Sachsen",
 			"slug": "hochschule-fuer-technik-wirtschaft-und-kultur-leipzig"
+		},
+		{
+			"name": "Hochschule für Telekommunikation Leipzig",
+			"bundesland": "Sachsen",
+			"slug": "hochschule-fuer-telekommunikation-leipzig"
 		},
 		{
 			"name": "Hochschule für Verwaltungswissenschaften Speyer",

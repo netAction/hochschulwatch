@@ -51,13 +51,17 @@ function hochschulenLookup() {
 	var hochschulen = jf.readFileSync('daten/drittmittel.json');
 	var hochschulenLookup = {};
 	for (var i = 0, len = hochschulen.length; i < len; i++) {
+		if (!hochschulen[i].Name) continue;
 		hochschulen[i].addi = beautify( hochschulen[i].addi );
+
 		hochschulen[i]['absolut-2010-string'] = beautifyCurrency( hochschulen[i]['absolut-2010'] );
 		hochschulen[i]['wirtschaft-2010-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2010'] );
 		hochschulen[i]['absolut-2011-string'] = beautifyCurrency( hochschulen[i]['absolut-2011'] );
 		hochschulen[i]['wirtschaft-2011-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2011'] );
 		hochschulen[i]['absolut-2012-string'] = beautifyCurrency( hochschulen[i]['absolut-2012'] );
 		hochschulen[i]['wirtschaft-2012-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2012'] );
+		hochschulen[i]['absolut-2013-string'] = beautifyCurrency( hochschulen[i]['absolut-2013'] );
+		hochschulen[i]['wirtschaft-2013-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2013'] );
 
 		hochschulenLookup[hochschulen[i].Name] = hochschulen[i];
 	}
@@ -86,7 +90,6 @@ function importFoerderungen(filename, hochschulBezeichner, foerdererBezeichner) 
 		if (!foerderung[foerdererBezeichner]) return;
 		foerderung[foerdererBezeichner] = beautify(foerderung[foerdererBezeichner]);
 		foerderung[hochschulBezeichner] = beautify(foerderung[hochschulBezeichner]);
-
 
 		if(!hochschulenTable[foerderung[hochschulBezeichner]]) {
 			console.log('Hochschule in '+filename+'.json unbekannt: '+foerderung[hochschulBezeichner]);
