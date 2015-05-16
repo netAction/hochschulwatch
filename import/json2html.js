@@ -307,8 +307,8 @@ template = templateHeader + template + templateFooter;
 for(var name in hochschulenTable ) {
 	var data = hochschulenTable[name];
 	data.srcpath = '../';
-	if (data['wirtschaft-2012']) {
-		data.wirtschaftPercent = Math.round(data['wirtschaft-2012'] * 100 / data['absolut-2012']);
+	if (data['wirtschaft-2013']) {
+		data.wirtschaftPercent = Math.round(data['wirtschaft-2013'] * 100 / data['absolut-2013']);
 	} else {
 		data.wirtschaftPercent = 0;
 	}
