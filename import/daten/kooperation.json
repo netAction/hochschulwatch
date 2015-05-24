@@ -3692,6 +3692,26 @@
   {
     "uID":"1223",
     "Name":"Universität Mainz",
+    "Förderer":"Boehringer Ingelheim",
+    "Wert":"100000000",
+    "Hinweis":"Institut für Molekulare Biologie",
+    "Alternativname":"",
+    "Quelle":"http://www.taz.de/Uni-Mainz-verheimlicht-Pharma-Vertrag/!160153/",
+    "Quelle 2":""
+  },
+  {
+    "uID":"1223",
+    "Name":"Universität Mainz",
+    "Förderer":"Boehringer Ingelheim",
+    "Wert":"50000000",
+    "Hinweis":"Fachbereich Lebenswissenschaften",
+    "Alternativname":"",
+    "Quelle":"http://www.taz.de/Uni-Mainz-verheimlicht-Pharma-Vertrag/!160153/",
+    "Quelle 2":""
+  },
+  {
+    "uID":"1223",
+    "Name":"Universität Mainz",
     "Förderer":"Deutsche Post",
     "Wert":"180000",
     "Hinweis":"Deutsche Post DHL: ''Flexible Bezirksschneidung'' (2014 - 2016) - Mainzer Wirtschaftswissenschaften",
