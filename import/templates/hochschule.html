@@ -134,7 +134,12 @@
 			<table class="table table-striped">
 				{{ #hochschulraete }}
 				<tr>
-					<td>{{ Name }}</td>
+					<td>
+						{{ Name }}
+						{{ #Funktion.length }}
+							<em>({{ Funktion }})</em>
+						{{ /Funktion.length }}
+					</td>
 					<td>
 						<a href="../foerderer/{{ #Unternehmen }}{{ slugify }}{{ /Unternehmen }}.html">{{ Unternehmen }}</a>
 						{{ #Quelle.length }}
