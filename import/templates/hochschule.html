@@ -143,7 +143,7 @@
 					<td>
 						<a href="../foerderer/{{ #Unternehmen }}{{ slugify }}{{ /Unternehmen }}.html">{{ Unternehmen }}</a>
 						{{ #Quelle.length }}
-							<a href="{{{Quelle}}}" class="pull-right">
+							<a href="{{{Quelle}}}" class="pull-right" title="Quelle">
 								<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
 							</a>
 						{{ /Quelle.length }}
@@ -203,7 +203,7 @@
 						<td>
 							{{ Hinweis }}
 							{{ #Quelle.length }}
-								<a href="{{{Quelle}}}" class="pull-right">
+								<a href="{{{Quelle}}}" class="pull-right" title="Quelle">
 									<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
 								</a>
 							{{ /Quelle.length }}
@@ -225,7 +225,7 @@
 				<a href="../foerderer/{{ #Firma }}{{ slugify }}{{ /Firma }}.html">{{ Firma }}</a>
 				{{ #Quelle.length }}
 					&nbsp;
-					<a href="{{{Quelle}}}">
+					<a href="{{{Quelle}}}" title="Quelle">
 						<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
 					</a>
 				{{ /Quelle.length }}
@@ -260,7 +260,7 @@
 						<td>
 							{{ Hinweis }}
 							{{ #Quelle.length }}
-								<a href="{{{Quelle}}}" class="pull-right">
+								<a href="{{{Quelle}}}" class="pull-right" title="Quelle">
 									<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
 								</a>
 							{{ /Quelle.length }}

@@ -24,7 +24,7 @@
 					<td>
 						<a href="../hochschule/{{ #Uni }}{{ slugify }}{{ /Uni }}.html">{{ Uni }}</a>
 						{{ #Quelle.length }}
-							<a href="{{{Quelle}}}" class="pull-right">
+							<a href="{{{Quelle}}}" class="pull-right" title="Quelle">
 								<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
 							</a>
 						{{ /Quelle.length }}
@@ -87,7 +87,7 @@
 						<td>
 							{{ Hinweis }}
 							{{ #Quelle.length }}
-								<a href="{{{Quelle}}}" class="pull-right">
+								<a href="{{{Quelle}}}" class="pull-right" title="Quelle">
 									<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
 								</a>
 							{{ /Quelle.length }}
@@ -109,7 +109,7 @@
 				<a href="../hochschule/{{ #Name }}{{ slugify }}{{ /Name }}.html">{{ Name }}</a>
 				{{ #Quelle.length }}
 					&nbsp;
-					<a href="{{{Quelle}}}">
+					<a href="{{{Quelle}}}" title="Quelle">
 						<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
 					</a>
 				{{ /Quelle.length }}
@@ -145,7 +145,7 @@
 						<td>
 							{{ Hinweis }}
 							{{ #Quelle.length }}
-								<a href="{{{Quelle}}}" class="pull-right">
+								<a href="{{{Quelle}}}" class="pull-right" title="Quelle">
 									<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
 								</a>
 							{{ /Quelle.length }}
