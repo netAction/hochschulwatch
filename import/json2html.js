@@ -287,6 +287,49 @@ generateBundeslaender();
 
 
 
+
+// #################### Trägerschaften (staatlich/privat)
+
+function generateTraegerschaften() {
+	var template = fs.readFileSync('templates/traegerschaft.html').toString();
+	template = templateHeader + template + templateFooter;
+
+	var traegerschaften = ['staatlich', 'privat'];
+	for(var traegerschaft in traegerschaften) {
+		var data = {
+			name: traegerschaften[traegerschaft],
+			hochschulen: [],
+		};
+
+		var hochschulenRaw = [];
+		for(var name in hochschulenTable ) {
+			if (hochschulenTable[name].orientierung == traegerschaften[traegerschaft])
+				hochschulenRaw.push( hochschulenTable[name].Name );
+		}
+
+		hochschulenRaw.sort();
+		for(var hochschule in hochschulenRaw) {
+			var firstChar = hochschulenRaw[hochschule].toUpperCase().charCodeAt(0);
+			if (!data.hochschulen[firstChar]) {
+				data.hochschulen[firstChar] = {
+					char: hochschulenRaw[hochschule].toUpperCase()[0],
+					names: []
+				};
+			}
+			data.hochschulen[firstChar].names.push(
+				hochschulenRaw[hochschule]
+			);
+		}
+
+		data.srcpath = '../';
+		data.slugify = function(){ return slugify(this.toString()); };
+		var html = ms.render(template, data);
+		fs.writeFileSync('../traegerschaft/'+slugify(traegerschaften[traegerschaft])+'.html', html);
+	}
+}
+generateTraegerschaften();
+
+
 // #################### Verzeichnisse hochschulen und foerderer löschen
 
 var files = fs.readdirSync('../hochschule');

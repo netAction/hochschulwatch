@@ -1,0 +1,16 @@
+
+	<div class="container">
+		<h1>{{ name }}</h1>
+
+		{{ #hochschulen }}
+		<h2 class="above40px">{{ char }}</h2>
+		<ul class="list-unstyled">
+			{{ #names }}
+			<li><a href="../hochschule/{{ #. }}{{ slugify }}{{ /. }}.html">{{ . }}</a></li>
+			{{ /names }}
+		</ul>
+		{{ /hochschulen }}
+
+
+	</div><!-- container -->
+
