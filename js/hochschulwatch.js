@@ -123,10 +123,14 @@ $(function() {
 		$('a.land-selector').addClass('btn-default').removeClass('btn-primary');
 		$(this).addClass('btn-primary').removeClass('btn-default');
 
-    $('html, body').animate({
-			scrollTop: $('#hochschulen-land-selektion-wrapper').offset().top
+		$('html, body').animate({
+			scrollTop: $('#hochschulen-land-selektion-wrapper').offset().top - ($( window ).height() / 2)
 		}, 'slow');
 
+		$('#hochschulen-land-selektion').addClass('highlight');
+		setTimeout(function() {
+			$('#hochschulen-land-selektion').removeClass('highlight');
+		}, 500);
 	});
 
 	$('#hochschulen-land-selektion').change( function() {
