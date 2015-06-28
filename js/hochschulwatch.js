@@ -1,3 +1,5 @@
+var disqus_shortname, disqus_identifier;
+
 $(function() {
 	$('input#search-input').on('propertychange keyup input paste change', function() {
 		var hochschulPath = $(this).attr('data-hochschulpath');
@@ -160,6 +162,21 @@ $(function() {
 			styleWrapper: true,
 			styleText:    true
 		});
+	});
+
+
+
+	$('.disqus-enable-button').click(function(){
+		$(this).remove();
+
+		disqus_shortname = 'hochschulwatch';
+		disqus_identifier = $('#disqus_thread').attr('data-identifier');
+
+		(function() {
+			var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+			dsq.src = 'https://hochschulwatch.disqus.com/embed.js';
+			document.getElementsByTagName('head')[0].appendChild(dsq);
+		})();
 	});
 
 });
