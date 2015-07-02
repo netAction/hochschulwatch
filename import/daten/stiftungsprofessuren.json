@@ -19238,6 +19238,20 @@
   {
     "Land":"Berlin",
     "Hochschule":"Humboldt-Universität zu Berlin",
+    "Fakultät":"Potsdam-Institut für Klimafolgenforschung",
+    "Stiftungsprofessur":"Nachhaltige Landnutzung und Klimawandel",
+    "Stifter":"Bayer",
+    "Fördersumme pro Jahr":"",
+    "Fördersumme insgesamt":"",
+    "Laufzeit":"",
+    "Startpunkt":"",
+    "Quelle":"",
+    "Alternativname":"Bayer Foundation",
+    "Status":""
+  },
+  {
+    "Land":"Berlin",
+    "Hochschule":"Humboldt-Universität zu Berlin",
     "Fakultät":"Juristische Fakultät",
     "Stiftungsprofessur":"Jüdisches Recht",
     "Stifter":"Dr. Meyer-Struckmann-Stiftung",
@@ -20407,6 +20421,20 @@
     "Fördersumme insgesamt":"",
     "Laufzeit":"",
     "Startpunkt":"",
+    "Quelle":"",
+    "Alternativname":"",
+    "Status":""
+  },
+  {
+    "Land":"Rheinland-Pfalz",
+    "Hochschule":"Hochschule Worms",
+    "Fakultät":"",
+    "Stiftungsprofessur":"Internationales Logistikmanagement",
+    "Stifter":"Trans Service Team GmbH",
+    "Fördersumme pro Jahr":"",
+    "Fördersumme insgesamt":"",
+    "Laufzeit":"",
+    "Startpunkt":"2015",
     "Quelle":"",
     "Alternativname":"",
     "Status":""
