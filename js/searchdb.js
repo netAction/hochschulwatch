@@ -606,9 +606,9 @@ var searchdb = {
 			"slug": "fh-wismar"
 		},
 		{
-			"name": "FH Worms",
+			"name": "Hochschule Worms",
 			"bundesland": "Rheinland-Pfalz",
-			"slug": "fh-worms"
+			"slug": "hochschule-worms"
 		},
 		{
 			"name": "Folkwang-Hochschule Essen",
@@ -22436,6 +22436,10 @@ var searchdb = {
 		{
 			"name": "Bayrisches Zentrum für Angewandte Energieforschung e. V. (ZAE Bayern)",
 			"slug": "bayrisches-zentrum-fuer-angewandte-energieforschung-e-v-zae-bayern"
+		},
+		{
+			"name": "Trans Service Team GmbH",
+			"slug": "trans-service-team-gmbh"
 		},
 		{
 			"name": "",
