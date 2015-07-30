@@ -2882,17 +2882,6 @@
     "Quelle":"http://www.hm.edu/allgemein/hochschule_muenchen/hochschulleitung/hochschulrat/index.de.html"
   },
   {
-    "Bundesland":"Bayern",
-    "Uni":"Universität Bamberg",
-    "Name":"Dr. Jürgen Ederleh",
-    "Unternehmen":"HIS GmbH",
-    "Branche":"",
-    "FIELD6":"",
-    "Funktion":"",
-    "Alternativname":"",
-    "Quelle":"http://www.uni-bamberg.de/universitaetsrat/"
-  },
-  {
     "Bundesland":"Hamburg",
     "Uni":"Hafencity Universität Hamburg",
     "Name":"Leo Mittelholzer",
@@ -4387,5 +4376,38 @@
     "Funktion":"",
     "Alternativname":"",
     "Quelle":"https://www.th-deg.de/de/hochschule"
+  },
+  {
+    "Bundesland":"Nordrhein-Westfalen",
+    "Uni":"WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
+    "Name":"Jürgen Kaube",
+    "Unternehmen":"Frankfurter Allgemeine Zeitung",
+    "Branche":"",
+    "FIELD6":"",
+    "Funktion":"",
+    "Alternativname":"",
+    "Quelle":"https://www.uni-muenster.de/Hochschulrat/"
+  },
+  {
+    "Bundesland":"Nordrhein-Westfalen",
+    "Uni":"WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
+    "Name":"Dr. Dr. h. c. mult. Johannes Georg Bednorz (IBM-Forschunglabor Zürich)",
+    "Unternehmen":"IBM",
+    "Branche":"",
+    "FIELD6":"",
+    "Funktion":"",
+    "Alternativname":"",
+    "Quelle":"https://www.uni-muenster.de/Hochschulrat/"
+  },
+  {
+    "Bundesland":"Nordrhein-Westfalen",
+    "Uni":"WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
+    "Name":"Thomas Middelhoff (bis 2013)",
+    "Unternehmen":"",
+    "Branche":"",
+    "FIELD6":"",
+    "Funktion":"",
+    "Alternativname":"",
+    "Quelle":"http://www.uni-muenster.de/uv/session/bi/kp0051.php?__kpenr=14"
   }
 ]
