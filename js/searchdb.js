@@ -22442,6 +22442,10 @@ var searchdb = {
 			"slug": "trans-service-team-gmbh"
 		},
 		{
+			"name": "Unternehmerverband Sachsen",
+			"slug": "unternehmerverband-sachsen"
+		},
+		{
 			"name": "",
 			"slug": ""
 		},
@@ -22616,6 +22620,10 @@ var searchdb = {
 		{
 			"name": "NMI Naturwissenschaftliches und Medizinisches Institut an der Universität Tübingen",
 			"slug": "nmi-naturwissenschaftliches-und-medizinisches-institut-an-der-universitaet-tuebingen"
+		},
+		{
+			"name": "SMWK",
+			"slug": "smwk"
 		}
 	]
 };
