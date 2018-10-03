@@ -14,5 +14,4 @@ Der Generator benötigt *node.js* mit den *npm*-Paketen *jsonfile* und *mustache
 
     $ npm install jsonfile
     $ npm install mustache
-    $ nodejs json2html.js
-
+    $ node json2html.js

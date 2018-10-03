@@ -264,6 +264,13 @@ function generateBundeslaender() {
 				hochschulenRaw[hochschule]
 			);
 		}
+    // Remove empty https://stackoverflow.com/a/281335/589531
+    for (var i = 0; i < data.hochschulen.length; i++) {
+      if (data.hochschulen[i] == undefined) {
+        data.hochschulen.splice(i, 1);
+        i--;
+      }
+    }
 
 		data.infobox = [];
 		var infoboxData = jf.readFileSync('daten/bundeslaender.json');
@@ -320,6 +327,13 @@ function generateTraegerschaften() {
 				hochschulenRaw[hochschule]
 			);
 		}
+    // Remove empty https://stackoverflow.com/a/281335/589531
+    for (var i = 0; i < data.hochschulen.length; i++) {
+      if (data.hochschulen[i] == undefined) {
+        data.hochschulen.splice(i, 1);
+        i--;
+      }
+    }
 
 		data.srcpath = '../';
 		data.slugify = function(){ return slugify(this.toString()); };
@@ -373,4 +387,3 @@ for(var name in foerdererTable ) {
 	var html = ms.render(template, data);
 	fs.writeFileSync('../foerderer/'+slugify(data.Firma)+'.html', html);
 };
-
