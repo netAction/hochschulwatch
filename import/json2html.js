@@ -62,6 +62,12 @@ function hochschulenLookup() {
 		hochschulen[i]['wirtschaft-2012-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2012'] );
 		hochschulen[i]['absolut-2013-string'] = beautifyCurrency( hochschulen[i]['absolut-2013'] );
 		hochschulen[i]['wirtschaft-2013-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2013'] );
+		hochschulen[i]['absolut-2014-string'] = beautifyCurrency( hochschulen[i]['absolut-2014'] );
+		hochschulen[i]['wirtschaft-2014-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2014'] );
+		hochschulen[i]['absolut-2015-string'] = beautifyCurrency( hochschulen[i]['absolut-2015'] );
+		hochschulen[i]['wirtschaft-2015-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2015'] );
+		hochschulen[i]['absolut-2016-string'] = beautifyCurrency( hochschulen[i]['absolut-2016'] );
+		hochschulen[i]['wirtschaft-2016-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2016'] );
 
 		hochschulenLookup[hochschulen[i].Name] = hochschulen[i];
 	}
@@ -364,8 +370,8 @@ template = templateHeader + template + templateFooter;
 for(var name in hochschulenTable ) {
 	var data = hochschulenTable[name];
 	data.srcpath = '../';
-	if (data['wirtschaft-2013']) {
-		data.wirtschaftPercent = Math.round(data['wirtschaft-2013'] * 100 / data['absolut-2013']);
+	if (data['wirtschaft-2016']) {
+		data.wirtschaftPercent = Math.round(data['wirtschaft-2016'] * 100 / data['absolut-2016']);
 	} else {
 		data.wirtschaftPercent = 0;
 	}
