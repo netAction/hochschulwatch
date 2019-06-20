@@ -141,7 +141,6 @@ function importFoerderungen(filename, hochschulBezeichner, foerdererBezeichner) 
 	});
 }
 
-importFoerderungen('deutschlandstipendien', 'Name', 'Firma');
 importFoerderungen('hochschulraete', 'Uni', 'Unternehmen');
 importFoerderungen('kooperation', 'Name', 'Förderer');
 importFoerderungen('sponsoring', 'Universität', 'Name des Gebers');
@@ -199,10 +198,6 @@ fs.writeFileSync('../themen/stiftungsprofessuren.html', ms.render(
 	{srcpath: '../', activeThemen: true }
 ));
 
-fs.writeFileSync('../themen/stipendien.html', ms.render(
-	templateHeader+ fs.readFileSync('templates/stipendien.html').toString() + templateFooter,
-	{srcpath: '../', activeThemen: true }
-));
 
 // #################### Index für Suchfunktion erstellen
 
