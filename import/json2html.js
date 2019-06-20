@@ -68,6 +68,8 @@ function hochschulenLookup() {
 		hochschulen[i]['wirtschaft-2015-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2015'] );
 		hochschulen[i]['absolut-2016-string'] = beautifyCurrency( hochschulen[i]['absolut-2016'] );
 		hochschulen[i]['wirtschaft-2016-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2016'] );
+		hochschulen[i]['absolut-2017-string'] = beautifyCurrency( hochschulen[i]['absolut-2017'] );
+		hochschulen[i]['wirtschaft-2017-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2017'] );
 
 		hochschulenLookup[hochschulen[i].Name] = hochschulen[i];
 	}
@@ -370,8 +372,8 @@ template = templateHeader + template + templateFooter;
 for(var name in hochschulenTable ) {
 	var data = hochschulenTable[name];
 	data.srcpath = '../';
-	if (data['wirtschaft-2016']) {
-		data.wirtschaftPercent = Math.round(data['wirtschaft-2016'] * 100 / data['absolut-2016']);
+	if (data['wirtschaft-2017']) {
+		data.wirtschaftPercent = Math.round(data['wirtschaft-2017'].replace(/\./g,"") * 100 / data['absolut-2017'].replace(/\./g,"")); //Entfernen der Tausenderpunkte bei Berechnung
 	} else {
 		data.wirtschaftPercent = 0;
 	}

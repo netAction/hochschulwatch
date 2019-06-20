@@ -142,6 +142,17 @@
 										{{ absolut-2016-string }}
 									</td>
 								</tr>
+																<tr>
+									<th>
+										2017
+									</th>
+									<td class="text-right">
+										{{ wirtschaft-2017-string }}
+									</td>
+									<td class="text-right">
+										{{ absolut-2017-string }}
+									</td>
+								</tr>
 								<tr>
 									<td><em>Quelle: Statistisches Bundesamt</em>
 									</td>
@@ -247,25 +258,6 @@
 			</table>
 		</div>
 		{{ /kooperation.length }}
-
-
-
-		{{ #deutschlandstipendien.length }}
-		<h2>Deutschlandstipendien <sup><a href="../themen/stipendien.html" class="badge">Infos</a></sup></h2>
-		<ul>
-			{{ #deutschlandstipendien }}
-			<li>
-				<a href="../foerderer/{{ #Firma }}{{ slugify }}{{ /Firma }}.html">{{ Firma }}</a>
-				{{ #Quelle.length }}
-					&nbsp;
-					<a href="{{{Quelle}}}" title="Quelle">
-						<span class="glyphicon glyphicon-zoom-in" aria-hidden="true"></span>
-					</a>
-				{{ /Quelle.length }}
-			</li>
-			{{ /deutschlandstipendien }}
-		</ul>
-		{{ /deutschlandstipendien.length }}
 
 
 		{{ #sponsoring.length }}
