@@ -1,6 +1,6 @@
-var jf = require('jsonfile');
-var fs = require('fs');
-var ms = require('mustache');
+const fs = require('fs');
+const ms = require('mustache');
+const parse = require('csv-parse/lib/sync');
 
 
 
@@ -43,12 +43,20 @@ function slugify(name) {
 	return(name);
 }
 
-
+function readCSV(path) {
+	var filecontent = fs.readFileSync(path, "utf8");
+	return parse(filecontent, {
+		columns: true,
+		skip_empty_lines: true,
+		delimiter: ";"
+	})
+}
 
 // #################### jSon-Daten in Variable hochschulenTable und foerdererTable einlesen
 
 function hochschulenLookup() {
-	var hochschulen = jf.readFileSync('daten/drittmittel.json');
+	var hochschulen = readCSV("./daten/drittmittel.csv");
+
 	var hochschulenLookup = {};
 	for (var i = 0, len = hochschulen.length; i < len; i++) {
 		if (!hochschulen[i].Name) continue;
@@ -79,7 +87,7 @@ var hochschulenTable = hochschulenLookup();
 
 
 function foerdererLookup() {
-	var foerderer = jf.readFileSync('daten/foerderer.json');
+	var foerderer = readCSV('daten/foerderer.csv');
 	var foerdererLookup = {};
 	for (var i = 0, len = foerderer.length; i < len; i++) {
 		foerderer[i].Firma = beautify( foerderer[i].Firma );
@@ -93,18 +101,18 @@ var foerdererTable = foerdererLookup();
 
 
 function importFoerderungen(filename, hochschulBezeichner, foerdererBezeichner) {
-	var foedererDatei = jf.readFileSync('daten/'+filename+'.json');
+	var foedererDatei = readCSV('daten/'+filename+'.csv');
 	foedererDatei.forEach( function( foerderung ) {
 		if (!foerderung[foerdererBezeichner]) return;
 		foerderung[foerdererBezeichner] = beautify(foerderung[foerdererBezeichner]);
 		foerderung[hochschulBezeichner] = beautify(foerderung[hochschulBezeichner]);
 
 		if(!hochschulenTable[foerderung[hochschulBezeichner]]) {
-			console.log('Hochschule in '+filename+'.json unbekannt: '+foerderung[hochschulBezeichner]);
+			console.log('Hochschule in '+filename+'.csv unbekannt: '+foerderung[hochschulBezeichner]);
 			return;
 		}
 		if(!foerdererTable[foerderung[foerdererBezeichner]]) {
-			console.log('Förderer in '+filename+'.json unbekannt: '+foerderung[foerdererBezeichner]);
+			console.log('Förderer in '+filename+'.csv unbekannt: '+foerderung[foerdererBezeichner]);
 			return;
 		}
 
@@ -146,10 +154,6 @@ importFoerderungen('kooperation', 'Name', 'Förderer');
 importFoerderungen('sponsoring', 'Universität', 'Name des Gebers');
 importFoerderungen('stiftungsprofessuren', 'Hochschule', 'Stifter');
 
-
-// Debug output
-// jf.writeFileSync('hochschulen.json', hochschulenTable);
-// jf.writeFileSync('foerderer.json', foerdererTable);
 
 
 // #################### Header und Footer vom HTML-Template laden
@@ -276,7 +280,7 @@ function generateBundeslaender() {
     }
 
 		data.infobox = [];
-		var infoboxData = jf.readFileSync('daten/bundeslaender.json');
+		var infoboxData = readCSV('daten/bundeslaender.csv');
 		for(var infoboxDataEntry in infoboxData) {
 			if (infoboxData[infoboxDataEntry].Bundesland == bundeslaender[bundesland]) {
 				data.infobox.push({
