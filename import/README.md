@@ -5,13 +5,12 @@ Die Seite besteht aus fertigen HTML-Seiten und enthält keine serverseitigen Scr
 
 ## Rohdaten
 
-Die Daten liegen im Verzeichnis *daten* als *json*-Dateien. Sie sind mit dem csv-to-json-Generator (http://www.convertcsv.com/csv-to-json.htm) aus den *csv*-Dateien im Ordner *daten/vorlage-in-csv* generiert.
+Die Daten liegen im Verzeichnis *daten* als *csv*-Dateien. Sie sind *UTF-8* encodiert und mit *;* getrennt.
 
 
 ## node.js
 
-Der Generator benötigt *node.js* mit den *npm*-Paketen *jsonfile* und *mustache*.
+Der Generator benötigt *node.js* mit den *npm*-Paketen *csv-parse* und *mustache*.
 
-    $ npm install jsonfile
-    $ npm install mustache
+    $ npm install
     $ node json2html.js
