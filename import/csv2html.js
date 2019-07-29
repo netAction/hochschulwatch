@@ -85,7 +85,7 @@ function hochschulenLookup() {
 }
 var hochschulenTable = hochschulenLookup();
 
-
+//TODO: Modifzieren, sodass Förderer aus Sponsoring,, Kooperation und Stiftungsprofessuren gesucht werden
 function foerdererLookup() {
 	var foerderer = readCSV('daten/foerderer.csv');
 	var foerdererLookup = {};
