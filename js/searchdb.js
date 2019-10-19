@@ -10818,6 +10818,10 @@ var searchdb = {
 			"slug": "instituto-di-cibernetica-e-biofisica"
 		},
 		{
+			"name": "Institut Wohnen und Umwelt (IWU)",
+			"slug": "institut-wohnen-und-umwelt-iwu"
+		},
+		{
 			"name": "Insys Microelectronics GmbH",
 			"slug": "insys-microelectronics-gmbh"
 		},
