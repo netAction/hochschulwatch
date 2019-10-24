@@ -570,6 +570,10 @@ var searchdb = {
 			"slug": "3d-micromac-ag"
 		},
 		{
+			"name": "3M Deutschland GmbH",
+			"slug": "3m-deutschland-gmbh"
+		},
+		{
 			"name": "3S-Smart Software Solutions GmbH",
 			"slug": "3s-smart-software-solutions-gmbh"
 		},
@@ -600,6 +604,10 @@ var searchdb = {
 		{
 			"name": "A. Monforts Textilmaschinen GmbH & Co. KG",
 			"slug": "a-monforts-textilmaschinen-gmbh-co-kg"
+		},
+		{
+			"name": "A.D.I.R.",
+			"slug": "adir"
 		},
 		{
 			"name": "A.S. Création Tapetenstiftung",
@@ -656,6 +664,10 @@ var searchdb = {
 		{
 			"name": "AbbVie (AbbVie Deutschland GmbH & Co. KG)",
 			"slug": "abbvie-abbvie-deutschland-gmbh-co-kg"
+		},
+		{
+			"name": "AbbVie Deutschland GmbH& Co.KG",
+			"slug": "abbvie-deutschland-gmbh-cokg"
 		},
 		{
 			"name": "Abeking & Rasmussen Schiffs- und Yachtwerft AG, Lemwerder",
@@ -940,6 +952,10 @@ var searchdb = {
 		{
 			"name": "AIDA Cruises",
 			"slug": "aida-cruises"
+		},
+		{
+			"name": "AiF Projekt GmbH",
+			"slug": "aif-projekt-gmbh"
 		},
 		{
 			"name": "Airbus Group",
@@ -1334,6 +1350,10 @@ var searchdb = {
 			"slug": "analytik-jena-ag"
 		},
 		{
+			"name": "analyze & realize AG",
+			"slug": "analyze-realize-ag"
+		},
+		{
 			"name": "Andreas Stihl",
 			"slug": "andreas-stihl"
 		},
@@ -1692,6 +1712,10 @@ var searchdb = {
 		{
 			"name": "Astra Zeneca GmbH",
 			"slug": "astra-zeneca-gmbh"
+		},
+		{
+			"name": "AstraZeneca GmbH",
+			"slug": "astrazeneca-gmbh"
 		},
 		{
 			"name": "ASV Stübbe GmbH, Vlotho",
@@ -2094,6 +2118,10 @@ var searchdb = {
 			"slug": "basf-se"
 		},
 		{
+			"name": "Basilea Inc.",
+			"slug": "basilea-inc"
+		},
+		{
 			"name": "Basler Securitas",
 			"slug": "basler-securitas"
 		},
@@ -2202,8 +2230,24 @@ var searchdb = {
 			"slug": "baxter"
 		},
 		{
+			"name": "Baxter AG",
+			"slug": "baxter-ag"
+		},
+		{
+			"name": "Baxter Deutschland GmbH",
+			"slug": "baxter-deutschland-gmbh"
+		},
+		{
 			"name": "Bayer",
 			"slug": "bayer"
+		},
+		{
+			"name": "Bayer AG",
+			"slug": "bayer-ag"
+		},
+		{
+			"name": "Bayer Schering Pharma AG",
+			"slug": "bayer-schering-pharma-ag"
 		},
 		{
 			"name": "bayer-reisen",
@@ -2658,6 +2702,14 @@ var searchdb = {
 			"slug": "biogas-nord-ag"
 		},
 		{
+			"name": "Biogen GmbH",
+			"slug": "biogen-gmbh"
+		},
+		{
+			"name": "Biogen Idec Ltd.",
+			"slug": "biogen-idec-ltd"
+		},
+		{
 			"name": "BioLegend GmbH",
 			"slug": "biolegend-gmbh"
 		},
@@ -2676,6 +2728,10 @@ var searchdb = {
 		{
 			"name": "Bioplan GbR, Höxter",
 			"slug": "bioplan-gbr-hoexter"
+		},
+		{
+			"name": "bioskin GmbH",
+			"slug": "bioskin-gmbh"
 		},
 		{
 			"name": "Biotest AG",
@@ -2806,6 +2862,10 @@ var searchdb = {
 			"slug": "bockermann-fritze-ingenieurconsult-gmbh-enger"
 		},
 		{
+			"name": "Bode Chemie GmbH& Co.",
+			"slug": "bode-chemie-gmbh-co"
+		},
+		{
 			"name": "Boehringer Ingelheim",
 			"slug": "boehringer-ingelheim"
 		},
@@ -2904,6 +2964,10 @@ var searchdb = {
 		{
 			"name": "Bracco Imanging Deutschland",
 			"slug": "bracco-imanging-deutschland"
+		},
+		{
+			"name": "Brahms Diagnostika",
+			"slug": "brahms-diagnostika"
 		},
 		{
 			"name": "Brancheninitiative Gesundheitswirtschaft Südwestfalen e.V.",
@@ -3028,6 +3092,10 @@ var searchdb = {
 		{
 			"name": "Bristol Myers",
 			"slug": "bristol-myers"
+		},
+		{
+			"name": "Bristol Myers Squibb Int. Corporation",
+			"slug": "bristol-myers-squibb-int-corporation"
 		},
 		{
 			"name": "Britax Group Ltd.",
@@ -3462,6 +3530,10 @@ var searchdb = {
 			"slug": "cameron-gmbh"
 		},
 		{
+			"name": "Camlog Biotechnologies AG",
+			"slug": "camlog-biotechnologies-ag"
+		},
+		{
 			"name": "Canada Life Assurance Europe Limited",
 			"slug": "canada-life-assurance-europe-limited"
 		},
@@ -3634,8 +3706,16 @@ var searchdb = {
 			"slug": "celgene-gmbh"
 		},
 		{
+			"name": "Celgene Int.",
+			"slug": "celgene-int"
+		},
+		{
 			"name": "Cell Pharm GmbH",
 			"slug": "cell-pharm-gmbh"
+		},
+		{
+			"name": "CellAct Pharma GmbH",
+			"slug": "cellact-pharma-gmbh"
 		},
 		{
 			"name": "Cellca GmbH",
@@ -3724,6 +3804,10 @@ var searchdb = {
 		{
 			"name": "Charcot-Stiftung",
 			"slug": "charcot-stiftung"
+		},
+		{
+			"name": "CHDI Management, Inc.",
+			"slug": "chdi-management-inc"
 		},
 		{
 			"name": "Checkpoint Charly Stiftung, Berlin",
@@ -3900,6 +3984,10 @@ var searchdb = {
 		{
 			"name": "CNC-Steuerung",
 			"slug": "cnc-steuerung"
+		},
+		{
+			"name": "Cochlear Europe Limited",
+			"slug": "cochlear-europe-limited"
 		},
 		{
 			"name": "codematix GmbH",
@@ -4086,6 +4174,10 @@ var searchdb = {
 			"slug": "courage-die-gerberding-stiftung"
 		},
 		{
+			"name": "Covance Inc. / USA",
+			"slug": "covance-inc-usa"
+		},
+		{
 			"name": "Covidien GmbH",
 			"slug": "covidien-gmbh"
 		},
@@ -4172,6 +4264,10 @@ var searchdb = {
 		{
 			"name": "cycle union GmbH, 26135 Oldenburg",
 			"slug": "cycle-union-gmbh-26135-oldenburg"
+		},
+		{
+			"name": "CymaBay Therapeutics Inc.",
+			"slug": "cymabay-therapeutics-inc"
 		},
 		{
 			"name": "Cytolon AG",
@@ -4850,6 +4946,10 @@ var searchdb = {
 			"slug": "diamed-gmbh"
 		},
 		{
+			"name": "DiaMed GmbHA Division of Bio-Rad",
+			"slug": "diamed-gmbha-division-of-bio-rad"
+		},
+		{
 			"name": "Dichtungstechnik Wallstabe & Schneider",
 			"slug": "dichtungstechnik-wallstabe-schneider"
 		},
@@ -4984,6 +5084,10 @@ var searchdb = {
 		{
 			"name": "Divinus Soft GmbH",
 			"slug": "divinus-soft-gmbh"
+		},
+		{
+			"name": "DIZG",
+			"slug": "dizg"
 		},
 		{
 			"name": "DKB AG",
@@ -5926,6 +6030,10 @@ var searchdb = {
 			"slug": "elgert-bau-gmbh-harald-jost-westendorf"
 		},
 		{
+			"name": "Eli Lilly and Company Ltd.",
+			"slug": "eli-lilly-and-company-ltd"
+		},
+		{
 			"name": "Elisabeth Sandbrink",
 			"slug": "elisabeth-sandbrink"
 		},
@@ -6160,6 +6268,10 @@ var searchdb = {
 		{
 			"name": "eology GmbH",
 			"slug": "eology-gmbh"
+		},
+		{
+			"name": "EORTC",
+			"slug": "eortc"
 		},
 		{
 			"name": "EOS GmbH",
@@ -6518,6 +6630,10 @@ var searchdb = {
 			"slug": "evangelisch-lutherische-landeskirche-hannovers"
 		},
 		{
+			"name": "Evangelische Kirche der Pfalz",
+			"slug": "evangelische-kirche-der-pfalz"
+		},
+		{
 			"name": "Evangelische Kirche Deutschland (EKD)",
 			"slug": "evangelische-kirche-deutschland-ekd"
 		},
@@ -6560,6 +6676,10 @@ var searchdb = {
 		{
 			"name": "Evonik",
 			"slug": "evonik"
+		},
+		{
+			"name": "Evonik Fibres GmbH",
+			"slug": "evonik-fibres-gmbh"
 		},
 		{
 			"name": "EW Group GmbH, Visbek",
@@ -6956,6 +7076,10 @@ var searchdb = {
 		{
 			"name": "FNT",
 			"slug": "fnt"
+		},
+		{
+			"name": "Focus",
+			"slug": "focus"
 		},
 		{
 			"name": "Fokken, Jürgen",
@@ -7818,6 +7942,10 @@ var searchdb = {
 			"slug": "galen-ltd"
 		},
 		{
+			"name": "Gambro Medizintechnik GmbH",
+			"slug": "gambro-medizintechnik-gmbh"
+		},
+		{
 			"name": "GAMPT mbh Gesellschaft für Angewandte Medizinische Physik undTechnik mbh",
 			"slug": "gampt-mbh-gesellschaft-fur-angewandte-medizinische-physik-undtechnik-mbh"
 		},
@@ -7854,6 +7982,10 @@ var searchdb = {
 			"slug": "gazprom-germania-gmbh"
 		},
 		{
+			"name": "GBG Forschungs GmbH",
+			"slug": "gbg-forschungs-gmbh"
+		},
+		{
 			"name": "gbg zu Hildesheim AG",
 			"slug": "gbg-zu-hildesheim-ag"
 		},
@@ -7864,6 +7996,10 @@ var searchdb = {
 		{
 			"name": "GDMB Gesellschaft für Bergbau, Metallurgie, Rohstoff- und Umwelttechnik",
 			"slug": "gdmb-gesellschaft-fuer-bergbau-metallurgie-rohstoff-und-umwelttechnik"
+		},
+		{
+			"name": "GE Healthcare Buchler GmbH& Co.KG.",
+			"slug": "ge-healthcare-buchler-gmbh-cokg"
 		},
 		{
 			"name": "GEA Air Treatment GmbH",
@@ -7982,6 +8118,10 @@ var searchdb = {
 			"slug": "genaxxon-biosience-gmbh"
 		},
 		{
+			"name": "Genentech, Inc.",
+			"slug": "genentech-inc"
+		},
+		{
 			"name": "General Electric",
 			"slug": "general-electric"
 		},
@@ -8020,6 +8160,10 @@ var searchdb = {
 		{
 			"name": "genua GmbH",
 			"slug": "genua-gmbh"
+		},
+		{
+			"name": "Genzyme B.V.",
+			"slug": "genzyme-bv"
 		},
 		{
 			"name": "GeoEnergy e.V.",
@@ -8346,6 +8490,10 @@ var searchdb = {
 			"slug": "gilead-sciences-gmbh"
 		},
 		{
+			"name": "Gilead Sciences Inc.",
+			"slug": "gilead-sciences-inc"
+		},
+		{
 			"name": "Gilhaus Eventmarketing GmbH",
 			"slug": "gilhaus-eventmarketing-gmbh"
 		},
@@ -8392,6 +8540,10 @@ var searchdb = {
 		{
 			"name": "Glawon, Maike Deandra",
 			"slug": "glawon-maike-deandra"
+		},
+		{
+			"name": "Glaxo Smithkline GmbH& Co",
+			"slug": "glaxo-smithkline-gmbh-co"
 		},
 		{
 			"name": "Glaxo-Smith-Kline GmbH & Co. KG",
@@ -8704,6 +8856,10 @@ var searchdb = {
 		{
 			"name": "GruPrax e.V. - Verein zur Förderung der Wissenschaft und Praxis im Gewerblichen Rechtsschutz und Urheberrecht",
 			"slug": "gruprax-ev-verein-zur-foerderung-der-wissenschaft-und-praxis-im-gewerblichen-rechtsschutz-und-urheberrecht"
+		},
+		{
+			"name": "Gry Pharma GmbH",
+			"slug": "gry-pharma-gmbh"
 		},
 		{
 			"name": "GSE Protect",
@@ -9180,6 +9336,10 @@ var searchdb = {
 		{
 			"name": "Hassler, Katja",
 			"slug": "hassler-katja"
+		},
+		{
+			"name": "Hasso-Plattner-Institut für Digital Engineering",
+			"slug": "hasso-plattner-institut-fuer-digital-engineering"
 		},
 		{
 			"name": "Hasso-Plattner-Institut für Softwaresystemtechnik GmbH",
@@ -9774,6 +9934,10 @@ var searchdb = {
 			"slug": "hinrich-w-risken"
 		},
 		{
+			"name": "Hipp GmbH",
+			"slug": "hipp-gmbh"
+		},
+		{
 			"name": "Hirsch KG",
 			"slug": "hirsch-kg"
 		},
@@ -9880,6 +10044,10 @@ var searchdb = {
 		{
 			"name": "Höffmann Reisen GmbH",
 			"slug": "hoeffmann-reisen-gmbh"
+		},
+		{
+			"name": "Hoffmann-La Roche AG",
+			"slug": "hoffmann-la-roche-ag"
 		},
 		{
 			"name": "Hofmann Leiterplatten GmbH",
@@ -10150,6 +10318,10 @@ var searchdb = {
 			"slug": "hypovereinsbank"
 		},
 		{
+			"name": "Hypovereinsbank",
+			"slug": "hypovereinsbank"
+		},
+		{
 			"name": "I-Advise AG Wirtschaftsprüfungsgesellschaft",
 			"slug": "i-advise-ag-wirtschaftspruefungsgesellschaft"
 		},
@@ -10276,6 +10448,10 @@ var searchdb = {
 		{
 			"name": "IGK Ingenieursgesellschaft Klein mbH",
 			"slug": "igk-ingenieursgesellschaft-klein-mbh"
+		},
+		{
+			"name": "IGSSE",
+			"slug": "igsse"
 		},
 		{
 			"name": "IHI Charching Systems International GmbH",
@@ -10694,6 +10870,10 @@ var searchdb = {
 			"slug": "insight-health-gmbh-co-kg"
 		},
 		{
+			"name": "InSightec - TxSonics Ltd.",
+			"slug": "insightec-txsonics-ltd"
+		},
+		{
 			"name": "Installatio nsbetrieb Wendt GmbH & Co. KG",
 			"slug": "installatio-nsbetrieb-wendt-gmbh-co-kg"
 		},
@@ -10810,16 +10990,16 @@ var searchdb = {
 			"slug": "institut-pruefung-und-forschung-im-bauwesen-e-v-ipfb"
 		},
 		{
+			"name": "Institut Wohnen und Umwelt (IWU)",
+			"slug": "institut-wohnen-und-umwelt-iwu"
+		},
+		{
 			"name": "Institute of Electronic Business e.V.",
 			"slug": "institute-of-electronic-business-ev"
 		},
 		{
 			"name": "Instituto Di Cibernetica e Biofisica",
 			"slug": "instituto-di-cibernetica-e-biofisica"
-		},
-		{
-			"name": "Institut Wohnen und Umwelt (IWU)",
-			"slug": "institut-wohnen-und-umwelt-iwu"
 		},
 		{
 			"name": "Insys Microelectronics GmbH",
@@ -10956,6 +11136,10 @@ var searchdb = {
 		{
 			"name": "Investor Center Ostbrandenburg",
 			"slug": "investor-center-ostbrandenburg"
+		},
+		{
+			"name": "Iomedico GmbH",
+			"slug": "iomedico-gmbh"
 		},
 		{
 			"name": "IOT - Innovative Oberflächentechnologien GmbH",
@@ -11990,6 +12174,10 @@ var searchdb = {
 			"slug": "klaus-tschira-stiftung"
 		},
 		{
+			"name": "Klaus-Töpfer-StiftungsjuniorprofessorSparkassenstiftung, Firma APL Prüftechnik, Karl-Fix-Stiftung, Energie Südwest und Kreisverwaltung Südliche Weinstraße.",
+			"slug": "klaus-toepfer-stiftungsjuniorprofessorsparkassenstiftung-firma-apl-prueftechnik-karl-fix-stiftung-energie-suedwest-und-kreisverwaltung-suedliche-weinstrasse"
+		},
+		{
 			"name": "Klavierhaus M. Fiech",
 			"slug": "klavierhaus-m-fiech"
 		},
@@ -12048,6 +12236,10 @@ var searchdb = {
 		{
 			"name": "Klinikum Chemnitz gGmbH",
 			"slug": "klinikum-chemnitz-ggmbh"
+		},
+		{
+			"name": "Klinikum der Universit├ñt M├╝nchen",
+			"slug": "klinikum-der-universitt-mnchen"
 		},
 		{
 			"name": "Klinikum Friedrichshafen GmbH",
@@ -13238,6 +13430,10 @@ var searchdb = {
 			"slug": "loeseke-stiftung"
 		},
 		{
+			"name": "LOT- QuantumDesign GmbH",
+			"slug": "lot-quantumdesign-gmbh"
+		},
+		{
 			"name": "LOT-QuantumDesign GmbH",
 			"slug": "lot-quantumdesign-gmbh"
 		},
@@ -13886,6 +14082,10 @@ var searchdb = {
 			"slug": "medreflex-gmbh"
 		},
 		{
+			"name": "Medtronic Europe Sarl",
+			"slug": "medtronic-europe-sarl"
+		},
+		{
 			"name": "Medtronic GmbH",
 			"slug": "medtronic-gmbh"
 		},
@@ -14028,6 +14228,10 @@ var searchdb = {
 		{
 			"name": "Meta-Design AG",
 			"slug": "meta-design-ag"
+		},
+		{
+			"name": "Metanomics GmbH",
+			"slug": "metanomics-gmbh"
 		},
 		{
 			"name": "metaVentis",
@@ -14278,8 +14482,16 @@ var searchdb = {
 			"slug": "modulor-berlin"
 		},
 		{
+			"name": "Molecular Health GmbH",
+			"slug": "molecular-health-gmbh"
+		},
+		{
 			"name": "Molkerei Söbbeke GmbH & Co. KG",
 			"slug": "molkerei-soebbeke-gmbh-co-kg"
+		},
+		{
+			"name": "Mölnlcke Health Care AB",
+			"slug": "moelnlcke-health-care-ab"
 		},
 		{
 			"name": "Mölnlycke Health Care GmbH",
@@ -14554,8 +14766,8 @@ var searchdb = {
 			"slug": "netspar"
 		},
 		{
-			"name": "Netze BW GmbH, Stuttgart",
-			"slug": "netze-bw-gmbh-stuttgart"
+			"name": "Netze BW GmbH",
+			"slug": "netze-bw-gmbh"
 		},
 		{
 			"name": "NETZSCH Gerätebau GmbH",
@@ -14842,12 +15054,28 @@ var searchdb = {
 			"slug": "notengrafik-berlin-ug"
 		},
 		{
+			"name": "Nottingham Clinical Research Ltd.",
+			"slug": "nottingham-clinical-research-ltd"
+		},
+		{
 			"name": "Novaled AG",
 			"slug": "novaled-ag"
 		},
 		{
 			"name": "Novartis",
 			"slug": "novartis"
+		},
+		{
+			"name": "Novartis Consumer Health GmbH",
+			"slug": "novartis-consumer-health-gmbh"
+		},
+		{
+			"name": "Novartis Pharma AG",
+			"slug": "novartis-pharma-ag"
+		},
+		{
+			"name": "Novartis Pharma GmbH",
+			"slug": "novartis-pharma-gmbh"
 		},
 		{
 			"name": "Novasib GmbH",
@@ -15690,6 +15918,14 @@ var searchdb = {
 			"slug": "pfizer"
 		},
 		{
+			"name": "Pfizer Deutschland GmbH",
+			"slug": "pfizer-deutschland-gmbh"
+		},
+		{
+			"name": "Pfizer GmbH",
+			"slug": "pfizer-gmbh"
+		},
+		{
 			"name": "Pfizer Pharma GmbH",
 			"slug": "pfizer-pharma-gmbh"
 		},
@@ -15706,12 +15942,20 @@ var searchdb = {
 			"slug": "pforzheimer-zeitung"
 		},
 		{
+			"name": "Pfrimmer Nutricia GmbH",
+			"slug": "pfrimmer-nutricia-gmbh"
+		},
+		{
 			"name": "Pharm Allergan GmbH",
 			"slug": "pharm-allergan-gmbh"
 		},
 		{
 			"name": "Pharmar Mar GmbH",
 			"slug": "pharmar-mar-gmbh"
+		},
+		{
+			"name": "PharmatrophiX Inc.",
+			"slug": "pharmatrophix-inc"
 		},
 		{
 			"name": "phenox GmbH",
@@ -15932,6 +16176,10 @@ var searchdb = {
 		{
 			"name": "PPC Music GmbH",
 			"slug": "ppc-music-gmbh"
+		},
+		{
+			"name": "PPD Germany GmbH& Co.KG.",
+			"slug": "ppd-germany-gmbh-cokg"
 		},
 		{
 			"name": "PPI AG",
@@ -16334,6 +16582,10 @@ var searchdb = {
 			"slug": "provinzial-ag"
 		},
 		{
+			"name": "PROVITRO GmbH",
+			"slug": "provitro-gmbh"
+		},
+		{
 			"name": "ProWirtschaft GT GmbH",
 			"slug": "prowirtschaft-gt-gmbh"
 		},
@@ -16448,6 +16700,10 @@ var searchdb = {
 		{
 			"name": "Quante, Alexander",
 			"slug": "quante-alexander"
+		},
+		{
+			"name": "Quintiles GmbH",
+			"slug": "quintiles-gmbh"
 		},
 		{
 			"name": "R,B & E Klinik GmbH, Pforzheim",
@@ -17482,6 +17738,10 @@ var searchdb = {
 			"slug": "sanders-heinrich-hechtweg-10-26203-wardenburg"
 		},
 		{
+			"name": "Sandoz Pharmaceuticals GmbH",
+			"slug": "sandoz-pharmaceuticals-gmbh"
+		},
+		{
 			"name": "Sanitäts- und Gesundheitshaus Carqueville GmbH",
 			"slug": "sanitaets-und-gesundheitshaus-carqueville-gmbh"
 		},
@@ -17494,12 +17754,20 @@ var searchdb = {
 			"slug": "sanofi-aventis-deutschland"
 		},
 		{
+			"name": "Sanofi-Aventis Deutschland GmbH",
+			"slug": "sanofi-aventis-deutschland-gmbh"
+		},
+		{
 			"name": "Santander Bank",
 			"slug": "santander-bank"
 		},
 		{
 			"name": "Santander Universitäten",
 			"slug": "santander-universitaeten"
+		},
+		{
+			"name": "Sanum Kehlbeck GmbH& Co.KG.",
+			"slug": "sanum-kehlbeck-gmbh-cokg"
 		},
 		{
 			"name": "SAP",
@@ -17886,6 +18154,10 @@ var searchdb = {
 			"slug": "schweitzer-fachinformationen-80687-muenchen"
 		},
 		{
+			"name": "Schweizer Radio und Fernsehen (SRF)",
+			"slug": "schweizer-radio-und-fernsehen-srf"
+		},
+		{
 			"name": "Schwenk",
 			"slug": "schwenk"
 		},
@@ -18058,6 +18330,10 @@ var searchdb = {
 			"slug": "servier-deutschland-gmbh"
 		},
 		{
+			"name": "SERVIER GmbH",
+			"slug": "servier-gmbh"
+		},
+		{
 			"name": "Seufert Rechtsanwälte",
 			"slug": "seufert-rechtsanwaelte"
 		},
@@ -18182,6 +18458,10 @@ var searchdb = {
 			"slug": "siga-gmbhco-kg"
 		},
 		{
+			"name": "Sigma-Tau Pharmaceuticals, Inc.",
+			"slug": "sigma-tau-pharmaceuticals-inc"
+		},
+		{
 			"name": "SIGNAL IDUNA Gruppe",
 			"slug": "signal-iduna-gruppe"
 		},
@@ -18280,6 +18560,10 @@ var searchdb = {
 		{
 			"name": "SMS ELOTHERM GmbH",
 			"slug": "sms-elotherm-gmbh"
+		},
+		{
+			"name": "SMS Group",
+			"slug": "sms-group"
 		},
 		{
 			"name": "SMS Meer GmbH",
@@ -19678,6 +19962,10 @@ var searchdb = {
 			"slug": "stiftung-wissenschaft-und-technik-ilmenau"
 		},
 		{
+			"name": "Stiftung Zentrum für Qualität in der Pflege",
+			"slug": "stiftung-zentrum-fuer-qualitaet-in-der-pflege"
+		},
+		{
 			"name": "Stiftung zur Erforschung der vaskulären Demenz",
 			"slug": "stiftung-zur-erforschung-der-vaskulaeren-demenz"
 		},
@@ -20262,6 +20550,10 @@ var searchdb = {
 			"slug": "the-boston-consulting-group-gmbh"
 		},
 		{
+			"name": "The Clinical Research Institute GmbH",
+			"slug": "the-clinical-research-institute-gmbh"
+		},
+		{
 			"name": "The Gingko-Foundation",
 			"slug": "the-gingko-foundation"
 		},
@@ -20368,6 +20660,10 @@ var searchdb = {
 		{
 			"name": "thp treuhandpartner gmbh",
 			"slug": "thp-treuhandpartner-gmbh"
+		},
+		{
+			"name": "ThromboGenics N.V.",
+			"slug": "thrombogenics-nv"
 		},
 		{
 			"name": "THÜBAN - Thüringer Business Angels Netzwerk e.V.",
@@ -20574,6 +20870,10 @@ var searchdb = {
 			"slug": "trimet-aluminium-ag-soemmerda"
 		},
 		{
+			"name": "Trips GmbH",
+			"slug": "trips-gmbh"
+		},
+		{
 			"name": "Trnd AG",
 			"slug": "trnd-ag"
 		},
@@ -20660,6 +20960,10 @@ var searchdb = {
 		{
 			"name": "UBS Deutschland AG",
 			"slug": "ubs-deutschland-ag"
+		},
+		{
+			"name": "UCB S.A.-N.V.",
+			"slug": "ucb-sa-nv"
 		},
 		{
 			"name": "Udo Keller Stiftung",
@@ -22526,6 +22830,10 @@ var searchdb = {
 			"slug": "wittenstein-ag"
 		},
 		{
+			"name": "Wittenstein SE",
+			"slug": "wittenstein-se"
+		},
+		{
 			"name": "Witzenmann GmbH",
 			"slug": "witzenmann-gmbh"
 		},
@@ -22778,6 +23086,10 @@ var searchdb = {
 			"slug": "yokogawa-deutschland-gmbh"
 		},
 		{
+			"name": "Yumab GmbH",
+			"slug": "yumab-gmbh"
+		},
+		{
 			"name": "Zahnradwerk Pritzwalk GmbH",
 			"slug": "zahnradwerk-pritzwalk-gmbh"
 		},
@@ -22804,14 +23116,6 @@ var searchdb = {
 		{
 			"name": "Zeidler Forschungsstiftung",
 			"slug": "zeidler-forschungsstiftung"
-		},
-		{
-			"name": "Zeller + Gmelin GmbH",
-			"slug": "zeller-gmelin-gmbh"
-		},
-		{
-			"name": "ZeMA",
-			"slug": "zema"
 		},
 		{
 			"name": "Zent-Frenger GmbH, Heppenheim",
@@ -23012,6 +23316,38 @@ var searchdb = {
 		{
 			"name": "Zwiesel Kristallglas AG",
 			"slug": "zwiesel-kristallglas-ag"
+		},
+		{
+			"name": "Roche Pharma AG",
+			"slug": "roche-pharma-ag"
+		},
+		{
+			"name": "Alfred Ritter GmbH & Co. KG",
+			"slug": "alfred-ritter-gmbh-co-kg"
+		},
+		{
+			"name": "CeGaT GmbH",
+			"slug": "cegat-gmbh"
+		},
+		{
+			"name": "Robert-Bosch-Stiftung",
+			"slug": "robert-bosch-stiftung"
+		},
+		{
+			"name": "LfA Förderbank Bayern",
+			"slug": "lfa-foerderbank-bayern"
+		},
+		{
+			"name": "FMT Medizintechnik GmbH",
+			"slug": "fmt-medizintechnik-gmbh"
+		},
+		{
+			"name": "Füller Glastechnologie Vertriebs-GmbH​",
+			"slug": "fueller-glastechnologie-vertriebs-gmbh"
+		},
+		{
+			"name": "DLD Media GmbH",
+			"slug": "dld-media-gmbh"
 		}
 	]
 };
