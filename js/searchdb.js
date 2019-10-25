@@ -662,8 +662,8 @@ var searchdb = {
 			"slug": "abbott-gmbh-co-kg"
 		},
 		{
-			"name": "AbbVie (AbbVie Deutschland GmbH & Co. KG)",
-			"slug": "abbvie-abbvie-deutschland-gmbh-co-kg"
+			"name": "AbbVie Deutschland GmbH & Co. KG",
+			"slug": "abbvie-deutschland-gmbh-co-kg"
 		},
 		{
 			"name": "AbbVie Deutschland GmbH& Co.KG",
@@ -1122,6 +1122,10 @@ var searchdb = {
 			"slug": "alfred-kuse-gmbh"
 		},
 		{
+			"name": "Alfred Ritter GmbH & Co. KG",
+			"slug": "alfred-ritter-gmbh-co-kg"
+		},
+		{
 			"name": "Alfred Toepfer Stiftung",
 			"slug": "alfred-toepfer-stiftung"
 		},
@@ -1350,7 +1354,7 @@ var searchdb = {
 			"slug": "analytik-jena-ag"
 		},
 		{
-			"name": "analyze & realize AG",
+			"name": "analyze & realize ag",
 			"slug": "analyze-realize-ag"
 		},
 		{
@@ -2862,7 +2866,7 @@ var searchdb = {
 			"slug": "bockermann-fritze-ingenieurconsult-gmbh-enger"
 		},
 		{
-			"name": "Bode Chemie GmbH& Co.",
+			"name": "Bode Chemie GmbH & Co.",
 			"slug": "bode-chemie-gmbh-co"
 		},
 		{
@@ -3700,6 +3704,10 @@ var searchdb = {
 		{
 			"name": "CE-LAB GmbH",
 			"slug": "ce-lab-gmbh"
+		},
+		{
+			"name": "CeGaT GmbH",
+			"slug": "cegat-gmbh"
 		},
 		{
 			"name": "Celgene GmbH",
@@ -4794,8 +4802,8 @@ var searchdb = {
 			"slug": "deutsche-vereinte-gesellschaft-fuer-klinische-chemie-und-labormedizin"
 		},
 		{
-			"name": "Deutschen Forschungszentrum für Künstliche Intelligenz (DFKI)",
-			"slug": "deutschen-forschungszentrum-fuer-kuenstliche-intelligenz-dfki"
+			"name": "Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI)",
+			"slug": "deutsche-forschungszentrum-fuer-kuenstliche-intelligenz-dfki"
 		},
 		{
 			"name": "Deutschen Gesellschaft für Urologie (DGU)",
@@ -4946,8 +4954,8 @@ var searchdb = {
 			"slug": "diamed-gmbh"
 		},
 		{
-			"name": "DiaMed GmbHA Division of Bio-Rad",
-			"slug": "diamed-gmbha-division-of-bio-rad"
+			"name": "DiaMed GmbH A Division of Bio-Rad",
+			"slug": "diamed-gmbh-a-division-of-bio-rad"
 		},
 		{
 			"name": "Dichtungstechnik Wallstabe & Schneider",
@@ -5104,6 +5112,10 @@ var searchdb = {
 		{
 			"name": "DLA Piper",
 			"slug": "dla-piper"
+		},
+		{
+			"name": "DLD Media GmbH",
+			"slug": "dld-media-gmbh"
 		},
 		{
 			"name": "DLF Ingenieurbau GmbH",
@@ -5970,7 +5982,7 @@ var searchdb = {
 			"slug": "einzelstifter-aus-der-werkzeugmaschinenindustrie"
 		},
 		{
-			"name": "Eisai GmbH",
+			"name": "EISAI GmbH",
 			"slug": "eisai-gmbh"
 		},
 		{
@@ -7074,6 +7086,10 @@ var searchdb = {
 			"slug": "fmo-flughafen-muensterosnabrueck-gmbh"
 		},
 		{
+			"name": "FMT Medizintechnik GmbH",
+			"slug": "fmt-medizintechnik-gmbh"
+		},
+		{
 			"name": "FNT",
 			"slug": "fnt"
 		},
@@ -7870,6 +7886,10 @@ var searchdb = {
 			"slug": "fuguma-gmbh"
 		},
 		{
+			"name": "Füller Glastechnologie Vertriebs-GmbH​",
+			"slug": "fueller-glastechnologie-vertriebs-gmbh"
+		},
+		{
 			"name": "FuLM e.V. Förderverein",
 			"slug": "fulm-ev-forderverein"
 		},
@@ -7998,8 +8018,8 @@ var searchdb = {
 			"slug": "gdmb-gesellschaft-fuer-bergbau-metallurgie-rohstoff-und-umwelttechnik"
 		},
 		{
-			"name": "GE Healthcare Buchler GmbH& Co.KG.",
-			"slug": "ge-healthcare-buchler-gmbh-cokg"
+			"name": "GE Healthcare Buchler GmbH & Co. KG",
+			"slug": "ge-healthcare-buchler-gmbh-co-kg"
 		},
 		{
 			"name": "GEA Air Treatment GmbH",
@@ -8542,7 +8562,7 @@ var searchdb = {
 			"slug": "glawon-maike-deandra"
 		},
 		{
-			"name": "Glaxo Smithkline GmbH& Co",
+			"name": "Glaxo Smithkline GmbH & Co",
 			"slug": "glaxo-smithkline-gmbh-co"
 		},
 		{
@@ -11254,6 +11274,10 @@ var searchdb = {
 			"slug": "issendorf-kg-sarstedt"
 		},
 		{
+			"name": "ISRA Vision AG",
+			"slug": "isra-vision-ag"
+		},
+		{
 			"name": "ISSENDORFF KG",
 			"slug": "issendorff-kg"
 		},
@@ -13066,7 +13090,7 @@ var searchdb = {
 			"slug": "leibniz-universitaetsgesellschaft"
 		},
 		{
-			"name": "Leibniz-Institut für Photonische Technologien e.V.",
+			"name": "Leibniz Institut für Photonische Technologien e.V.",
 			"slug": "leibniz-institut-fur-photonische-technologien-ev"
 		},
 		{
@@ -13156,6 +13180,10 @@ var searchdb = {
 		{
 			"name": "Leuphana Uni",
 			"slug": "leuphana-uni"
+		},
+		{
+			"name": "LfA Förderbank Bayern",
+			"slug": "lfa-foerderbank-bayern"
 		},
 		{
 			"name": "LHE Rechtsanwälte",
@@ -16178,8 +16206,8 @@ var searchdb = {
 			"slug": "ppc-music-gmbh"
 		},
 		{
-			"name": "PPD Germany GmbH& Co.KG.",
-			"slug": "ppd-germany-gmbh-cokg"
+			"name": "PPD Germany GmbH & Co. KG",
+			"slug": "ppd-germany-gmbh-co-kg"
 		},
 		{
 			"name": "PPI AG",
@@ -17146,12 +17174,20 @@ var searchdb = {
 			"slug": "robert-kunzmann-gmbh-co-kg"
 		},
 		{
+			"name": "Robert-Bosch-Stiftung",
+			"slug": "robert-bosch-stiftung"
+		},
+		{
 			"name": "Robert-Luther-Stiftung",
 			"slug": "robert-luther-stiftung"
 		},
 		{
 			"name": "Roche",
 			"slug": "roche"
+		},
+		{
+			"name": "Roche Pharma AG",
+			"slug": "roche-pharma-ag"
 		},
 		{
 			"name": "Röchling Engineering Plastics SE & Co. KG",
@@ -17766,8 +17802,8 @@ var searchdb = {
 			"slug": "santander-universitaeten"
 		},
 		{
-			"name": "Sanum Kehlbeck GmbH& Co.KG.",
-			"slug": "sanum-kehlbeck-gmbh-cokg"
+			"name": "Sanum Kehlbeck GmbH & Co. KG",
+			"slug": "sanum-kehlbeck-gmbh-co-kg"
 		},
 		{
 			"name": "SAP",
@@ -20770,8 +20806,8 @@ var searchdb = {
 			"slug": "toenjes-vagt-stiftung"
 		},
 		{
-			"name": "Toshiba Medical System",
-			"slug": "toshiba-medical-system"
+			"name": "Toshiba Medical Systems GmbH",
+			"slug": "toshiba-medical-systems-gmbh"
 		},
 		{
 			"name": "TOSHIBA Medical Systems GmbH",
@@ -21978,12 +22014,12 @@ var searchdb = {
 			"slug": "volkswagen"
 		},
 		{
-			"name": "Volkswagen Stiftung",
-			"slug": "volkswagen-stiftung"
+			"name": "Volkswagen Stiftung entfernt",
+			"slug": "volkswagen-stiftung-entfernt"
 		},
 		{
-			"name": "Volkswagen-Stiftung",
-			"slug": "volkswagen-stiftung"
+			"name": "Volkswagen-Stiftung entfernt",
+			"slug": "volkswagen-stiftung-entfernt"
 		},
 		{
 			"name": "Volkswohl-Bund Lebensversicherung a.G.",
@@ -23316,38 +23352,6 @@ var searchdb = {
 		{
 			"name": "Zwiesel Kristallglas AG",
 			"slug": "zwiesel-kristallglas-ag"
-		},
-		{
-			"name": "Roche Pharma AG",
-			"slug": "roche-pharma-ag"
-		},
-		{
-			"name": "Alfred Ritter GmbH & Co. KG",
-			"slug": "alfred-ritter-gmbh-co-kg"
-		},
-		{
-			"name": "CeGaT GmbH",
-			"slug": "cegat-gmbh"
-		},
-		{
-			"name": "Robert-Bosch-Stiftung",
-			"slug": "robert-bosch-stiftung"
-		},
-		{
-			"name": "LfA Förderbank Bayern",
-			"slug": "lfa-foerderbank-bayern"
-		},
-		{
-			"name": "FMT Medizintechnik GmbH",
-			"slug": "fmt-medizintechnik-gmbh"
-		},
-		{
-			"name": "Füller Glastechnologie Vertriebs-GmbH​",
-			"slug": "fueller-glastechnologie-vertriebs-gmbh"
-		},
-		{
-			"name": "DLD Media GmbH",
-			"slug": "dld-media-gmbh"
 		}
 	]
 };
