@@ -61,13 +61,15 @@ Hessen;TU Darmstadt;Professor Dr. Wolfgang Wahlster;Deutsche Forschungszentrum f
 Hessen;TU Darmstadt;Dr. Horst J. Kayser;Siemens AG;Elektrotechnik;;;;https://www.intern.tu-darmstadt.de/gremien/hochschulrat_3/
 Hessen;Universität Frankfurt a.M. (ohne Klinikum);Rolf-E. Breuer (bis 2014);Deutsche Bank;Finanzwirtschaft;;;;https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoEinrichtung&publishSubDir=einrichtung&einrichtung.eid=310300&menuid=&topitem=departments&subitem=#blobs
 Hessen;Universität Gießen;Dr. Wolfgang Maaß;Brühlsche Universitätsdruckerei GmbH & Co KG;;;;;http://www.uni-giessen.de/cms/org/gremien/hochschulrat
-Hessen;Universität Kassel;Prof. Dr. Ing. Werner Neubauer;Volkswagen;Automobil;;;Volkswagen AG;https://www.uni-kassel.de/uni/universitaet/ueber-uns/universitaetsleitung/hochschulrat.html
+Hessen;Universität Kassel;Thorsten Jablonski;Volkswagen;Automobil;;;Volkswagen AG;https://www.uni-kassel.de/uni/universitaet/organisation/gremien/hochschulrat/
+Hessen;Universität Kassel;Dr. Annette Beller;B. Braun Melsungen AG;Pharma;;;;https://www.uni-kassel.de/uni/universitaet/organisation/gremien/hochschulrat/
+Hessen;Universität Kassel;Dipl.-Ing. Thomas Landgraf;Enercast;Energie;;;;
 Hessen;Universität Mannheim;Dr. John Feldmann;BASF;Chemie;;Vorsitzender;BASF SE;http://www.uni-mannheim.de/1/universitaetsrat/mitglieder/
 Hessen;Universität Mannheim;Dr. h.c. Eggert Voscherau;BASF;Chemie;;;BASF SE;http://www.uni-mannheim.de/1/universitaetsrat/mitglieder/
-Hessen;Universität Marburg;Prof. Dr. Dr. Dr. h.c. Uwe Bicker;Sanofi Aventis;Medizin;;;;http://www.uni-marburg.de/administration/gremien/hr
-Hessen;Universität Marburg;Prof. Dr. Jochen Maas;Sanofi Aventis;Medizin;;;;http://www.uni-marburg.de/administration/gremien/hr
+Hessen;Universität Marburg;Prof. Dr. Dr. Dr. h.c. Uwe Bicker;Sanofi Aventis;Pharma;;;;http://www.uni-marburg.de/administration/gremien/hr
+Hessen;Universität Marburg;Prof. Dr. Jochen Maas;Sanofi Aventis;Pharma;;;;http://www.uni-marburg.de/administration/gremien/hr
 Hessen;Universität Marburg;Dr. h. c. Dipl.-Kfm. Beate Heraeus;Heraeus;Rohstoffe;;;Bertha Heraeus und Kathinka Platzhoff Stiftung;http://www.uni-marburg.de/administration/gremien/hr
-Niedersachsen;TU Braunschweig;Prof. Dr. Martin Winterkorn;Volkswagen;Automobil;;;Volkswagen AG;https://www.tu-braunschweig.de/struktur/organe/hochschulrat
+Niedersachsen;TU Braunschweig;Dr. Oliver Blume;Porsche;Automobil;;;Porsche AG;https://www.tu-braunschweig.de/struktur/organe/hochschulrat
 Niedersachsen;TU Braunschweig;Prof. Dr. Heinz Jörg Fuhrmann;Salzgitter AG;Rohstoffe;;;;https://www.tu-braunschweig.de/struktur/organe/hochschulrat
 Niedersachsen;TU Clausthal;Dr. Harald Ludanek;Scania;Automobil;;;;https://www.tu-clausthal.de/gremien/hochschulrat/
 Niedersachsen;TU Clausthal;Dr. Jürgen Großmann;Georgsmarienhütte GmbH;;;;;https://www.tu-clausthal.de/gremien/hochschulrat/
@@ -109,10 +111,8 @@ Sachsen;TU Bergakademie Freiberg;Herr Dipl.-Ing. Mario Behrendt;Deutsche Solar G
 Sachsen;TU Chemnitz;Dipl.-Kfm. Bodo Finger;Chemnitzer Zahnradfabrik GmbH & Co. KG;Maschinenbau;;;;https://www.tu-chemnitz.de/verwaltung/hochschulrat/
 Sachsen;TU Chemnitz;Dr.-Ing. E. h. Gunnar Grosse;KOMSA Kommunikation Sachsen AG;;;;;https://www.tu-chemnitz.de/verwaltung/hochschulrat/
 Sachsen;TU Chemnitz;Hans J. Naumann;NILES-SIMMONS-HEGENSCHEIDT GmbH;;;;;https://www.tu-chemnitz.de/verwaltung/hochschulrat/
-Sachsen;TU Dresden (ohne Klinikum);Prof. Martin Winterkorn;Volkswagen;Automobil;;;Volkswagen AG;https://tu-dresden.de/die_tu_dresden/gremien_und_beauftragte/hochschulrat
 Sachsen;TU Dresden (ohne Klinikum);Prof. Klaus Raps;Bilfinger;Bau;Dienstleistungen;Stellvertr. Vorsitzender;;https://tu-dresden.de/die_tu_dresden/gremien_und_beauftragte/hochschulrat
 Sachsen;TU Dresden (ohne Klinikum);Gunda Röstel;GELSENWASSER;Energie;;Vorsitzende;;https://tu-dresden.de/die_tu_dresden/gremien_und_beauftragte/hochschulrat
-Sachsen;TU Dresden (ohne Klinikum);Prof. Dr. sc. nat. Knut Löschke;Deutsche Bahn;Verkehr;;;Deutsche Bahn AG;https://tu-dresden.de/die_tu_dresden/gremien_und_beauftragte/hochschulrat
 Sachsen;TU Dresden (ohne Klinikum);Dipl.-Ing. Jörg Thiele;iproplan Planungsgesellschaft mbH;;;;;https://tu-dresden.de/die_tu_dresden/gremien_und_beauftragte/hochschulrat
 Sachsen;Universität Leipzig (ohne Klinikum);Knut Löschke;Comparex;Informationstechnik;;;;http://www.zv.uni-leipzig.de/universitaet/profil/zentrale-organe/hochschulrat.html
 Sachsen;Universität Leipzig (ohne Klinikum);Knut Löschke;PC-Ware Information Technologies GmbH/AG;Informationstechnik;;;;http://www.zv.uni-leipzig.de/universitaet/profil/zentrale-organe/hochschulrat.html
