@@ -9958,6 +9958,10 @@ var searchdb = {
 			"slug": "hipp-gmbh"
 		},
 		{
+			"name": "Hinstorff Buchverlag",
+			"slug": "hinstorff-buchverlag"
+		},
+		{
 			"name": "Hirsch KG",
 			"slug": "hirsch-kg"
 		},
@@ -23352,6 +23356,14 @@ var searchdb = {
 		{
 			"name": "Zwiesel Kristallglas AG",
 			"slug": "zwiesel-kristallglas-ag"
+		},
+		{
+			"name": "Enercast",
+			"slug": "enercast"
+		},
+		{
+			"name": "F. A. Wobst GmbH & Co. KG",
+			"slug": "f-a-wobst-gmbh-co-kg"
 		}
 	]
 };
