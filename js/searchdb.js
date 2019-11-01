@@ -20298,8 +20298,8 @@ var searchdb = {
 			"slug": "syngenta-agro-gmbh"
 		},
 		{
-			"name": "synlab Akademie für ärztliche Fort- bildung",
-			"slug": "synlab-akademie-fur-arztliche-fort-bildung"
+			"name": "synlab Akademie für ärztliche Fortbildung",
+			"slug": "synlab-akademie-fur-arztliche-fortbildung"
 		},
 		{
 			"name": "SYNLAB HOLDING Deutschland",
@@ -23364,6 +23364,10 @@ var searchdb = {
 		{
 			"name": "F. A. Wobst GmbH & Co. KG",
 			"slug": "f-a-wobst-gmbh-co-kg"
+		},
+		{
+			"name": "Dr. Oetger GmbH",
+			"slug": "dr-oetger-gmbh"
 		}
 	]
 };
