@@ -110,7 +110,6 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 201;Humboldt-Universität zu Berlin;NEGZ;13000 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
 201;Humboldt-Universität zu Berlin;Fraunhofer FOKUS;18750 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
 201;Humboldt-Universität zu Berlin;Mercator Stiftung / ;20000 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
-201;Humboldt-Universität zu Berlin;Volkswagen Stiftung;40000 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
 201;Humboldt-Universität zu Berlin;Federal Ministry of Education ;34000 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
 201;Humboldt-Universität zu Berlin;Hans-Böckler-Stiftung;151468 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
 201;Humboldt-Universität zu Berlin;ABIDA – Assessing Big Data;20000 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
@@ -220,7 +219,8 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 2000;Theol. Fakultät Fulda (rk);;;;;;
 390;TU Bergakademie Freiberg;;;;;;
 1690;TU Berlin;Volkswagen;5113000;Sponsoring Volkswagen-Bibliothek;;http://pardok.parlament-berlin.de/starweb/adis/citat/VT/15/DruckSachen/d15-1800-01.pdf;
-1690;TU Berlin;BASF;13000000;gemeinsames Labor BasCat;;https://www.bascat.tu-berlin.de/;
+1690;TU Berlin;BASF;13000000;gemeinsames Labor BASLO Katalyseforschung;;https://www.bascat.tu-berlin.de/;
+1690;TU Berlin;BASF;2500000;BASLEARN „Mschinelles Lernen“;;https://www.tu-berlin.de/?207463;
 1690;TU Berlin;Bayer;;Förderer;Bayer-Stiftungen;https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/;
 1690;TU Berlin;Berliner Stadtreinigung;;Förderer;;https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/;
 1690;TU Berlin;Bosch;;Förderer;;https://www.career.tu-berlin.de/menue/fuer_studierende/deutschlandstipendium/unsere_foerderer/;
