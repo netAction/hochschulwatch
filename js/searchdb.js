@@ -23368,6 +23368,14 @@ var searchdb = {
 		{
 			"name": "Dr. Oetger GmbH",
 			"slug": "dr-oetger-gmbh"
+		},
+		{
+			"name": "Versuchs- und Lehranstalt für Brauerei in Berlin (VLB) e.V.",
+			"slug": "versuchs-und-lehranstalt-fuer-brauerei-in-berlin-vlb-ev"
+		},
+		{
+			"name": "HEAD acoustics GmbH",
+			"slug": "head-acoustics-gmbh"
 		}
 	]
 };
