@@ -1,9 +1,9 @@
 uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 580;Bauhaus-Universität Weimar;;;;;;
-240;Brandenburgische TU Cottbus;Siemens;;Vereinbarung über gemeinsame Forschungsprojekte;Siemens Energie Sektor;http://www.die-linke-thl.de/uploads/media/dr55439.pdf, ;
-240;Brandenburgische TU Cottbus;ABB;;Vereinbarung über gemeinsame Forschungsprojekte;;http://www.die-linke-thl.de/uploads/media/dr55439.pdf, ;
-240;Brandenburgische TU Cottbus;Rolls-Royce;;Vereinbarung über gemeinsame Forschungsprojekte;;http://www.die-linke-thl.de/uploads/media/dr55439.pdf, ;
-240;Brandenburgische TU Cottbus;Vattenfall;;Vereinbarung über gemeinsame Forschungsprojekte;Vattenfall Europe Mining AG;http://www.taz.de/!114640/;
+240;Brandenburgische TU Cottbus;EMIS Electrics GmbH;;;;https://www.b-tu.de/universitaet/stiften-und-foerdern/stiftung-der-btu;
+240;Brandenburgische TU Cottbus;Starz GmbH;;;;https://www.b-tu.de/universitaet/stiften-und-foerdern/stiftung-der-btu;
+240;Brandenburgische TU Cottbus;TAKRAF GmbH;;;;https://www.b-tu.de/universitaet/stiften-und-foerdern/stiftung-der-btu;
+240;Brandenburgische TU Cottbus;WEQUA GmbH;;;;https://www.b-tu.de/universitaet/stiften-und-foerdern/stiftung-der-btu;
 180;Charite - Universitätsmedizin Berlin;3M Deutschland GmbH;;3M IAD;;https://www.charite.de/forschung/kooperationen/industriekooperationen/;
 180;Charite - Universitätsmedizin Berlin;A.D.I.R.;;Verbesserung der Osteoporoselangzeittherapie;;https://www.charite.de/forschung/kooperationen/industriekooperationen/;
 180;Charite - Universitätsmedizin Berlin;AbbVie Deutschland GmbH & Co. KG;;RA-Express;;https://www.charite.de/forschung/kooperationen/industriekooperationen/;
@@ -224,23 +224,23 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1690;TU Berlin;BerlinCert ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427273;
 1690;TU Berlin;Berlin Partner GmbH ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427274;
 1690;TU Berlin;beSpace GmbH ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427275;
-1690;TU Berlin;Center for Knowledge Interchange - CKI - Siemens AG ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427276;
-1690;TU Berlin;Charlottenburger Innovations-Centrum - CHIC - Innovationszentrum Berlin Management ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427277;
-1690;TU Berlin;Deutsche Akkreditierungsstelle GmbH - DAkkS - ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427278;
-1690;TU Berlin;DFKI Deutsches Forschungszentrum für Künstliche Intelligenz gGmbH ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427279;
+1690;TU Berlin;Center for Knowledge Interchange – CKI;;Förderer; Siemens AG;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427276;
+1690;TU Berlin;Charlottenburger Innovations-Centrum - CHIC ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427277;
+1690;TU Berlin;Deutsche Akkreditierungsstelle GmbH – DakkS;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427278;
+1690;TU Berlin;Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI);;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427279;
 1690;TU Berlin;DIN Deutsches Institut für Normierung e.V ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427280;
-1690;TU Berlin;EnerKite GmbH ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427281;
-1690;TU Berlin;EvoLogics GmbH ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427282;
-1690;TU Berlin;Gemeinschaftslabor BasCat (UniCat BASF JointLab) - BASF SE - ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427283;
-1690;TU Berlin;Vattenfall Europe AG ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427284;
+1690;TU Berlin;EnerKite GmbH;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427281;
+1690;TU Berlin;EvoLogics GmbH;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427282;
+1690;TU Berlin;BASF SE;;Förderer;BASF;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427283;
+1690;TU Berlin;Vattenfall;;Förderer;Vattenfall Europe AG;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427284;
 1690;TU Berlin;Institut für Bahntechnik GmbH - IFB - ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427285;
 1690;TU Berlin;Institut für Bildung in der Informationsgesellschaft gGmbH - IBI - ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427286;
 1690;TU Berlin;Kiwa MPA Bautest GmbH;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427287;
-1690;TU Berlin;Lufthansa Flight Training GmbH - LFT - ;;Förderer;Lufthansa Technik AG;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427288;
-1690;TU Berlin;Orascom Hotels & Development ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427289;
-1690;TU Berlin;Sawiris Foundation for Social Development  ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427290;
-1690;TU Berlin;VDI/VDE Innovation + Technik GmbH - VDI/VDE-IT - ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427291;
-1690;TU Berlin;Volkswagen AutoUni;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427292;
+1690;TU Berlin;Lufthansa Flight Training GmbH;;Förderer;Lufthansa Technik AG;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427288;
+1690;TU Berlin;Orascom Hotels;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427289;
+1690;TU Berlin;Sawiris Foundation for Social Development;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427290;
+1690;TU Berlin;VDI/VDE Innovation + Technik GmbH ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427291;
+1690;TU Berlin;Volkswagen;;Förderer;Volkswagen autouni;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427292;
 1430;TU Braunschweig;;;;;;
 380;TU Chemnitz;Niles-Simmons-Hegenscheidt-Gruppe;175000;Spende, Hörsaalsponsoring;;http://www.freiepresse.de/LOKALES/CHEMNITZ/Streit-um-Hoersaal-Namen-an-der-TU-artikel7654914.php;
 1440;TU Clausthal;;;;;;
