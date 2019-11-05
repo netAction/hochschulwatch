@@ -2454,8 +2454,16 @@ var searchdb = {
 			"slug": "berlin-heart-gmbh"
 		},
 		{
+			"name": "Berlin Partner GmbH",
+			"slug": "berlin-partner-gmbh"
+		},
+		{
 			"name": "Berlin-Chemie AG",
 			"slug": "berlin-chemie-ag"
+		},
+		{
+			"name": "BerlinCert",
+			"slug": "berlincert"
 		},
 		{
 			"name": "Berliner Bank Niederlassung der Deutsche Bank Privat- und Geschäftskunden AG",
@@ -2544,6 +2552,10 @@ var searchdb = {
 		{
 			"name": "Berufsgenossenschaft Transport und Verkehrswirtschaft (BG Verkehr)",
 			"slug": "berufsgenossenschaft-transport-und-verkehrswirtschaft-bg-verkehr"
+		},
+		{
+			"name": "beSpace GmbH",
+			"slug": "bespace-gmbh"
 		},
 		{
 			"name": "Besser Betreut GmbH",
@@ -2696,6 +2708,10 @@ var searchdb = {
 		{
 			"name": "BIOCRA- TES Life Sciences AG",
 			"slug": "biocra-tes-life-sciences-ag"
+		},
+		{
+			"name": "BIOCYC Gesellschaft für Biotechnologie KG",
+			"slug": "biocyc-gesellschaft-fur-biotechnologie-kg"
 		},
 		{
 			"name": "Biofrontera Pharma GmbH",
@@ -3750,6 +3766,10 @@ var searchdb = {
 			"slug": "centech-gmbh-center-for-nanotechnology"
 		},
 		{
+			"name": "Center for Knowledge Interchange – CKI",
+			"slug": "center-for-knowledge-interchange-cki"
+		},
+		{
 			"name": "Centerspace Deutschland GmbH",
 			"slug": "centerspace-deutschland-gmbh"
 		},
@@ -3812,6 +3832,10 @@ var searchdb = {
 		{
 			"name": "Charcot-Stiftung",
 			"slug": "charcot-stiftung"
+		},
+		{
+			"name": "Charlottenburger Innovations-Centrum - CHIC",
+			"slug": "charlottenburger-innovations-centrum-chic"
 		},
 		{
 			"name": "CHDI Management, Inc.",
@@ -4614,6 +4638,10 @@ var searchdb = {
 			"slug": "deutsche-akademie-fuer-staedtebau-und-landesplanung-ev"
 		},
 		{
+			"name": "Deutsche Akkreditierungsstelle GmbH – DakkS",
+			"slug": "deutsche-akkreditierungsstelle-gmbh-dakks"
+		},
+		{
 			"name": "Deutsche Aktuarvereinigung e.V. (DAV)",
 			"slug": "deutsche-aktuarvereinigung-ev-dav"
 		},
@@ -4664,6 +4692,10 @@ var searchdb = {
 		{
 			"name": "Deutsche Forschungsgemeinschaft",
 			"slug": "deutsche-forschungsgemeinschaft"
+		},
+		{
+			"name": "Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI)",
+			"slug": "deutsche-forschungszentrum-fuer-kuenstliche-intelligenz-dfki"
 		},
 		{
 			"name": "Deutsche Gesellschaft für Klinische Chemie und Laboratoriumsmedizin",
@@ -4800,10 +4832,6 @@ var searchdb = {
 		{
 			"name": "Deutsche Vereinte Gesellschaft für Klinische Chemie und Labormedizin",
 			"slug": "deutsche-vereinte-gesellschaft-fuer-klinische-chemie-und-labormedizin"
-		},
-		{
-			"name": "Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI)",
-			"slug": "deutsche-forschungszentrum-fuer-kuenstliche-intelligenz-dfki"
 		},
 		{
 			"name": "Deutschen Gesellschaft für Urologie (DGU)",
@@ -5448,6 +5476,10 @@ var searchdb = {
 		{
 			"name": "Dr. Naif Abdullah Hamad Alh",
 			"slug": "dr-naif-abdullah-hamad-alh"
+		},
+		{
+			"name": "Dr. Oetger GmbH",
+			"slug": "dr-oetger-gmbh"
 		},
 		{
 			"name": "Dr. Oetker Nahrungsmittel KG, Bielefeld",
@@ -6194,6 +6226,10 @@ var searchdb = {
 			"slug": "enel"
 		},
 		{
+			"name": "Enercast",
+			"slug": "enercast"
+		},
+		{
 			"name": "Enercity",
 			"slug": "enercity"
 		},
@@ -6734,6 +6770,10 @@ var searchdb = {
 			"slug": "exxonmobil"
 		},
 		{
+			"name": "F. A. Wobst GmbH & Co. KG",
+			"slug": "f-a-wobst-gmbh-co-kg"
+		},
+		{
 			"name": "F. G. Conzen-Stiftung, Berlin",
 			"slug": "f-g-conzen-stiftung-berlin"
 		},
@@ -7008,6 +7048,10 @@ var searchdb = {
 		{
 			"name": "Firma Wehrhahn, Hannover",
 			"slug": "firma-wehrhahn-hannover"
+		},
+		{
+			"name": "Firma Xilinx Inc.",
+			"slug": "firma-xilinx-inc"
 		},
 		{
 			"name": "Firmenkonsortium (~20 Firmen) aus dem Landkreis Donau-Ries",
@@ -8024,6 +8068,10 @@ var searchdb = {
 		{
 			"name": "GEA Air Treatment GmbH",
 			"slug": "gea-air-treatment-gmbh"
+		},
+		{
+			"name": "Gebäudewirtschaft Cottbus GmbH",
+			"slug": "gebaudewirtschaft-cottbus-gmbh"
 		},
 		{
 			"name": "Gebr. Becker GmbH & Co. KG",
@@ -9442,6 +9490,10 @@ var searchdb = {
 			"slug": "he-lue-moebel-handels-gmbh"
 		},
 		{
+			"name": "HEAD acoustics GmbH",
+			"slug": "head-acoustics-gmbh"
+		},
+		{
 			"name": "Hearing Care Corp., USA, Bloomington MN 55420",
 			"slug": "hearing-care-corp-usa-bloomington-mn-55420"
 		},
@@ -9954,12 +10006,12 @@ var searchdb = {
 			"slug": "hinrich-w-risken"
 		},
 		{
-			"name": "Hipp GmbH",
-			"slug": "hipp-gmbh"
-		},
-		{
 			"name": "Hinstorff Buchverlag",
 			"slug": "hinstorff-buchverlag"
+		},
+		{
+			"name": "Hipp GmbH",
+			"slug": "hipp-gmbh"
 		},
 		{
 			"name": "Hirsch KG",
@@ -10782,6 +10834,10 @@ var searchdb = {
 			"slug": "ingenieurbuero-grobecker-gmbh"
 		},
 		{
+			"name": "Ingenieurbüro IPP",
+			"slug": "ingenieurburo-ipp"
+		},
+		{
 			"name": "Ingenieurbüro Nordhorn",
 			"slug": "ingenieurbuero-nordhorn"
 		},
@@ -10914,6 +10970,10 @@ var searchdb = {
 			"slug": "institut-fuer-arbeitsrecht-an-der-ur-e-v"
 		},
 		{
+			"name": "Institut für Bahntechnik GmbH - IFB -",
+			"slug": "institut-fuer-bahntechnik-gmbh-ifb-"
+		},
+		{
 			"name": "Institut für Bauphysikalische Qualitätssicherung GmbH,",
 			"slug": "institut-fuer-bauphysikalische-qualitaetssicherung-gmbh"
 		},
@@ -10924,6 +10984,10 @@ var searchdb = {
 		{
 			"name": "Institut für Bildsame Formgebung an der RWTH Aachen",
 			"slug": "institut-fuer-bildsame-formgebung-an-der-rwth-aachen"
+		},
+		{
+			"name": "Institut für Bildung in der Informationsgesellschaft gGmbH - IBI -",
+			"slug": "institut-fuer-bildung-in-der-informationsgesellschaft-ggmbh-ibi-"
 		},
 		{
 			"name": "Institut für Forschung und Bauwesen, Hildesheim",
@@ -10992,6 +11056,10 @@ var searchdb = {
 		{
 			"name": "Institut für Technische Textilien GmbH (ITT) Chemnitz",
 			"slug": "institut-fuer-technische-textilien-gmbh-itt-chemnitz"
+		},
+		{
+			"name": "Institut für Umwelttechnik und Recycling Senftenberg e. V.",
+			"slug": "institut-fur-umwelttechnik-und-recycling-senftenberg-e-v"
 		},
 		{
 			"name": "Institut für Unternehmensentwicklung und -sanierung",
@@ -11274,12 +11342,12 @@ var searchdb = {
 			"slug": "isr-information-products-ag"
 		},
 		{
-			"name": "Issendorf KG, Sarstedt",
-			"slug": "issendorf-kg-sarstedt"
-		},
-		{
 			"name": "ISRA Vision AG",
 			"slug": "isra-vision-ag"
+		},
+		{
+			"name": "Issendorf KG, Sarstedt",
+			"slug": "issendorf-kg-sarstedt"
 		},
 		{
 			"name": "ISSENDORFF KG",
@@ -12174,6 +12242,10 @@ var searchdb = {
 			"slug": "kit-karlsruher-institut-fuer-technologie"
 		},
 		{
+			"name": "Kiwa MPA Bautest GmbH",
+			"slug": "kiwa-mpa-bautest-gmbh"
+		},
+		{
 			"name": "Kjellberg-Stiftung",
 			"slug": "kjellberg-stiftung"
 		},
@@ -12702,6 +12774,10 @@ var searchdb = {
 			"slug": "ksb-stiftung"
 		},
 		{
+			"name": "KSC Kraftwerks-Service Cottbus",
+			"slug": "ksc-kraftwerks-service-cottbus"
+		},
+		{
 			"name": "KSK Biberach",
 			"slug": "ksk-biberach"
 		},
@@ -13090,12 +13166,12 @@ var searchdb = {
 			"slug": "leiber-carl-cloppenburg"
 		},
 		{
-			"name": "Leibniz Universitätsgesellschaft",
-			"slug": "leibniz-universitaetsgesellschaft"
-		},
-		{
 			"name": "Leibniz Institut für Photonische Technologien e.V.",
 			"slug": "leibniz-institut-fur-photonische-technologien-ev"
+		},
+		{
+			"name": "Leibniz Universitätsgesellschaft",
+			"slug": "leibniz-universitaetsgesellschaft"
 		},
 		{
 			"name": "Leica Mycrosystems",
@@ -13552,6 +13628,10 @@ var searchdb = {
 		{
 			"name": "Lufthansa",
 			"slug": "lufthansa"
+		},
+		{
+			"name": "Lufthansa Flight Training GmbH",
+			"slug": "lufthansa-flight-training-gmbh"
 		},
 		{
 			"name": "Lüllau Engineering GmbH",
@@ -15458,6 +15538,10 @@ var searchdb = {
 			"slug": "orange-edge-urban-research-and-mar-keting"
 		},
 		{
+			"name": "Orascom Hotels",
+			"slug": "orascom-hotels"
+		},
+		{
 			"name": "Orga Systems GmbH, Paderborn",
 			"slug": "orga-systems-gmbh-paderborn"
 		},
@@ -16146,6 +16230,10 @@ var searchdb = {
 			"slug": "pne-wind-ag-27472-cuxhaven"
 		},
 		{
+			"name": "PNN Zeitungsverlagsgesellschaft",
+			"slug": "pnn-zeitungsverlagsgesellschaft"
+		},
+		{
 			"name": "Poehler, Claudia",
 			"slug": "poehler-claudia"
 		},
@@ -16736,6 +16824,10 @@ var searchdb = {
 		{
 			"name": "Quintiles GmbH",
 			"slug": "quintiles-gmbh"
+		},
+		{
+			"name": "R-Biopharm AG",
+			"slug": "r-biopharm-ag"
 		},
 		{
 			"name": "R,B & E Klinik GmbH, Pforzheim",
@@ -17842,6 +17934,10 @@ var searchdb = {
 			"slug": "sauter-cumulus-gmbh"
 		},
 		{
+			"name": "Sawiris Foundation for Social Development",
+			"slug": "sawiris-foundation-for-social-development"
+		},
+		{
 			"name": "Saxonia Systems AG",
 			"slug": "saxonia-systems-ag"
 		},
@@ -18348,6 +18444,10 @@ var searchdb = {
 		{
 			"name": "Serag-Wiessner KG",
 			"slug": "serag-wiessner-kg"
+		},
+		{
+			"name": "Seramun Diagnostica GmbH",
+			"slug": "seramun-diagnostica-gmbh"
 		},
 		{
 			"name": "SerNet GmbH",
@@ -19554,6 +19654,10 @@ var searchdb = {
 			"slug": "starooeom-prof-dr-heiko"
 		},
 		{
+			"name": "Starz GmbH",
+			"slug": "starz-gmbh"
+		},
+		{
 			"name": "STAWAG - Stadtwerke Aachen AG",
 			"slug": "stawag-stadtwerke-aachen-ag"
 		},
@@ -19664,6 +19768,10 @@ var searchdb = {
 		{
 			"name": "Stifterverband",
 			"slug": "stifterverband"
+		},
+		{
+			"name": "Stifterverband Bildung Wirtschaft Innovation",
+			"slug": "stifterverband-bildung-wirtschaft-innovation"
 		},
 		{
 			"name": "Stifterverband für die Deutsche Wirtschaft",
@@ -20352,6 +20460,10 @@ var searchdb = {
 		{
 			"name": "TAKATA AG",
 			"slug": "takata-ag"
+		},
+		{
+			"name": "TAKRAF GmbH",
+			"slug": "takraf-gmbh"
 		},
 		{
 			"name": "Talanx AG",
@@ -21734,6 +21846,10 @@ var searchdb = {
 			"slug": "versicherungskammer-bayern"
 		},
 		{
+			"name": "Versuchs- und Lehranstalt für Brauerei in Berlin (VLB) e.V.",
+			"slug": "versuchs-und-lehranstalt-fuer-brauerei-in-berlin-vlb-ev"
+		},
+		{
 			"name": "Verwaltungsberufsgenossenschaft (VBG)",
 			"slug": "verwaltungsberufsgenossenschaft-vbg"
 		},
@@ -22044,6 +22160,10 @@ var searchdb = {
 		{
 			"name": "VON ARDENNE GmbH",
 			"slug": "von-ardenne-gmbh"
+		},
+		{
+			"name": "von Arps-Aubert Steuerberatungsgesellschaft",
+			"slug": "von-arps-aubert-steuerberatungsgesellschaft"
 		},
 		{
 			"name": "Von Behring-Röntgen-Stiftung",
@@ -22444,6 +22564,10 @@ var searchdb = {
 		{
 			"name": "Wentus Kunststoff GmbH, Höxter",
 			"slug": "wentus-kunststoff-gmbh-hoexter"
+		},
+		{
+			"name": "WEQUA GmbH",
+			"slug": "wequa-gmbh"
 		},
 		{
 			"name": "Werchau, Prof. Dr. Hermann",
@@ -23356,26 +23480,6 @@ var searchdb = {
 		{
 			"name": "Zwiesel Kristallglas AG",
 			"slug": "zwiesel-kristallglas-ag"
-		},
-		{
-			"name": "Enercast",
-			"slug": "enercast"
-		},
-		{
-			"name": "F. A. Wobst GmbH & Co. KG",
-			"slug": "f-a-wobst-gmbh-co-kg"
-		},
-		{
-			"name": "Dr. Oetger GmbH",
-			"slug": "dr-oetger-gmbh"
-		},
-		{
-			"name": "Versuchs- und Lehranstalt für Brauerei in Berlin (VLB) e.V.",
-			"slug": "versuchs-und-lehranstalt-fuer-brauerei-in-berlin-vlb-ev"
-		},
-		{
-			"name": "HEAD acoustics GmbH",
-			"slug": "head-acoustics-gmbh"
 		}
 	]
 };
