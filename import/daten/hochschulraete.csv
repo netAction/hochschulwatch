@@ -1,4 +1,4 @@
-Bundesland;Uni;Name;Unternehmen;Branche;FIELD6;Funktion;Alternativname;Quelle
+Bundesland;Uni;Name;Unternehmen;Branche;FIELD6;Funktion;Alternativname;https://www.tuhh.de/t3resources/tuhh/download/universitaet/praesentationen/2019_TUHH_Praesentation_deMai19_16zu9.pdf
 Baden-Württemberg;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Prof. Dr. Michael Kaschke;Carl Zeiss AG;Optik;;;Carl Zeiss;https://www.kit.edu/kit/aufsichtsrat.php
 Baden-Württemberg;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Stefan Quandt;AQTON SE;;;;;https://www.kit.edu/kit/aufsichtsrat.php
 Baden-Württemberg;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Susanne Kunschert;Pilz GmbH & Co. KG;;;;;https://www.kit.edu/kit/aufsichtsrat.php
@@ -27,15 +27,15 @@ Bayern;TU München (ohne Klinikum);Dipl.-Ing. Harald Krüger;BMW;Automobil;;;;ht
 Bayern;TU München (ohne Klinikum);Dr.  Reinhard Ploss;Infineon Technologies AG;Informationstechnik;;;;https://www.tum.de/die-tum/die-universitaet/hochschulrat/
 Bayern;TU München (ohne Klinikum);Prof. Dr.-Ing. Wolfgang Reitzle;Linde;Chemie;;;;https://www.tum.de/die-tum/die-universitaet/hochschulrat/
 Bayern;TU München (ohne Klinikum);Dr. Nicola Leibinger-Kammüller;Trumpf;Maschinenbau;;;;https://www.tum.de/die-tum/die-universitaet/hochschulrat/
-Bayern;Universität München (ohne Klinikum);Dr. Hans Schleicher,;LfA Förderbank Bayern;Bank;;;;https://www.uni-muenchen.de/einrichtungen/orga_lmu/gremien/hochschulrat/index.html
 Bayern;Universität Augsburg;;;;;;;https://www.uni-augsburg.de/de/organisation/gremien/universitaetsrat/
 Bayern;Universität Bamberg;Dr. Wolf-Rüdiger Knocke;Nürnberger Versicherungsgruppe;Versicherung;;;;http://www.uni-bamberg.de/universitaetsrat/
 Bayern;Universität Bayreuth;Alexandra Füller;Füller Glastechnologie Vertriebs-GmbH​;Glasbau;;;;https://www.uni-bayreuth.de/de/universitaet/organisation/index.html
-;Universität Bamberg;Dr. Hartwig Frinke;FMT Medizintechnik GmbH;Medizin;;;;https://www.uni-bamberg.de/universitaetsrat/
 Bayern;Universität Bayreuth;Stephanie Czerny;DLD Media GmbH;Verlag;;;;https://www.uni-bayreuth.de/de/universitaet/organisation/index.html
 Bayern;Universität Erlangen-Nürnberg;Roland Auschel;Adidas;Konsumgüter;;;;https://www.fau.de/fau/leitung-und-gremien/universitaetsrat/#collapse_0
 Bayern;Universität Erlangen-Nürnberg;Walter Bockshecker;Nürnberger Versicherungsgruppe;Versicherung;;;;https://www.fau.de/fau/leitung-und-gremien/universitaetsrat/#collapse_0
 Bayern;Universität Erlangen-Nürnberg;Dr. rer. nat. Roland Busch;Siemens;;;;;https://www.fau.de/fau/leitung-und-gremien/universitaetsrat/#collapse_0
+Bayern;Universität Erlangen-Nürnberg;Peter Kurz;LEONHARD KURZ Stiftung;Verfahrenstechnik;;;;https://www.fau.de/fau/leitung-und-gremien/universitaetsrat/#collapse_4
+Bayern;Universität München (ohne Klinikum);Dr. Hans Schleicher,;LfA Förderbank Bayern;Bank;;;;https://www.uni-muenchen.de/einrichtungen/orga_lmu/gremien/hochschulrat/index.html
 Bayern;Universität Passau;Simone Tucci-Diekmann;Neue Presse Verlags-GmbH;Medien;;;;https://www.uni-passau.de/universitaet/leitung-und-gremien/universitaetsrat/
 Bayern;Universität Passau;Dr. Natascha Eckert;Siemens AG;;;;;https://www.uni-passau.de/universitaet/leitung-und-gremien/universitaetsrat/
 Bayern;Universität Passau;Dr. Klaus Geißdörfer;ZF Passau GmbH;Maschinenbau;;;;https://www.uni-passau.de/universitaet/leitung-und-gremien/universitaetsrat/
@@ -45,19 +45,21 @@ Bayern;Universität Würzburg (ohne Klinikum);Dr.-Ing. Thomas Leicht;Brose Grupp
 Bayern;Universität Würzburg (ohne Klinikum);Caroline Trips;Trips GmbH;;;;;https://www.uni-wuerzburg.de/universitaet/gremien/universitaetsrat/
 Bayern;Universität Würzburg (ohne Klinikum);Dr.-Ing. E.h. Manfred Wittenstein;Wittenstein SE;Maschinenbau;;;;https://www.uni-wuerzburg.de/universitaet/gremien/universitaetsrat/
 Berlin;FU Berlin;Dr. Johannes Evers;Landesbank Berlin AG;Finanzwirtschaft;;;;https://www.fu-berlin.de/einrichtungen/organe/gremien-kommissionen/kuratorium/index.html
-Berlin;TU Berlin;Dr. Tanja Wielgoß;Vattenfall;Energie;;;;https://www.tu-berlin.de/asv/menue/gremien/kuratorium/
 Berlin;Humboldt-Universität zu Berlin;Dr. Susanne Kortendick;Metro AG;Handel;;;;https://gremien.hu-berlin.de/de/kuratorium/mitglieder
+Berlin;TU Berlin;Dr. Tanja Wielgoß;Vattenfall;Energie;;;;https://www.tu-berlin.de/asv/menue/gremien/kuratorium/
+Hamburg;TU Hamburg-Harburg;Walter Conrads;Philips;Elektronik;;Vorsitzender;;https://intranet.tuhh.de/aktuell/pressemitteilung_einzeln.php?id=12102&Lang=de 
+Hamburg;TU Hamburg-Harburg;Lars Reger;NXP Semiconductors;Elektrotechnik;;;;https://intranet.tuhh.de/aktuell/pressemitteilung_einzeln.php?id=12102&Lang=de
+Hamburg;TU Hamburg-Harburg;Sibylle Stauch-Eckmann;Ober Scharrer Gruppe;Augenheilkunde;;;;https://intranet.tuhh.de/aktuell/pressemitteilung_einzeln.php?id=12102&Lang=de
 Hamburg;Universität Hamburg (ohne Klinikum);Dr. Michael Heller;Otto Gruppe;Handel;;;;https://www.uni-hamburg.de/uhh/organisation/gremien/hochschulrat.html
-Hamburg;TU Hamburg-Harburg;Walter Conrads;Philips;Elektronik;;Vorsitzender;;https://www.tuhh.de/tuhh/uni/struktur/ambassadors.html
-Hamburg;TU Hamburg-Harburg;Dr. Rüdiger Grube;Bombardier Transportation;Luftfahrt;;;Lufthansa Technik;https://www.tuhh.de/tuhh/uni/struktur/ambassadors.html
-Hamburg;TU Hamburg-Harburg;Prof. Dr.-Ing. Stefan Palzer;Nestlé;Ernährung;;;;https://www.tuhh.de/tuhh/uni/struktur/ambassadors.html
 Hessen;TU Darmstadt;Professor Dr.-Ing. Ernst Schmachtenberg;Bayer AG;Chemie;;Vorsitzender;;https://www.intern.tu-darmstadt.de/gremien/hochschulrat_3/
 Hessen;TU Darmstadt;Professor Dr. Bernd Reckmann;Merck Group;Medizin;;;;https://www.intern.tu-darmstadt.de/gremien/hochschulrat_3/
 Hessen;TU Darmstadt;Dr. Marie-Luise Wolff;Bayer AG;Chemie;;stellv. Vorsitzende;;https://www.intern.tu-darmstadt.de/gremien/hochschulrat_3/
 Hessen;TU Darmstadt;Enis Ersü;ISRA Vision AG;Beratung;;;;https://www.intern.tu-darmstadt.de/gremien/hochschulrat_3/
 Hessen;TU Darmstadt;Professor Dr. Wolfgang Wahlster;Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI);Informatik;;;;https://www.intern.tu-darmstadt.de/gremien/hochschulrat_3/
 Hessen;TU Darmstadt;Dr. Horst J. Kayser;Siemens AG;Elektrotechnik;;;;https://www.intern.tu-darmstadt.de/gremien/hochschulrat_3/
-Hessen;Universität Frankfurt a.M. (ohne Klinikum);Prof. Dr. Claudia M. Buch;Deutsche Bank;Finanzwirtschaft;;;;https://www.uni-frankfurt.de/hochschulrat
+Hessen;Universität Frankfurt a.M. (ohne Klinikum);Prof. Dr. Claudia M. Buch;Deutsche Bundesbank;Finanzwirtschaft;;;;https://www.uni-frankfurt.de/hochschulrat
+Hessen;Universität Frankfurt a.M. (ohne Klinikum);Gabriele Eick;Gothaer Versicherung;Versicherung;;;;
+Hessen;Universität Frankfurt a.M. (ohne Klinikum);Dr. Sönke Bästlein;MainFirst Bank;Finanzwirtschaft;;;;
 Hessen;Universität Gießen;Dr. Wolfgang Maaß;Brühlsche Universitätsdruckerei GmbH & Co KG;Gewerbe;;;;http://www.uni-giessen.de/cms/org/gremien/hochschulrat
 Hessen;Universität Gießen;Inge von Alvensleben;F. A. Wobst GmbH & Co. KG;Automobil;;;Liqui Moly;
 Hessen;Universität Gießen;Marion Gottschalk;Ille Papierservice GmbH;Handel;;;;
@@ -84,7 +86,6 @@ Niedersachsen;Universität Osnabrück;Arnulf Piepenbrock;Piepenbrock Unternehmen
 Nordrhein-Westfalen;Fernuniversität Hagen;Manfred Scholle;GELSENWASSER;Energie;;;;http://www.fernuni-hagen.de/universitaet/profil/leitung/hochschulrat.shtml
 Nordrhein-Westfalen;Ruhr-Universität Bochum (ohne Klinikum);Birgit Fischer;Verband der forschenden Pharmaunternehmen;Medizin;;;;http://www.ruhr-uni-bochum.de/universitaet/leitung-gremien/hochschulrat/mitglieder.html
 Nordrhein-Westfalen;RWTH Aachen (ohne Klinikum);Dr.-Ing. Bernd Bohr;Bosch;Automobil;Elektronik; Vorsitzender;;https://www.rwth-aachen.de/go/id/pwn/
-;RWTH Aachen (ohne Klinikum);Dr. Roland Busch;Siemens;;;;;https://www.rwth-aachen.de/go/id/pwn/
 Nordrhein-Westfalen;RWTH Aachen (ohne Klinikum);Dipl.-Ing. Christine Peters;Evonik Fibres GmbH;;;;;https://www.rwth-aachen.de/go/id/pwn/
 Nordrhein-Westfalen;Technische Universität Dortmund;Prof. Dr. Ernst Rank;IGSSE;;;Vorsitzender;;https://www.tu-dortmund.de/universitaet/organisation/hochschulleitung/hochschulrat/
 Nordrhein-Westfalen;Technische Universität Dortmund;Dr. Joann Halpern;Hasso-Plattner-Institut für Digital Engineering;Informationstechnik;;;;https://www.tu-dortmund.de/universitaet/organisation/hochschulleitung/hochschulrat/
@@ -124,9 +125,11 @@ Sachsen-Anhalt;Otto-von-Guericke-Universität Magdeburg (ohne Klinikum);Herr Gü
 Sachsen-Anhalt;Otto-von-Guericke-Universität Magdeburg (ohne Klinikum);Herr Dipl.-Ing. Helmut Gierse;Siemens;;;;;http://www.ovgu.de/Universit%C3%A4t/Struktur/Kuratorium-p-10185.html
 Sachsen-Anhalt;Universität Halle (ohne Klinikum);Wilfried Klose;Abfallwirtschaft GmbH;;;;;http://www.rektor.uni-halle.de/gremien/kuratorium/zusammensetzung/
 Schleswig-Holstein;Universität Flensburg;Andreas Dethleffsen;Hermann G. Dethleffsen-Familienholding;;;;;https://www.uni-flensburg.de/portal-die-universitaet/die-institution/hochschulrat/
+Thüringen;Bauhaus-Universität Weimar;Dr. Thomas Rabe;Bertelsmann SE & Co. KGaA;Verlag;;Universitätsrat;Bertelsmann;https://www.uni-weimar.de/de/universitaet/aktuell/bauhausjournal-online/titel/senat-der-bauhaus-universitaet-weimar-waehlt-neuen-universitaetsrat-1/  
+Thüringen;Bauhaus-Universität Weimar;Nathalie Wappler Hagen ;Schweizer Radio und Fernsehen (SRF);Medien;;Universitätsrat;;https://www.uni-weimar.de/de/universitaet/aktuell/bauhausjournal-online/titel/senat-der-bauhaus-universitaet-weimar-waehlt-neuen-universitaetsrat-1/  
 Thüringen;Friedrich-Schiller-Universität Jena (ohne Klinikum);Prof. Dr. Michael Kaschke;Carl Zeiss;Optik;;;Carl Zeiss AG;https://www.uni-jena.de/Universitaetsrat.html
 Thüringen;Friedrich-Schiller-Universität Jena (ohne Klinikum);Jürgen Radomski;Siemens;;;;;https://www.uni-jena.de/Universitaetsrat.html
 Thüringen;TU Ilmenau;Thomas Dehn;Dehn + Söhne GmbH & Co. KG;Elektrotechnik;;;;https://www.tu-ilmenau.de/gremien/hochschulrat/
 Thüringen;Universität Erfurt;Dr. Hanna Proner;DIE ZEIT, Hamburg;Medien;;;;https://www.uni-erfurt.de/uni/leitung/organe/hochschulrat/
-Thüringen;Bauhaus-Universität Weimar;Dr. Thomas Rabe;Bertelsmann SE & Co. KGaA;Verlag;;Universitätsrat;Bertelsmann;https://www.uni-weimar.de/de/universitaet/aktuell/bauhausjournal-online/titel/senat-der-bauhaus-universitaet-weimar-waehlt-neuen-universitaetsrat-1/  
-Thüringen;Bauhaus-Universität Weimar;Nathalie Wappler Hagen ;Schweizer Radio und Fernsehen (SRF);Medien;;Universitätsrat;;https://www.uni-weimar.de/de/universitaet/aktuell/bauhausjournal-online/titel/senat-der-bauhaus-universitaet-weimar-waehlt-neuen-universitaetsrat-1/  
+;RWTH Aachen (ohne Klinikum);Dr. Roland Busch;Siemens;;;;;https://www.rwth-aachen.de/go/id/pwn/
+;Universität Bamberg;Dr. Hartwig Frinke;FMT Medizintechnik GmbH;Medizin;;;;https://www.uni-bamberg.de/universitaetsrat/
