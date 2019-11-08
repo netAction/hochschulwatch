@@ -3562,6 +3562,10 @@ var searchdb = {
 			"slug": "cancom-se"
 		},
 		{
+			"name": "Canon Medical Systems",
+			"slug": "canon-medical-systems"
+		},
+		{
 			"name": "Caparol-Gruppe, Knauf Gips KG",
 			"slug": "caparol-gruppe-knauf-gips-kg"
 		},
@@ -5062,6 +5066,10 @@ var searchdb = {
 			"slug": "diganars-inc"
 		},
 		{
+			"name": "DIN Deutsches Institut für Normung",
+			"slug": "din-deutsches-institut-fuer-normung"
+		},
+		{
 			"name": "Dinescu, Prof. Dr. Violetta, 26133 Oldenburg",
 			"slug": "dinescu-prof-dr-violetta-26133-oldenburg"
 		},
@@ -6266,6 +6274,10 @@ var searchdb = {
 			"slug": "energydesign"
 		},
 		{
+			"name": "EnerKite GmbH",
+			"slug": "enerkite-gmbh"
+		},
+		{
 			"name": "Enertech GmbH Adjutantenkamp 8 58675 Hemer",
 			"slug": "enertech-gmbh-adjutantenkamp-8-58675-hemer"
 		},
@@ -6716,6 +6728,10 @@ var searchdb = {
 		{
 			"name": "EVI Energieversorgung Hildesheim GmbH & Co. KG, Hildesheim",
 			"slug": "evi-energieversorgung-hildesheim-gmbh-co-kg-hildesheim"
+		},
+		{
+			"name": "EvoLogics GmbH",
+			"slug": "evologics-gmbh"
 		},
 		{
 			"name": "evon GmbH",
@@ -8768,6 +8784,10 @@ var searchdb = {
 		{
 			"name": "Gothaer Kulturstiftung",
 			"slug": "gothaer-kulturstiftung"
+		},
+		{
+			"name": "Gothaer Versicherung",
+			"slug": "gothaer-versicherung"
 		},
 		{
 			"name": "Götschmann, Dr. Norbert",
@@ -13222,6 +13242,10 @@ var searchdb = {
 			"slug": "leolux-living-bv"
 		},
 		{
+			"name": "LEONHARD KURZ Stiftung",
+			"slug": "leonhard-kurz-stiftung"
+		},
+		{
 			"name": "Leonhard Weiss GmbH & Co. KG",
 			"slug": "leonhard-weiss-gmbh-co-kg"
 		},
@@ -13754,6 +13778,10 @@ var searchdb = {
 			"slug": "mainau-gmbh"
 		},
 		{
+			"name": "MainFirst Bank",
+			"slug": "mainfirst-bank"
+		},
+		{
 			"name": "Mainova AG",
 			"slug": "mainova-ag"
 		},
@@ -14122,6 +14150,10 @@ var searchdb = {
 			"slug": "mectron-deutschland"
 		},
 		{
+			"name": "MED-ELelektromedizinische Geräte",
+			"slug": "med-elelektromedizinische-geraete"
+		},
+		{
 			"name": "Meda",
 			"slug": "meda"
 		},
@@ -14324,6 +14356,10 @@ var searchdb = {
 		{
 			"name": "Messe und Veranstaltungs GmbH",
 			"slug": "messe-und-veranstaltungs-gmbh"
+		},
+		{
+			"name": "Messe und Veranstaltungs GmbH Frankfurt (Oder)",
+			"slug": "messe-und-veranstaltungs-gmbh-frankfurt-oder"
 		},
 		{
 			"name": "Messer Group GmbH",
@@ -15288,6 +15324,14 @@ var searchdb = {
 		{
 			"name": "NWB Verlag GmbH & Co. KG",
 			"slug": "nwb-verlag-gmbh-co-kg"
+		},
+		{
+			"name": "NXP Semiconductors",
+			"slug": "nxp-semiconductors"
+		},
+		{
+			"name": "Ober Scharrer Gruppe",
+			"slug": "ober-scharrer-gruppe"
 		},
 		{
 			"name": "Oberberg Stiftung",
@@ -18588,6 +18632,10 @@ var searchdb = {
 		{
 			"name": "Sievert",
 			"slug": "sievert"
+		},
+		{
+			"name": "SIFIN DIAGNOSTICS GmbH",
+			"slug": "sifin-diagnostics-gmbh"
 		},
 		{
 			"name": "SIG Combibloc GmbH",
@@ -22132,14 +22180,6 @@ var searchdb = {
 		{
 			"name": "Volkswagen",
 			"slug": "volkswagen"
-		},
-		{
-			"name": "Volkswagen Stiftung entfernt",
-			"slug": "volkswagen-stiftung-entfernt"
-		},
-		{
-			"name": "Volkswagen-Stiftung entfernt",
-			"slug": "volkswagen-stiftung-entfernt"
 		},
 		{
 			"name": "Volkswohl-Bund Lebensversicherung a.G.",
