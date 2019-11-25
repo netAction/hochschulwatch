@@ -2630,6 +2630,10 @@ var searchdb = {
 			"slug": "bhf-bank"
 		},
 		{
+			"name": "Bundesverband der Arbeitsgeberverbände (BDA)",
+			"slug": "bundesverband-der-arbeitsgeberverbaende-bda"
+		},
+		{
 			"name": "BHS Corrugated GmbH",
 			"slug": "bhs-corrugated-gmbh"
 		},
@@ -4860,6 +4864,10 @@ var searchdb = {
 		{
 			"name": "Deutscher ärzte-Verlag GmbH",
 			"slug": "deutscher-aerzte-verlag-gmbh"
+		},
+		{
+			"name": "Deutscher Gewerkschaftsbund (DGW)",
+			"slug": "deutscher-gewerkschaftsbund-dgw"
 		},
 		{
 			"name": "Deutscher Bühnenverein, Hamburg",
@@ -12294,8 +12302,8 @@ var searchdb = {
 			"slug": "klaus-tschira-stiftung"
 		},
 		{
-			"name": "Klaus-Töpfer-StiftungsjuniorprofessorSparkassenstiftung, Firma APL Prüftechnik, Karl-Fix-Stiftung, Energie Südwest und Kreisverwaltung Südliche Weinstraße.",
-			"slug": "klaus-toepfer-stiftungsjuniorprofessorsparkassenstiftung-firma-apl-prueftechnik-karl-fix-stiftung-energie-suedwest-und-kreisverwaltung-suedliche-weinstrasse"
+			"name": "Klaus-Töpfer-Stiftungsjuniorprofessor Sparkassenstiftung, Firma APL Prüftechnik, Karl-Fix-Stiftung, Energie Südwest und Kreisverwaltung Südliche Weinstraße.",
+			"slug": "klaus-toepfer-stiftungsjuniorprofessor-sparkassenstiftung-firma-apl-prueftechnik-karl-fix-stiftung-energie-suedwest-und-kreisverwaltung-suedliche-weinstrasse"
 		},
 		{
 			"name": "Klavierhaus M. Fiech",
@@ -19100,6 +19108,10 @@ var searchdb = {
 		{
 			"name": "Sparkasse Mittelthü- ringen",
 			"slug": "sparkasse-mittelthu-ringen"
+		},
+		{
+			"name": "Sparkasse Mittelsachsen",
+			"slug": "sparkasse-mittelsachsen"
 		},
 		{
 			"name": "Sparkasse Mittelthüringen",
