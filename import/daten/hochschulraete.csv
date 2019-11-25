@@ -73,8 +73,8 @@ Hessen;Universität Mannheim;Dr. h.c. Eggert Voscherau;BASF;Chemie;;;BASF SE;htt
 Hessen;Universität Marburg;Prof. Dr. Dr. Dr. h.c. Uwe Bicker;Sanofi Aventis;Medizin;;;;http://www.uni-marburg.de/administration/gremien/hr
 Hessen;Universität Marburg;Prof. Dr. Jochen Maas;Sanofi Aventis;Medizin;;;;http://www.uni-marburg.de/administration/gremien/hr
 Hessen;Universität Marburg;Dr. h. c. Dipl.-Kfm. Beate Heraeus;Heraeus;Rohstoffe;;;Bertha Heraeus und Kathinka Platzhoff Stiftung;http://www.uni-marburg.de/administration/gremien/hr
-Mecklenburg-Vorpommern;Universität Rostock (ohne Klinikum);Eva Maria Buchholz;Hinstorff Buchverlag;Buchhandel;;;;https://www.uni-rostock.de/einrichtungen/gremien-und-wahlen/universitaetsrat/
-Mecklenburg-Vorpommern;Universität Rostock (ohne Klinikum);Jörg Sinning;SIV AG;;;;;https://www.uni-rostock.de/einrichtungen/gremien-und-wahlen/universitaetsrat/
+Mecklenburg-Vorpommern;Universität Rostock (ohne Klinikum);Eva Maria Buchholz;Hinstorff Buchverlag;Buchhandel;;;;https://www.uni-rostock.de/einrichtungen/gremien-und-wahlen/universitaetsrat/eva-maria-buchholz/
+Mecklenburg-Vorpommern;Universität Rostock (ohne Klinikum);Jörg Sinning;SIV AG;;;;;https://www.uni-rostock.de/einrichtungen/gremien-und-wahlen/universitaetsrat/joerg-sinnig/
 Niedersachsen;TU Braunschweig;Dr. Oliver Blume;Porsche;Automobil;;;Volkswagen AG;https://www.tu-braunschweig.de/struktur/organe/hochschulrat
 Niedersachsen;TU Braunschweig;Prof. Dr. Heinz Jörg Fuhrmann;Salzgitter AG;Rohstoffe;;;;https://www.tu-braunschweig.de/struktur/organe/hochschulrat
 Niedersachsen;TU Clausthal;Dr. Harald Ludanek;Volkswagen;Automobil;;Vorsitzender;;https://www.tu-clausthal.de/universitaet/leitung-verwaltung/gremien/hochschulrat
@@ -83,7 +83,9 @@ Niedersachsen;Universität Hannover;Dr. Susanna Zapreva;Enercity;;;;;https://www
 Niedersachsen;Universität Hildesheim;Dr. Uwe Thomas;Bosch;Automobil;;Vorsitzender;;https://www.uni-hildesheim.de/stiftung/stiftungsrat/
 Niedersachsen;Universität Oldenburg;Jörg Waskönig;Waskönig;;;Vorsitzender;;https://uol.de/hochschulrat
 Niedersachsen;Universität Osnabrück;Arnulf Piepenbrock;Piepenbrock Unternehmensgruppe GmbH & Co KG;;;;;https://www.uni-osnabrueck.de/universitaet/organisation/organe-und-gremien/hochschulrat/
-Nordrhein-Westfalen;Fernuniversität Hagen;Manfred Scholle;GELSENWASSER;Energie;;;;http://www.fernuni-hagen.de/universitaet/profil/leitung/hochschulrat.shtml
+Nordrhein-Westfalen;Fernuniversität Hagen;Manfred Scholle;GELSENWASSER;Energie;;;;https://www.fernuni-hagen.de/universitaet/leitung-gremien-verwaltung/hochschulrat.shtml
+Nordrhein-Westfalen;Fernuniversität Hagen;Steffen Kampeter;Bundesverband der Arbeitsgeberverbände (BDA);;;;;https://www.fernuni-hagen.de/universitaet/leitung-gremien-verwaltung/hochschulrat.shtml
+Nordrhein-Westfalen;Fernuniversität Hagen;Andreas Meyer-Lauber;Deutscher Gewerkschaftsbund (DGW);;;;;https://www.fernuni-hagen.de/universitaet/leitung-gremien-verwaltung/hochschulrat.shtml
 Nordrhein-Westfalen;Ruhr-Universität Bochum (ohne Klinikum);Birgit Fischer;Verband der forschenden Pharmaunternehmen;Medizin;;;;http://www.ruhr-uni-bochum.de/universitaet/leitung-gremien/hochschulrat/mitglieder.html
 Nordrhein-Westfalen;RWTH Aachen (ohne Klinikum);Dr.-Ing. Bernd Bohr;Bosch;Automobil;Elektronik; Vorsitzender;;https://www.rwth-aachen.de/go/id/pwn/
 Nordrhein-Westfalen;RWTH Aachen (ohne Klinikum);Dipl.-Ing. Christine Peters;Evonik Fibres GmbH;;;;;https://www.rwth-aachen.de/go/id/pwn/
@@ -109,17 +111,15 @@ Rheinland-Pfalz;Universität Mainz;Prof. Dr. Dr. Andreas Barner;Boehringer Ingel
 Rheinland-Pfalz;Universität Mainz;Dr. Leopold von Heimendahl (ehem. Vorstandssprecher von Schott);Schott Glas;;;;;http://www.uni-mainz.de/organisation/35_DEU_HTML.php
 Saarland;Universität des Saarlandes Saarbrücken in Saarbrücken;Prof. Dr.-Ing. Klaus Henning;OSTO Systemberatung GmbH;;;;;http://www.uni-saarland.de/info/universitaet/organisation/universitaetsrat/mitglieder.html
 Saarland;Universität des Saarlandes Saarbrücken in Saarbrücken;Prof. Dr. Norbert Bannenberg;Technischer Vorstand Dillinger Hüttenwerke AG;;;;;http://www.uni-saarland.de/info/universitaet/organisation/universitaetsrat/mitglieder.html
-Sachsen;TU Bergakademie Freiberg;Herr Prof. Dr. Burkhard Schwenker;Roland Berger Strategy Consultants GmbH;Beratung;;;;https://tu-freiberg.de/zuv/gremien/hochschulrat.html
-Sachsen;TU Bergakademie Freiberg;Herr Prof. Karl-Ulrich Köhler;Tata Steel Europe;Rohstoffe;;;;https://tu-freiberg.de/zuv/gremien/hochschulrat.html
-Sachsen;TU Bergakademie Freiberg;Herr Dipl.-Ing. Mario Behrendt;Deutsche Solar GmbH;Energie;;;;https://tu-freiberg.de/zuv/gremien/hochschulrat.html
+Sachsen;TU Bergakademie Freiberg;Herr Prof. Dr. Burkhard Schwenker;Roland Berger Strategy Consultants GmbH;Beratung;;;;https://tu-freiberg.de/universitaet/organisation/zentrale-organe/hochschulrat
+Sachsen;TU Bergakademie Freiberg;Prof. Hans-Ferdinand Schramm;Sparkasse Mittelsachsen;Finanzen;;;;https://tu-freiberg.de/universitaet/organisation/zentrale-organe/hochschulrat
 Sachsen;TU Chemnitz;Dipl.-Kfm. Bodo Finger;Chemnitzer Zahnradfabrik GmbH & Co. KG;Maschinenbau;;;;https://www.tu-chemnitz.de/verwaltung/hochschulrat/
 Sachsen;TU Chemnitz;Dr.-Ing. E. h. Gunnar Grosse;KOMSA Kommunikation Sachsen AG;;;;;https://www.tu-chemnitz.de/verwaltung/hochschulrat/
 Sachsen;TU Chemnitz;Hans J. Naumann;NILES-SIMMONS-HEGENSCHEIDT GmbH;;;;;https://www.tu-chemnitz.de/verwaltung/hochschulrat/
 Sachsen;TU Dresden (ohne Klinikum);Prof. Klaus Raps;Bilfinger;Bau;Dienstleistungen;Stellvertr. Vorsitzender;;https://tu-dresden.de/die_tu_dresden/gremien_und_beauftragte/hochschulrat
 Sachsen;TU Dresden (ohne Klinikum);Gunda Röstel;GELSENWASSER;Energie;;Vorsitzende;;https://tu-dresden.de/die_tu_dresden/gremien_und_beauftragte/hochschulrat
 Sachsen;TU Dresden (ohne Klinikum);Dipl.-Ing. Jörg Thiele;iproplan Planungsgesellschaft mbH;;;;;https://tu-dresden.de/die_tu_dresden/gremien_und_beauftragte/hochschulrat
-Sachsen;Universität Leipzig (ohne Klinikum);Knut Löschke;Comparex;Informationstechnik;;;;http://www.zv.uni-leipzig.de/universitaet/profil/zentrale-organe/hochschulrat.html
-Sachsen;Universität Leipzig (ohne Klinikum);Knut Löschke;PC-Ware Information Technologies GmbH/AG;Informationstechnik;;;;http://www.zv.uni-leipzig.de/universitaet/profil/zentrale-organe/hochschulrat.html
+Sachsen;Universität Leipzig (ohne Klinikum);Siegfried Bülow;Porsche;Fahrzeugbau;;;;https://www.uni-leipzig.de/universitaet/struktur/hochschulrat/
 Sachsen-Anhalt;Otto-von-Guericke-Universität Magdeburg (ohne Klinikum);Herr Prof. Dr.-Ing. Ulf Plöcker;Evonik;Chemie;;;Evonik Degussa GmbH;http://www.ovgu.de/Universit%C3%A4t/Struktur/Kuratorium-p-10185.html
 Sachsen-Anhalt;Otto-von-Guericke-Universität Magdeburg (ohne Klinikum);Herr Günther Troppmann;Deutsche Kreditbank;Finanzwirtschaft;;;;http://www.ovgu.de/Universit%C3%A4t/Struktur/Kuratorium-p-10185.html
 Sachsen-Anhalt;Otto-von-Guericke-Universität Magdeburg (ohne Klinikum);Herr Dipl.-Ing. Helmut Gierse;Siemens;;;;;http://www.ovgu.de/Universit%C3%A4t/Struktur/Kuratorium-p-10185.html
