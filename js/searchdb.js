@@ -14658,6 +14658,10 @@ var searchdb = {
 			"slug": "monsanto-agrar-deutschland-gmbh"
 		},
 		{
+			"name": "Monsanto",
+			"slug": "monsanto"
+		},
+		{
 			"name": "Moog GmbH, Böblingen",
 			"slug": "moog-gmbh-boeblingen"
 		},
