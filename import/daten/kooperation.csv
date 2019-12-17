@@ -323,7 +323,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1161;Universität Frankfurt a.M. (ohne Klinikum);Hertie-Stiftung;1000000;Förderer (mindestens 1.000.000 Euro), Mitglied im Stiftungskuratorium;;http://www.uni-frankfurt.de/51849455/2014;
 1249;Universität Freiburg i.Br. (Klinikum);;;;;;
 1241;Universität Freiburg i.Br. (ohne Klinikum);;;;;;
-1171;Universität Gießen;;;;;;
+1171;Universität Gießen;Monsanto;;Glyphosatstudie durch Monsanto finanziert;;https://www.lobbycontrol.de/2019/12/monsanto-finanzierte-verdeckt-glyphosat-studien-zur-lobbyarbeit/;
 1039;Universität Göttingen (Klinikum);BP;;Auftragsforschung zu Bürgerprotesten;;http://www.demokratie-goettingen.de/aktuelles/studie-burgerproteste-in-deutschland;https://www.lobbycontrol.de/2013/02/bp-lasst-burgerproteste-untersuchen-was-steckt-dahinter/
 1031;Universität Göttingen (ohne Klinikum);;;;;;
 279;Universität Greifswald (Klinikum);;;;;;
@@ -426,7 +426,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 140;Universität Wuppertal;;;;;;
 1339;Universität Würzburg (Klinikum);;;;;;
 1331;Universität Würzburg (ohne Klinikum);;;;;;
-1111;Universität zu Köln (ohne Klinikum);Bayer;;nicht offengelegter Forschungsvertrag;Bayer AG;http://www.zeit.de/studium/hochschule/2012-01/uni-koeln-bayer/komplettansicht;http://www.cbgnetwork.org/2730.html
+1111;Universität zu Köln (ohne Klinikum);Bayer;;nicht offengelegter Forschungsvertrag mit der Bayer AG;Bayer AG;http://www.zeit.de/studium/hochschule/2012-01/uni-koeln-bayer/komplettansicht;http://www.cbgnetwork.org/2730.html
 1111;Universität zu Köln (ohne Klinikum);netspar;;Prof. Dr. Alexander Ludwig ist dort Fellow;;;
 1378;Universitätsklinikum Gießen und Marburg, Abt. Gießen;;;;;;
 1379;Universitätsklinikum Gießen und Marburg, Abt. Marburg;;;;;;
