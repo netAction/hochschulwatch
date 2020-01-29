@@ -1934,6 +1934,10 @@ var searchdb = {
 			"slug": "awm-werkzeug-maschi-nen-gmbh"
 		},
 		{
+			"name": "AXXA Research Funds",
+			"slug": "axxa-research-funds"
+		},
+		{
 			"name": "Axel-Springer-Stiftung",
 			"slug": "axel-springer-stiftung"
 		},
@@ -4370,8 +4374,8 @@ var searchdb = {
 			"slug": "daimler-ag"
 		},
 		{
-			"name": "DAKO System- technik und Ser- vice GmbH & Co. KG",
-			"slug": "dako-system-technik-und-ser-vice-gmbh-co-kg"
+			"name": "DAKO Systemtechnik und Service GmbH & Co. KG",
+			"slug": "dako-systemtechnik-und-service-gmbh-co-kg"
 		},
 		{
 			"name": "DAKOSY Datenkommunikationssystem AG",
@@ -12302,8 +12306,8 @@ var searchdb = {
 			"slug": "klaus-tschira-stiftung"
 		},
 		{
-			"name": "Klaus-Töpfer-StiftungsjuniorprofessorSparkassenstiftung, Firma APL Prüftechnik, Karl-Fix-Stiftung, Energie Südwest und Kreisverwaltung Südliche Weinstraße.",
-			"slug": "klaus-toepfer-stiftungsjuniorprofessorsparkassenstiftung-firma-apl-prueftechnik-karl-fix-stiftung-energie-suedwest-und-kreisverwaltung-suedliche-weinstrasse"
+			"name": "Klaus-Töpfer-Stiftungsjuniorprofessor Sparkassenstiftung, Firma APL Prüftechnik, Karl-Fix-Stiftung, Energie Südwest und Kreisverwaltung Südliche Weinstraße.",
+			"slug": "klaus-toepfer-stiftungsjuniorprofessor-sparkassenstiftung-firma-apl-prueftechnik-karl-fix-stiftung-energie-suedwest-und-kreisverwaltung-suedliche-weinstrasse"
 		},
 		{
 			"name": "Klavierhaus M. Fiech",
