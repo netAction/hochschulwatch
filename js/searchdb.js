@@ -1934,8 +1934,8 @@ var searchdb = {
 			"slug": "awm-werkzeug-maschi-nen-gmbh"
 		},
 		{
-			"name": "AXXA Research Funds",
-			"slug": "axxa-research-funds"
+			"name": "AXA Research Funds",
+			"slug": "axa-research-funds"
 		},
 		{
 			"name": "Axel-Springer-Stiftung",
@@ -20938,7 +20938,7 @@ var searchdb = {
 			"slug": "thyracont-vacuum-instruments-gmbh"
 		},
 		{
-			"name": "ThyssenKrupp",
+			"name": "Thyssenkrupp",
 			"slug": "thyssenkrupp"
 		},
 		{
