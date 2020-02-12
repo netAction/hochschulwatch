@@ -6818,6 +6818,10 @@ var searchdb = {
 			"slug": "fa-man-truck-bus-ag"
 		},
 		{
+			"name": "facebook",
+			"slug": "facebook"
+		},
+		{
 			"name": "Fa. Omikron",
 			"slug": "fa-omikron"
 		},
@@ -20938,7 +20942,7 @@ var searchdb = {
 			"slug": "thyracont-vacuum-instruments-gmbh"
 		},
 		{
-			"name": "Thyssenkrupp",
+			"name": "ThyssenKrupp",
 			"slug": "thyssenkrupp"
 		},
 		{
