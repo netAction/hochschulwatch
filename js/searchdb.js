@@ -9418,10 +9418,6 @@ var searchdb = {
 			"slug": "haerter-stanztechnik-gmbh"
 		},
 		{
-			"name": "Harting",
-			"slug": "harting"
-		},
-		{
 			"name": "Hartmann AG",
 			"slug": "hartmann-ag"
 		},
@@ -12306,6 +12302,10 @@ var searchdb = {
 			"slug": "klaus-schaefer-holding-gmbh-co-kg"
 		},
 		{
+			"name": "Klaus Faber AG",
+			"slug": "klaus-faber-ag"
+		},
+		{
 			"name": "Klaus Tschira Stiftung",
 			"slug": "klaus-tschira-stiftung"
 		},
@@ -14716,6 +14716,10 @@ var searchdb = {
 		{
 			"name": "msu solutions GmbH, Halle (Saale)",
 			"slug": "msu-solutions-gmbh-halle-saale"
+		},
+		{
+			"name": "Munic Re",
+			"slug": "munic-re"
 		},
 		{
 			"name": "MT-Propeller Entwicklung GmbH",
@@ -17212,6 +17216,10 @@ var searchdb = {
 		{
 			"name": "RheinEnergie AG",
 			"slug": "rheinenergie-ag"
+		},
+		{
+			"name": "Rheinmetall Auromotive AG",
+			"slug": "rheinmetall-auromotive-ag"
 		},
 		{
 			"name": "Rheinmetall AG",
@@ -20476,6 +20484,10 @@ var searchdb = {
 		{
 			"name": "Syngenta Agro GmbH",
 			"slug": "syngenta-agro-gmbh"
+		},
+		{
+			"name": "AGRAVIS Raiffeisen",
+			"slug": "agravis-raiffeisen"
 		},
 		{
 			"name": "synlab Akademie für ärztliche Fortbildung",
