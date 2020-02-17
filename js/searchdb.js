@@ -2622,6 +2622,10 @@ var searchdb = {
 			"slug": "bft-cognos-gmbh"
 		},
 		{
+			"name": "BG Klinikum Unfallkrankenhaus Berlin gGmbh",
+			"slug": "bg-klinikum-unfallkrankenhaus-berlin-ggmbh"
+		},
+		{
 			"name": "BGM Associates GmbH",
 			"slug": "bgm-associates-gmbh"
 		},
@@ -23508,10 +23512,6 @@ var searchdb = {
 		{
 			"name": "Zonta-Club Erfurt",
 			"slug": "zonta-club-erfurt"
-		},
-		{
-			"name": "Züblin AG",
-			"slug": "zueblin-ag"
 		},
 		{
 			"name": "Zühlke Engineering GmbH",
