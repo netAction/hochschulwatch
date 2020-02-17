@@ -4630,6 +4630,10 @@ var searchdb = {
 			"slug": "deufol-se"
 		},
 		{
+			"name": "DB Netz AG",
+			"slug": "db-netz-ag"
+		},
+		{
 			"name": "Deutsch-Baltische Gemeinschaft Braunschweig",
 			"slug": "deutsch-baltische-gemeinschaft-braunschweig"
 		},
@@ -5928,6 +5932,10 @@ var searchdb = {
 		{
 			"name": "EDAG GmbH & Co KGaA",
 			"slug": "edag-gmbh-co-kgaa"
+		},
+		{
+			"name": "Harting",
+			"slug": "harting"
 		},
 		{
 			"name": "EDC Electronic Design Chemnitz GmbH",
@@ -20956,6 +20964,10 @@ var searchdb = {
 		{
 			"name": "ThyssenKrupp",
 			"slug": "thyssenkrupp"
+		},
+		{
+			"name": "Thyssenkrupp AG",
+			"slug": "thyssenkrupp-ag"
 		},
 		{
 			"name": "Tierkörperbeseitigungsanstalt Kraftisried",
