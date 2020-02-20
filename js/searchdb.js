@@ -4374,10 +4374,6 @@ var searchdb = {
 			"slug": "daiichi-sankyo-deutschland"
 		},
 		{
-			"name": "Daimler",
-			"slug": "daimler"
-		},
-		{
 			"name": "Daimler AG",
 			"slug": "daimler-ag"
 		},
@@ -18652,10 +18648,6 @@ var searchdb = {
 		{
 			"name": "Siegfried Vögele Institut - Internationale Gesellschaft für Dialogmarketing GmbH (SVI)",
 			"slug": "siegfried-voegele-institut-internationale-gesellschaft-fuer-dialogmarketing-gmbh-svi"
-		},
-		{
-			"name": "Siemens",
-			"slug": "siemens"
 		},
 		{
 			"name": "Siemens AG",
