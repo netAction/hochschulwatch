@@ -1298,6 +1298,10 @@ var searchdb = {
 			"slug": "alumni-verein-der-psychologie-ev"
 		},
 		{
+			"name": "Amazon und 7 Industriepartner",
+			"slug": "amazon-und-7-industriepartner"
+		},
+		{
 			"name": "Ambau GmbH",
 			"slug": "ambau-gmbh"
 		},
