@@ -121,7 +121,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 201;Humboldt-Universität zu Berlin;Bundesministerium für Wirtschaft (BMWi);115413 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
 201;Humboldt-Universität zu Berlin;innogy Foundation for Energy and Society;34300 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
 660;Jacobs University Bremen (Priv. H);;;;;;
-1580;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Daimler;;Schnittstelle zwischen Fahrzeug- und Produktionstechnologie;Daimler AG;https://www.kit.edu/kit/pi_2014_15092.php ;
+1580;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Daimler AG;;Schnittstelle zwischen Fahrzeug- und Produktionstechnologie;Daimler AG;https://www.kit.edu/kit/pi_2014_15092.php ;
 1580;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Altana AG;;Kooperation;;http://www.altana.com/innovation/open-innovation-at-altana-ag/networks.html;
 990;Leuphana Universität Lüneburg;;;;;;
 262;Med. Fakultät Rostock;;;;;;
@@ -202,7 +202,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1481;RWTH Aachen (ohne Klinikum);RWE;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);Saint Gobain;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);Schwermetall Halbzeugwerk GmbH & Co. KG;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
-1481;RWTH Aachen (ohne Klinikum);Siemens;;Förderer;Siemens AG Industry Sector;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
+1481;RWTH Aachen (ohne Klinikum);Siemens AG;;Förderer;Siemens AG Industry Sector;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);Solitem Group;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);Sparkasse Aachen;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);Springer Science + Business Media Deutschland GmbH;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
@@ -261,7 +261,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 371;TU Dresden (ohne Klinikum);The Linde Group ;;;;;
 371;TU Dresden (ohne Klinikum);Rolls-Royce;;;;;
 371;TU Dresden (ohne Klinikum);SAP;;;;;
-371;TU Dresden (ohne Klinikum);Siemens;;;;;
+371;TU Dresden (ohne Klinikum);Siemens AG;;;;;
 371;TU Dresden (ohne Klinikum);ThyssenKrupp;;;;;
 371;TU Dresden (ohne Klinikum);Vodafone;;;;;
 371;TU Dresden (ohne Klinikum);Vattenfall;;;Vattenfall GmbH;;
@@ -289,7 +289,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1101;Universität Düsseldorf (ohne Klinikum);Provinzial AG;;Provinzial-Stipendien;;http://www.uni-duesseldorf.de/home/studium-und-lehre-an-der-hhu/studium/stipendien/stipendienkompass-fachbezogene-stipendien.html;
 620;Universität Erfurt;;;;;;
 1314;Universität Erlangen-Nürnberg;Teambank AG;130000;Hörsaalsponsoring;;http://www.tf.fau.de/fakultaet/sponsoring.shtml;
-1315;Universität Erlangen-Nürnberg;Siemens;;Hörsaalsponsoring - 5 Jahre bis 2018, Erneuerung der Bestuhlung, farbliche Neugestaltung des Saals;;http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html;
+1315;Universität Erlangen-Nürnberg;Siemens AG;;Hörsaalsponsoring - 5 Jahre bis 2018, Erneuerung der Bestuhlung, farbliche Neugestaltung des Saals;;http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html;
 1316;Universität Erlangen-Nürnberg;Brose Gruppe;;Hörsaalsponsoring - 1 Jahr bis 2014, Malerarbeiten, Infotafel;;http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html;
 1317;Universität Erlangen-Nürnberg;Clear Group;;Hörsaalsponsoring - 3 Jahre bis 2015, Infotafel;;http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html;
 1318;Universität Erlangen-Nürnberg;develop group;;Hörsaalsponsoring - 5 Jahre bis 2018, Erneuerung der Bestuhlung, farbliche Neugestaltung des Saals;;http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html;
@@ -407,7 +407,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 261;Universität Rostock (ohne Klinikum);Novelis Switzerland SA;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);PLANET intelligent systems GmbH;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);SASOL Germany GmbH ;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
-261;Universität Rostock (ohne Klinikum);Siemens;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
+261;Universität Rostock (ohne Klinikum);Siemens AG;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);SIV AG;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);Spheros GmbH;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);Sterling Industry Consult GmbH;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
