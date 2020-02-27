@@ -4694,10 +4694,6 @@ var searchdb = {
 			"slug": "deutsche-bauchemie-ev"
 		},
 		{
-			"name": "Deutsche Bundesbank",
-			"slug": "deutsche-bundesbank"
-		},
-		{
 			"name": "Deutsche Bundesstiftung Umwelt",
 			"slug": "deutsche-bundesstiftung-umwelt"
 		},
@@ -18648,6 +18644,10 @@ var searchdb = {
 		{
 			"name": "Siegfried Vögele Institut - Internationale Gesellschaft für Dialogmarketing GmbH (SVI)",
 			"slug": "siegfried-voegele-institut-internationale-gesellschaft-fuer-dialogmarketing-gmbh-svi"
+		},
+		{
+			"name": "Siemens",
+			"slug": "siemens"
 		},
 		{
 			"name": "Siemens AG",
