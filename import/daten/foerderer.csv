@@ -243,12 +243,6 @@ BTC AG;
 BüFA GmbH;
 Bühler GmbH;
 Bund Deutscher Architekten ;
-Bundesagentur für Arbeit;(öffentlich)
-Bundesarbeitgeberverband Chemie;
-Bundesdruckerei;(öffentlich)
-Bundesland Saarland;(öffentlich)
-Bundesministerium für Familie, Senioren, Frauen und Jugend;(öffentlich)
-Bundesministerium für Wirtschaft (BMWi);(öffentlich)
 Bundesrechtsanwaltskammer Berlin;
 Bundesverband der Arbeitsgeberverbände (BDA);BDA
 Bundesverband Investment- und Asset Management;
@@ -335,7 +329,8 @@ CST AG ;
 Currenta GmbH & Co. OHG;
 cycle union GmbH, 26135 Oldenburg;
 CymaBay Therapeutics Inc.;
-Daimler AG;Daimler, Daimler Financial Services AG, Daimler-Stiftungsfonds
+Daimler AG;Daimler, Daimler Financial Services AG, Daimler-Stiftungsfonds, Daimler und Benz Stiftung
+Daimler und Benz Stiftung;
 DAKO Systemtechnik und Service GmbH & Co. KG;
 DAKOSY Datenkommunikationssystem AG;
 Damien Hirst ESQ;
@@ -362,6 +357,7 @@ Design Society Admini- stration ;
 Detech Fahrzeugententwicklung GmbH & Co.KG, München;
 Detjen-Stiftung;
 Deufol SE;
+Deutsch-arabischer Bildungsverein;
 Deutsch-Polnische Wissenschaftsstiftung;
 Deutsche Akademie der Wissenschaften und Literatur;
 Deutsche Akkreditierungsstelle GmbH – DakkS;
@@ -383,6 +379,7 @@ Deutsche Messe AG;
 Deutsche Physikalische Gesellschaft ;
 Deutsche Post;
 Deutsche Rheumastiftung;
+Deutsche Rockwool Mineralwoll GmbH;
 Deutsche Stiftungs Trust GmbH;
 Deutsche Telekom;Deutsche Telekom AG, Deutsche Telekom GmbH, T-Systems International GmbH, Deutsche Telekom Stiftung
 Deutsche Telekom AG ; Deutsche Telekom GmbH, T-Systems International GmbH, Deutsche Telekom Stiftung
@@ -552,8 +549,6 @@ European Mechanics Society EUROMECH;
 European Research Services GmbH;
 EUROPIPE GmbH;
 EUROVIA Infra GmbH  ;
-Ev.-Luth. Innenstadtgemeinde Rostock;(öffentlich)
-Evangelische Michaelsbruderschaft e.V.;
 EVG Erdgasversorgungsgesellschaft  Thüringen-Sachsen mbH;
 EvoLogics GmbH;
 evon GmbH ;
@@ -777,7 +772,6 @@ Hans-Böckler-Stiftung;
 Hans-Fischer-Gesellschaft e.V. / 85345 Freising;
 Hans-Mühlenhoff-Stiftung, Osnabrück;
 Hanse-Club;
-Hansestadt Lüneburg/Museumsstiftung Lüneburg;(öffentlich)
 Hansewissenschaftskolleg;
 Harting;
 Harzwasserwerke ;
@@ -806,9 +800,7 @@ HELABA Landesbank Hessen- Thüringen ;
 Heliatek GmbH;
 Hella Corporate Center GmbH ;
 Hellmann Worldwide Logistics GmbH & Co. KG;
-Helmholtz Zentrum München;(öffentlich)
 Helmholtz-Allianz;
-Helmholtz-Zentrum für Infektionsforschung Braunschweig;(öffentlich)
 Helmut Kempkes GmbH;
 Hengelbrock, Dr. Matthias, Christian-Runde-Weg 10, 26121 Oldenburg;
 Hengeler Mueller;
@@ -1088,11 +1080,8 @@ Land Baden-Württemberg ;
 Landesbank Berlin AG;
 Landesbank Hessen-Thüringen HELABA;
 Landesentwicklungsgesellschaft Thüringen mbH ;
-Landeshauptstadt Hannover;(öffentlich)
 Landessparkasse zu Oldenburg;
 Landesversicherungsanstalt Oberbayern (LVA);
-Landkreis Cloppenburg;(öffentlich)
-Landkreis Vechta;(öffentlich)
 Landschaftliche Brandkasse, Hannover;
 Landwirtschaftliche Brandkasse Hannover;
 Lang Metallwarenproduktion Neubrandenburg GmbH;
@@ -1638,18 +1627,8 @@ SQS AG;
 SSL Maschinenbau GmbH;
 SSN Group;
 St. Marien-Hospital GmbH;
-Stadt Braunschweig, Fachbereich Kultur, Frau Dr. Boldt-Stülzebach ;(öffentlich)
-Stadt Celle;(öffentlich)
-Stadt Gifhorn;(öffentlich)
-Stadt Lohne;(öffentlich)
-Stadt Oldenburg;(öffentlich)
-Stadt Osnabrück;(öffentlich)
-Stadt Rotenburg/Wümme ;(öffentlich)
-Stadt Vechta;(öffentlich)
 Stadt-Sparkasse Solingen;
 Städtische Klinikum Brandenburg GmbH;
-Stadtverwaltung Ilmenau ;(öffentlich)
-Stadtverwaltung Weimar ;(öffentlich)
 Stadtwerke Energie Jena Pößneck ;
 Stadtwerke Energie Jena Pößneck GmbH ;
 Stadtwerke Hannover AG;
@@ -1764,7 +1743,6 @@ THÜBAN - Thüringer Business Angels Netzwerk e.V. ;
 THÜBAN Thüringer Business Angels Netzwerk e.V. ;
 Thurgauer Kantonalbank;
 Thüringer Institut Textil- und Kunststoff Forschung e.V. ;
-Thüringer Ministerium für Bildung, Wissenschaft und Kunst, Erfurt ;(öffentlich)
 Thüsolar GmbH ;
 ThyssenKrupp;Thyssen Krupp Steel AG, ThyssenKrupp Foerdertechnik
 Thyssenkrupp AG;Thyssen Krupp Steel AG, ThyssenKrupp Foerdertechnik
@@ -1839,7 +1817,6 @@ Verein zur Förderung der Fakultät IA ;
 Verein zur Förderung der Fakultät Informatik und Automatisierung an der Technischen Universität Ilmenau ;
 Verein zur Förderung der Fakultät Maschinenbau ;
 Verein zur Förderung der Geoinformatik in Norddeutschland(GiN);
-Verein zur Förderung der Koordinierungsstelle Windenergierecht e.V.;
 Verein zur Förderung der Versicherungs- und Finanzmathematik;
 Verein zur Förderung der Versicherungswissenschaft;
 Verein zur Förderung des Bilanz- und Steuerrechts;
@@ -1875,7 +1852,7 @@ Volksbank;
 Volksbank im Harz eG;
 Volksbank Mittelhessen;
 Volksbank Vechta eG;
-Volkswagen;Volkswagen AG, Volkswagen Financial Services, Volkswagen Coaching GmbH, Volkswagen autouni
+Volkswagen;Volkswagen AG, Volkswagen Financial Services, Volkswagen Coaching GmbH, Volkswagen autouni, VW AG
 Volle, Dr. Peter;
 von Arps-Aubert Steuerberatungsgesellschaft;
 von Opel Hessischen Zoostiftung;
