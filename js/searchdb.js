@@ -1714,6 +1714,10 @@ var searchdb = {
 			"slug": "bund-deutscher-architekten"
 		},
 		{
+			"name": "Bundesarbeitgeberverband Chemie",
+			"slug": "bundesarbeitgeberverband-chemie"
+		},
+		{
 			"name": "Bundesrechtsanwaltskammer Berlin",
 			"slug": "bundesrechtsanwaltskammer-berlin"
 		},
@@ -3146,8 +3150,16 @@ var searchdb = {
 			"slug": "eurovia-services-gmbh"
 		},
 		{
+			"name": "Ev.-Luth. Innenstadtgemeinde Rostok",
+			"slug": "ev-luth-innenstadtgemeinde-rostok"
+		},
+		{
 			"name": "Evaheart GmbH",
 			"slug": "evaheart-gmbh"
+		},
+		{
+			"name": "Evangelische Michaelsbruderschaft e.V.",
+			"slug": "evangelische-michaelsbruderschaft-ev"
 		},
 		{
 			"name": "EVG Erdgasversorgungsgesellschaft Thüringen-Sachsen mbH",
@@ -9604,6 +9616,190 @@ var searchdb = {
 		{
 			"name": "Zulieferfirmen der KFZ-Industrie beim Stifterverband für die Deutsche Wissenschaft",
 			"slug": "zulieferfirmen-der-kfz-industrie-beim-stifterverband-fuer-die-deutsche-wissenschaft"
+		},
+		{
+			"name": "Aeternitas e. V.",
+			"slug": "aeternitas-e-v"
+		},
+		{
+			"name": "ALPERS WESSEL DORNBACH GmbH, Wirtschaftsprüfungsgesellschaft, Hamburg",
+			"slug": "alpers-wessel-dornbach-gmbh-wirtschaftspruefungsgesellschaft-hamburg"
+		},
+		{
+			"name": "apoBank-Stiftung",
+			"slug": "apobank-stiftung"
+		},
+		{
+			"name": "Borgsmüller, Holger",
+			"slug": "borgsmueller-holger"
+		},
+		{
+			"name": "Centre for Sustainable Energy Research e. V. (CSER e. V.)",
+			"slug": "centre-for-sustainable-energy-research-e-v-cser-e-v"
+		},
+		{
+			"name": "CSER e. V., Fr. Dr. Schümann",
+			"slug": "cser-e-v-fr-dr-schumann"
+		},
+		{
+			"name": "Daimler AG, Abt. COB/SOD - HPC: F103",
+			"slug": "daimler-ag-abt-cobsod-hpc-f103"
+		},
+		{
+			"name": "Deutsche Physikalische Gesellschaft e. V.",
+			"slug": "deutsche-physikalische-gesellschaft-e-v"
+		},
+		{
+			"name": "Deutsche Tiernahrung Cremer GmbH & Co. KG",
+			"slug": "deutsche-tiernahrung-cremer-gmbh-co-kg"
+		},
+		{
+			"name": "DKB AG NL Rostock",
+			"slug": "dkb-ag-nl-rostock"
+		},
+		{
+			"name": "Dornbach GmbH",
+			"slug": "dornbach-gmbh"
+		},
+		{
+			"name": "EDUR-Pumpenfabrik GmbH & Co. KG",
+			"slug": "edur-pumpenfabrik-gmbh-co-kg"
+		},
+		{
+			"name": "Ernst & Young GmbH",
+			"slug": "ernst-young-gmbh"
+		},
+		{
+			"name": "Evangelisch-Lutherischer Kirchenkreis Mecklenburg",
+			"slug": "evangelisch-lutherischer-kirchenkreis-mecklenburg"
+		},
+		{
+			"name": "Freundeskreis Botanischer Garten Rostock e. V.",
+			"slug": "freundeskreis-botanischer-garten-rostock-e-v"
+		},
+		{
+			"name": "Fries, Dr. Ulrich für die Johannes und Annitta Fries Stiftung",
+			"slug": "fries-dr-ulrich-fuer-die-johannes-und-annitta-fries-stiftung"
+		},
+		{
+			"name": "Fries, Ulrich",
+			"slug": "fries-ulrich"
+		},
+		{
+			"name": "Future TV GmbH & CO. KG",
+			"slug": "future-tv-gmbh-co-kg"
+		},
+		{
+			"name": "FVTR GmbH Forschungszentrum Verbrennungsmotoren Thermodynamik Rostock",
+			"slug": "fvtr-gmbh-forschungszentrum-verbrennungsmotoren-thermodynamik-rostock"
+		},
+		{
+			"name": "H. W. & Hector Stiftung, Weinheim",
+			"slug": "h-w-hector-stiftung-weinheim"
+		},
+		{
+			"name": "Hausverwaltung Uwe Mülot",
+			"slug": "hausverwaltung-uwe-mulot"
+		},
+		{
+			"name": "Herbert Quandt-Stiftung",
+			"slug": "herbert-quandt-stiftung"
+		},
+		{
+			"name": "HJS Emission Technology GmbH & Co. KG",
+			"slug": "hjs-emission-technology-gmbh-co-kg"
+		},
+		{
+			"name": "Hoppe, Annemarie dafür handelnd: Hr. Bräutigam, notariell bestellter Generalbevollmächtigter",
+			"slug": "hoppe-annemarie-dafur-handelnd-hr-brautigam-notariell-bestellter-generalbevollmachtigter"
+		},
+		{
+			"name": "Institut für ImplantatTechnologie e. V.",
+			"slug": "institut-fur-implantattechnologie-e-v"
+		},
+		{
+			"name": "Institut für ImplantatTechnologie und Biomaterialien e. V.",
+			"slug": "institut-fur-implantattechnologie-und-biomaterialien-e-v"
+		},
+		{
+			"name": "Isenthal Industrieausrüstung GmbH",
+			"slug": "isenthal-industrieausrustung-gmbh"
+		},
+		{
+			"name": "Mari Tec e. V.",
+			"slug": "mari-tec-e-v"
+		},
+		{
+			"name": "MariTec e. V. Institut für Maritime Technologien",
+			"slug": "maritec-e-v-institut-fur-maritime-technologien"
+		},
+		{
+			"name": "Mettler-Toledo GmbH SBU Materials Charcterization, Schwerzenbach/Schweiz",
+			"slug": "mettler-toledo-gmbh-sbu-materials-charcterization-schwerzenbachschweiz"
+		},
+		{
+			"name": "MICON e. V., Rostock",
+			"slug": "micon-e-v-rostock"
+		},
+		{
+			"name": "Mlynski, Robert, Rostock",
+			"slug": "mlynski-robert-rostock"
+		},
+		{
+			"name": "Norddeutsche Gesellschaft für Otorhinlaryngologie, Rostock",
+			"slug": "norddeutsche-gesellschaft-fuer-otorhinlaryngologie-rostock"
+		},
+		{
+			"name": "REINTJES GmbH",
+			"slug": "reintjes-gmbh"
+		},
+		{
+			"name": "Rotarier Heiligendamm, Kühlungsborn",
+			"slug": "rotarier-heiligendamm-kuehlungsborn"
+		},
+		{
+			"name": "Sellhorn Ingenieurgesellschaft mbH, Norbert Peetz",
+			"slug": "sellhorn-ingenieurgesellschaft-mbh-norbert-peetz"
+		},
+		{
+			"name": "Stiftung Berdelle-Hilge",
+			"slug": "stiftung-berdelle-hilge"
+		},
+		{
+			"name": "Trebing & Himstedt Prozeßautomation GmbH & Co. KG",
+			"slug": "trebing-himstedt-prozessautomation-gmbh-co-kg"
+		},
+		{
+			"name": "UMS Consulting GmbH & Co. KG",
+			"slug": "ums-consulting-gmbh-co-kg"
+		},
+		{
+			"name": "UMS Consulting GmbH & Co. KG, Frankfurt am Main",
+			"slug": "ums-consulting-gmbh-co-kg-frankfurt-am-main"
+		},
+		{
+			"name": "UMS GmbH",
+			"slug": "ums-gmbh"
+		},
+		{
+			"name": "VDI Bezirksverein M-V e.V.",
+			"slug": "vdi-bezirksverein-m-v-ev"
+		},
+		{
+			"name": "VDI BV M-V e. V.",
+			"slug": "vdi-bv-m-v-e-v"
+		},
+		{
+			"name": "VDI e. V. Landesverband M-V",
+			"slug": "vdi-e-v-landesverband-m-v"
+		},
+		{
+			"name": "Walter de Gruyter GmbH & Co. KG",
+			"slug": "walter-de-gruyter-gmbh-co-kg"
+		},
+		{
+			"name": "WELA Handeslges. mbH",
+			"slug": "wela-handeslges-mbh"
 		}
 	]
 };
