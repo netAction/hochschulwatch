@@ -834,6 +834,10 @@ var searchdb = {
 			"slug": "alfred-herrhausen-gesellschaft"
 		},
 		{
+			"name": "Alfried Krupp von Bohlen und Halbach-Stiftung",
+			"slug": "alfried-krupp-von-bohlen-und-halbach-stiftung"
+		},
+		{
 			"name": "Alfried Krupp von Bohlen und Halbach Stiftung",
 			"slug": "alfried-krupp-von-bohlen-und-halbach-stiftung"
 		},
@@ -952,6 +956,10 @@ var searchdb = {
 		{
 			"name": "AOK, Die Gesundheitskasse für Niedersachsen",
 			"slug": "aok-die-gesundheitskasse-fuer-niedersachsen"
+		},
+		{
+			"name": "ApoBank-Stiftung",
+			"slug": "apobank-stiftung"
 		},
 		{
 			"name": "apoBank-Stiftung",
