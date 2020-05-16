@@ -10108,6 +10108,22 @@ var searchdb = {
 		{
 			"name": "Zulieferfirmen der KFZ-Industrie beim Stifterverband für die Deutsche Wissenschaft",
 			"slug": "zulieferfirmen-der-kfz-industrie-beim-stifterverband-fuer-die-deutsche-wissenschaft"
+		},
+		{
+			"name": "hec GmbH; team neusta GmbH",
+			"slug": "hec-gmbh-team-neusta-gmbh"
+		},
+		{
+			"name": "Infineon Technologies AG; Intel Deutschland GmbH; Cadence Design Systems, San Jose (USA); ArmLtd, Cherry Hinton (Vereinigtes Königreich); Mentor Graphics Corporation, Wilsonville (USA); Qualcomm, San Diego (USA); Ridgetop Europe, Sint-Andries (Belgien) und Advantest Europe GmbH",
+			"slug": "infineon-technologies-ag-intel-deutschland-gmbh-cadence-design-systems-san-jose-usa-armltd-cherry-hinton-vereinigtes-konigreich-mentor-graphics-corporation-wilsonville-usa-qualcomm-san-diego-usa-ridgetop-europe-sint-andries-belgien-und-advantest-europe-gmbh"
+		},
+		{
+			"name": "Thermofisher; Autoscan; Geosep Services",
+			"slug": "thermofisher-autoscan-geosep-services"
+		},
+		{
+			"name": "BLG LOGISTICS GROUP AG & Co. KG, Encoway; Sparkasse Bremen AG, neuland",
+			"slug": "blg-logistics-group-ag-co-kg-encoway-sparkasse-bremen-ag-neuland"
 		}
 	]
 };
