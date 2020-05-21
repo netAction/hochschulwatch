@@ -538,6 +538,14 @@ var searchdb = {
 	],
 	"foerderer": [
 		{
+			"name": "Osnabrück-Emsland",
+			"slug": "osnabrueck-emsland"
+		},
+		{
+			"name": ":em engineering methods AG",
+			"slug": "em-engineering-methods-ag"
+		},
+		{
 			"name": "3B Scientific GmbH",
 			"slug": "3b-scientific-gmbh"
 		},
@@ -590,6 +598,10 @@ var searchdb = {
 			"slug": "aachenmuenchener-versicherung-ag"
 		},
 		{
+			"name": "Abat AG",
+			"slug": "abat-ag"
+		},
+		{
 			"name": "abat+ GmbH",
 			"slug": "abat-gmbh"
 		},
@@ -624,6 +636,10 @@ var searchdb = {
 		{
 			"name": "Accenture GmbH",
 			"slug": "accenture-gmbh"
+		},
+		{
+			"name": "Achtziger, Roland",
+			"slug": "achtziger-roland"
 		},
 		{
 			"name": "ACO Hochbau",
@@ -666,6 +682,10 @@ var searchdb = {
 			"slug": "adolf-messer-stiftung"
 		},
 		{
+			"name": "Advanced Bionics GmbH 30625 Hannover",
+			"slug": "advanced-bionics-gmbh-30625-hannover"
+		},
+		{
 			"name": "Advanced Bionics GmbH, 30625 Hannover",
 			"slug": "advanced-bionics-gmbh-30625-hannover"
 		},
@@ -698,6 +718,10 @@ var searchdb = {
 			"slug": "aeternitas-e-v"
 		},
 		{
+			"name": "Agert, Prof. Dr. Carsten 26129 Oldenburg",
+			"slug": "agert-prof-dr-carsten-26129-oldenburg"
+		},
+		{
 			"name": "Ageto Service GmbH",
 			"slug": "ageto-service-gmbh"
 		},
@@ -720,6 +744,10 @@ var searchdb = {
 		{
 			"name": "AGRAVIS Raiffeisen",
 			"slug": "agravis-raiffeisen"
+		},
+		{
+			"name": "Ahlers, Dirk",
+			"slug": "ahlers-dirk"
 		},
 		{
 			"name": "Ahlers, Sybille und Dirk",
@@ -834,11 +862,11 @@ var searchdb = {
 			"slug": "alfred-herrhausen-gesellschaft"
 		},
 		{
-			"name": "Alfried Krupp von Bohlen und Halbach-Stiftung",
+			"name": "Alfried Krupp von Bohlen und Halbach Stiftung",
 			"slug": "alfried-krupp-von-bohlen-und-halbach-stiftung"
 		},
 		{
-			"name": "Alfried Krupp von Bohlen und Halbach Stiftung",
+			"name": "Alfried Krupp von Bohlen und Halbach-Stiftung",
 			"slug": "alfried-krupp-von-bohlen-und-halbach-stiftung"
 		},
 		{
@@ -894,6 +922,10 @@ var searchdb = {
 			"slug": "amazoncom-inc"
 		},
 		{
+			"name": "Amazone Stiftung",
+			"slug": "amazone-stiftung"
+		},
+		{
 			"name": "Ambau GmbH",
 			"slug": "ambau-gmbh"
 		},
@@ -918,12 +950,20 @@ var searchdb = {
 			"slug": "analyze-realize-ag"
 		},
 		{
+			"name": "Anatomische Gesellschaft",
+			"slug": "anatomische-gesellschaft"
+		},
+		{
 			"name": "Andreas Stihl",
 			"slug": "andreas-stihl"
 		},
 		{
 			"name": "Angewandte Kommunikationstechnik GmbH",
 			"slug": "angewandte-kommunikationstechnik-gmbh"
+		},
+		{
+			"name": "Anna-Magull-Stiftung",
+			"slug": "anna-magull-stiftung"
 		},
 		{
 			"name": "Annedore Heinze",
@@ -992,6 +1032,18 @@ var searchdb = {
 		{
 			"name": "Arbeitgeberverband Oldenburg",
 			"slug": "arbeitgeberverband-oldenburg"
+		},
+		{
+			"name": "Arbeitgeberverband Oldenburg e. V.",
+			"slug": "arbeitgeberverband-oldenburg-e-v"
+		},
+		{
+			"name": "Arbeitgeberverband Oldenburg e.V.",
+			"slug": "arbeitgeberverband-oldenburg-ev"
+		},
+		{
+			"name": "Arbeitgeberverband Oldenburg e.V. 26122 Oldenburg",
+			"slug": "arbeitgeberverband-oldenburg-ev-26122-oldenburg"
 		},
 		{
 			"name": "Arbeitsgemeinschaft der Volksbanken und Raiffeisenbanken in Weser Ems, 26122 Oldenburg",
@@ -1110,6 +1162,10 @@ var searchdb = {
 			"slug": "aurubis"
 		},
 		{
+			"name": "Auto Ha-Di GmbH",
+			"slug": "auto-ha-di-gmbh"
+		},
+		{
 			"name": "Autohaus Fischer GmbH",
 			"slug": "autohaus-fischer-gmbh"
 		},
@@ -1120,6 +1176,10 @@ var searchdb = {
 		{
 			"name": "Autohaus Rosier GmbH",
 			"slug": "autohaus-rosier-gmbh"
+		},
+		{
+			"name": "Autohaus Walkenhorst GmbH, Osnabrück",
+			"slug": "autohaus-walkenhorst-gmbh-osnabrueck"
 		},
 		{
 			"name": "AutoVision GmbH",
@@ -1174,6 +1234,10 @@ var searchdb = {
 			"slug": "baden-badener-unternehmergespraeche"
 		},
 		{
+			"name": "BAG Sport und berufl. Bildung e.V.",
+			"slug": "bag-sport-und-berufl-bildung-ev"
+		},
+		{
 			"name": "Bahlsen",
 			"slug": "bahlsen"
 		},
@@ -1226,6 +1290,10 @@ var searchdb = {
 			"slug": "barmherzige-brueder"
 		},
 		{
+			"name": "Barthel Stiftung",
+			"slug": "barthel-stiftung"
+		},
+		{
 			"name": "Bartos-Höppner-Stiftung",
 			"slug": "bartos-hoeppner-stiftung"
 		},
@@ -1240,6 +1308,10 @@ var searchdb = {
 		{
 			"name": "BASF SE",
 			"slug": "basf-se"
+		},
+		{
+			"name": "BASF SE 67056 Ludwigshafen",
+			"slug": "basf-se-67056-ludwigshafen"
 		},
 		{
 			"name": "Basilea Inc.",
@@ -1308,6 +1380,10 @@ var searchdb = {
 		{
 			"name": "Bayer AG, Leverkusen",
 			"slug": "bayer-ag-leverkusen"
+		},
+		{
+			"name": "Bayer Intellectual Property",
+			"slug": "bayer-intellectual-property"
 		},
 		{
 			"name": "Bayer Pharma AG",
@@ -1426,6 +1502,10 @@ var searchdb = {
 			"slug": "bertelsmann-se-co-kgaa"
 		},
 		{
+			"name": "Bertelsmann Stiftung",
+			"slug": "bertelsmann-stiftung"
+		},
+		{
 			"name": "Berthold-Leibinger-Stiftung",
 			"slug": "berthold-leibinger-stiftung"
 		},
@@ -1502,6 +1582,10 @@ var searchdb = {
 			"slug": "bim2b-ingenieurgesellschaft-mbh"
 		},
 		{
+			"name": "Bindernagel - Wildt, Karin und Wildt, Heinrich A. 27254 Staffhorst OT Harbergen",
+			"slug": "bindernagel-wildt-karin-und-wildt-heinrich-a-27254-staffhorst-ot-harbergen"
+		},
+		{
 			"name": "BIOCRA- TES Life Sciences AG",
 			"slug": "biocra-tes-life-sciences-ag"
 		},
@@ -1566,6 +1650,10 @@ var searchdb = {
 			"slug": "black-horse-investments-gmbh"
 		},
 		{
+			"name": "BLG LOGISTICS GROUP",
+			"slug": "blg-logistics-group"
+		},
+		{
 			"name": "bm-t beteiligungsmanagement thüringen GmbH",
 			"slug": "bm-t-beteiligungsmanagement-thuringen-gmbh"
 		},
@@ -1596,6 +1684,10 @@ var searchdb = {
 		{
 			"name": "Boehringer Ingelheim GmbH",
 			"slug": "boehringer-ingelheim-gmbh"
+		},
+		{
+			"name": "Boies Schiller Flexner LLP, USA",
+			"slug": "boies-schiller-flexner-llp-usa"
 		},
 		{
 			"name": "Bombardier Transportation",
@@ -1654,6 +1746,10 @@ var searchdb = {
 			"slug": "brandenburgischer-verein-fuer-gesundheit"
 		},
 		{
+			"name": "Brandhoff & Partner",
+			"slug": "brandhoff-partner"
+		},
+		{
 			"name": "Brandi Rechtsanwälte",
 			"slug": "brandi-rechtsanwaelte"
 		},
@@ -1686,6 +1782,10 @@ var searchdb = {
 			"slug": "bremer-landesbank"
 		},
 		{
+			"name": "Bremer Landesbank 28195 Bremen",
+			"slug": "bremer-landesbank-28195-bremen"
+		},
+		{
 			"name": "Bresser GmbH",
 			"slug": "bresser-gmbh"
 		},
@@ -1704,6 +1804,10 @@ var searchdb = {
 		{
 			"name": "Broering, Udo",
 			"slug": "broering-udo"
+		},
+		{
+			"name": "Brook Lapping Production Ltd.",
+			"slug": "brook-lapping-production-ltd"
 		},
 		{
 			"name": "Brose Fahrzeugteile GmbH & Co KG Coburg",
@@ -1750,8 +1854,24 @@ var searchdb = {
 			"slug": "btc-ag"
 		},
 		{
+			"name": "BTC Business Technology Consulting AG 26121 Oldenburg",
+			"slug": "btc-business-technology-consulting-ag-26121-oldenburg"
+		},
+		{
 			"name": "BüFA GmbH",
 			"slug": "buefa-gmbh"
+		},
+		{
+			"name": "BÜFA GmbH & Co. KG",
+			"slug": "buefa-gmbh-co-kg"
+		},
+		{
+			"name": "BÜFA GmbH & Co.KG",
+			"slug": "buefa-gmbh-cokg"
+		},
+		{
+			"name": "BÜFA Reinigungssystem GmbH & Co.KG 26121 Oldenburg",
+			"slug": "buefa-reinigungssystem-gmbh-cokg-26121-oldenburg"
 		},
 		{
 			"name": "Bühler GmbH",
@@ -1776,6 +1896,10 @@ var searchdb = {
 		{
 			"name": "Bundesrechtsanwaltskammer Berlin",
 			"slug": "bundesrechtsanwaltskammer-berlin"
+		},
+		{
+			"name": "Bundesverband Arbeitsorientierter Beratung e.V.",
+			"slug": "bundesverband-arbeitsorientierter-beratung-ev"
 		},
 		{
 			"name": "Bundesverband der Arbeitsgeberverbände (BDA)",
@@ -1808,6 +1932,14 @@ var searchdb = {
 		{
 			"name": "buw",
 			"slug": "buw"
+		},
+		{
+			"name": "buw consulting GmbH, Osnabrück",
+			"slug": "buw-consulting-gmbh-osnabrueck"
+		},
+		{
+			"name": "buw Holding GmbH, Osnabrück",
+			"slug": "buw-holding-gmbh-osnabrueck"
 		},
 		{
 			"name": "BWG Bergwerk- und Walzwerk-Maschinenbau GmbH",
@@ -1848,6 +1980,14 @@ var searchdb = {
 		{
 			"name": "Camlog Biotechnologies AG",
 			"slug": "camlog-biotechnologies-ag"
+		},
+		{
+			"name": "Campbell Scientific Ltd.",
+			"slug": "campbell-scientific-ltd"
+		},
+		{
+			"name": "Campus-Service GmbH",
+			"slug": "campus-service-gmbh"
 		},
 		{
 			"name": "Canon Medical Systems",
@@ -1978,6 +2118,10 @@ var searchdb = {
 			"slug": "cewe"
 		},
 		{
+			"name": "CEWE Stiftung & Co. KGaA 26133 Oldenburg",
+			"slug": "cewe-stiftung-co-kgaa-26133-oldenburg"
+		},
+		{
 			"name": "Charcot-Stiftung",
 			"slug": "charcot-stiftung"
 		},
@@ -2042,6 +2186,10 @@ var searchdb = {
 			"slug": "claas"
 		},
 		{
+			"name": "CLAAS KGaA",
+			"slug": "claas-kgaa"
+		},
+		{
 			"name": "Claussen-Simon-Stiftung",
 			"slug": "claussen-simon-stiftung"
 		},
@@ -2060,6 +2208,14 @@ var searchdb = {
 		{
 			"name": "CMS Hasche Sigle",
 			"slug": "cms-hasche-sigle"
+		},
+		{
+			"name": "cmx consulting GmbH",
+			"slug": "cmx-consulting-gmbh"
+		},
+		{
+			"name": "cmx consulting OS",
+			"slug": "cmx-consulting-os"
 		},
 		{
 			"name": "Cochlear Europe Limited",
@@ -2084,6 +2240,10 @@ var searchdb = {
 		{
 			"name": "Comes Unternehmensberatung",
 			"slug": "comes-unternehmensberatung"
+		},
+		{
+			"name": "comes Unternehmensberatung GmbH & Co.KG",
+			"slug": "comes-unternehmensberatung-gmbh-cokg"
 		},
 		{
 			"name": "Commerzbank",
@@ -2146,6 +2306,10 @@ var searchdb = {
 			"slug": "covance-inc-usa"
 		},
 		{
+			"name": "Covestro Deutschland AG",
+			"slug": "covestro-deutschland-ag"
+		},
+		{
 			"name": "Cray-Stiftung c/o VolkswagenStiftung",
 			"slug": "cray-stiftung-co-volkswagenstiftung"
 		},
@@ -2176,6 +2340,14 @@ var searchdb = {
 		{
 			"name": "CST AG",
 			"slug": "cst-ag"
+		},
+		{
+			"name": "CUR e. V.",
+			"slug": "cur-e-v"
+		},
+		{
+			"name": "CUR e.V.",
+			"slug": "cur-ev"
 		},
 		{
 			"name": "Currenta GmbH & Co. OHG",
@@ -2310,6 +2482,10 @@ var searchdb = {
 			"slug": "der-kleine-kreis"
 		},
 		{
+			"name": "DER KLEINE KREIS e.V. 26122 Oldenburg",
+			"slug": "der-kleine-kreis-ev-26122-oldenburg"
+		},
+		{
 			"name": "Der Tagesspiegel",
 			"slug": "der-tagesspiegel"
 		},
@@ -2376,6 +2552,14 @@ var searchdb = {
 		{
 			"name": "Deutsche Bundesbank",
 			"slug": "deutsche-bundesbank"
+		},
+		{
+			"name": "Deutsche Bundesbank 30159 Hannover",
+			"slug": "deutsche-bundesbank-30159-hannover"
+		},
+		{
+			"name": "Deutsche Bundesbank Eurosystem Bremen, Nds, Sachen-Anhalt, Hannover",
+			"slug": "deutsche-bundesbank-eurosystem-bremen-nds-sachen-anhalt-hannover"
 		},
 		{
 			"name": "Deutsche Bundesstiftung Umwelt",
@@ -2566,8 +2750,32 @@ var searchdb = {
 			"slug": "diagnostics-agandreas-frintrup"
 		},
 		{
+			"name": "Diakonisches Werk der Ev.-luth. Kirche",
+			"slug": "diakonisches-werk-der-ev-luth-kirche"
+		},
+		{
+			"name": "Diakonisches Werk der Ev.-Luth. Kirche Oldenburg e. V.",
+			"slug": "diakonisches-werk-der-ev-luth-kirche-oldenburg-e-v"
+		},
+		{
+			"name": "Diakonisches Werk der Ev.-Luth. Kirche Oldenburg e.V. 26121 Oldenburg",
+			"slug": "diakonisches-werk-der-ev-luth-kirche-oldenburg-ev-26121-oldenburg"
+		},
+		{
+			"name": "Diakonisches Werk der Ev.-Luth. Kirche Oldenburg e.V., 26121 Oldenburg",
+			"slug": "diakonisches-werk-der-ev-luth-kirche-oldenburg-ev-26121-oldenburg"
+		},
+		{
 			"name": "DiaMed GmbH A Division of Bio-Rad",
 			"slug": "diamed-gmbh-a-division-of-bio-rad"
+		},
+		{
+			"name": "Die Johanniter - RV Weser Ems 26121 Oldenburg",
+			"slug": "die-johanniter-rv-weser-ems-26121-oldenburg"
+		},
+		{
+			"name": "Die Vereinigung der Freunde des Wuppertal Institut 42103 Wuppertal",
+			"slug": "die-vereinigung-der-freunde-des-wuppertal-institut-42103-wuppertal"
 		},
 		{
 			"name": "DIE ZEIT, Hamburg",
@@ -2610,6 +2818,10 @@ var searchdb = {
 			"slug": "dinescu-prof-dr-violetta-26133-oldenburg"
 		},
 		{
+			"name": "Dinescu, Violeta",
+			"slug": "dinescu-violeta"
+		},
+		{
 			"name": "Dipl.-Ing. Jürgen Lambrecht",
 			"slug": "dipl-ing-jurgen-lambrecht"
 		},
@@ -2648,6 +2860,10 @@ var searchdb = {
 		{
 			"name": "DLD Media GmbH",
 			"slug": "dld-media-gmbh"
+		},
+		{
+			"name": "dm Drogeriemarkt 26122 Oldenburg",
+			"slug": "dm-drogeriemarkt-26122-oldenburg"
 		},
 		{
 			"name": "Dobeneck-Technologie-Stiftung",
@@ -2706,6 +2922,10 @@ var searchdb = {
 			"slug": "dr-alfred-w-doberer-winkler"
 		},
 		{
+			"name": "Dr. Babett Eldemann-Singer",
+			"slug": "dr-babett-eldemann-singer"
+		},
+		{
 			"name": "Dr. Barbara-Mez-Starck-Stiftung",
 			"slug": "dr-barbara-mez-starck-stiftung"
 		},
@@ -2732,6 +2952,14 @@ var searchdb = {
 		{
 			"name": "Dr. Hans-Peter Hamm",
 			"slug": "dr-hans-peter-hamm"
+		},
+		{
+			"name": "Dr. Hermann und Dorothea Kehrbach Stiftung, Deutsche StiftungsTrust GmbH",
+			"slug": "dr-hermann-und-dorothea-kehrbach-stiftung-deutsche-stiftungstrust-gmbh"
+		},
+		{
+			"name": "Dr. Hermann und Dorothea Kerbach-Stiftung",
+			"slug": "dr-hermann-und-dorothea-kerbach-stiftung"
 		},
 		{
 			"name": "Dr. Hesse und Partner Ingenieure",
@@ -2882,8 +3110,20 @@ var searchdb = {
 			"slug": "dt-gesellschaft-fuer-internationale-zusammenarbeit"
 		},
 		{
+			"name": "Dt. Gesellschaft für Schlafforschung und Schlafmedizin e.V.",
+			"slug": "dt-gesellschaft-fuer-schlafforschung-und-schlafmedizin-ev"
+		},
+		{
 			"name": "Dt. Stiftung Trad. Chines.",
 			"slug": "dt-stiftung-trad-chines"
+		},
+		{
+			"name": "Dt. Vereinigung für gewerbl. Rechtschutz und Urheberrecht e.V. GRUR",
+			"slug": "dt-vereinigung-fuer-gewerbl-rechtschutz-und-urheberrecht-ev-grur"
+		},
+		{
+			"name": "Dt. Vereinigung Rechtsschutz/Urheberrecht",
+			"slug": "dt-vereinigung-rechtsschutzurheberrecht"
 		},
 		{
 			"name": "Dt. Vereinte Gesellschaft für Klinische Chemie und Laboratoriumsmedizin. e. V.",
@@ -3082,6 +3322,10 @@ var searchdb = {
 			"slug": "elsevier-bv"
 		},
 		{
+			"name": "Emder Bürgerstiftung Regionales Umweltzentrum Ökowerk Emden",
+			"slug": "emder-buergerstiftung-regionales-umweltzentrum-oekowerk-emden"
+		},
+		{
 			"name": "EMIS Electrics GmbH",
 			"slug": "emis-electrics-gmbh"
 		},
@@ -3118,8 +3362,16 @@ var searchdb = {
 			"slug": "enercon-gmbh"
 		},
 		{
+			"name": "ENERCON GmbH 26607 Aurich",
+			"slug": "enercon-gmbh-26607-aurich"
+		},
+		{
 			"name": "Energydesign",
 			"slug": "energydesign"
+		},
+		{
+			"name": "ENERiO e.V.-ENERGY RESEARCH IN OLDENBURG, c/o NEXT ENERGY-EWE-Forschungszentrum für Engergietechnologie e.V. 26129 Oldenburg",
+			"slug": "enerio-ev-energy-research-in-oldenburg-co-next-energy-ewe-forschungszentrum-fuer-engergietechnologie-ev-26129-oldenburg"
 		},
 		{
 			"name": "EnerKite GmbH",
@@ -3178,8 +3430,16 @@ var searchdb = {
 			"slug": "ergo-versicherungsgruppe-ag"
 		},
 		{
+			"name": "Erich Maria Remarque Gesellschaft Osnabrück",
+			"slug": "erich-maria-remarque-gesellschaft-osnabrueck"
+		},
+		{
 			"name": "Erich Mundstock Stiftung",
 			"slug": "erich-mundstock-stiftung"
+		},
+		{
+			"name": "Erich-Maria-Remarque Gesellschaft Osnabrück e.V.",
+			"slug": "erich-maria-remarque-gesellschaft-osnabrueck-ev"
 		},
 		{
 			"name": "Ericsson Eurolab Deutschland GmbH",
@@ -3204,6 +3464,10 @@ var searchdb = {
 		{
 			"name": "Ernst Klett Verlag, Stuttgart",
 			"slug": "ernst-klett-verlag-stuttgart"
+		},
+		{
+			"name": "Ernst Reinhardt Verlag 80007 München",
+			"slug": "ernst-reinhardt-verlag-80007-muenchen"
 		},
 		{
 			"name": "Ernst-Abbe-Stiftung",
@@ -3322,6 +3586,10 @@ var searchdb = {
 			"slug": "ewe"
 		},
 		{
+			"name": "EWE Aktiengesellschaft 26122 Oldenburg",
+			"slug": "ewe-aktiengesellschaft-26122-oldenburg"
+		},
+		{
 			"name": "EWG LOT Working Group",
 			"slug": "ewg-lot-working-group"
 		},
@@ -3398,8 +3666,28 @@ var searchdb = {
 			"slug": "feinchemie-schwebda"
 		},
 		{
+			"name": "Felicitas und Werner Egerland Stiftung",
+			"slug": "felicitas-und-werner-egerland-stiftung"
+		},
+		{
 			"name": "Felix Schoeller Group",
 			"slug": "felix-schoeller-group"
+		},
+		{
+			"name": "Felix Schoeller Holding GmbH & Co. KG",
+			"slug": "felix-schoeller-holding-gmbh-co-kg"
+		},
+		{
+			"name": "Felix Schoeller Holding GmbH & Co. KG, Osnabrück",
+			"slug": "felix-schoeller-holding-gmbh-co-kg-osnabrueck"
+		},
+		{
+			"name": "Felix Schöller Holding GmbH &Co. KG",
+			"slug": "felix-schoeller-holding-gmbh-co-kg"
+		},
+		{
+			"name": "Felix Schöller Holding GmbH und Co.KG",
+			"slug": "felix-schoeller-holding-gmbh-und-cokg"
 		},
 		{
 			"name": "Fels-Werke GmbH, Goslar",
@@ -3472,6 +3760,10 @@ var searchdb = {
 		{
 			"name": "Firma Xilinx Inc.",
 			"slug": "firma-xilinx-inc"
+		},
+		{
+			"name": "Fish & Richardson, New York USA",
+			"slug": "fish-richardson-new-york-usa"
 		},
 		{
 			"name": "FKTG Fernseh- und Kinotechnische Gesellschaft e.V.",
@@ -3578,12 +3870,36 @@ var searchdb = {
 			"slug": "forderverein-rotary-club"
 		},
 		{
+			"name": "Förderverein Rotary Club Oldenbur-Ammerland 26121 Oldenburg",
+			"slug": "foerderverein-rotary-club-oldenbur-ammerland-26121-oldenburg"
+		},
+		{
+			"name": "Förderverein Rotary Club Oldenburg-Ammerland 26121 Oldenburg",
+			"slug": "foerderverein-rotary-club-oldenburg-ammerland-26121-oldenburg"
+		},
+		{
 			"name": "Förderverein Theophil. Rostock",
 			"slug": "foerderverein-theophil-rostock"
 		},
 		{
+			"name": "Förderverein Wirtschafts- und Rechtswissenschaft e. V. 26123 Oldenburg",
+			"slug": "foerderverein-wirtschafts-und-rechtswissenschaft-e-v-26123-oldenburg"
+		},
+		{
+			"name": "Förderverein Wirtschafts- und Rechtswissenschaften",
+			"slug": "foerderverein-wirtschafts-und-rechtswissenschaften"
+		},
+		{
+			"name": "Förderverein Wirtschafts- und Rechtswissenschaften e.V.",
+			"slug": "foerderverein-wirtschafts-und-rechtswissenschaften-ev"
+		},
+		{
 			"name": "Förderverein Wirtschafts- und Rechtswissenschaften, 26008 Oldenburg",
 			"slug": "foerderverein-wirtschafts-und-rechtswissenschaften-26008-oldenburg"
+		},
+		{
+			"name": "Fördervereinigung des Rotary Club Oldenburg-Ammerland e.V.",
+			"slug": "foerdervereinigung-des-rotary-club-oldenburg-ammerland-ev"
 		},
 		{
 			"name": "FORM + TEST Seidner & Co GmbH",
@@ -3674,6 +3990,10 @@ var searchdb = {
 			"slug": "freitaler-metall-und-anlagenbau-gmbh"
 		},
 		{
+			"name": "Frenzel, Sigrid",
+			"slug": "frenzel-sigrid"
+		},
+		{
 			"name": "Fresenius Kabi Deutschland GmbH",
 			"slug": "fresenius-kabi-deutschland-gmbh"
 		},
@@ -3718,6 +4038,10 @@ var searchdb = {
 			"slug": "freunde-und-foerderer-der-universitaetsmedizin-nordwest-e-v-26122-oldenburg"
 		},
 		{
+			"name": "Freunde und Förderer der Universitätsmedizin Nordwest e.V.",
+			"slug": "freunde-und-foerderer-der-universitaetsmedizin-nordwest-ev"
+		},
+		{
 			"name": "Freundeskreis",
 			"slug": "freundeskreis"
 		},
@@ -3744,6 +4068,10 @@ var searchdb = {
 		{
 			"name": "Freundeskreis des Pharmazeutischen Instituts e.V.",
 			"slug": "freundeskreis-des-pharmazeutischen-instituts-ev"
+		},
+		{
+			"name": "Freundeskreis ILEX des Botanischen Gartens e.V. 26121 Oldenburg",
+			"slug": "freundeskreis-ilex-des-botanischen-gartens-ev-26121-oldenburg"
 		},
 		{
 			"name": "Friede Springer Stiftung",
@@ -3806,6 +4134,10 @@ var searchdb = {
 			"slug": "fritz-huettinger-stiftung"
 		},
 		{
+			"name": "Frog e.V.",
+			"slug": "frog-ev"
+		},
+		{
 			"name": "Fruend, Thea und Eckart",
 			"slug": "fruend-thea-und-eckart"
 		},
@@ -3820,6 +4152,10 @@ var searchdb = {
 		{
 			"name": "Fuchs Petrolub",
 			"slug": "fuchs-petrolub"
+		},
+		{
+			"name": "Fuchs Prof. Dr., Andreas",
+			"slug": "fuchs-prof-dr-andreas"
 		},
 		{
 			"name": "FUGUMA GmbH",
@@ -3896,6 +4232,22 @@ var searchdb = {
 		{
 			"name": "GE Healthcare Buchler GmbH & Co. KG",
 			"slug": "ge-healthcare-buchler-gmbh-co-kg"
+		},
+		{
+			"name": "GE Wind Energy",
+			"slug": "ge-wind-energy"
+		},
+		{
+			"name": "GE Wind energy GmbH",
+			"slug": "ge-wind-energy-gmbh"
+		},
+		{
+			"name": "GE Wind Energy GmbH 48499 Salzbergen",
+			"slug": "ge-wind-energy-gmbh-48499-salzbergen"
+		},
+		{
+			"name": "GE Wind Energy GmbH, 48499 Salzbergen",
+			"slug": "ge-wind-energy-gmbh-48499-salzbergen"
 		},
 		{
 			"name": "GEA Air Treatment GmbH",
@@ -3990,6 +4342,10 @@ var searchdb = {
 			"slug": "georgia-state-university"
 		},
 		{
+			"name": "Georgmarienhütte GmbH",
+			"slug": "georgmarienhuette-gmbh"
+		},
+		{
 			"name": "Georgsmarienhütte GmbH",
 			"slug": "georgsmarienhuette-gmbh"
 		},
@@ -4006,8 +4362,16 @@ var searchdb = {
 			"slug": "gerolsteiner-brunnen-gmbh-co-kg"
 		},
 		{
+			"name": "Gert und Senta Vonhoff Stiftung",
+			"slug": "gert-und-senta-vonhoff-stiftung"
+		},
+		{
 			"name": "Gertrud- Ryna- Brügge- mann- Stiftung",
 			"slug": "gertrud-ryna-brugge-mann-stiftung"
+		},
+		{
+			"name": "Gertrud- und Hellmuth Barthel Stiftung",
+			"slug": "gertrud-und-hellmuth-barthel-stiftung"
 		},
 		{
 			"name": "Gesamtverband der Deutschen Versicherungswirtschaft e. V.",
@@ -4024,6 +4388,10 @@ var searchdb = {
 		{
 			"name": "Gesellschaft der Freunde und Förderer des Fachbereichs Wirtschaftswissenschaften der Universität Osnabrück e. V.",
 			"slug": "gesellschaft-der-freunde-und-foerderer-des-fachbereichs-wirtschaftswissenschaften-der-universitaet-osnabrueck-e-v"
+		},
+		{
+			"name": "Gesellschaft der Freunde und Förderer des OFFIS e.V. (GdFF e.V.)",
+			"slug": "gesellschaft-der-freunde-und-foerderer-des-offis-ev-gdff-ev"
 		},
 		{
 			"name": "Gesellschaft deutscher Chemiker",
@@ -4058,6 +4426,10 @@ var searchdb = {
 			"slug": "gesellschaft-zur-foerderung-der-fachrichtung-geodaesie-und-geoinformatik"
 		},
 		{
+			"name": "Geseundheitsregion Osnabrück-Emsland",
+			"slug": "geseundheitsregion-osnabrueck-emsland"
+		},
+		{
 			"name": "GESIS Leibniz Institut für Sozialwissenschaften Departement Communication",
 			"slug": "gesis-leibniz-institut-fuer-sozialwissenschaften-departement-communication"
 		},
@@ -4068,6 +4440,14 @@ var searchdb = {
 		{
 			"name": "Gesundheitswirtschaft Nordwest e.V., 28195 Bremen",
 			"slug": "gesundheitswirtschaft-nordwest-ev-28195-bremen"
+		},
+		{
+			"name": "GEW Oldenburg",
+			"slug": "gew-oldenburg"
+		},
+		{
+			"name": "GFFW e.V.",
+			"slug": "gffw-ev"
 		},
 		{
 			"name": "GfK Nürnberg e.V.",
@@ -4254,8 +4634,24 @@ var searchdb = {
 			"slug": "gruener-bereich-gmbh"
 		},
 		{
+			"name": "Grüner Jäger",
+			"slug": "gruener-jaeger"
+		},
+		{
+			"name": "Grüner Jäger, Osnabrück",
+			"slug": "gruener-jaeger-osnabrueck"
+		},
+		{
+			"name": "Grüttemeier, Prof. Dr. Ralf 26123 Oldenburg",
+			"slug": "gruettemeier-prof-dr-ralf-26123-oldenburg"
+		},
+		{
 			"name": "Gry Pharma GmbH",
 			"slug": "gry-pharma-gmbh"
+		},
+		{
+			"name": "GSG Oldenburg Bau- und Wohnungsgesellschaft mbH",
+			"slug": "gsg-oldenburg-bau-und-wohnungsgesellschaft-mbh"
 		},
 		{
 			"name": "GSG Oldenburger Bau- und Wohnungsbaugesellschaft GmbH",
@@ -4280,6 +4676,10 @@ var searchdb = {
 		{
 			"name": "GVH Großraum-Verkehr Hannover",
 			"slug": "gvh-grossraum-verkehr-hannover"
+		},
+		{
+			"name": "H & D Business Services GmBH",
+			"slug": "h-d-business-services-gmbh"
 		},
 		{
 			"name": "H. Bröring GmbH & Co. KG",
@@ -4328,6 +4728,10 @@ var searchdb = {
 		{
 			"name": "Hamburger Stiftung zur Förderung von Wissenschaft und Kultur",
 			"slug": "hamburger-stiftung-zur-foerderung-von-wissenschaft-und-kultur"
+		},
+		{
+			"name": "Hamm",
+			"slug": "hamm"
 		},
 		{
 			"name": "Hamm Markert Solution GmbH & Co KG",
@@ -4390,6 +4794,18 @@ var searchdb = {
 			"slug": "hans-gottschalk-stiftung"
 		},
 		{
+			"name": "Hans Mühlenhoff Stiftung",
+			"slug": "hans-muehlenhoff-stiftung"
+		},
+		{
+			"name": "Hans Mühlenhoff Stiftung, Osnabrück",
+			"slug": "hans-muehlenhoff-stiftung-osnabrueck"
+		},
+		{
+			"name": "Hans Peter Hamm",
+			"slug": "hans-peter-hamm"
+		},
+		{
 			"name": "Hans Sauer Stiftung",
 			"slug": "hans-sauer-stiftung"
 		},
@@ -4406,8 +4822,20 @@ var searchdb = {
 			"slug": "hans-fischer-gesellschaft-ev-85345-freising"
 		},
 		{
+			"name": "Hans-Mühlenhoff Stiftung, Osnabrück",
+			"slug": "hans-muehlenhoff-stiftung-osnabrueck"
+		},
+		{
+			"name": "Hans-Mühlenhoff-Stiftung",
+			"slug": "hans-muehlenhoff-stiftung"
+		},
+		{
 			"name": "Hans-Mühlenhoff-Stiftung, Osnabrück",
 			"slug": "hans-muehlenhoff-stiftung-osnabrueck"
+		},
+		{
+			"name": "Hans-Peter Hamm",
+			"slug": "hans-peter-hamm"
 		},
 		{
 			"name": "Hanse-Club",
@@ -4426,6 +4854,14 @@ var searchdb = {
 			"slug": "harting"
 		},
 		{
+			"name": "Harting KGaA",
+			"slug": "harting-kgaa"
+		},
+		{
+			"name": "Harting Stiftung & Co.KG",
+			"slug": "harting-stiftung-cokg"
+		},
+		{
 			"name": "Harzwasserwerke",
 			"slug": "harzwasserwerke"
 		},
@@ -4440,6 +4876,14 @@ var searchdb = {
 		{
 			"name": "Hasso-Plattner-Institut für Softwaresystemtechnik GmbH",
 			"slug": "hasso-plattner-institut-fuer-softwaresystemtechnik-gmbh"
+		},
+		{
+			"name": "Hauck, Dr. Heinz Emil",
+			"slug": "hauck-dr-heinz-emil"
+		},
+		{
+			"name": "Hauck, Dr. Heinz-Emil 64823 Groß-Umstadt",
+			"slug": "hauck-dr-heinz-emil-64823-gross-umstadt"
 		},
 		{
 			"name": "Hauck, Dr. Heinz-Emil, Am Martinsrain 15, 64823 Groß-Umstadt",
@@ -4494,12 +4938,20 @@ var searchdb = {
 			"slug": "hearing-care-corp-usa-bloomington-mn-55420"
 		},
 		{
+			"name": "hec GmbH; team neusta GmbH",
+			"slug": "hec-gmbh-team-neusta-gmbh"
+		},
+		{
 			"name": "Heidelberger Druckmaschinen AG",
 			"slug": "heidelberger-druckmaschinen-ag"
 		},
 		{
 			"name": "Heiligenfeld Kliniken",
 			"slug": "heiligenfeld-kliniken"
+		},
+		{
+			"name": "Heinen + Löwenstein",
+			"slug": "heinen-loewenstein"
 		},
 		{
 			"name": "Heinrich Fip GmbH & Co.KG",
@@ -4566,6 +5018,10 @@ var searchdb = {
 			"slug": "helmut-streiff"
 		},
 		{
+			"name": "Helmuth Boshammer",
+			"slug": "helmuth-boshammer"
+		},
+		{
 			"name": "Hengelbrock, Dr. Matthias, Christian-Runde-Weg 10, 26121 Oldenburg",
 			"slug": "hengelbrock-dr-matthias-christian-runde-weg-10-26121-oldenburg"
 		},
@@ -4588,6 +5044,10 @@ var searchdb = {
 		{
 			"name": "Henriette Schmidt-Burkhardt",
 			"slug": "henriette-schmidt-burkhardt"
+		},
+		{
+			"name": "Henrik Peitsch",
+			"slug": "henrik-peitsch"
 		},
 		{
 			"name": "Heraeus",
@@ -4666,6 +5126,14 @@ var searchdb = {
 			"slug": "herrenteichslaischaft"
 		},
 		{
+			"name": "Herrenteichslaischaft OS",
+			"slug": "herrenteichslaischaft-os"
+		},
+		{
+			"name": "Herrenteichslaischaft Osnabrück",
+			"slug": "herrenteichslaischaft-osnabrueck"
+		},
+		{
 			"name": "Herta Thiemann",
 			"slug": "herta-thiemann"
 		},
@@ -4676,6 +5144,10 @@ var searchdb = {
 		{
 			"name": "Hettich Holding GmbH & Co. oHG",
 			"slug": "hettich-holding-gmbh-co-ohg"
+		},
+		{
+			"name": "Hewlett Packard GmbH 85609 Dornach-Aschheim",
+			"slug": "hewlett-packard-gmbh-85609-dornach-aschheim"
 		},
 		{
 			"name": "Hexagon Metrology PTS GmbH",
@@ -4774,6 +5246,10 @@ var searchdb = {
 			"slug": "holzhauer-helmut-dr"
 		},
 		{
+			"name": "Homann Feinkost GmbH, Dissen",
+			"slug": "homann-feinkost-gmbh-dissen"
+		},
+		{
 			"name": "Homann GmbH, Dissen",
 			"slug": "homann-gmbh-dissen"
 		},
@@ -4788,6 +5264,14 @@ var searchdb = {
 		{
 			"name": "HORIBA Jobin Yvon GmbH",
 			"slug": "horiba-jobin-yvon-gmbh"
+		},
+		{
+			"name": "Hornhues Stiftung",
+			"slug": "hornhues-stiftung"
+		},
+		{
+			"name": "Hornhues Stiftung PRO AFRIKA",
+			"slug": "hornhues-stiftung-pro-afrika"
 		},
 		{
 			"name": "Horst Görtz Stiftung",
@@ -4806,8 +5290,20 @@ var searchdb = {
 			"slug": "hortense-von-heppe"
 		},
 		{
+			"name": "HOS Immobilien GmbH & Co. KG",
+			"slug": "hos-immobilien-gmbh-co-kg"
+		},
+		{
 			"name": "Hottinger Baldwin Messtechnik GmbH",
 			"slug": "hottinger-baldwin-messtechnik-gmbh"
+		},
+		{
+			"name": "Hoyng ROKH Monégier",
+			"slug": "hoyng-rokh-mongier"
+		},
+		{
+			"name": "Hoyng ROKH Monégier GÖRG Partnerschaft von",
+			"slug": "hoyng-rokh-mongier-goerg-partnerschaft-von"
 		},
 		{
 			"name": "HPC Aktiengesellschaft",
@@ -4820,6 +5316,10 @@ var searchdb = {
 		{
 			"name": "HüBNER GmbH",
 			"slug": "huebner-gmbh"
+		},
+		{
+			"name": "Hull Dance & Events GmbH",
+			"slug": "hull-dance-events-gmbh"
 		},
 		{
 			"name": "Hülskens Wasserbau GmbH Co KG",
@@ -4866,8 +5366,24 @@ var searchdb = {
 			"slug": "ibm"
 		},
 		{
+			"name": "IBM Deutschland GmbH",
+			"slug": "ibm-deutschland-gmbh"
+		},
+		{
+			"name": "IBM Global University Programs",
+			"slug": "ibm-global-university-programs"
+		},
+		{
 			"name": "ibmv Maritime Innovationsgesellschaft mbH",
 			"slug": "ibmv-maritime-innovationsgesellschaft-mbh"
+		},
+		{
+			"name": "IBN Global University Programs",
+			"slug": "ibn-global-university-programs"
+		},
+		{
+			"name": "Ichthyol Gesellschaft",
+			"slug": "ichthyol-gesellschaft"
 		},
 		{
 			"name": "IDAM AG & CO KG",
@@ -4904,6 +5420,14 @@ var searchdb = {
 		{
 			"name": "ifo Institut für Wirtschaftsforschung e.V.",
 			"slug": "ifo-institut-fuer-wirtschaftsforschung-ev"
+		},
+		{
+			"name": "IG BCE",
+			"slug": "ig-bce"
+		},
+		{
+			"name": "IG Metall",
+			"slug": "ig-metall"
 		},
 		{
 			"name": "IG Metall Jena- Saalfeld und Gera",
@@ -4950,6 +5474,10 @@ var searchdb = {
 			"slug": "ilex-freundeskreis-botanischer-garten-e-v-26121-oldenburg"
 		},
 		{
+			"name": "Ilex Freundeskreis Botanischer Garten e.V.",
+			"slug": "ilex-freundeskreis-botanischer-garten-ev"
+		},
+		{
 			"name": "Ille Papierservice GmbH",
 			"slug": "ille-papierservice-gmbh"
 		},
@@ -4986,6 +5514,10 @@ var searchdb = {
 			"slug": "indusrie-und-handelskammer-bs"
 		},
 		{
+			"name": "Industrial Application Software",
+			"slug": "industrial-application-software"
+		},
+		{
 			"name": "Industrie- und Handelskammer Braunschweig",
 			"slug": "industrie-und-handelskammer-braunschweig"
 		},
@@ -5004,6 +5536,10 @@ var searchdb = {
 		{
 			"name": "INFO AG",
 			"slug": "info-ag"
+		},
+		{
+			"name": "INFORM GmbH",
+			"slug": "inform-gmbh"
 		},
 		{
 			"name": "INFORM Institut für Operations Research und Management GmbH",
@@ -5130,6 +5666,14 @@ var searchdb = {
 			"slug": "instituto-di-cibernetica-e-biofisica"
 		},
 		{
+			"name": "Instust. Application Software",
+			"slug": "instust-application-software"
+		},
+		{
+			"name": "Instytut Fotonowy Sp. Z. o.o, Krakau (Polen)",
+			"slug": "instytut-fotonowy-sp-z-oo-krakau-polen"
+		},
+		{
 			"name": "INTAVIS Bioanalytical Instruments",
 			"slug": "intavis-bioanalytical-instruments"
 		},
@@ -5154,6 +5698,10 @@ var searchdb = {
 			"slug": "international-academy"
 		},
 		{
+			"name": "International Society of Electrochemistry, Chemin de Closelet CH-1006 Lausanne, Schweiz",
+			"slug": "international-society-of-electrochemistry-chemin-de-closelet-ch-1006-lausanne-schweiz"
+		},
+		{
 			"name": "InterRex GmbH",
 			"slug": "interrex-gmbh"
 		},
@@ -5164,6 +5712,10 @@ var searchdb = {
 		{
 			"name": "InterSystems GmbH",
 			"slug": "intersystems-gmbh"
+		},
+		{
+			"name": "Intevation GmbH",
+			"slug": "intevation-gmbh"
 		},
 		{
 			"name": "Intevation GmbH, Osnabrück",
@@ -5222,8 +5774,24 @@ var searchdb = {
 			"slug": "ipsen-pharma-gmbh"
 		},
 		{
+			"name": "IQB Career Service",
+			"slug": "iqb-career-service"
+		},
+		{
+			"name": "IQB Career Service AG",
+			"slug": "iqb-career-service-ag"
+		},
+		{
+			"name": "IQB Career Service AG, Frankfurt a. M.",
+			"slug": "iqb-career-service-ag-frankfurt-a-m"
+		},
+		{
 			"name": "IQB Career Services AG",
 			"slug": "iqb-career-services-ag"
+		},
+		{
+			"name": "IQB Career Sevice AG",
+			"slug": "iqb-career-sevice-ag"
 		},
 		{
 			"name": "IS Forschungsgesellschaft mbH",
@@ -5414,12 +5982,24 @@ var searchdb = {
 			"slug": "junge-oeffentliche-versicherung"
 		},
 		{
+			"name": "Junge öffentliche Versicherungen Oldenburg",
+			"slug": "junge-oeffentliche-versicherungen-oldenburg"
+		},
+		{
+			"name": "Junge Öffentliche Versicherungen Oldenburg 26129 Oldenburg",
+			"slug": "junge-oeffentliche-versicherungen-oldenburg-26129-oldenburg"
+		},
+		{
 			"name": "Jungheinrich AG / 20047 Hamburg",
 			"slug": "jungheinrich-ag-20047-hamburg"
 		},
 		{
 			"name": "Jürgen Lambrecht",
 			"slug": "juergen-lambrecht"
+		},
+		{
+			"name": "Jürgen Meierrose",
+			"slug": "juergen-meierrose"
 		},
 		{
 			"name": "juris-GmbH",
@@ -5542,6 +6122,10 @@ var searchdb = {
 			"slug": "kbb-underground-technologies-gmbh-hannover"
 		},
 		{
+			"name": "Kehrbach-Stiftung, Dr. Hermann u. Dorothea 20457 Hamburg",
+			"slug": "kehrbach-stiftung-dr-hermann-u-dorothea-20457-hamburg"
+		},
+		{
 			"name": "Keller Grundbau GmbH",
 			"slug": "keller-grundbau-gmbh"
 		},
@@ -5568,6 +6152,10 @@ var searchdb = {
 		{
 			"name": "KfW IPEX- Bank GmbH",
 			"slug": "kfw-ipex-bank-gmbh"
+		},
+		{
+			"name": "KickOn GmbH",
+			"slug": "kickon-gmbh"
 		},
 		{
 			"name": "Kieback & Partner GmbH & Co.KG",
@@ -5598,6 +6186,14 @@ var searchdb = {
 			"slug": "kisters-ag"
 		},
 		{
+			"name": "KISTERS AG",
+			"slug": "kisters-ag"
+		},
+		{
+			"name": "Kisters AG 52076 Aachen",
+			"slug": "kisters-ag-52076-aachen"
+		},
+		{
 			"name": "Kiwa MPA Bautest GmbH",
 			"slug": "kiwa-mpa-bautest-gmbh"
 		},
@@ -5624,6 +6220,10 @@ var searchdb = {
 		{
 			"name": "Klaus-Töpfer-Stiftungsjuniorprofessor Sparkassenstiftung, Firma APL Prüftechnik, Karl-Fix-Stiftung, Energie Südwest und Kreisverwaltung Südliche Weinstraße.",
 			"slug": "klaus-toepfer-stiftungsjuniorprofessor-sparkassenstiftung-firma-apl-prueftechnik-karl-fix-stiftung-energie-suedwest-und-kreisverwaltung-suedliche-weinstrasse"
+		},
+		{
+			"name": "KLB Kötztal Lacke u. Beschichtungen",
+			"slug": "klb-koetztal-lacke-u-beschichtungen"
 		},
 		{
 			"name": "Klemm Sohn GmbH & Co.KG",
@@ -5694,8 +6294,20 @@ var searchdb = {
 			"slug": "koester-gmbh-osnabrueck"
 		},
 		{
+			"name": "Kötting, Dr. Johann 25129 Oldenburg",
+			"slug": "koetting-dr-johann-25129-oldenburg"
+		},
+		{
+			"name": "Kötting, Dr. Johann und Elisabeth 25129 Oldenburg",
+			"slug": "koetting-dr-johann-und-elisabeth-25129-oldenburg"
+		},
+		{
 			"name": "Kötting, Dr. Johann, August-Hinrichs-Str. 46, 25129 Oldenburg",
 			"slug": "koetting-dr-johann-august-hinrichs-str-46-25129-oldenburg"
+		},
+		{
+			"name": "Kötting, Dr. Johannes",
+			"slug": "koetting-dr-johannes"
 		},
 		{
 			"name": "Kötting, Johannes",
@@ -5704,6 +6316,10 @@ var searchdb = {
 		{
 			"name": "KPMG",
 			"slug": "kpmg"
+		},
+		{
+			"name": "KPMG AG Wirtschaftsprüfungsgesellschaft",
+			"slug": "kpmg-ag-wirtschaftspruefungsgesellschaft"
 		},
 		{
 			"name": "KPMG AG Wirtschaftsprüfungsgesellschaft",
@@ -5782,6 +6398,10 @@ var searchdb = {
 			"slug": "kuka-aktiengesellschaft"
 		},
 		{
+			"name": "Kunstförderverein Kunstladen e.V.",
+			"slug": "kunstfoerderverein-kunstladen-ev"
+		},
+		{
 			"name": "Kur- und Rehaklinik GmbH",
 			"slug": "kur-und-rehaklinik-gmbh"
 		},
@@ -5840,6 +6460,10 @@ var searchdb = {
 		{
 			"name": "Landessparkasse zu Oldenburg",
 			"slug": "landessparkasse-zu-oldenburg"
+		},
+		{
+			"name": "Landessparkasse zu Oldenburg 26123 Oldenburg",
+			"slug": "landessparkasse-zu-oldenburg-26123-oldenburg"
 		},
 		{
 			"name": "Landesverband der Jüdischen Gemeinden von Niedersachsen K.d.ö.R.",
@@ -6022,6 +6646,14 @@ var searchdb = {
 			"slug": "lindig-fordertechnik-gmbh"
 		},
 		{
+			"name": "Linklaters LIP",
+			"slug": "linklaters-lip"
+		},
+		{
+			"name": "Linklaters LLP",
+			"slug": "linklaters-llp"
+		},
+		{
 			"name": "Lions Club Hilfswerk Euregio Maas-Rhein e.V.",
 			"slug": "lions-club-hilfswerk-euregio-maas-rhein-ev"
 		},
@@ -6048,6 +6680,10 @@ var searchdb = {
 		{
 			"name": "LLS Rowiak LaserLabSolutions GmbH",
 			"slug": "lls-rowiak-laserlabsolutions-gmbh"
+		},
+		{
+			"name": "LM Internet Services AG",
+			"slug": "lm-internet-services-ag"
 		},
 		{
 			"name": "LO-COR Bioscienc es GmbH",
@@ -6096,6 +6732,10 @@ var searchdb = {
 		{
 			"name": "Ludwig-Heidenhain-Stiftung",
 			"slug": "ludwig-heidenhain-stiftung"
+		},
+		{
+			"name": "Lüerßen, Gerd Phnom Penh, Cambodia",
+			"slug": "lueerssen-gerd-phnom-penh-cambodia"
 		},
 		{
 			"name": "Lufthansa",
@@ -6314,6 +6954,10 @@ var searchdb = {
 			"slug": "mecklenburgische-versicherungs-gesellschaft-ag-direktion-hannover"
 		},
 		{
+			"name": "MED-EL GmbH",
+			"slug": "med-el-gmbh"
+		},
+		{
 			"name": "MED-ELelektromedizinische Geräte",
 			"slug": "med-elelektromedizinische-geraete"
 		},
@@ -6366,6 +7010,14 @@ var searchdb = {
 			"slug": "mehl-klaus"
 		},
 		{
+			"name": "Mehl, Klaus 26121 Oldenburg",
+			"slug": "mehl-klaus-26121-oldenburg"
+		},
+		{
+			"name": "Mehl, Prof. Dr. Klaus 26121 Oldenburg",
+			"slug": "mehl-prof-dr-klaus-26121-oldenburg"
+		},
+		{
 			"name": "Mehler Texnologies GmbH",
 			"slug": "mehler-texnologies-gmbh"
 		},
@@ -6410,6 +7062,10 @@ var searchdb = {
 			"slug": "menlo-systems-gmbh"
 		},
 		{
+			"name": "Mennekes, Dieter 57399 Kirchhundem",
+			"slug": "mennekes-dieter-57399-kirchhundem"
+		},
+		{
 			"name": "meravis Wohnungsbau- und Immobilien GmbH",
 			"slug": "meravis-wohnungsbau-und-immobilien-gmbh"
 		},
@@ -6432,6 +7088,10 @@ var searchdb = {
 		{
 			"name": "MERKUR BANK KGaA",
 			"slug": "merkur-bank-kgaa"
+		},
+		{
+			"name": "Mertens, Paul",
+			"slug": "mertens-paul"
 		},
 		{
 			"name": "Merz",
@@ -6470,6 +7130,10 @@ var searchdb = {
 			"slug": "mettler-toledo-gmbh-sbu-materials-charcterization-schwerzenbachschweiz"
 		},
 		{
+			"name": "Metzger, Jürgen und Christa-Elisabeth 26129 Oldenburg",
+			"slug": "metzger-juergen-und-christa-elisabeth-26129-oldenburg"
+		},
+		{
 			"name": "Meyerdierks Immobilien Treuhand- und Verwaltungsgesellschaft mbH, 26122 Oldenburg",
 			"slug": "meyerdierks-immobilien-treuhand-und-verwaltungsgesellschaft-mbh-26122-oldenburg"
 		},
@@ -6484,6 +7148,10 @@ var searchdb = {
 		{
 			"name": "MICON e. V., Rostock",
 			"slug": "micon-e-v-rostock"
+		},
+		{
+			"name": "MICOS - Mikro Computer Systeme GmbH",
+			"slug": "micos-mikro-computer-systeme-gmbh"
 		},
 		{
 			"name": "Microsoft Deutschland",
@@ -6598,6 +7266,10 @@ var searchdb = {
 			"slug": "munic-re"
 		},
 		{
+			"name": "MUUH! Consulting GmbH",
+			"slug": "muuh-consulting-gmbh"
+		},
+		{
 			"name": "MVV Energie AG",
 			"slug": "mvv-energie-ag"
 		},
@@ -6612,6 +7284,14 @@ var searchdb = {
 		{
 			"name": "Naif Abdullah",
 			"slug": "naif-abdullah"
+		},
+		{
+			"name": "NanoTemper Technologies GmbH",
+			"slug": "nanotemper-technologies-gmbh"
+		},
+		{
+			"name": "Nanu Nana Einkaufs- und Verwaltungsgesellschaft mbH",
+			"slug": "nanu-nana-einkaufs-und-verwaltungsgesellschaft-mbh"
 		},
 		{
 			"name": "National Instruments Germany GmbH",
@@ -6678,12 +7358,20 @@ var searchdb = {
 			"slug": "netzsch-geratebau-gmbh"
 		},
 		{
+			"name": "Neubert, Klaus 26129 Oldenburg",
+			"slug": "neubert-klaus-26129-oldenburg"
+		},
+		{
 			"name": "Neudorff GmbH KG",
 			"slug": "neudorff-gmbh-kg"
 		},
 		{
 			"name": "Neudorff, W. GmbH KG, Emmerthal",
 			"slug": "neudorff-w-gmbh-kg-emmerthal"
+		},
+		{
+			"name": "Neue Osnabrücker Zeitung",
+			"slug": "neue-osnabruecker-zeitung"
 		},
 		{
 			"name": "Neue Presse Verlags-GmbH",
@@ -6704,6 +7392,10 @@ var searchdb = {
 		{
 			"name": "Newport Spectra-Physics GmbH",
 			"slug": "newport-spectra-physics-gmbh"
+		},
+		{
+			"name": "NEXT ENERGY, EWE-Forschungszentrum für Energietechnologie e.V. 26129 Oldenburg",
+			"slug": "next-energy-ewe-forschungszentrum-fuer-energietechnologie-ev-26129-oldenburg"
 		},
 		{
 			"name": "NH-HH-Recycling e.V., Stamsried",
@@ -6796,6 +7488,10 @@ var searchdb = {
 		{
 			"name": "Nordmetall",
 			"slug": "nordmetall"
+		},
+		{
+			"name": "NORDMETALL Verband der Metall- u. Elekroindustrie e.V. 22220 Hamburg",
+			"slug": "nordmetall-verband-der-metall-u-elekroindustrie-ev-22220-hamburg"
 		},
 		{
 			"name": "Nordwest Assekuranzmakler GmbH & Co. KG, 28199 Bremen",
@@ -6906,6 +7602,10 @@ var searchdb = {
 			"slug": "nuernberger-versicherungsgruppe"
 		},
 		{
+			"name": "NWZ, Verlagsgesellschaft mbH & Co.KG 26121 Oldenburg",
+			"slug": "nwz-verlagsgesellschaft-mbh-cokg-26121-oldenburg"
+		},
+		{
 			"name": "NXP Semiconductors",
 			"slug": "nxp-semiconductors"
 		},
@@ -6926,6 +7626,10 @@ var searchdb = {
 			"slug": "objektmoebel-concept"
 		},
 		{
+			"name": "OCLC GmbH",
+			"slug": "oclc-gmbh"
+		},
+		{
 			"name": "OCLC GmbH, 82041 Oberhaching",
 			"slug": "oclc-gmbh-82041-oberhaching"
 		},
@@ -6942,12 +7646,20 @@ var searchdb = {
 			"slug": "offis"
 		},
 		{
+			"name": "OFFIS e.V. 26121 Oldenburg",
+			"slug": "offis-ev-26121-oldenburg"
+		},
+		{
 			"name": "OHB System AG",
 			"slug": "ohb-system-ag"
 		},
 		{
 			"name": "Olaf Nenninger",
 			"slug": "olaf-nenninger"
+		},
+		{
+			"name": "OLB-Stiftung",
+			"slug": "olb-stiftung"
 		},
 		{
 			"name": "Oldenburger Förderdervein für Informationstechnologie, 26121 Oldenburg",
@@ -6960,6 +7672,14 @@ var searchdb = {
 		{
 			"name": "Oldenburgische Landesbank",
 			"slug": "oldenburgische-landesbank"
+		},
+		{
+			"name": "Oldenburgische Landesbank AG 26122 Oldenburg",
+			"slug": "oldenburgische-landesbank-ag-26122-oldenburg"
+		},
+		{
+			"name": "Oldenburgische Landschaft",
+			"slug": "oldenburgische-landschaft"
 		},
 		{
 			"name": "OLEC, Oldenburger Energiecluster e.V.",
@@ -6984,6 +7704,10 @@ var searchdb = {
 		{
 			"name": "Omnilab Laborzentrum",
 			"slug": "omnilab-laborzentrum"
+		},
+		{
+			"name": "Omnilab-Laborzentrum GmbH & Co.KG 28359 Bremen",
+			"slug": "omnilab-laborzentrum-gmbh-cokg-28359-bremen"
 		},
 		{
 			"name": "Omnilab-Laborzentrum GmbH & Co.KG, 28359 Bremen",
@@ -7086,6 +7810,10 @@ var searchdb = {
 			"slug": "oscar-romero-stiftung"
 		},
 		{
+			"name": "Oscar Romero Stiftung Oldenburg",
+			"slug": "oscar-romero-stiftung-oldenburg"
+		},
+		{
 			"name": "Oskar Frech GmbH + Co. KG",
 			"slug": "oskar-frech-gmbh-co-kg"
 		},
@@ -7142,8 +7870,16 @@ var searchdb = {
 			"slug": "pax-bank-eg"
 		},
 		{
+			"name": "pbr Planungsbüro Rohling AG",
+			"slug": "pbr-planungsbuero-rohling-ag"
+		},
+		{
 			"name": "PCO AG",
 			"slug": "pco-ag"
+		},
+		{
+			"name": "PCO Hellmann, Osnabrück",
+			"slug": "pco-hellmann-osnabrueck"
 		},
 		{
 			"name": "PDV- Systeme GmbH",
@@ -7258,8 +7994,20 @@ var searchdb = {
 			"slug": "phywe-systeme-gmbh-und-co-kg"
 		},
 		{
+			"name": "Piepenbrock Dienstleistungen",
+			"slug": "piepenbrock-dienstleistungen"
+		},
+		{
 			"name": "Piepenbrock Unternehmensgruppe GmbH & Co KG",
 			"slug": "piepenbrock-unternehmensgruppe-gmbh-co-kg"
+		},
+		{
+			"name": "Piepenbrock Unternehmensgruppe, Osnabrück",
+			"slug": "piepenbrock-unternehmensgruppe-osnabrueck"
+		},
+		{
+			"name": "Piepenbrockstiftung",
+			"slug": "piepenbrockstiftung"
 		},
 		{
 			"name": "Piezosystem Jena GmbH",
@@ -7296,6 +8044,10 @@ var searchdb = {
 		{
 			"name": "PLUS Paris- London- University of Salz- burg",
 			"slug": "plus-paris-london-university-of-salz-burg"
+		},
+		{
+			"name": "PNE Wind AG 27472 Cuxhaven",
+			"slug": "pne-wind-ag-27472-cuxhaven"
 		},
 		{
 			"name": "PNE Wind AG, 27472 Cuxhaven",
@@ -7370,8 +8122,16 @@ var searchdb = {
 			"slug": "pricewaterhousecoopers"
 		},
 		{
+			"name": "PricewaterhouseCoopers AG",
+			"slug": "pricewaterhousecoopers-ag"
+		},
+		{
 			"name": "PriceWaterhouseCoopers AG",
 			"slug": "pricewaterhousecoopers-ag"
+		},
+		{
+			"name": "PricewaterhouseCoopers GmbH",
+			"slug": "pricewaterhousecoopers-gmbh"
 		},
 		{
 			"name": "Pro Retina-Stiftung",
@@ -7390,12 +8150,24 @@ var searchdb = {
 			"slug": "prof-christiane-meyer"
 		},
 		{
+			"name": "Prof. Dr. Achenbach, Rheinbach",
+			"slug": "prof-dr-achenbach-rheinbach"
+		},
+		{
+			"name": "Prof. Dr. Andreas Fuchs",
+			"slug": "prof-dr-andreas-fuchs"
+		},
+		{
 			"name": "Prof. Dr. Antje Schwalb",
 			"slug": "prof-dr-antje-schwalb"
 		},
 		{
 			"name": "Prof. Dr. Armand Blaschette",
 			"slug": "prof-dr-armand-blaschette"
+		},
+		{
+			"name": "Prof. Dr. Beate Ego",
+			"slug": "prof-dr-beate-ego"
 		},
 		{
 			"name": "Prof. Dr. Benno Heussen",
@@ -7412,6 +8184,10 @@ var searchdb = {
 		{
 			"name": "Prof. Dr. Dirk Selmar, Braunschweig",
 			"slug": "prof-dr-dirk-selmar-braunschweig"
+		},
+		{
+			"name": "Prof. Dr. Dirk Siepmann",
+			"slug": "prof-dr-dirk-siepmann"
 		},
 		{
 			"name": "Prof. Dr. Dirk Verse",
@@ -7446,8 +8222,28 @@ var searchdb = {
 			"slug": "prof-dr-juergen-g-heinrich"
 		},
 		{
+			"name": "Prof. Dr. Liebmann, Osnabrück",
+			"slug": "prof-dr-liebmann-osnabrueck"
+		},
+		{
+			"name": "Prof. Dr. M. Engelhardt",
+			"slug": "prof-dr-m-engelhardt"
+		},
+		{
+			"name": "Prof. Dr. Martin Engelhardt",
+			"slug": "prof-dr-martin-engelhardt"
+		},
+		{
 			"name": "Prof. Dr. Michael Schilling",
 			"slug": "prof-dr-michael-schilling"
+		},
+		{
+			"name": "Prof. Dr. Oliver Vornberger",
+			"slug": "prof-dr-oliver-vornberger"
+		},
+		{
+			"name": "Prof. Dr. Rolf Düsterberg",
+			"slug": "prof-dr-rolf-duesterberg"
 		},
 		{
 			"name": "Prof. Dr. Rolf Wahl, Luisenklinik Bad Dürrheim",
@@ -7456,6 +8252,10 @@ var searchdb = {
 		{
 			"name": "Prof. Dr. Schwan",
 			"slug": "prof-dr-schwan"
+		},
+		{
+			"name": "Prof. Dr. Ulrich Foerste",
+			"slug": "prof-dr-ulrich-foerste"
 		},
 		{
 			"name": "Prof. Dr.-Ing. G. Rehm",
@@ -7638,6 +8438,14 @@ var searchdb = {
 			"slug": "ra-goerg-essen"
 		},
 		{
+			"name": "RA Hellmann, Osnabrück",
+			"slug": "ra-hellmann-osnabrueck"
+		},
+		{
+			"name": "RA Schindhelm, Osnabrück",
+			"slug": "ra-schindhelm-osnabrueck"
+		},
+		{
 			"name": "Radar Media GmbH",
 			"slug": "radar-media-gmbh"
 		},
@@ -7662,8 +8470,16 @@ var searchdb = {
 			"slug": "ramthor-stiftung"
 		},
 		{
+			"name": "Randstad Stiftung 65760 Eschborn",
+			"slug": "randstad-stiftung-65760-eschborn"
+		},
+		{
 			"name": "RBB",
 			"slug": "rbb"
+		},
+		{
+			"name": "Rechtsanwälten mbB",
+			"slug": "rechtsanwaelten-mbb"
 		},
 		{
 			"name": "Rechtsanwaltskammer Celle",
@@ -7758,6 +8574,10 @@ var searchdb = {
 			"slug": "richter-cine-technik-gmbh-co-betriebs-kg"
 		},
 		{
+			"name": "Richterin Stefanie Schindhelm",
+			"slug": "richterin-stefanie-schindhelm"
+		},
+		{
 			"name": "Riedel-de Haen Studienstiftung",
 			"slug": "riedel-de-haen-studienstiftung"
 		},
@@ -7838,12 +8658,40 @@ var searchdb = {
 			"slug": "roemheld-gmbh-friedrichshuette"
 		},
 		{
+			"name": "RoSch Industrieservice GmbH 49809 Lingen",
+			"slug": "rosch-industrieservice-gmbh-49809-lingen"
+		},
+		{
+			"name": "ROSEN Gruppe",
+			"slug": "rosen-gruppe"
+		},
+		{
 			"name": "Rosen Tantau KG",
 			"slug": "rosen-tantau-kg"
 		},
 		{
+			"name": "Rosen Technologie and Research Center",
+			"slug": "rosen-technologie-and-research-center"
+		},
+		{
+			"name": "Rosen Technology",
+			"slug": "rosen-technology"
+		},
+		{
 			"name": "ROSEN Technology & Research Center GmbH",
 			"slug": "rosen-technology-research-center-gmbh"
+		},
+		{
+			"name": "Rosen Technology&Research Center GmbH",
+			"slug": "rosen-technologyresearch-center-gmbh"
+		},
+		{
+			"name": "ROSEN Technology&Research Center GmbH, Lingen",
+			"slug": "rosen-technologyresearch-center-gmbh-lingen"
+		},
+		{
+			"name": "Rosen Technoloy and Research Center GmbH",
+			"slug": "rosen-technoloy-and-research-center-gmbh"
 		},
 		{
 			"name": "Rossmann GmbH",
@@ -7854,12 +8702,20 @@ var searchdb = {
 			"slug": "rotarier-heiligendamm-kuehlungsborn"
 		},
 		{
+			"name": "Rotary Club Oldenburg Ammerland",
+			"slug": "rotary-club-oldenburg-ammerland"
+		},
+		{
 			"name": "Rotary Club Oldenburg-Ammerland",
 			"slug": "rotary-club-oldenburg-ammerland"
 		},
 		{
 			"name": "Rotary Club Weimar",
 			"slug": "rotary-club-weimar"
+		},
+		{
+			"name": "Rotary Deutschland Gemeindienst e.V.",
+			"slug": "rotary-deutschland-gemeindienst-ev"
 		},
 		{
 			"name": "Rotary Deutschland Gemeindienst e.V. Düsseldorf",
@@ -7926,6 +8782,10 @@ var searchdb = {
 			"slug": "sachsen-bank"
 		},
 		{
+			"name": "Safety IO GmbH",
+			"slug": "safety-io-gmbh"
+		},
+		{
 			"name": "Saint Gobain",
 			"slug": "saint-gobain"
 		},
@@ -7972,6 +8832,10 @@ var searchdb = {
 		{
 			"name": "SAP SE",
 			"slug": "sap-se"
+		},
+		{
+			"name": "SAP SE (S+P Lion AG)",
+			"slug": "sap-se-sp-lion-ag"
 		},
 		{
 			"name": "Sartorius",
@@ -8030,6 +8894,10 @@ var searchdb = {
 			"slug": "schering-stiftung"
 		},
 		{
+			"name": "Schindhelm, Stefanie, Osnabrück",
+			"slug": "schindhelm-stefanie-osnabrueck"
+		},
+		{
 			"name": "Schmidt-Wilkens, Detlef, 26135 Oldenburg",
 			"slug": "schmidt-wilkens-detlef-26135-oldenburg"
 		},
@@ -8040,6 +8908,10 @@ var searchdb = {
 		{
 			"name": "Schnellecke Logistics AG & Co. KG",
 			"slug": "schnellecke-logistics-ag-co-kg"
+		},
+		{
+			"name": "Schoen, Verena",
+			"slug": "schoen-verena"
 		},
 		{
 			"name": "Schön Kliniken GmbH",
@@ -8096,6 +8968,14 @@ var searchdb = {
 		{
 			"name": "Schufa Holding AG",
 			"slug": "schufa-holding-ag"
+		},
+		{
+			"name": "Schulenberg, Almut 26121 Oldenburg",
+			"slug": "schulenberg-almut-26121-oldenburg"
+		},
+		{
+			"name": "Schüler-Forschungs-Zentrum e. V.",
+			"slug": "schueler-forschungs-zentrum-e-v"
 		},
 		{
 			"name": "Schülerforschungszentrum, Osnabrück",
@@ -8182,6 +9062,10 @@ var searchdb = {
 			"slug": "serva-electrophoresis-gmbh"
 		},
 		{
+			"name": "Servier Deutschland GmbH",
+			"slug": "servier-deutschland-gmbh"
+		},
+		{
 			"name": "SERVIER GmbH",
 			"slug": "servier-gmbh"
 		},
@@ -8222,12 +9106,24 @@ var searchdb = {
 			"slug": "siemens-ag"
 		},
 		{
+			"name": "SIEMENS AG",
+			"slug": "siemens-ag"
+		},
+		{
 			"name": "Siemens Aktiengesellschaft",
 			"slug": "siemens-aktiengesellschaft"
 		},
 		{
+			"name": "Sienknecht, Dr. Ulrike",
+			"slug": "sienknecht-dr-ulrike"
+		},
+		{
 			"name": "Sievert",
 			"slug": "sievert"
+		},
+		{
+			"name": "Sievert AG, Osnabrück",
+			"slug": "sievert-ag-osnabrueck"
 		},
 		{
 			"name": "SIFIN DIAGNOSTICS GmbH",
@@ -8256,6 +9152,14 @@ var searchdb = {
 		{
 			"name": "SIV AG",
 			"slug": "siv-ag"
+		},
+		{
+			"name": "Sivantos GmbH",
+			"slug": "sivantos-gmbh"
+		},
+		{
+			"name": "Sivantos Pte Ltd. Singapore",
+			"slug": "sivantos-pte-ltd-singapore"
 		},
 		{
 			"name": "Skadden, Arps, Meagher & Flom LLP",
@@ -8306,8 +9210,20 @@ var searchdb = {
 			"slug": "software-ag"
 		},
 		{
+			"name": "Solardach München-Riem GmbH 80796 München",
+			"slug": "solardach-muenchen-riem-gmbh-80796-muenchen"
+		},
+		{
+			"name": "Solarenergieförderverein Bayern e.V. 80796 München",
+			"slug": "solarenergiefoerderverein-bayern-ev-80796-muenchen"
+		},
+		{
 			"name": "Solarinput e.V.",
 			"slug": "solarinput-ev"
+		},
+		{
+			"name": "Solarlux GmbH",
+			"slug": "solarlux-gmbh"
 		},
 		{
 			"name": "SolarWorld",
@@ -8324,6 +9240,10 @@ var searchdb = {
 		{
 			"name": "Solvay GmbH",
 			"slug": "solvay-gmbh"
+		},
+		{
+			"name": "Sonova AG",
+			"slug": "sonova-ag"
 		},
 		{
 			"name": "Sophien- und Hufeland-Klinikum gGmbH",
@@ -8430,6 +9350,10 @@ var searchdb = {
 			"slug": "specs-surface-nano-analysis-gmbh"
 		},
 		{
+			"name": "Spes Viva e. V.",
+			"slug": "spes-viva-e-v"
+		},
+		{
 			"name": "Spheros GmbH",
 			"slug": "spheros-gmbh"
 		},
@@ -8498,12 +9422,24 @@ var searchdb = {
 			"slug": "stadt-braunschweig-fachbereich-kultur-frau-dr-boldt-stuelzebach"
 		},
 		{
+			"name": "Stadt Oldenburg",
+			"slug": "stadt-oldenburg"
+		},
+		{
+			"name": "Stadt Oldenburg 26121 Oldenburg",
+			"slug": "stadt-oldenburg-26121-oldenburg"
+		},
+		{
 			"name": "Stadt Rotenburg/Wümme",
 			"slug": "stadt-rotenburgwuemme"
 		},
 		{
 			"name": "Stadt-Sparkasse Solingen",
 			"slug": "stadt-sparkasse-solingen"
+		},
+		{
+			"name": "Städtereinigung Holtmeyer GmbH &Co",
+			"slug": "staedtereinigung-holtmeyer-gmbh-co"
 		},
 		{
 			"name": "Städtische Klinikum Brandenburg GmbH",
@@ -8530,6 +9466,10 @@ var searchdb = {
 			"slug": "stadtwerke-hannover-ag"
 		},
 		{
+			"name": "Stadtwerke Osnabrück",
+			"slug": "stadtwerke-osnabrueck"
+		},
+		{
 			"name": "Stadtwerke Osnabrück AG",
 			"slug": "stadtwerke-osnabrueck-ag"
 		},
@@ -8552,6 +9492,14 @@ var searchdb = {
 		{
 			"name": "Stefan Quandt",
 			"slug": "stefan-quandt"
+		},
+		{
+			"name": "Stefanie Schindhelm",
+			"slug": "stefanie-schindhelm"
+		},
+		{
+			"name": "Stefanie Schindhelm, Osnabrück",
+			"slug": "stefanie-schindhelm-osnabrueck"
 		},
 		{
 			"name": "Steguweit, Wolfgang",
@@ -8646,6 +9594,14 @@ var searchdb = {
 			"slug": "stiftung-bremer-wertpapierboerse"
 		},
 		{
+			"name": "Stiftung der Metallindustrie im Nord-Westen",
+			"slug": "stiftung-der-metallindustrie-im-nord-westen"
+		},
+		{
+			"name": "Stiftung der Metallindustrie im Nord-Westen, 26122 Oldenburg",
+			"slug": "stiftung-der-metallindustrie-im-nord-westen-26122-oldenburg"
+		},
+		{
 			"name": "Stiftung der Metallindustrie Nord-Westen",
 			"slug": "stiftung-der-metallindustrie-nord-westen"
 		},
@@ -8706,6 +9662,10 @@ var searchdb = {
 			"slug": "stiftung-mercator-gmbh-essen"
 		},
 		{
+			"name": "Stiftung Mercator, 45128 Essen",
+			"slug": "stiftung-mercator-45128-essen"
+		},
+		{
 			"name": "Stiftung Niedersachsenmetall",
 			"slug": "stiftung-niedersachsenmetall"
 		},
@@ -8716,6 +9676,10 @@ var searchdb = {
 		{
 			"name": "Stiftung NiedersachsenMetall, Hannover",
 			"slug": "stiftung-niedersachsenmetall-hannover"
+		},
+		{
+			"name": "Stiftung Spes Viva, Osnabrück",
+			"slug": "stiftung-spes-viva-osnabrueck"
 		},
 		{
 			"name": "Stiftung Urologische Forschung",
@@ -8786,6 +9750,10 @@ var searchdb = {
 			"slug": "studentenwerk-hannover"
 		},
 		{
+			"name": "Studentenwerk Osnabrück",
+			"slug": "studentenwerk-osnabrueck"
+		},
+		{
 			"name": "STZ Federntechnik",
 			"slug": "stz-federntechnik"
 		},
@@ -8846,6 +9814,10 @@ var searchdb = {
 			"slug": "swing-an-der-tu-ilmenau-ev"
 		},
 		{
+			"name": "Swiss Re Corporate Solutions Ltd., Zürich, Schweiz",
+			"slug": "swiss-re-corporate-solutions-ltd-zuerich-schweiz"
+		},
+		{
 			"name": "Symrise",
 			"slug": "symrise"
 		},
@@ -8902,6 +9874,14 @@ var searchdb = {
 			"slug": "tarkett-holding"
 		},
 		{
+			"name": "taxOS",
+			"slug": "taxos"
+		},
+		{
+			"name": "taxOS e.V.",
+			"slug": "taxos-ev"
+		},
+		{
 			"name": "Team4One GmbH",
 			"slug": "team4one-gmbh"
 		},
@@ -8924,6 +9904,10 @@ var searchdb = {
 		{
 			"name": "Techniker Krankenkasse Braunschweig",
 			"slug": "techniker-krankenkasse-braunschweig"
+		},
+		{
+			"name": "Techniker Krankenkasse Vertrieb Oldenburg, 26037 Oldenburg",
+			"slug": "techniker-krankenkasse-vertrieb-oldenburg-26037-oldenburg"
 		},
 		{
 			"name": "Technikzentrum Lübeck",
@@ -9018,6 +10002,10 @@ var searchdb = {
 			"slug": "thermo-fisher-scientic-gmbh"
 		},
 		{
+			"name": "Thermofisher",
+			"slug": "thermofisher"
+		},
+		{
 			"name": "Thermokon Sensortechnik GmbH",
 			"slug": "thermokon-sensortechnik-gmbh"
 		},
@@ -9094,6 +10082,14 @@ var searchdb = {
 			"slug": "tresmo-gmbh"
 		},
 		{
+			"name": "Treuhand Weser-Ems Unternehmensberatung GmbH",
+			"slug": "treuhand-weser-ems-unternehmensberatung-gmbh"
+		},
+		{
+			"name": "Treuhand Weser-Ems Unternehmensberaung GmbH",
+			"slug": "treuhand-weser-ems-unternehmensberaung-gmbh"
+		},
+		{
 			"name": "trick Ingenieurgesellschaft mbH",
 			"slug": "trick-ingenieurgesellschaft-mbh"
 		},
@@ -9168,6 +10164,18 @@ var searchdb = {
 		{
 			"name": "Udo Keller Stiftung",
 			"slug": "udo-keller-stiftung"
+		},
+		{
+			"name": "UKA Oldenburg Projektentwicklung als Zweigniederlassung der UKA Cottbus Projektentwicklung GmbH & Co. KG",
+			"slug": "uka-oldenburg-projektentwicklung-als-zweigniederlassung-der-uka-cottbus-projektentwicklung-gmbh-co-kg"
+		},
+		{
+			"name": "UKA Oldenburg Projektentwicklung als Zweigniederlassung der UKA Cottbus Projektentwicklung GmbH & Co. KG, 26122 Oldenburg",
+			"slug": "uka-oldenburg-projektentwicklung-als-zweigniederlassung-der-uka-cottbus-projektentwicklung-gmbh-co-kg-26122-oldenburg"
+		},
+		{
+			"name": "Ulrich Walter GmbH 49356 Diepholz",
+			"slug": "ulrich-walter-gmbh-49356-diepholz"
 		},
 		{
 			"name": "Umicore AG & Co.",
@@ -9250,6 +10258,10 @@ var searchdb = {
 			"slug": "universitatsgesellschaft-ilmenau-freunde-forderer-alumni-ev"
 		},
 		{
+			"name": "Universitätsgesellschaft Oldenburg e. V. 26039 Oldenburg",
+			"slug": "universitaetsgesellschaft-oldenburg-e-v-26039-oldenburg"
+		},
+		{
 			"name": "Universitätsgesellschaft Oldenburg e.V.",
 			"slug": "universitaetsgesellschaft-oldenburg-ev"
 		},
@@ -9282,6 +10294,14 @@ var searchdb = {
 			"slug": "university-of-minnesota"
 		},
 		{
+			"name": "Universtitätsgesellschaft Osnabrück e. V.",
+			"slug": "universtitaetsgesellschaft-osnabrueck-e-v"
+		},
+		{
+			"name": "Ursula Viet Stiftung",
+			"slug": "ursula-viet-stiftung"
+		},
+		{
 			"name": "USM U. Schärer Söhne GmbH",
 			"slug": "usm-u-scharer-sohne-gmbh"
 		},
@@ -9292,6 +10312,14 @@ var searchdb = {
 		{
 			"name": "Üstra Hannoversche Verkehrsbetriebe AG",
 			"slug": "uestra-hannoversche-verkehrsbetriebe-ag"
+		},
+		{
+			"name": "V&R unipress GmbH",
+			"slug": "vr-unipress-gmbh"
+		},
+		{
+			"name": "V&R Uunipress GmbH",
+			"slug": "vr-uunipress-gmbh"
 		},
 		{
 			"name": "Varrelmann Beratungsgesellschaft MBH, 26129 Oldenburg",
@@ -9306,8 +10334,20 @@ var searchdb = {
 			"slug": "vattenfall-europe-mining-ag"
 		},
 		{
+			"name": "VDE OS-EL e.V.",
+			"slug": "vde-os-el-ev"
+		},
+		{
 			"name": "VDE Osnabrück-Emsland e.V.",
 			"slug": "vde-osnabrueck-emsland-ev"
+		},
+		{
+			"name": "VDI Bezirksverband OS-EL e. V.",
+			"slug": "vdi-bezirksverband-os-el-e-v"
+		},
+		{
+			"name": "VDI Bezirksverband OS-Emsland",
+			"slug": "vdi-bezirksverband-os-emsland"
 		},
 		{
 			"name": "VDI Bezirksverein M-V e.V.",
@@ -9346,6 +10386,10 @@ var searchdb = {
 			"slug": "veolia-wasser"
 		},
 		{
+			"name": "Ver.di Bezirk Weser-Ems",
+			"slug": "verdi-bezirk-weser-ems"
+		},
+		{
 			"name": "Verband der Automobilindustrie",
 			"slug": "verband-der-automobilindustrie"
 		},
@@ -9382,6 +10426,10 @@ var searchdb = {
 			"slug": "verband-sonderpaedagogik-ev"
 		},
 		{
+			"name": "Verein 360 Grad e. V.",
+			"slug": "verein-360-grad-e-v"
+		},
+		{
 			"name": "Verein Ausstellungshaus für christliche Kunst e.V.",
 			"slug": "verein-ausstellungshaus-fur-christliche-kunst-ev"
 		},
@@ -9408,6 +10456,10 @@ var searchdb = {
 		{
 			"name": "Verein zur Förderung anwaltsbezogener Ausbildung",
 			"slug": "verein-zur-foerderung-anwaltsbezogener-ausbildung"
+		},
+		{
+			"name": "Verein zur Förderung der Versicherungs- und Finanzmathematik (vfvf) 26122 Oldenburg",
+			"slug": "verein-zur-foerderung-der-versicherungs-und-finanzmathematik-vfvf-26122-oldenburg"
 		},
 		{
 			"name": "Verein zur Förderung der anwalts- orientierten Juristenausbildung",
@@ -9496,6 +10548,26 @@ var searchdb = {
 		{
 			"name": "Verkehrsverein Osnabrück",
 			"slug": "verkehrsverein-osnabrueck"
+		},
+		{
+			"name": "Verkehrsverein Osnabrück e. V.",
+			"slug": "verkehrsverein-osnabrueck-e-v"
+		},
+		{
+			"name": "Verkehrsverein Stadt und Land",
+			"slug": "verkehrsverein-stadt-und-land"
+		},
+		{
+			"name": "Verkehrsverein Stadt und Land e.V.",
+			"slug": "verkehrsverein-stadt-und-land-ev"
+		},
+		{
+			"name": "Verkehrsverein Stadt und Land Osnabrück e.V.",
+			"slug": "verkehrsverein-stadt-und-land-osnabrueck-ev"
+		},
+		{
+			"name": "Verkehrsverein Stadt und Landkreis Osnabrück",
+			"slug": "verkehrsverein-stadt-und-landkreis-osnabrueck"
 		},
 		{
 			"name": "Verlag C. F. Müller GmbH",
@@ -9642,6 +10714,10 @@ var searchdb = {
 			"slug": "volkswagen-ag"
 		},
 		{
+			"name": "Volkswagen AG 38436 Wolfsburg",
+			"slug": "volkswagen-ag-38436-wolfsburg"
+		},
+		{
 			"name": "Volkswagen Aktiengesellschaft Nutzfahrzeuge",
 			"slug": "volkswagen-aktiengesellschaft-nutzfahrzeuge"
 		},
@@ -9734,6 +10810,10 @@ var searchdb = {
 			"slug": "waskoenig"
 		},
 		{
+			"name": "Waskönig, Dr. Peter 26683 Saterland-Ramsloh",
+			"slug": "waskoenig-dr-peter-26683-saterland-ramsloh"
+		},
+		{
 			"name": "WBA Abdichtungssystme GmbH",
 			"slug": "wba-abdichtungssystme-gmbh"
 		},
@@ -9752,6 +10832,10 @@ var searchdb = {
 		{
 			"name": "Weber, Prof. Hermann",
 			"slug": "weber-prof-hermann"
+		},
+		{
+			"name": "WeCanDoProjects GmbH 26180 Rastede",
+			"slug": "wecandoprojects-gmbh-26180-rastede"
 		},
 		{
 			"name": "WEDA - Dammann und Westerkamp GmbH, Lutten",
@@ -9866,6 +10950,22 @@ var searchdb = {
 			"slug": "wigand-vonn-salmuth-sherman-silversteijn-cie-ag"
 		},
 		{
+			"name": "WIGOS OS Land mbH, Osnabrück",
+			"slug": "wigos-os-land-mbh-osnabrueck"
+		},
+		{
+			"name": "WIGOS Wirtschaftsförderungsgesellschaft",
+			"slug": "wigos-wirtschaftsfoerderungsgesellschaft"
+		},
+		{
+			"name": "WIGOS Wirtschaftsförderungsgesellschaft Osnabrücker Land mbH",
+			"slug": "wigos-wirtschaftsfoerderungsgesellschaft-osnabruecker-land-mbh"
+		},
+		{
+			"name": "WIGOS-Wirtschaftsförderungsgesellschaft",
+			"slug": "wigos-wirtschaftsfoerderungsgesellschaft"
+		},
+		{
 			"name": "Wiland Electric GmbH",
 			"slug": "wiland-electric-gmbh"
 		},
@@ -9910,8 +11010,32 @@ var searchdb = {
 			"slug": "windwaerts-energie-gmbh"
 		},
 		{
+			"name": "Winheller, RAGesellschaft, Frankfurt",
+			"slug": "winheller-ragesellschaft-frankfurt"
+		},
+		{
 			"name": "Wintershall Holding AG",
 			"slug": "wintershall-holding-ag"
+		},
+		{
+			"name": "Wirtschaftliche Vereinigung der Der Kleine Kreis e. V. 26122 Oldenburg",
+			"slug": "wirtschaftliche-vereinigung-der-der-kleine-kreis-e-v-26122-oldenburg"
+		},
+		{
+			"name": "Wirtschaftliche Vereinigung Der Kleine Kreis e. V. 26122 Oldenburg",
+			"slug": "wirtschaftliche-vereinigung-der-kleine-kreis-e-v-26122-oldenburg"
+		},
+		{
+			"name": "Wirtschaftliche Vereinigung Der Kleine Kreis e.V.",
+			"slug": "wirtschaftliche-vereinigung-der-kleine-kreis-ev"
+		},
+		{
+			"name": "Wirtschaftliche Vereinigung DER KLEINE KREIS e.V. 26122 Oldenburg",
+			"slug": "wirtschaftliche-vereinigung-der-kleine-kreis-ev-26122-oldenburg"
+		},
+		{
+			"name": "Wirtschaftliche Vereinigung Oldenburg DER KLEINE KREIS e.V.",
+			"slug": "wirtschaftliche-vereinigung-oldenburg-der-kleine-kreis-ev"
 		},
 		{
 			"name": "Wirtschafts- u. Rechtswissenschaften",
@@ -9946,8 +11070,16 @@ var searchdb = {
 			"slug": "wissenschaftsstiftung-m-v-ggmbh"
 		},
 		{
+			"name": "wistros Alumni Förderverein",
+			"slug": "wistros-alumni-foerderverein"
+		},
+		{
 			"name": "Wittenstein SE",
 			"slug": "wittenstein-se"
+		},
+		{
+			"name": "WMS Rechtsanwälte GbR",
+			"slug": "wms-rechtsanwaelte-gbr"
 		},
 		{
 			"name": "Wohnbau und Wohnungs- wirtschaft",
@@ -9972,6 +11104,10 @@ var searchdb = {
 		{
 			"name": "Wolters GmbH",
 			"slug": "wolters-gmbh"
+		},
+		{
+			"name": "WSB Service Deutschland GmbH 01069 Dresden",
+			"slug": "wsb-service-deutschland-gmbh-01069-dresden"
 		},
 		{
 			"name": "WSB-Service",
@@ -10070,6 +11206,14 @@ var searchdb = {
 			"slug": "yumab-gmbh"
 		},
 		{
+			"name": "Zahner-Elektrik GmbH & Co.KG",
+			"slug": "zahner-elektrik-gmbh-cokg"
+		},
+		{
+			"name": "Zeb/Rofes Schierenbeck Associates",
+			"slug": "zebrofes-schierenbeck-associates"
+		},
+		{
 			"name": "Zeidler Forschungsstiftung",
 			"slug": "zeidler-forschungsstiftung"
 		},
@@ -10112,18 +11256,6 @@ var searchdb = {
 		{
 			"name": "Zulieferfirmen der KFZ-Industrie beim Stifterverband für die Deutsche Wissenschaft",
 			"slug": "zulieferfirmen-der-kfz-industrie-beim-stifterverband-fuer-die-deutsche-wissenschaft"
-		},
-		{
-			"name": "hec GmbH; team neusta GmbH",
-			"slug": "hec-gmbh-team-neusta-gmbh"
-		},
-		{
-			"name": "Thermofisher",
-			"slug": "thermofisher"
-		},
-		{
-			"name": "BLG LOGISTICS GROUP",
-			"slug": "blg-logistics-group"
 		}
 	]
 };
