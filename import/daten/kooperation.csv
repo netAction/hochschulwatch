@@ -134,6 +134,10 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1481;RWTH Aachen (ohne Klinikum);AachenMünchener Versicherung AG;;Hörsaalsponsoring;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Campusprojekt/~elf/RWTH_Aachen_Campus/;
 1481;RWTH Aachen (ohne Klinikum);Generali;;Hörsaalsponsoring;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Campusprojekt/~elf/RWTH_Aachen_Campus/;
 1481;RWTH Aachen (ohne Klinikum);Ford;;Hörsaalsponsoring;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Campusprojekt/~elf/RWTH_Aachen_Campus/;
+1481;RWTH Aachen (ohne Klinikum);Knorr-Bremse AG;;Hörsaalsponsoring;;https://www.rwth-aachen.de/go/id/gbzvf?;
+1481;RWTH Aachen (ohne Klinikum);Amazon;40000 (2018);Hörsaalsponsoring;;https://www.rwth-aachen.de/cms/root/Wirtschaft/Sponsoring/Meldungen/~qyfi/Amazon-ist-neuer-Hoersaalsponsor-im-C-A-/;https://www.aachener-nachrichten.de/lokales/aachen/unternehmen-zahlen-40000-euro-fuer-reklame-vor-rwth-hoersaelen_aid-30779249
+1481;RWTH Aachen (ohne Klinikum);trivago;40000 (2018);Hörsaalsponsoring;;https://www.rwth-aachen.de/go/id/qhrh;https://www.aachener-nachrichten.de/lokales/aachen/unternehmen-zahlen-40000-euro-fuer-reklame-vor-rwth-hoersaelen_aid-30779249
+1481;RWTH Aachen (ohne Klinikum);Google;;Stipendium;;https://www.rwth-aachen.de/go/id/ktkx;
 1481;RWTH Aachen (ohne Klinikum);Aachener Kompetenzzentrum Medizintechnik AKM e.V.;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);AachenMünchener Versicherung AG;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);ABB;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
@@ -268,7 +272,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 590;TU Ilmenau;;;;;;
 1210;TU Kaiserslautern;;;;;;
 1639;TU München (Klinikum);;;;;;
-1633;TU München (ohne Klinikum);facebook;7500000 $;Institut für Ethik in der KI;;https://www.sueddeutsche.de/muenchen/muenchen-tu-finanzierung-facebook-1.4723566 ;https://fbnewsroomde.files.wordpress.com/2019/10/tum-erc3b6ffnung-ieai.pdf
+1633;TU München (ohne Klinikum);facebook;6500000;Institut für Ethik in der KI;;https://www.sueddeutsche.de/muenchen/muenchen-tu-finanzierung-facebook-1.4723566 ;https://fbnewsroomde.files.wordpress.com/2019/10/tum-erc3b6ffnung-ieai.pdf
 1350;Universität Augsburg;;;;;;
 500;Universität Bamberg;;;;;;
 510;Universität Bayreuth;;;;;;
@@ -284,7 +288,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 89;Universität Duisburg-Essen (Klinikum);;;;;;
 81;Universität Duisburg-Essen (ohne Klinikum);;;;;;
 1109;Universität Düsseldorf (Klinikum);;;;;;
-1101;Universität Düsseldorf (ohne Klinikum);Provinzial AG;;Provinzial-Stipendien;;http://www.uni-duesseldorf.de/home/studium-und-lehre-an-der-hhu/studium/stipendien/stipendienkompass-fachbezogene-stipendien.html;
+1101;Universität Düsseldorf (ohne Klinikum);Provinzial AG;;Provinzial-Stipendien;;https://www.jura.hhu.de/service1/aktuelles/article/stipendium-der-hhu-gestiftet-von-der-provinzial-rheinland-versicherung-ag-4.html;
 620;Universität Erfurt;;;;;;
 1314;Universität Erlangen-Nürnberg;Teambank AG;130000;Hörsaalsponsoring;;http://www.tf.fau.de/fakultaet/sponsoring.shtml;
 1315;Universität Erlangen-Nürnberg;Siemens AG;;Hörsaalsponsoring - 5 Jahre bis 2018, Erneuerung der Bestuhlung, farbliche Neugestaltung des Saals;;http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html;
@@ -347,6 +351,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 361;Universität Leipzig (ohne Klinikum);;;;;;
 1011;Universität Lübeck;;;;;;
 319;Universität Magdeburg (Klinikum);;;;;;
+1223;Universität Mainz;Boehringer Ingelheim;54000000;2020 bis 2027 für Institut für Molekulare Biologie (IMB) ;;https://www.uni-mainz.de/presse/aktuell/4914_DEU_HTML.php ;https://www.spiegel.de/lebenundlernen/uni/uni-mainz-muss-vertraege-mit-boehringer-ingelheim-stiftung-offenlegen-a-1091956.html
 1223;Universität Mainz;Deutsche Post;180000;Deutsche Post DHL: ''Flexible Bezirksschneidung'' (2014 - 2016) - Mainzer Wirtschaftswissenschaften;;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
 1223;Universität Mainz;Jacobs;490000;Jacobs-Foundation: ''KIDS-WIN: Enhancing cognitive and motivational skills in children: An intervention study with primary school children'' (2012 - 2014) - Mainzer Wirtschaftswissenschaften;;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
 1223;Universität Mainz;Mann + Hummel GmbH;;MANN+HUMMEL GmbH: Theorie trifft Praxis mit MANN+HUMMEL (2011) - Mainzer Wirtschaftswissenschaften;;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
@@ -447,6 +452,5 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);proPlant GmbH Gesell. f. Agrar- und Umweltinformatik mbH;;Beteiligung;;;
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Technologieförderung Münster GmbH;;Beteiligung;;;
 1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);IPP Milnster GmbH;;Beteiligung;;;
-1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Deutsche Bank;;Verwaltung der Schiffer-Stiftung;;;
-1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Deutsche Bank;;Verwaltung des Schneider-Sasakawa-Funds;;;
+1121;WWU Westfälische Wilhems-Universität Münster (ohne Klinikum);Deutsche Bank;;Vorstandsmitglied und Schatzmeister der Förderergesellschaft;;https://www.foerderergesellschaft-fcm.de/vorstand;
 1460;Zeppelin Universität (ZU);;;;;;
