@@ -914,6 +914,10 @@ var searchdb = {
 			"slug": "alumni-bau-carolo-wilhelmina-ev"
 		},
 		{
+			"name": "Amazon",
+			"slug": "amazon"
+		},
+		{
 			"name": "Amazon und 7 Industriepartner",
 			"slug": "amazon-und-7-industriepartner"
 		},
@@ -1376,10 +1380,6 @@ var searchdb = {
 		{
 			"name": "Bayer AG",
 			"slug": "bayer-ag"
-		},
-		{
-			"name": "Bayer AG, Leverkusen",
-			"slug": "bayer-ag-leverkusen"
 		},
 		{
 			"name": "Bayer Intellectual Property",
@@ -3566,6 +3566,10 @@ var searchdb = {
 			"slug": "evon-gmbh"
 		},
 		{
+			"name": "Evonic",
+			"slug": "evonic"
+		},
+		{
 			"name": "Evonik",
 			"slug": "evonik"
 		},
@@ -3956,6 +3960,10 @@ var searchdb = {
 		{
 			"name": "Frankfurter Stiftung für krebskranke Kinder",
 			"slug": "frankfurter-stiftung-fuer-krebskranke-kinder"
+		},
+		{
+			"name": "Franz Haniel & Cie",
+			"slug": "franz-haniel-cie"
 		},
 		{
 			"name": "Franz Kessler GmbH",
@@ -4758,20 +4766,12 @@ var searchdb = {
 			"slug": "hannover-leasing-gmbh"
 		},
 		{
-			"name": "Hannover Leasing GmbH & Co. KG",
-			"slug": "hannover-leasing-gmbh-co-kg"
-		},
-		{
 			"name": "Hannover Rück SE",
 			"slug": "hannover-rueck-se"
 		},
 		{
 			"name": "Hannover Rückversicherung AG",
 			"slug": "hannover-rueckversicherung-ag"
-		},
-		{
-			"name": "Hannover Rük SE",
-			"slug": "hannover-ruek-se"
 		},
 		{
 			"name": "Hannoverimpuls GmbH",
@@ -4798,16 +4798,16 @@ var searchdb = {
 			"slug": "hans-muehlenhoff-stiftung"
 		},
 		{
-			"name": "Hans Mühlenhoff Stiftung, Osnabrück",
-			"slug": "hans-muehlenhoff-stiftung-osnabrueck"
-		},
-		{
 			"name": "Hans Peter Hamm",
 			"slug": "hans-peter-hamm"
 		},
 		{
 			"name": "Hans Sauer Stiftung",
 			"slug": "hans-sauer-stiftung"
+		},
+		{
+			"name": "Hans Soldan Stiftung",
+			"slug": "hans-soldan-stiftung"
 		},
 		{
 			"name": "Hans und Marlies Stock-Stiftung",
@@ -4820,18 +4820,6 @@ var searchdb = {
 		{
 			"name": "Hans-Fischer-Gesellschaft e.V. / 85345 Freising",
 			"slug": "hans-fischer-gesellschaft-ev-85345-freising"
-		},
-		{
-			"name": "Hans-Mühlenhoff Stiftung, Osnabrück",
-			"slug": "hans-muehlenhoff-stiftung-osnabrueck"
-		},
-		{
-			"name": "Hans-Mühlenhoff-Stiftung",
-			"slug": "hans-muehlenhoff-stiftung"
-		},
-		{
-			"name": "Hans-Mühlenhoff-Stiftung, Osnabrück",
-			"slug": "hans-muehlenhoff-stiftung-osnabrueck"
 		},
 		{
 			"name": "Hans-Peter Hamm",
@@ -5250,6 +5238,10 @@ var searchdb = {
 			"slug": "homann-feinkost-gmbh-dissen"
 		},
 		{
+			"name": "Holzgroßhandlung Fries",
+			"slug": "holzgrosshandlung-fries"
+		},
+		{
 			"name": "Homann GmbH, Dissen",
 			"slug": "homann-gmbh-dissen"
 		},
@@ -5448,6 +5440,10 @@ var searchdb = {
 		{
 			"name": "IHK Braunschweig",
 			"slug": "ihk-braunschweig"
+		},
+		{
+			"name": "IHK Essen",
+			"slug": "ihk-essen"
 		},
 		{
 			"name": "IHK Lübeck",
@@ -5862,10 +5858,6 @@ var searchdb = {
 			"slug": "iteratec-gmbh"
 		},
 		{
-			"name": "iTUBS - Innovationsgesellschaft Technische Universität Braunschweig mbH, Braunschweig",
-			"slug": "itubs-innovationsgesellschaft-technische-universitaet-braunschweig-mbh-braunschweig"
-		},
-		{
 			"name": "IURS Institut für Umwelttechnik und Recycling",
 			"slug": "iurs-institut-fuer-umwelttechnik-und-recycling"
 		},
@@ -6082,6 +6074,10 @@ var searchdb = {
 			"slug": "kardio-dex-as"
 		},
 		{
+			"name": "Hermann und Lilly Schilling Stiftung",
+			"slug": "hermann-und-lilly-schilling-stiftung"
+		},
+		{
 			"name": "Karl E, Brinkmann GmbH",
 			"slug": "karl-e-brinkmann-gmbh"
 		},
@@ -6260,6 +6256,10 @@ var searchdb = {
 		{
 			"name": "Knipex-Werk C. Gustav Putsch KG",
 			"slug": "knipex-werk-c-gustav-putsch-kg"
+		},
+		{
+			"name": "Knorr-Bremse AG",
+			"slug": "knorr-bremse-ag"
 		},
 		{
 			"name": "KNOTEN Weimar GmbH",
@@ -8542,6 +8542,10 @@ var searchdb = {
 			"slug": "restek-gmbh"
 		},
 		{
+			"name": "Rheinische Post",
+			"slug": "rheinische-post"
+		},
+		{
 			"name": "Rhein-Kreis Neuss Kulturzentrum Rommerskirchen-Sinsteden",
 			"slug": "rhein-kreis-neuss-kulturzentrum-rommerskirchen-sinsteden"
 		},
@@ -10106,6 +10110,10 @@ var searchdb = {
 			"slug": "trips-gmbh"
 		},
 		{
+			"name": "trivago",
+			"slug": "trivago"
+		},
+		{
 			"name": "Trnd AG",
 			"slug": "trnd-ag"
 		},
@@ -10136,10 +10144,6 @@ var searchdb = {
 		{
 			"name": "TU Unternehmensberatung",
 			"slug": "tu-unternehmensberatung"
-		},
-		{
-			"name": "TUBS und Familie",
-			"slug": "tubs-und-familie"
 		},
 		{
 			"name": "TUI",
@@ -10368,6 +10372,18 @@ var searchdb = {
 		{
 			"name": "VDMA - Verband Deutscher Maschinen- und Anlagenbau e.V.",
 			"slug": "vdma-verband-deutscher-maschinen-und-anlagenbau-ev"
+		},
+		{
+			"name": "VDZ gGmbH",
+			"slug": "vdz-ggmbh"
+		},
+		{
+			"name": "IKN GmbH",
+			"slug": "ikn-gmbh"
+		},
+		{
+			"name": "Redapt Deilmann GmbH",
+			"slug": "redapt-deilmann-gmbh"
 		},
 		{
 			"name": "Vector Stiftung",
