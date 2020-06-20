@@ -1,4 +1,4 @@
-const fs = require('fs');
+﻿const fs = require('fs');
 const ms = require('mustache');
 const parse = require('csv-parse/lib/sync');
 
@@ -78,6 +78,8 @@ function hochschulenLookup() {
 		hochschulen[i]['wirtschaft-2016-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2016'] );
 		hochschulen[i]['absolut-2017-string'] = beautifyCurrency( hochschulen[i]['absolut-2017'] );
 		hochschulen[i]['wirtschaft-2017-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2017'] );
+		hochschulen[i]['absolut-2018-string'] = beautifyCurrency( hochschulen[i]['absolut-2018'] );
+		hochschulen[i]['wirtschaft-2018-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2018'] );
 
 		hochschulenLookup[hochschulen[i].Name] = hochschulen[i];
 	}
@@ -371,8 +373,8 @@ template = templateHeader + template + templateFooter;
 for(var name in hochschulenTable ) {
 	var data = hochschulenTable[name];
 	data.srcpath = '../';
-	if (data['wirtschaft-2017']) {
-		data.wirtschaftPercent = Math.round(data['wirtschaft-2017'].replace(/\./g,"") * 100 / data['absolut-2017'].replace(/\./g,"")); //Entfernen der Tausenderpunkte bei Berechnung
+	if (data['wirtschaft-2018']) {
+		data.wirtschaftPercent = Math.round(data['wirtschaft-2018'].replace(/\./g,"") * 100 / data['absolut-2018'].replace(/\./g,"")); //Entfernen der Tausenderpunkte bei Berechnung
 	} else {
 		data.wirtschaftPercent = 0;
 	}
