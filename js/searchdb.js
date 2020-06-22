@@ -1,14 +1,39 @@
 var searchdb = {
 	"hochschulen": [
 		{
-			"name": "Bauhaus-Universität Weimar",
-			"bundesland": "Thüringen",
-			"slug": "bauhaus-universitaet-weimar"
+			"name": "Universität Kassel",
+			"bundesland": "Hessen",
+			"slug": "universitaet-kassel"
 		},
 		{
-			"name": "Brandenburgische TU Cottbus",
-			"bundesland": "Brandenburg",
-			"slug": "brandenburgische-tu-cottbus"
+			"name": "Universität Duisburg-Essen (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-duisburg-essen-ohne-klinikum"
+		},
+		{
+			"name": "Universität Duisburg-Essen (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-duisburg-essen-klinikum"
+		},
+		{
+			"name": "Universität Paderborn",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-paderborn"
+		},
+		{
+			"name": "Universität Siegen",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-siegen"
+		},
+		{
+			"name": "Universität Wuppertal",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-wuppertal"
+		},
+		{
+			"name": "Fernuniversität Hagen",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "fernuniversitaet-hagen"
 		},
 		{
 			"name": "Charite - Universitätsmedizin Berlin",
@@ -21,44 +46,44 @@ var searchdb = {
 			"slug": "europa-universitaet-viadrina-frankfurt-oder"
 		},
 		{
-			"name": "Fernuniversität Hagen",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "fernuniversitaet-hagen"
-		},
-		{
-			"name": "Friedrich-Schiller-Universität Jena (ohne Klinikum)",
-			"bundesland": "Thüringen",
-			"slug": "friedrich-schiller-universitaet-jena-ohne-klinikum"
-		},
-		{
-			"name": "FU Berlin",
-			"bundesland": "Berlin",
-			"slug": "fu-berlin"
-		},
-		{
-			"name": "Hafencity Universität Hamburg",
-			"bundesland": "Hamburg",
-			"slug": "hafencity-universitaet-hamburg"
-		},
-		{
 			"name": "Humboldt-Universität zu Berlin",
 			"bundesland": "Berlin",
 			"slug": "humboldt-universitaet-zu-berlin"
 		},
 		{
-			"name": "Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
-			"bundesland": "Baden-Württemberg",
-			"slug": "karlsruher-institut-fuer-technologie-kit-bereich-hochschule"
+			"name": "Brandenburgische TU Cottbus",
+			"bundesland": "Brandenburg",
+			"slug": "brandenburgische-tu-cottbus"
 		},
 		{
-			"name": "Leuphana Universität Lüneburg",
-			"bundesland": "Niedersachsen",
-			"slug": "leuphana-universitaet-lueneburg"
+			"name": "Universität Rostock (ohne Klinikum)",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "universitaet-rostock-ohne-klinikum"
 		},
 		{
-			"name": "Medizinische Hochschule Hannover",
-			"bundesland": "Niedersachsen",
-			"slug": "medizinische-hochschule-hannover"
+			"name": "Universität Rostock (Klinikum)",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "universitaet-rostock-klinikum"
+		},
+		{
+			"name": "Universität Greifswald (ohne Klinikum)",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "universitaet-greifswald-ohne-klinikum"
+		},
+		{
+			"name": "Universität Greifswald (Klinikum)",
+			"bundesland": "Mecklenburg-Vorpommern",
+			"slug": "universitaet-greifswald-klinikum"
+		},
+		{
+			"name": "Universität Halle (ohne Klinikum)",
+			"bundesland": "Sachsen-Anhalt",
+			"slug": "universitaet-halle-ohne-klinikum"
+		},
+		{
+			"name": "Universität Halle (Klinikum)",
+			"bundesland": "Sachsen-Anhalt",
+			"slug": "universitaet-halle-klinikum"
 		},
 		{
 			"name": "Otto-von-Guericke-Universität Magdeburg (ohne Klinikum)",
@@ -66,59 +91,19 @@ var searchdb = {
 			"slug": "otto-von-guericke-universitaet-magdeburg-ohne-klinikum"
 		},
 		{
-			"name": "Ruhr-Universität Bochum (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "ruhr-universitaet-bochum-ohne-klinikum"
+			"name": "Universität Magdeburg (Klinikum)",
+			"bundesland": "Sachsen-Anhalt",
+			"slug": "universitaet-magdeburg-klinikum"
 		},
 		{
-			"name": "RWTH Aachen (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "rwth-aachen-klinikum"
-		},
-		{
-			"name": "RWTH Aachen (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "rwth-aachen-ohne-klinikum"
-		},
-		{
-			"name": "Technische Universität Dortmund",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "technische-universitaet-dortmund"
-		},
-		{
-			"name": "TU Bergakademie Freiberg",
+			"name": "Universität Leipzig (ohne Klinikum)",
 			"bundesland": "Sachsen",
-			"slug": "tu-bergakademie-freiberg"
+			"slug": "universitaet-leipzig-ohne-klinikum"
 		},
 		{
-			"name": "TU Berlin",
-			"bundesland": "Berlin",
-			"slug": "tu-berlin"
-		},
-		{
-			"name": "TU Braunschweig",
-			"bundesland": "Niedersachsen",
-			"slug": "tu-braunschweig"
-		},
-		{
-			"name": "TU Chemnitz",
+			"name": "Universität Leipzig (Klinikum)",
 			"bundesland": "Sachsen",
-			"slug": "tu-chemnitz"
-		},
-		{
-			"name": "TU Clausthal",
-			"bundesland": "Niedersachsen",
-			"slug": "tu-clausthal"
-		},
-		{
-			"name": "TU Darmstadt",
-			"bundesland": "Hessen",
-			"slug": "tu-darmstadt"
-		},
-		{
-			"name": "TU Dresden (Klinikum)",
-			"bundesland": "Sachsen",
-			"slug": "tu-dresden-klinikum"
+			"slug": "universitaet-leipzig-klinikum"
 		},
 		{
 			"name": "TU Dresden (ohne Klinikum)",
@@ -126,34 +111,29 @@ var searchdb = {
 			"slug": "tu-dresden-ohne-klinikum"
 		},
 		{
-			"name": "TU Hamburg-Harburg",
-			"bundesland": "Hamburg",
-			"slug": "tu-hamburg-harburg"
+			"name": "TU Dresden (Klinikum)",
+			"bundesland": "Sachsen",
+			"slug": "tu-dresden-klinikum"
 		},
 		{
-			"name": "TU Ilmenau",
+			"name": "TU Chemnitz",
+			"bundesland": "Sachsen",
+			"slug": "tu-chemnitz"
+		},
+		{
+			"name": "TU Bergakademie Freiberg",
+			"bundesland": "Sachsen",
+			"slug": "tu-bergakademie-freiberg"
+		},
+		{
+			"name": "Friedrich-Schiller-Universität Jena (ohne Klinikum)",
 			"bundesland": "Thüringen",
-			"slug": "tu-ilmenau"
+			"slug": "friedrich-schiller-universitaet-jena-ohne-klinikum"
 		},
 		{
-			"name": "TU Kaiserslautern",
-			"bundesland": "Rheinland-Pfalz",
-			"slug": "tu-kaiserslautern"
-		},
-		{
-			"name": "TU München (Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "tu-muenchen-klinikum"
-		},
-		{
-			"name": "TU München (ohne Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "tu-muenchen-ohne-klinikum"
-		},
-		{
-			"name": "Universität Augsburg",
-			"bundesland": "Bayern",
-			"slug": "universitaet-augsburg"
+			"name": "Universität Jena (Klinikum)",
+			"bundesland": "Thüringen",
+			"slug": "universitaet-jena-klinikum"
 		},
 		{
 			"name": "Universität Bamberg",
@@ -166,59 +146,29 @@ var searchdb = {
 			"slug": "universitaet-bayreuth"
 		},
 		{
-			"name": "Universität Bielefeld",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-bielefeld"
+			"name": "Universität Oldenburg",
+			"bundesland": "Niedersachsen",
+			"slug": "universitaet-oldenburg"
 		},
 		{
-			"name": "Universität Bochum (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-bochum-klinikum"
+			"name": "Universität Osnabrück",
+			"bundesland": "Niedersachsen",
+			"slug": "universitaet-osnabrueck"
 		},
 		{
-			"name": "Universität Bonn (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-bonn-klinikum"
+			"name": "Universität Passau",
+			"bundesland": "Bayern",
+			"slug": "universitaet-passau"
 		},
 		{
-			"name": "Universität Bonn (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-bonn-ohne-klinikum"
+			"name": "Bauhaus-Universität Weimar",
+			"bundesland": "Thüringen",
+			"slug": "bauhaus-universitaet-weimar"
 		},
 		{
-			"name": "Universität Bremen",
-			"bundesland": "Bremen",
-			"slug": "universitaet-bremen"
-		},
-		{
-			"name": "Universität des Saarlandes Saarbrücken in Saarbrücken",
-			"bundesland": "Saarland",
-			"slug": "universitaet-des-saarlandes-saarbruecken-in-saarbruecken"
-		},
-		{
-			"name": "Universität des Saarlandes Saarbrücken, Homburg/Saar",
-			"bundesland": "Saarland",
-			"slug": "universitaet-des-saarlandes-saarbruecken-homburgsaar"
-		},
-		{
-			"name": "Universität Duisburg-Essen (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-duisburg-essen-klinikum"
-		},
-		{
-			"name": "Universität Duisburg-Essen (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-duisburg-essen-ohne-klinikum"
-		},
-		{
-			"name": "Universität Düsseldorf (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-duesseldorf-klinikum"
-		},
-		{
-			"name": "Universität Düsseldorf (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-duesseldorf-ohne-klinikum"
+			"name": "TU Ilmenau",
+			"bundesland": "Thüringen",
+			"slug": "tu-ilmenau"
 		},
 		{
 			"name": "Universität Erfurt",
@@ -226,79 +176,39 @@ var searchdb = {
 			"slug": "universitaet-erfurt"
 		},
 		{
-			"name": "Universität Erlangen-Nürnberg",
-			"bundesland": "Bayern",
-			"slug": "universitaet-erlangen-nuernberg"
-		},
-		{
-			"name": "Universität Erlangen-Nürnberg (Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-erlangen-nuernberg-klinikum"
-		},
-		{
-			"name": "Universität Flensburg",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "universitaet-flensburg"
-		},
-		{
-			"name": "Universität Frankfurt a.M. (Klinikum)",
-			"bundesland": "Hessen",
-			"slug": "universitaet-frankfurt-am-klinikum"
-		},
-		{
-			"name": "Universität Frankfurt a.M. (ohne Klinikum)",
-			"bundesland": "Hessen",
-			"slug": "universitaet-frankfurt-am-ohne-klinikum"
-		},
-		{
-			"name": "Universität Freiburg i.Br. (Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-freiburg-ibr-klinikum"
-		},
-		{
-			"name": "Universität Freiburg i.Br. (ohne Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-freiburg-ibr-ohne-klinikum"
-		},
-		{
-			"name": "Universität Gießen",
-			"bundesland": "Hessen",
-			"slug": "universitaet-giessen"
-		},
-		{
-			"name": "Universität Göttingen (Klinikum)",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-goettingen-klinikum"
-		},
-		{
-			"name": "Universität Göttingen (ohne Klinikum)",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-goettingen-ohne-klinikum"
-		},
-		{
-			"name": "Universität Greifswald (Klinikum)",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "universitaet-greifswald-klinikum"
-		},
-		{
-			"name": "Universität Greifswald (ohne Klinikum)",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "universitaet-greifswald-ohne-klinikum"
-		},
-		{
-			"name": "Universität Halle (Klinikum)",
-			"bundesland": "Sachsen-Anhalt",
-			"slug": "universitaet-halle-klinikum"
-		},
-		{
-			"name": "Universität Halle (ohne Klinikum)",
-			"bundesland": "Sachsen-Anhalt",
-			"slug": "universitaet-halle-ohne-klinikum"
-		},
-		{
-			"name": "Universität Hamburg (Klinikum)",
+			"name": "Hafencity Universität Hamburg",
 			"bundesland": "Hamburg",
-			"slug": "universitaet-hamburg-klinikum"
+			"slug": "hafencity-universitaet-hamburg"
+		},
+		{
+			"name": "Universitätsklinikum Schleswig-Holstein",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "universitaetsklinikum-schleswig-holstein"
+		},
+		{
+			"name": "Universität Vechta",
+			"bundesland": "Niedersachsen",
+			"slug": "universitaet-vechta"
+		},
+		{
+			"name": "Universität Hildesheim",
+			"bundesland": "Niedersachsen",
+			"slug": "universitaet-hildesheim"
+		},
+		{
+			"name": "Leuphana Universität Lüneburg",
+			"bundesland": "Niedersachsen",
+			"slug": "leuphana-universitaet-lueneburg"
+		},
+		{
+			"name": "Universität Kiel",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "universitaet-kiel"
+		},
+		{
+			"name": "Universität Lübeck",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "universitaet-luebeck"
 		},
 		{
 			"name": "Universität Hamburg (ohne Klinikum)",
@@ -306,9 +216,139 @@ var searchdb = {
 			"slug": "universitaet-hamburg-ohne-klinikum"
 		},
 		{
-			"name": "Universität Hannover",
+			"name": "Universität Hamburg (Klinikum)",
+			"bundesland": "Hamburg",
+			"slug": "universitaet-hamburg-klinikum"
+		},
+		{
+			"name": "Universität Göttingen (ohne Klinikum)",
 			"bundesland": "Niedersachsen",
-			"slug": "universitaet-hannover"
+			"slug": "universitaet-goettingen-ohne-klinikum"
+		},
+		{
+			"name": "Universität Göttingen (Klinikum)",
+			"bundesland": "Niedersachsen",
+			"slug": "universitaet-goettingen-klinikum"
+		},
+		{
+			"name": "TU Hamburg-Harburg",
+			"bundesland": "Hamburg",
+			"slug": "tu-hamburg-harburg"
+		},
+		{
+			"name": "Universität Bremen",
+			"bundesland": "Bremen",
+			"slug": "universitaet-bremen"
+		},
+		{
+			"name": "Ruhr-Universität Bochum (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "ruhr-universitaet-bochum-ohne-klinikum"
+		},
+		{
+			"name": "Universität Bochum (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-bochum-klinikum"
+		},
+		{
+			"name": "Universität Bonn (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-bonn-ohne-klinikum"
+		},
+		{
+			"name": "Universität Bonn (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-bonn-klinikum"
+		},
+		{
+			"name": "Universität Düsseldorf (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-duesseldorf-ohne-klinikum"
+		},
+		{
+			"name": "Universität Düsseldorf (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-duesseldorf-klinikum"
+		},
+		{
+			"name": "Universität zu Köln (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-zu-koeln-ohne-klinikum"
+		},
+		{
+			"name": "Universität Köln (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-koeln-klinikum"
+		},
+		{
+			"name": "WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "wwu-westfaelische-wilhems-universitaet-muenster-ohne-klinikum"
+		},
+		{
+			"name": "Universität Münster (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-muenster-klinikum"
+		},
+		{
+			"name": "Technische Universität Dortmund",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "technische-universitaet-dortmund"
+		},
+		{
+			"name": "Universität Bielefeld",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "universitaet-bielefeld"
+		},
+		{
+			"name": "Universität Frankfurt a.M. (ohne Klinikum)",
+			"bundesland": "Hessen",
+			"slug": "universitaet-frankfurt-am-ohne-klinikum"
+		},
+		{
+			"name": "Universität Frankfurt a.M. (Klinikum)",
+			"bundesland": "Hessen",
+			"slug": "universitaet-frankfurt-am-klinikum"
+		},
+		{
+			"name": "Universität Gießen",
+			"bundesland": "Hessen",
+			"slug": "universitaet-giessen"
+		},
+		{
+			"name": "Universität Marburg",
+			"bundesland": "Hessen",
+			"slug": "universitaet-marburg"
+		},
+		{
+			"name": "Universität Trier",
+			"bundesland": "Rheinland-Pfalz",
+			"slug": "universitaet-trier"
+		},
+		{
+			"name": "TU Kaiserslautern",
+			"bundesland": "Rheinland-Pfalz",
+			"slug": "tu-kaiserslautern"
+		},
+		{
+			"name": "Universität Mainz",
+			"bundesland": "Rheinland-Pfalz",
+			"slug": "universitaet-mainz"
+		},
+		{
+			"name": "Universität Freiburg i.Br. (ohne Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-freiburg-ibr-ohne-klinikum"
+		},
+		{
+			"name": "Universität Freiburg i.Br. (Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-freiburg-ibr-klinikum"
+		},
+		{
+			"name": "Universität Heidelberg (ohne Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-heidelberg-ohne-klinikum"
 		},
 		{
 			"name": "Universität Heidelberg - Medizinische Fakultät Mannheim",
@@ -321,164 +361,9 @@ var searchdb = {
 			"slug": "universitaet-heidelberg-klinikum"
 		},
 		{
-			"name": "Universität Heidelberg (ohne Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-heidelberg-ohne-klinikum"
-		},
-		{
-			"name": "Universität Hildesheim",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-hildesheim"
-		},
-		{
-			"name": "Universität Hohenheim",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-hohenheim"
-		},
-		{
-			"name": "Universität Jena (Klinikum)",
-			"bundesland": "Thüringen",
-			"slug": "universitaet-jena-klinikum"
-		},
-		{
-			"name": "Universität Kassel",
-			"bundesland": "Hessen",
-			"slug": "universitaet-kassel"
-		},
-		{
-			"name": "Universität Kiel",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "universitaet-kiel"
-		},
-		{
-			"name": "Universität Koblenz-Landau",
-			"bundesland": "Rheinland-Pfalz",
-			"slug": "universitaet-koblenz-landau"
-		},
-		{
-			"name": "Universität Köln (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-koeln-klinikum"
-		},
-		{
 			"name": "Universität Konstanz",
 			"bundesland": "Baden-Württemberg",
 			"slug": "universitaet-konstanz"
-		},
-		{
-			"name": "Universität Leipzig (Klinikum)",
-			"bundesland": "Sachsen",
-			"slug": "universitaet-leipzig-klinikum"
-		},
-		{
-			"name": "Universität Leipzig (ohne Klinikum)",
-			"bundesland": "Sachsen",
-			"slug": "universitaet-leipzig-ohne-klinikum"
-		},
-		{
-			"name": "Universität Lübeck",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "universitaet-luebeck"
-		},
-		{
-			"name": "Universität Magdeburg (Klinikum)",
-			"bundesland": "Sachsen-Anhalt",
-			"slug": "universitaet-magdeburg-klinikum"
-		},
-		{
-			"name": "Universität Mainz",
-			"bundesland": "Rheinland-Pfalz",
-			"slug": "universitaet-mainz"
-		},
-		{
-			"name": "Universität Mannheim",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-mannheim"
-		},
-		{
-			"name": "Universität Marburg",
-			"bundesland": "Hessen",
-			"slug": "universitaet-marburg"
-		},
-		{
-			"name": "Universität München (Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-muenchen-klinikum"
-		},
-		{
-			"name": "Universität München (ohne Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-muenchen-ohne-klinikum"
-		},
-		{
-			"name": "Universität Münster (Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-muenster-klinikum"
-		},
-		{
-			"name": "Universität Oldenburg",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-oldenburg"
-		},
-		{
-			"name": "Universität Osnabrück",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-osnabrueck"
-		},
-		{
-			"name": "Universität Paderborn",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-paderborn"
-		},
-		{
-			"name": "Universität Passau",
-			"bundesland": "Bayern",
-			"slug": "universitaet-passau"
-		},
-		{
-			"name": "Universität Potsdam",
-			"bundesland": "Brandenburg",
-			"slug": "universitaet-potsdam"
-		},
-		{
-			"name": "Universität Regensburg (Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-regensburg-klinikum"
-		},
-		{
-			"name": "Universität Regensburg (ohne Klinikum)",
-			"bundesland": "Bayern",
-			"slug": "universitaet-regensburg-ohne-klinikum"
-		},
-		{
-			"name": "Universität Rostock (Klinikum)",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "universitaet-rostock-klinikum"
-		},
-		{
-			"name": "Universität Rostock (ohne Klinikum)",
-			"bundesland": "Mecklenburg-Vorpommern",
-			"slug": "universitaet-rostock-ohne-klinikum"
-		},
-		{
-			"name": "Universität Siegen",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-siegen"
-		},
-		{
-			"name": "Universität Stuttgart",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-stuttgart"
-		},
-		{
-			"name": "Universität Trier",
-			"bundesland": "Rheinland-Pfalz",
-			"slug": "universitaet-trier"
-		},
-		{
-			"name": "Universität Tübingen (Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-tuebingen-klinikum"
 		},
 		{
 			"name": "Universität Tübingen (ohne Klinikum)",
@@ -486,29 +371,34 @@ var searchdb = {
 			"slug": "universitaet-tuebingen-ohne-klinikum"
 		},
 		{
-			"name": "Universität Ulm (Klinikum)",
+			"name": "Universität Tübingen (Klinikum)",
 			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-ulm-klinikum"
+			"slug": "universitaet-tuebingen-klinikum"
 		},
 		{
-			"name": "Universität Ulm (ohne Klinikum)",
-			"bundesland": "Baden-Württemberg",
-			"slug": "universitaet-ulm-ohne-klinikum"
+			"name": "Universität Koblenz-Landau",
+			"bundesland": "Rheinland-Pfalz",
+			"slug": "universitaet-koblenz-landau"
 		},
 		{
-			"name": "Universität Vechta",
-			"bundesland": "Niedersachsen",
-			"slug": "universitaet-vechta"
-		},
-		{
-			"name": "Universität Wuppertal",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-wuppertal"
-		},
-		{
-			"name": "Universität Würzburg (Klinikum)",
+			"name": "Universität Erlangen-Nürnberg",
 			"bundesland": "Bayern",
-			"slug": "universitaet-wuerzburg-klinikum"
+			"slug": "universitaet-erlangen-nuernberg"
+		},
+		{
+			"name": "Universität Erlangen-Nürnberg (Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitaet-erlangen-nuernberg-klinikum"
+		},
+		{
+			"name": "Universität München (ohne Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitaet-muenchen-ohne-klinikum"
+		},
+		{
+			"name": "Universität München (Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitaet-muenchen-klinikum"
 		},
 		{
 			"name": "Universität Würzburg (ohne Klinikum)",
@@ -516,14 +406,39 @@ var searchdb = {
 			"slug": "universitaet-wuerzburg-ohne-klinikum"
 		},
 		{
-			"name": "Universität zu Köln (ohne Klinikum)",
-			"bundesland": "Nordrhein-Westfalen",
-			"slug": "universitaet-zu-koeln-ohne-klinikum"
+			"name": "Universität Würzburg (Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitaet-wuerzburg-klinikum"
 		},
 		{
-			"name": "Universitätsklinikum Schleswig-Holstein",
-			"bundesland": "Schleswig-Holstein",
-			"slug": "universitaetsklinikum-schleswig-holstein"
+			"name": "Universität Regensburg (ohne Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitaet-regensburg-ohne-klinikum"
+		},
+		{
+			"name": "Universität Regensburg (Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "universitaet-regensburg-klinikum"
+		},
+		{
+			"name": "Universität Augsburg",
+			"bundesland": "Bayern",
+			"slug": "universitaet-augsburg"
+		},
+		{
+			"name": "Universität des Saarlandes Saarbrücken in Saarbrücken",
+			"bundesland": "Saarland",
+			"slug": "universitaet-des-saarlandes-saarbruecken-in-saarbruecken"
+		},
+		{
+			"name": "Universität des Saarlandes Saarbrücken, Homburg/Saar",
+			"bundesland": "Saarland",
+			"slug": "universitaet-des-saarlandes-saarbruecken-homburgsaar"
+		},
+		{
+			"name": "FU Berlin",
+			"bundesland": "Berlin",
+			"slug": "fu-berlin"
 		},
 		{
 			"name": "Universitätsmedizin der Johannes Gutenberg-Universität Mainz",
@@ -531,9 +446,94 @@ var searchdb = {
 			"slug": "universitaetsmedizin-der-johannes-gutenberg-universitaet-mainz"
 		},
 		{
-			"name": "WWU Westfälische Wilhems-Universität Münster (ohne Klinikum)",
+			"name": "TU Braunschweig",
+			"bundesland": "Niedersachsen",
+			"slug": "tu-braunschweig"
+		},
+		{
+			"name": "TU Clausthal",
+			"bundesland": "Niedersachsen",
+			"slug": "tu-clausthal"
+		},
+		{
+			"name": "Universität Hannover",
+			"bundesland": "Niedersachsen",
+			"slug": "universitaet-hannover"
+		},
+		{
+			"name": "RWTH Aachen (ohne Klinikum)",
 			"bundesland": "Nordrhein-Westfalen",
-			"slug": "wwu-westfaelische-wilhems-universitaet-muenster-ohne-klinikum"
+			"slug": "rwth-aachen-ohne-klinikum"
+		},
+		{
+			"name": "RWTH Aachen (Klinikum)",
+			"bundesland": "Nordrhein-Westfalen",
+			"slug": "rwth-aachen-klinikum"
+		},
+		{
+			"name": "TU Darmstadt",
+			"bundesland": "Hessen",
+			"slug": "tu-darmstadt"
+		},
+		{
+			"name": "Karlsruher Institut für Technologie (KIT) - Bereich Hochschule",
+			"bundesland": "Baden-Württemberg",
+			"slug": "karlsruher-institut-fuer-technologie-kit-bereich-hochschule"
+		},
+		{
+			"name": "Universität Stuttgart",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-stuttgart"
+		},
+		{
+			"name": "TU München (ohne Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "tu-muenchen-ohne-klinikum"
+		},
+		{
+			"name": "TU München (Klinikum)",
+			"bundesland": "Bayern",
+			"slug": "tu-muenchen-klinikum"
+		},
+		{
+			"name": "TU Berlin",
+			"bundesland": "Berlin",
+			"slug": "tu-berlin"
+		},
+		{
+			"name": "Medizinische Hochschule Hannover",
+			"bundesland": "Niedersachsen",
+			"slug": "medizinische-hochschule-hannover"
+		},
+		{
+			"name": "Universität Hohenheim",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-hohenheim"
+		},
+		{
+			"name": "Universität Mannheim",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-mannheim"
+		},
+		{
+			"name": "Universität Ulm (ohne Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-ulm-ohne-klinikum"
+		},
+		{
+			"name": "Universität Ulm (Klinikum)",
+			"bundesland": "Baden-Württemberg",
+			"slug": "universitaet-ulm-klinikum"
+		},
+		{
+			"name": "Universität Flensburg",
+			"bundesland": "Schleswig-Holstein",
+			"slug": "universitaet-flensburg"
+		},
+		{
+			"name": "Universität Potsdam",
+			"bundesland": "Brandenburg",
+			"slug": "universitaet-potsdam"
 		}
 	],
 	"foerderer": [
@@ -3518,6 +3518,10 @@ var searchdb = {
 			"slug": "euromechanics-medical-gmbh"
 		},
 		{
+			"name": "EUROPA-CENTER Uwe Heinrich Suhr Stiftung",
+			"slug": "europa-center-uwe-heinrich-suhr-stiftung"
+		},
+		{
 			"name": "European Mechanics Society EUROMECH",
 			"slug": "european-mechanics-society-euromech"
 		},
@@ -5884,6 +5888,10 @@ var searchdb = {
 		{
 			"name": "Janssen Cilag GmbH",
 			"slug": "janssen-cilag-gmbh"
+		},
+		{
+			"name": "Janssen Deutschland",
+			"slug": "janssen-deutschland"
 		},
 		{
 			"name": "JC Autobatterie GmbH & Co. KGaA",
@@ -9314,8 +9322,8 @@ var searchdb = {
 			"slug": "sparkasse-mittelsachsen"
 		},
 		{
-			"name": "Sparkasse Mittelthü- ringen",
-			"slug": "sparkasse-mittelthu-ringen"
+			"name": "Sparkasse Mittelthüringen",
+			"slug": "sparkasse-mittelthuringen"
 		},
 		{
 			"name": "Sparkasse Oberlausitz-Niederschlesien",
@@ -9340,6 +9348,10 @@ var searchdb = {
 		{
 			"name": "Sparkassen-Finanzgruppe",
 			"slug": "sparkassen-finanzgruppe"
+		},
+		{
+			"name": "Sparkassenverbände",
+			"slug": "sparkassenverbaende"
 		},
 		{
 			"name": "Sparkassenstiftung Erfurt",
