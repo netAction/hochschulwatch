@@ -538,10 +538,6 @@ var searchdb = {
 	],
 	"foerderer": [
 		{
-			"name": "Osnabrück-Emsland",
-			"slug": "osnabrueck-emsland"
-		},
-		{
 			"name": ":em engineering methods AG",
 			"slug": "em-engineering-methods-ag"
 		},
@@ -1200,6 +1196,10 @@ var searchdb = {
 		{
 			"name": "Avacon Natur GmbH",
 			"slug": "avacon-natur-gmbh"
+		},
+		{
+			"name": "AVX Corporation",
+			"slug": "avx-corporation"
 		},
 		{
 			"name": "AWD",
@@ -2392,6 +2392,10 @@ var searchdb = {
 		{
 			"name": "Damien Hirst ESQ",
 			"slug": "damien-hirst-esq"
+		},
+		{
+			"name": "Damp Stiftung",
+			"slug": "damp-stiftung"
 		},
 		{
 			"name": "DASGIP AG",
@@ -4438,6 +4442,10 @@ var searchdb = {
 			"slug": "gesellschaft-zur-foerderung-der-fachrichtung-geodaesie-und-geoinformatik"
 		},
 		{
+			"name": "gesetzliche Unfallversicherung",
+			"slug": "gesetzliche-unfallversicherung"
+		},
+		{
 			"name": "Geseundheitsregion Osnabrück-Emsland",
 			"slug": "geseundheitsregion-osnabrueck-emsland"
 		},
@@ -5082,6 +5090,10 @@ var searchdb = {
 			"slug": "hermann-und-else-schnabel-stiftung-20354-hamburg"
 		},
 		{
+			"name": "Hermann und Lilly Schilling Stiftung",
+			"slug": "hermann-und-lilly-schilling-stiftung"
+		},
+		{
 			"name": "Hermann Veeh GmbH & Co. KG",
 			"slug": "hermann-veeh-gmbh-co-kg"
 		},
@@ -5234,16 +5246,16 @@ var searchdb = {
 			"slug": "holtzbrinck-stiftung"
 		},
 		{
+			"name": "Holzgroßhandlung Fries",
+			"slug": "holzgrosshandlung-fries"
+		},
+		{
 			"name": "Holzhauer, Helmut, Dr.",
 			"slug": "holzhauer-helmut-dr"
 		},
 		{
 			"name": "Homann Feinkost GmbH, Dissen",
 			"slug": "homann-feinkost-gmbh-dissen"
-		},
-		{
-			"name": "Holzgroßhandlung Fries",
-			"slug": "holzgrosshandlung-fries"
 		},
 		{
 			"name": "Homann GmbH, Dissen",
@@ -5456,6 +5468,10 @@ var searchdb = {
 		{
 			"name": "IHK Ostbrandenburg",
 			"slug": "ihk-ostbrandenburg"
+		},
+		{
+			"name": "IKN GmbH",
+			"slug": "ikn-gmbh"
 		},
 		{
 			"name": "IKN GmbH - Ingenieurbüro Kühlerbau",
@@ -6082,10 +6098,6 @@ var searchdb = {
 			"slug": "kardio-dex-as"
 		},
 		{
-			"name": "Hermann und Lilly Schilling Stiftung",
-			"slug": "hermann-und-lilly-schilling-stiftung"
-		},
-		{
 			"name": "Karl E, Brinkmann GmbH",
 			"slug": "karl-e-brinkmann-gmbh"
 		},
@@ -6408,6 +6420,10 @@ var searchdb = {
 		{
 			"name": "Kunstförderverein Kunstladen e.V.",
 			"slug": "kunstfoerderverein-kunstladen-ev"
+		},
+		{
+			"name": "Kunststofftechnikfirmen",
+			"slug": "kunststofftechnikfirmen"
 		},
 		{
 			"name": "Kur- und Rehaklinik GmbH",
@@ -7826,6 +7842,10 @@ var searchdb = {
 			"slug": "oskar-frech-gmbh-co-kg"
 		},
 		{
+			"name": "Osnabrück-Emsland",
+			"slug": "osnabrueck-emsland"
+		},
+		{
 			"name": "Osnabrücker Steuerforum",
 			"slug": "osnabruecker-steuerforum"
 		},
@@ -8494,6 +8514,10 @@ var searchdb = {
 			"slug": "rechtsanwaltskammer-celle"
 		},
 		{
+			"name": "Redapt Deilmann GmbH",
+			"slug": "redapt-deilmann-gmbh"
+		},
+		{
 			"name": "Regina e.V.",
 			"slug": "regina-ev"
 		},
@@ -8504,6 +8528,10 @@ var searchdb = {
 		{
 			"name": "Region Hannover",
 			"slug": "region-hannover"
+		},
+		{
+			"name": "regionale Unternehmen",
+			"slug": "regionale-unternehmen"
 		},
 		{
 			"name": "Reha aktiv 2000",
@@ -8550,16 +8578,16 @@ var searchdb = {
 			"slug": "restek-gmbh"
 		},
 		{
-			"name": "Rheinische Post",
-			"slug": "rheinische-post"
-		},
-		{
 			"name": "Rhein-Kreis Neuss Kulturzentrum Rommerskirchen-Sinsteden",
 			"slug": "rhein-kreis-neuss-kulturzentrum-rommerskirchen-sinsteden"
 		},
 		{
 			"name": "Rhein-Main-Verkehrsverbund GMBH",
 			"slug": "rhein-main-verkehrsverbund-gmbh"
+		},
+		{
+			"name": "Rheinische Post",
+			"slug": "rheinische-post"
 		},
 		{
 			"name": "Rheinmetall Auromotive AG",
@@ -9350,12 +9378,12 @@ var searchdb = {
 			"slug": "sparkassen-finanzgruppe"
 		},
 		{
-			"name": "Sparkassenverbände",
-			"slug": "sparkassenverbaende"
-		},
-		{
 			"name": "Sparkassenstiftung Erfurt",
 			"slug": "sparkassenstiftung-erfurt"
+		},
+		{
+			"name": "Sparkassenverbände",
+			"slug": "sparkassenverbaende"
 		},
 		{
 			"name": "SPECS GmbH",
@@ -10388,14 +10416,6 @@ var searchdb = {
 		{
 			"name": "VDZ gGmbH",
 			"slug": "vdz-ggmbh"
-		},
-		{
-			"name": "IKN GmbH",
-			"slug": "ikn-gmbh"
-		},
-		{
-			"name": "Redapt Deilmann GmbH",
-			"slug": "redapt-deilmann-gmbh"
 		},
 		{
 			"name": "Vector Stiftung",
