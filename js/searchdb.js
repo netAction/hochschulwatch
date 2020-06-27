@@ -1214,6 +1214,10 @@ var searchdb = {
 			"slug": "axa-research-funds"
 		},
 		{
+			"name": "Axon Enterprise",
+			"slug": "axon-enterprise"
+		},
+		{
 			"name": "axxo Design Horst Krieger KG",
 			"slug": "axxo-design-horst-krieger-kg"
 		},
