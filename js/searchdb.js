@@ -1378,6 +1378,10 @@ var searchdb = {
 			"slug": "baxter-deutschland-gmbh"
 		},
 		{
+			"name": "Bayer Technology Services",
+			"slug": "bayer-technology-services"
+		},
+		{
 			"name": "Bayer",
 			"slug": "bayer"
 		},
