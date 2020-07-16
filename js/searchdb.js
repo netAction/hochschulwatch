@@ -3282,6 +3282,10 @@ var searchdb = {
 			"slug": "egypt-exploration-society"
 		},
 		{
+			"name": "EHG Service GmbH",
+			"slug": "ehg-service-gmbh"
+		},
+		{
 			"name": "Eilhauser Maschinenbau GmbH",
 			"slug": "eilhauser-maschinenbau-gmbh"
 		},
@@ -4532,6 +4536,10 @@ var searchdb = {
 		{
 			"name": "GLOBALFOUNDRIES",
 			"slug": "globalfoundries"
+		},
+		{
+			"name": "GLS Bank Bochum",
+			"slug": "gls-bank-bochum"
 		},
 		{
 			"name": "GMC Systems mbH",
@@ -8146,6 +8154,10 @@ var searchdb = {
 			"slug": "preussler-robin"
 		},
 		{
+			"name": "Professor Werdelmann-Stiftung",
+			"slug": "professor-werdelmann-stiftung"
+		},
+		{
 			"name": "PricewaterhousCoopers AG",
 			"slug": "pricewaterhouscoopers-ag"
 		},
@@ -9134,10 +9146,6 @@ var searchdb = {
 			"slug": "sick-ag"
 		},
 		{
-			"name": "SICK AG",
-			"slug": "sick-ag"
-		},
-		{
 			"name": "Sidley Austin LLP",
 			"slug": "sidley-austin-llp"
 		},
@@ -9147,10 +9155,6 @@ var searchdb = {
 		},
 		{
 			"name": "Siemens AG",
-			"slug": "siemens-ag"
-		},
-		{
-			"name": "SIEMENS AG",
 			"slug": "siemens-ag"
 		},
 		{
