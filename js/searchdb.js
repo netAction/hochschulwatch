@@ -3262,6 +3262,10 @@ var searchdb = {
 			"slug": "eckcellent-it-gmbh"
 		},
 		{
+			"name": "econcept AG",
+			"slug": "econcept-ag"
+		},
+		{
 			"name": "Ed. Züblin AG",
 			"slug": "ed-zueblin-ag"
 		},
@@ -5302,7 +5306,7 @@ var searchdb = {
 			"slug": "hornhues-stiftung-pro-afrika"
 		},
 		{
-			"name": "Horphag Research Ltd",
+			"name": "Horphag Research Ltd.",
 			"slug": "horphag-research-ltd"
 		},
 		{
