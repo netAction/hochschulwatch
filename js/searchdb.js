@@ -1734,6 +1734,10 @@ var searchdb = {
 			"slug": "bpr-dr-schapertons-partner"
 		},
 		{
+			"name": "BPW baumgart+partner",
+			"slug": "bpw-baumgartpartner"
+		},
+		{
 			"name": "Brahms Diagnostika",
 			"slug": "brahms-diagnostika"
 		},
@@ -2612,6 +2616,10 @@ var searchdb = {
 		{
 			"name": "Deutsche Kreditbank (DK",
 			"slug": "deutsche-kreditbank-dk"
+		},
+		{
+			"name": "Deutsche Landwirtschafts-Gesellschaft",
+			"slug": "deutsche-landwirtschafts-gesellschaft"
 		},
 		{
 			"name": "Deutsche Messe AG",
@@ -3838,6 +3846,10 @@ var searchdb = {
 			"slug": "forder-und-freundeskreis-tu-ev"
 		},
 		{
+			"name": "Förderfond Wissenschaft in Berlin",
+			"slug": "foerderfond-wissenschaft-in-berlin"
+		},
+		{
 			"name": "Fördergesellschaft Finanzmarktforschung e.V.",
 			"slug": "foerdergesellschaft-finanzmarktforschung-ev"
 		},
@@ -5018,14 +5030,6 @@ var searchdb = {
 			"slug": "hellmann-worldwide-logistics-gmbh-co-kg"
 		},
 		{
-			"name": "Helmholtz Zentrum München",
-			"slug": "helmholtz-zentrum-muenchen"
-		},
-		{
-			"name": "Helmholtz-Allianz",
-			"slug": "helmholtz-allianz"
-		},
-		{
 			"name": "Helmut Kempkes GmbH",
 			"slug": "helmut-kempkes-gmbh"
 		},
@@ -5298,6 +5302,10 @@ var searchdb = {
 			"slug": "hornhues-stiftung-pro-afrika"
 		},
 		{
+			"name": "Horphag Research Ltd",
+			"slug": "horphag-research-ltd"
+		},
+		{
 			"name": "Horst Görtz Stiftung",
 			"slug": "horst-goertz-stiftung"
 		},
@@ -5356,6 +5364,10 @@ var searchdb = {
 		{
 			"name": "Hungerer, Klaus-Dieter, 35041 Marburg",
 			"slug": "hungerer-klaus-dieter-35041-marburg"
+		},
+		{
+			"name": "hwp Hullmann, Willkomm + Partner",
+			"slug": "hwp-hullmann-willkomm-partner"
 		},
 		{
 			"name": "Hydac Elektronic GmbH",
@@ -6064,6 +6076,10 @@ var searchdb = {
 		{
 			"name": "K+S Ingenieur- Consult GmbH & Co. KG",
 			"slug": "ks-ingenieur-consult-gmbh-co-kg"
+		},
+		{
+			"name": "KAEFER Isoliertechnik GmbH & Co. KG",
+			"slug": "kaefer-isoliertechnik-gmbh-co-kg"
 		},
 		{
 			"name": "Kaffee Partner, Ost- Automaten GmbH, Osnabrück",
@@ -6930,10 +6946,6 @@ var searchdb = {
 			"slug": "max-gruenebaum-stiftung"
 		},
 		{
-			"name": "Max-Planck-Gesellschaft",
-			"slug": "max-planck-gesellschaft"
-		},
-		{
 			"name": "Max-Träger-Stiftung",
 			"slug": "max-traeger-stiftung"
 		},
@@ -6998,8 +7010,8 @@ var searchdb = {
 			"slug": "med-el-gmbh"
 		},
 		{
-			"name": "MED-ELelektromedizinische Geräte",
-			"slug": "med-elelektromedizinische-geraete"
+			"name": "MED-EL Elektromedizinische Geräte",
+			"slug": "med-el-elektromedizinische-geraete"
 		},
 		{
 			"name": "medbo (Medizinische Einrichtungen des Bezirks Oberpfalz)",
@@ -7580,6 +7592,10 @@ var searchdb = {
 		{
 			"name": "Novelis Switzerland SA",
 			"slug": "novelis-switzerland-sa"
+		},
+		{
+			"name": "noventic group",
+			"slug": "noventic-group"
 		},
 		{
 			"name": "Novo Nordisk Pharma",
@@ -10142,10 +10158,6 @@ var searchdb = {
 			"slug": "treuhand-weser-ems-unternehmensberatung-gmbh"
 		},
 		{
-			"name": "Treuhand Weser-Ems Unternehmensberaung GmbH",
-			"slug": "treuhand-weser-ems-unternehmensberaung-gmbh"
-		},
-		{
 			"name": "trick Ingenieurgesellschaft mbH",
 			"slug": "trick-ingenieurgesellschaft-mbh"
 		},
@@ -10188,6 +10200,10 @@ var searchdb = {
 		{
 			"name": "Trumpf Laser- und Systemtechnik GmbH",
 			"slug": "trumpf-laser-und-systemtechnik-gmbh"
+		},
+		{
+			"name": "TRUMPF Werkzeugmaschinen",
+			"slug": "trumpf-werkzeugmaschinen"
 		},
 		{
 			"name": "TSV Hannover-Burgdorf Handball GmbH",

@@ -7,8 +7,8 @@ Baden-Württemberg;Universität Freiburg i.Br. (ohne Klinikum);Honorarprof. Dr. 
 Baden-Württemberg;Universität Freiburg i.Br. (ohne Klinikum);Alfred Theodor Ritter;Alfred Ritter GmbH & Co. KG;Lebensmittel;;;;https://www.uni-freiburg.de/universitaet/zentrale-universitaere-gremien/der-universitaetsrat
 Baden-Württemberg;Universität Heidelberg (ohne Klinikum);Saori Dubourg;BASF;Chemie;;;BASF SE;https://www.uni-heidelberg.de/universitaetsrat/cv_voss.html
 Baden-Württemberg;Universität Heidelberg (ohne Klinikum);Prof. Dr. Hanns-Peter Knaebel;Aesculap AG;Pharma;(Medizintechnik);Vorsitzender;;https://www.uni-heidelberg.de/universitaetsrat/cv_voss.html
-Baden-Württemberg;Universität Hohenheim;Prof. Dr. Wolfgang Plischke;Bayer;Chemie;;;Bayer AG;https://www.uni-hohenheim.de/universitaetsrat-mitglieder
-Baden-Württemberg;Universität Hohenheim;Dr. Wolfgang Kuhn;Südwestbank;Finanzwirtschaft;;;;https://www.uni-hohenheim.de/universitaetsrat-mitglieder
+Baden-Württemberg;Universität Hohenheim;Prof. Dr. Wolfgang Plischke;Bayer;Chemie;;;Bayer AG;https://www.uni-hohenheim.de/universitaetsrat
+Baden-Württemberg;Universität Hohenheim;Dr. Wolfgang Kuhn;Südwestbank;Finanzwirtschaft;;;;https://www.uni-hohenheim.de/universitaetsrat
 Baden-Württemberg;Universität Konstanz;Dr. Alexandra Brand;Syngenta Agro GmbH;Chemie;;Stellv. Vorsitz;;http://www.profil.uni-konstanz.de/die-universitaet/universitaetsrat/
 Baden-Württemberg;Universität Konstanz;Prof. Dr. Wolfram Münch;EnBW;Energie;;Vorsitz;;http://www.profil.uni-konstanz.de/die-universitaet/universitaetsrat/
 Baden-Württemberg;Universität Stuttgart;Dr.-Ing. Thomas Friemuth;Porsche;Automobil;Elektronik;;;http://www.uni-stuttgart.de/ueberblick/organisation/organe/unirat/
@@ -46,6 +46,9 @@ Bayern;Universität Würzburg (ohne Klinikum);Dr.-Ing. E.h. Manfred Wittenstein;
 Berlin;FU Berlin;Dr. Johannes Evers;Landesbank Berlin AG;Finanzwirtschaft;;;;https://www.fu-berlin.de/einrichtungen/organe/gremien-kommissionen/kuratorium/index.html
 Berlin;Humboldt-Universität zu Berlin;Dr. Susanne Kortendick;Metro AG;Handel;;;;https://gremien.hu-berlin.de/de/kuratorium/mitglieder
 Berlin;TU Berlin;Dr. Tanja Wielgoß;Vattenfall;Energie;;;;https://www.tu-berlin.de/asv/menue/gremien/kuratorium/
+Hamburg;Hafencity Universität Hamburg;Prof. Wolfgang Willkomm;hwp Hullmann, Willkomm + Partner;Architektur;;;;https://www.hcu-hamburg.de/universitaet/aufbau-und-organisation-der-hcu/gremien/hochschulrat/ 
+Hamburg;Hafencity Universität Hamburg;Dr.-Ing. Georg Mecke;Airbus Operations GmbH. ;Luftfahrt;;;;https://www.hcu-hamburg.de/universitaet/aufbau-und-organisation-der-hcu/gremien/hochschulrat/ 
+Hamburg;Hafencity Universität Hamburg;Professor Sabine Baumgart;BPW baumgart+partner;Architektur;;stellv. Vorsitzende;;https://www.hcu-hamburg.de/universitaet/aufbau-und-organisation-der-hcu/gremien/hochschulrat/ 
 Hamburg;TU Hamburg-Harburg;Walter Conrads;Philips;Elektronik;;Vorsitzender;;https://intranet.tuhh.de/aktuell/pressemitteilung_einzeln.php?id=12102&Lang=de 
 Hamburg;TU Hamburg-Harburg;Lars Reger;NXP Semiconductors;Elektrotechnik;;;;https://intranet.tuhh.de/aktuell/pressemitteilung_einzeln.php?id=12102&Lang=de
 Hamburg;TU Hamburg-Harburg;Sibylle Stauch-Eckmann;Ober Scharrer Gruppe;Augenheilkunde;;;;https://intranet.tuhh.de/aktuell/pressemitteilung_einzeln.php?id=12102&Lang=de
@@ -65,7 +68,7 @@ Hessen;Universität Gießen;Dr. Peter Hanker;Volksbank Mittelhessen;Bank;;;;
 Hessen;Universität Gießen;Hans Zehnder;KPMG;Wirtschaft;;;;
 Hessen;Universität Kassel;Thorsten Jablonski;Volkswagen;Automobil;;;Volkswagen AG;https://www.uni-kassel.de/uni/universitaet/organisation/gremien/hochschulrat/
 Hessen;Universität Kassel;Dr. Annette Beller;B. Braun Melsungen AG;Pharma;;;;https://www.uni-kassel.de/uni/universitaet/organisation/gremien/hochschulrat/
-Hessen;Universität Kassel;Dipl.-Ing. Thomas Landgraf;Enercast;Energie;;;;
+Hessen;Universität Kassel;Dipl.-Ing. Thomas Landgraf;noventic group;Messtechnik;;;;https://www.uni-kassel.de/uni/aktuelles/meldung/post/detail/News/unternehmer-thomas-landgraf-ergaenzt-hochschulrat/ 
 Hessen;Universität Mannheim;Dr. John Feldmann;BASF;Chemie;;Vorsitzender;BASF SE;http://www.uni-mannheim.de/1/universitaetsrat/mitglieder/
 Hessen;Universität Mannheim;Dr. h.c. Eggert Voscherau;BASF;Chemie;;;BASF SE;http://www.uni-mannheim.de/1/universitaetsrat/mitglieder/
 Hessen;Universität Marburg;Prof. Dr. Dr. Dr. h.c. Uwe Bicker;Sanofi Aventis;Medizin;;;;http://www.uni-marburg.de/administration/gremien/hr
@@ -119,7 +122,8 @@ Sachsen;TU Bergakademie Freiberg;Prof. Hans-Ferdinand Schramm;Sparkasse Mittelsa
 Sachsen;TU Chemnitz;Dipl.-Kfm. Bodo Finger;Chemnitzer Zahnradfabrik GmbH & Co. KG;Maschinenbau;;;;https://www.tu-chemnitz.de/verwaltung/hochschulrat/
 Sachsen;TU Chemnitz;Dr.-Ing. E. h. Gunnar Grosse;KOMSA Kommunikation Sachsen AG;;;;;https://www.tu-chemnitz.de/verwaltung/hochschulrat/
 Sachsen;TU Chemnitz;Hans J. Naumann;NILES-SIMMONS-HEGENSCHEIDT GmbH;;;;;https://www.tu-chemnitz.de/verwaltung/hochschulrat/
-Sachsen;TU Dresden (ohne Klinikum);Prof. Klaus Raps;Bilfinger;Bau;Dienstleistungen;Stellvertr. Vorsitzender;;https://tu-dresden.de/die_tu_dresden/gremien_und_beauftragte/hochschulrat
+Sachsen;TU Dresden (ohne Klinikum);Dr. Julia Duwe;TRUMPF Werkzeugmaschinen;;;;;
+Sachsen;TU Dresden (ohne Klinikum);Prof. Barbara Haering;econcept AG;Beratung;;;;https://tu-dresden.de/tu-dresden/organisation/gremien-und-beauftragte/hochschulrat
 Sachsen;TU Dresden (ohne Klinikum);Gunda Röstel;GELSENWASSER;Energie;;Vorsitzende;;https://tu-dresden.de/die_tu_dresden/gremien_und_beauftragte/hochschulrat
 Sachsen;TU Dresden (ohne Klinikum);Dipl.-Ing. Jörg Thiele;iproplan Planungsgesellschaft mbH;;;;;https://tu-dresden.de/die_tu_dresden/gremien_und_beauftragte/hochschulrat
 Sachsen;Universität Leipzig (ohne Klinikum);Siegfried Bülow;Porsche;Fahrzeugbau;;;;https://www.uni-leipzig.de/universitaet/struktur/hochschulrat/
