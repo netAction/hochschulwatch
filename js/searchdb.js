@@ -2582,10 +2582,6 @@ var searchdb = {
 			"slug": "deutsche-bundesstiftung-umwelt"
 		},
 		{
-			"name": "Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI)",
-			"slug": "deutsche-forschungszentrum-fuer-kuenstliche-intelligenz-dfki"
-		},
-		{
 			"name": "Deutsche Gesellschaft für Materialkunde e.V.",
 			"slug": "deutsche-gesellschaft-fur-materialkunde-ev"
 		},
