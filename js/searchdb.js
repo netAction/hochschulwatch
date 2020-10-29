@@ -2534,10 +2534,6 @@ var searchdb = {
 			"slug": "deutsch-polnische-wissenschaftsstiftung"
 		},
 		{
-			"name": "Deutsche Akademie der Wissenschaften und Literatur",
-			"slug": "deutsche-akademie-der-wissenschaften-und-literatur"
-		},
-		{
 			"name": "Deutsche Akkreditierungsstelle GmbH – DakkS",
 			"slug": "deutsche-akkreditierungsstelle-gmbh-dakks"
 		},
@@ -2580,6 +2576,10 @@ var searchdb = {
 		{
 			"name": "Deutsche Bundesstiftung Umwelt",
 			"slug": "deutsche-bundesstiftung-umwelt"
+		},
+		{
+			"name": "Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI)",
+			"slug": "deutsche-forschungszentrum-fuer-kuenstliche-intelligenz-dfki"
 		},
 		{
 			"name": "Deutsche Gesellschaft für Materialkunde e.V.",
@@ -2724,6 +2724,10 @@ var searchdb = {
 		{
 			"name": "Deutsches Institut für Interne Revision e.V.",
 			"slug": "deutsches-institut-fuer-interne-revision-ev"
+		},
+		{
+			"name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+			"slug": "deutsches-forschungszentrum-fuer-kuenstliche-intelligenz-dfki"
 		},
 		{
 			"name": "Deutsches Zentrum für Luft- und Raumfahrt",
