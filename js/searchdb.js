@@ -2018,6 +2018,10 @@ var searchdb = {
 			"slug": "cardiobridge-gmbh"
 		},
 		{
+			"name": "Carl Friedrich von Siemens Stiftung",
+			"slug": "carl-friedrich-von-siemens-stiftung"
+		},
+		{
 			"name": "Carl Schumacher Beteiligungen und Immobilien KG",
 			"slug": "carl-schumacher-beteiligungen-und-immobilien-kg"
 		},
@@ -6338,6 +6342,10 @@ var searchdb = {
 			"slug": "komsa-kommunikation-sachsen-ag"
 		},
 		{
+			"name": "Konfuzius Stiftung China",
+			"slug": "konfuzius-stiftung-china"
+		},
+		{
 			"name": "Kosenina, Alexander",
 			"slug": "kosenina-alexander"
 		},
@@ -9180,10 +9188,6 @@ var searchdb = {
 		{
 			"name": "Siemens AG",
 			"slug": "siemens-ag"
-		},
-		{
-			"name": "Siemens Aktiengesellschaft",
-			"slug": "siemens-aktiengesellschaft"
 		},
 		{
 			"name": "Sienknecht, Dr. Ulrike",
