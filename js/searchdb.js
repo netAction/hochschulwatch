@@ -6418,6 +6418,10 @@ var searchdb = {
 			"slug": "kpmg-ag-wirtschaftsprufungsgesellschaft"
 		},
 		{
+			"name": "KPMG AG Wirtschaftsprüfungsgesellschaft",
+			"slug": "kpmg-ag-wirtschaftspruefungsgesellschaft"
+		},
+		{
 			"name": "Kratzer Automation AG",
 			"slug": "kratzer-automation-ag"
 		},
