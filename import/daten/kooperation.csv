@@ -120,7 +120,9 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 201;Humboldt-Universität zu Berlin;innogy Foundation for Energy and Society;34300 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
 660;Jacobs University Bremen (Priv. H);;;;;;
 1580;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Daimler AG;;Schnittstelle zwischen Fahrzeug- und Produktionstechnologie;Daimler AG;https://www.kit.edu/kit/pi_2014_15092.php ;
-1580;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Altana AG;;Kooperation;;http://www.altana.com/innovation/open-innovation-at-altana-ag/networks.html;
+1580;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Altana AG;;"Theory-To-Practice Course
+Organische Chemie";;https://www.altana.de/innovation/open-innovation.html;
+1580;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule;Huawei China;;Sicherheitsmaßnahmen für 5G-Netze;;https://www.tagesspiegel.de/wissen/forschungskooperation-mit-deutschen-unis-huawei-auf-dem-pruefstand/24195908.html;https://www.huawei.com/de/deu/magazin/digitale-infrastruktur/sicherheitsmassnahmen-fuer-5g
 990;Leuphana Universität Lüneburg;;;;;;
 262;Med. Fakultät Rostock;;;;;;
 272;Medizinische Fakultät Greifswald;;;;;;
@@ -217,9 +219,12 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1481;RWTH Aachen (ohne Klinikum);WBI PROFESSOR DR.-ING. W. WITTKE Beratende Ingenieure für GRUNDBAU UND FELSBAU GmbH;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);Weber GmbH & Co. KG Kunststofftechnik + Formenbau;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);Wintershall Holding AG;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
+1481;RWTH Aachen (ohne Klinikum);Huawei China;;Keine Fördersumme bekannt;;https://www.rwth-innovation.de/de/unternehmen/kooperationsbeispiele/huawei;https://unis.davidmissal.de/2020/09/07/rwth-aachen/
 1130;Technische Universität Dortmund;;;;;;
 2000;Theol. Fakultät Fulda (rk);;;;;;
 390;TU Bergakademie Freiberg;;;;;;
+1690;TU Berlin;Huawei China;876343;"Für 2015-2021
+Quelle 2 Antworten der TUB";;https://unis.davidmissal.de/2020/09/07/technische-universitaet-berlin/;https://fragdenstaat.de/anfrage/zuwendungen-aus-china-14/
 1690;TU Berlin;BASF;13000000;gemeinsames Labor BASLO Katalyseforschung;;https://www.bascat.tu-berlin.de/;
 1690;TU Berlin;BASF;2500000;BASLEARN „Mschinelles Lernen“;;https://www.tu-berlin.de/?207463;
 1690;TU Berlin;BerlinCert ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427273;
@@ -271,9 +276,12 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1040;TU Hamburg-Harburg;;;;;;
 590;TU Ilmenau;;;;;;
 1210;TU Kaiserslautern;;;;;;
+1210;TU Kaiserslautern;Huawei China;;HIRP Innovation Research Program;;https://unis.davidmissal.de/2020/09/07/technische-universitaet-kaiserslautern/ ;https://www.itu.int/en/ITU-D/Innovation/Documents/Documents_Events_Presentations/2017_WSIS/THU_WSIS17/06%20JOY%20TAN.pdf
 1639;TU München (Klinikum);;;;;;
 1633;TU München (ohne Klinikum);facebook;6500000;Institut für Ethik in der KI;;https://www.sueddeutsche.de/muenchen/muenchen-tu-finanzierung-facebook-1.4723566 ;https://fbnewsroomde.files.wordpress.com/2019/10/tum-erc3b6ffnung-ieai.pdf
-1350;Universität Augsburg;;;;;;
+1633;TU München (ohne Klinikum);Huawei China;150000;"jährlich seit 2013
+TUM verweigert Auskunft";;(https://www.tagesspiegel.de/wissen/forschungskooperation-mit-deutschen-unis-huawei-auf-dem-pruefstand/24195908.html);https://unis.davidmissal.de/2020/09/07/technische-universitaet-muenchen/
+1350;Universität Augsburg;Huawei China;;Forschung zur Erkennung von menschlicher Emotion aus Stimme, Sprache und Gesichtsmimik;;https://www.uni-augsburg.de/de/campusleben/neuigkeiten/2019/12/20/1216/;https://unis.davidmissal.de/2020/09/07/universitaet-augsburg/
 500;Universität Bamberg;;;;;;
 510;Universität Bayreuth;;;;;;
 1140;Universität Bielefeld;;;;;;
@@ -324,7 +332,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1161;Universität Frankfurt a.M. (ohne Klinikum);Else Kröner-Fresenius-Stiftung;1000000;Förderer (mindestens 1.000.000 Euro), Mitglied im Stiftungskuratorium;;http://www.uni-frankfurt.de/51849455/2014;
 1161;Universität Frankfurt a.M. (ohne Klinikum);Hertie-Stiftung;1000000;Förderer (mindestens 1.000.000 Euro), Mitglied im Stiftungskuratorium;;http://www.uni-frankfurt.de/51849455/2014;
 1249;Universität Freiburg i.Br. (Klinikum);;;;;;
-1241;Universität Freiburg i.Br. (ohne Klinikum);;;;;;
+1241;Universität Freiburg i.Br. (ohne Klinikum);Huawei China;;Indoor Navigation for a Mobile Robot;;http://forschdbt.verwaltung.uni-freiburg.de/cocoon/forschdb/prj.11589.d.html;ttps://unis.davidmissal.de/2020/09/07/albert-ludwigs-universitaet-freiburg/
 1171;Universität Gießen;Monsanto;;Glyphosatstudie durch Monsanto finanziert;;https://www.lobbycontrol.de/2019/12/monsanto-finanzierte-verdeckt-glyphosat-studien-zur-lobbyarbeit/;
 1039;Universität Göttingen (Klinikum);BP;;Auftragsforschung zu Bürgerprotesten;;http://www.demokratie-goettingen.de/aktuelles/studie-burgerproteste-in-deutschland;https://www.lobbycontrol.de/2013/02/bp-lasst-burgerproteste-untersuchen-was-steckt-dahinter/
 1031;Universität Göttingen (ohne Klinikum);;;;;;
@@ -334,23 +342,25 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 301;Universität Halle (ohne Klinikum);;;;;;
 1029;Universität Hamburg (Klinikum);;;;;;
 1021;Universität Hamburg (ohne Klinikum);Max Hoffmann GmbH & Co. KG;;Investitionen;;;
-1450;Universität Hannover;;;;;;
+1450;Universität Hannover;Huawei China;250000;Für 3 Jahre;;https://www.ikt.uni-hannover.de/lips-ciss0.html;https://unis.davidmissal.de/2020/09/07/gottfried-wilhelm-leibniz-universitaet-hannover/
 1252;Universität Heidelberg - Medizinische Fakultät Mannheim;;;;;;
 1256;Universität Heidelberg (Klinikum);;;;;;
 1251;Universität Heidelberg (ohne Klinikum);;;;;;
-980;Universität Hildesheim;AWD;;Großzügige Spenden von Carsten Maschmeyer;;http://www.fr-online.de/politik/in--unwuerdig-und-unanstaendig-,1472596,8324674.html;http://www.uni-hildesheim.de/ueber-uns/organisation/presidium/presse/pressespiegel-regional/artikel/artikel/ehrendoktorw-3/
+980;Universität Hildesheim;AWD;;Spenden von Carsten Maschmeyer;;http://www.fr-online.de/politik/in--unwuerdig-und-unanstaendig-,1472596,8324674.html;http://www.uni-hildesheim.de/ueber-uns/organisation/presidium/presse/pressespiegel-regional/artikel/artikel/ehrendoktorw-3/
 1800;Universität Hohenheim;Südwestmetall;5000;Preis;;tp://www.bwl.uni-mannheim.de/de/allgemeines/dekanat/p;
 1800;Universität Hohenheim;Südwestbank;7500;Preis;;http://www.handelsblatt.com/politik/oekonomie/nachrichten/sponsoring-hoersaele-werden-zu-werbeflaechen/2807452.html;
 499;Universität Jena (Klinikum);;;;;;
-10;Universität Kassel;;;;;;
+10;Universität Kassel;Hisilicon China;;Lasertechnik;Huawei China;https://unis.davidmissal.de/2020/09/07/universitaet-kassel/;
 1001;Universität Kiel;;;;;;
 1290;Universität Koblenz-Landau;;;;;;
 1119;Universität Köln (Klinikum);;;;;;
 1260;Universität Konstanz;Airbus Group;;Kooperation, Stiftung Forschungspreis;;http://cms.uni-konstanz.de/zivilklausel/pressespiegel/;
+1260;Universität Konstanz;Huawei China;;High Speed Router Functions;;https://www.disy.uni-konstanz.de/research/research-projects/high-speed-router-functions/;https://unis.davidmissal.de/2020/09/07/universitaet-konstanz/
 369;Universität Leipzig (Klinikum);;;;;;
 361;Universität Leipzig (ohne Klinikum);;;;;;
 1011;Universität Lübeck;;;;;;
 319;Universität Magdeburg (Klinikum);;;;;;
+1223;Universität Mainz;Huawei China;90000;einmalig für mathematisches Modell für Datensammel- und Datenaufbewahrungssysteme;;https://dokumente.landtag.rlp.de/landtag/ausschuesse/wissenschaftsa-14-17.pdf;https://unis.davidmissal.de/2020/09/07/johannes-gutenberg-universitaet-mainz/
 1223;Universität Mainz;Boehringer Ingelheim;54000000;2020 bis 2027 für Institut für Molekulare Biologie (IMB) ;;https://www.uni-mainz.de/presse/aktuell/4914_DEU_HTML.php ;https://www.spiegel.de/lebenundlernen/uni/uni-mainz-muss-vertraege-mit-boehringer-ingelheim-stiftung-offenlegen-a-1091956.html
 1223;Universität Mainz;Deutsche Post;180000;Deutsche Post DHL: ''Flexible Bezirksschneidung'' (2014 - 2016) - Mainzer Wirtschaftswissenschaften;;http://wiwi.uni-mainz.de/926_DEU_HTML.php;
 1223;Universität Mainz;Jacobs;490000;Jacobs-Foundation: ''KIDS-WIN: Enhancing cognitive and motivational skills in children: An intervention study with primary school children'' (2012 - 2014) - Mainzer Wirtschaftswissenschaften;;http://wiwi.uni-mainz.de/926_DEU_HTML.php;

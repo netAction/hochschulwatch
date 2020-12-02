@@ -5226,6 +5226,10 @@ var searchdb = {
 			"slug": "hinstorff-buchverlag"
 		},
 		{
+			"name": "Hisilikon China",
+			"slug": "hisilikon-china"
+		},
+		{
 			"name": "Hipp GmbH",
 			"slug": "hipp-gmbh"
 		},
@@ -5364,6 +5368,10 @@ var searchdb = {
 		{
 			"name": "HSBC Globel Asset Management/Prof. Dr. - Ing. Jischa",
 			"slug": "hsbc-globel-asset-managementprof-dr-ing-jischa"
+		},
+		{
+			"name": "Huawei China",
+			"slug": "huawei-china"
 		},
 		{
 			"name": "HüBNER GmbH",
