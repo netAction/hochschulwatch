@@ -5226,8 +5226,8 @@ var searchdb = {
 			"slug": "hinstorff-buchverlag"
 		},
 		{
-			"name": "Hisilikon China",
-			"slug": "hisilikon-china"
+			"name": "Hisilicon China",
+			"slug": "hisilicon-china"
 		},
 		{
 			"name": "Hipp GmbH",
@@ -6412,10 +6412,6 @@ var searchdb = {
 		{
 			"name": "KPMG",
 			"slug": "kpmg"
-		},
-		{
-			"name": "KPMG AG Wirtschaftsprüfungsgesellschaft",
-			"slug": "kpmg-ag-wirtschaftspruefungsgesellschaft"
 		},
 		{
 			"name": "KPMG AG Wirtschaftsprüfungsgesellschaft",
