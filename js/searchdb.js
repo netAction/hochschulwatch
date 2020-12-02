@@ -1378,10 +1378,6 @@ var searchdb = {
 			"slug": "baxter-deutschland-gmbh"
 		},
 		{
-			"name": "Bayer Technology Services",
-			"slug": "bayer-technology-services"
-		},
-		{
 			"name": "Bayer",
 			"slug": "bayer"
 		},
@@ -1400,6 +1396,10 @@ var searchdb = {
 		{
 			"name": "Bayer Schering Pharma AG",
 			"slug": "bayer-schering-pharma-ag"
+		},
+		{
+			"name": "Bayer Technology Services",
+			"slug": "bayer-technology-services"
 		},
 		{
 			"name": "Bayrische Motoren Werke AG",
@@ -2502,6 +2502,10 @@ var searchdb = {
 			"slug": "der-kleine-kreis"
 		},
 		{
+			"name": "Der kleine Kreis e. V.",
+			"slug": "der-kleine-kreis-e-v"
+		},
+		{
 			"name": "DER KLEINE KREIS e.V. 26122 Oldenburg",
 			"slug": "der-kleine-kreis-ev-26122-oldenburg"
 		},
@@ -2702,12 +2706,20 @@ var searchdb = {
 			"slug": "deutscher-gewerkschaftsbund-dgw"
 		},
 		{
+			"name": "Deutscher Hausärzteverband",
+			"slug": "deutscher-hausaerzteverband"
+		},
+		{
 			"name": "Deutscher Sparkassen- und Giroverband Berlin",
 			"slug": "deutscher-sparkassen-und-giroverband-berlin"
 		},
 		{
 			"name": "Deutscher Verband für Schweißen und verwandte Verfahren e.V.",
 			"slug": "deutscher-verband-fuer-schweissen-und-verwandte-verfahren-ev"
+		},
+		{
+			"name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+			"slug": "deutsches-forschungszentrum-fuer-kuenstliche-intelligenz-dfki"
 		},
 		{
 			"name": "Deutsches Forschungszentrum für Künstliche Intelligenz GmbH, DFKI, Bremen",
@@ -2728,10 +2740,6 @@ var searchdb = {
 		{
 			"name": "Deutsches Institut für Interne Revision e.V.",
 			"slug": "deutsches-institut-fuer-interne-revision-ev"
-		},
-		{
-			"name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
-			"slug": "deutsches-forschungszentrum-fuer-kuenstliche-intelligenz-dfki"
 		},
 		{
 			"name": "Deutsches Zentrum für Luft- und Raumfahrt",
@@ -2788,6 +2796,10 @@ var searchdb = {
 		{
 			"name": "Diakonisches Werk der Ev.-Luth. Kirche Oldenburg e.V., 26121 Oldenburg",
 			"slug": "diakonisches-werk-der-ev-luth-kirche-oldenburg-ev-26121-oldenburg"
+		},
+		{
+			"name": "Diakonisches Werk der Ev.Luth. Kirche Oldenburg e.V.",
+			"slug": "diakonisches-werk-der-evluth-kirche-oldenburg-ev"
 		},
 		{
 			"name": "DiaMed GmbH A Division of Bio-Rad",
@@ -5466,8 +5478,16 @@ var searchdb = {
 			"slug": "ifo-institut-fuer-wirtschaftsforschung-ev"
 		},
 		{
+			"name": "IG Metall Oldenburg-Wilhelmshaven",
+			"slug": "ig-metall-oldenburg-wilhelmshaven"
+		},
+		{
 			"name": "IG BCE",
 			"slug": "ig-bce"
+		},
+		{
+			"name": "IG BCE Oldenburg",
+			"slug": "ig-bce-oldenburg"
 		},
 		{
 			"name": "IG Metall",
@@ -6374,6 +6394,10 @@ var searchdb = {
 			"slug": "koetting-dr-johannes"
 		},
 		{
+			"name": "Kötting, Dr. Johannes und Erben",
+			"slug": "koetting-dr-johannes-und-erben"
+		},
+		{
 			"name": "Kötting, Johannes",
 			"slug": "koetting-johannes"
 		},
@@ -7018,12 +7042,12 @@ var searchdb = {
 			"slug": "mecklenburgische-versicherungs-gesellschaft-ag-direktion-hannover"
 		},
 		{
-			"name": "MED-EL GmbH",
-			"slug": "med-el-gmbh"
-		},
-		{
 			"name": "MED-EL Elektromedizinische Geräte",
 			"slug": "med-el-elektromedizinische-geraete"
+		},
+		{
+			"name": "MED-EL GmbH",
+			"slug": "med-el-gmbh"
 		},
 		{
 			"name": "medbo (Medizinische Einrichtungen des Bezirks Oberpfalz)",
@@ -7068,6 +7092,10 @@ var searchdb = {
 		{
 			"name": "Medtronic Europe Sarl",
 			"slug": "medtronic-europe-sarl"
+		},
+		{
+			"name": "Mehl, Dr. Klaus",
+			"slug": "mehl-dr-klaus"
 		},
 		{
 			"name": "Mehl, Klaus",
@@ -8114,6 +8142,10 @@ var searchdb = {
 			"slug": "plattenhardt-kg"
 		},
 		{
+			"name": "PLIXXENT GmbH & Co. KG",
+			"slug": "plixxent-gmbh-co-kg"
+		},
+		{
 			"name": "PLUS Paris- London- University of Salz- burg",
 			"slug": "plus-paris-london-university-of-salz-burg"
 		},
@@ -8184,10 +8216,6 @@ var searchdb = {
 		{
 			"name": "Preussler, Robin",
 			"slug": "preussler-robin"
-		},
-		{
-			"name": "Professor Werdelmann-Stiftung",
-			"slug": "professor-werdelmann-stiftung"
 		},
 		{
 			"name": "PricewaterhousCoopers AG",
@@ -8428,6 +8456,10 @@ var searchdb = {
 		{
 			"name": "Prof.Dr. Sabine Giesberecht, Osnabrück",
 			"slug": "profdr-sabine-giesberecht-osnabrueck"
+		},
+		{
+			"name": "Professor Werdelmann-Stiftung",
+			"slug": "professor-werdelmann-stiftung"
 		},
 		{
 			"name": "ProIfEV e.V., Braunschweig",
@@ -9466,10 +9498,6 @@ var searchdb = {
 			"slug": "springer-verlag-gmbh"
 		},
 		{
-			"name": "Springer-Verlag GmbH",
-			"slug": "springer-verlag-gmbh"
-		},
-		{
 			"name": "SPS Europe Putten",
 			"slug": "sps-europe-putten"
 		},
@@ -10246,6 +10274,10 @@ var searchdb = {
 			"slug": "udo-keller-stiftung"
 		},
 		{
+			"name": "UKA Oldenburg Projektentwicklung",
+			"slug": "uka-oldenburg-projektentwicklung"
+		},
+		{
 			"name": "UKA Oldenburg Projektentwicklung als Zweigniederlassung der UKA Cottbus Projektentwicklung GmbH & Co. KG",
 			"slug": "uka-oldenburg-projektentwicklung-als-zweigniederlassung-der-uka-cottbus-projektentwicklung-gmbh-co-kg"
 		},
@@ -10472,6 +10504,10 @@ var searchdb = {
 		{
 			"name": "Ver.di Bezirk Weser-Ems",
 			"slug": "verdi-bezirk-weser-ems"
+		},
+		{
+			"name": "Ver.di Oldenburg",
+			"slug": "verdi-oldenburg"
 		},
 		{
 			"name": "Verband der Automobilindustrie",
@@ -10896,6 +10932,10 @@ var searchdb = {
 		{
 			"name": "Waskönig, Dr. Peter 26683 Saterland-Ramsloh",
 			"slug": "waskoenig-dr-peter-26683-saterland-ramsloh"
+		},
+		{
+			"name": "Waskönig, Jörg",
+			"slug": "waskoenig-joerg"
 		},
 		{
 			"name": "WBA Abdichtungssystme GmbH",
