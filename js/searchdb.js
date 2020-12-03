@@ -910,16 +910,16 @@ var searchdb = {
 			"slug": "alumni-bau-carolo-wilhelmina-ev"
 		},
 		{
-			"name": "Amazon",
-			"slug": "amazon"
+			"name": "Amazon USA",
+			"slug": "amazon-usa"
 		},
 		{
-			"name": "Amazon und 7 Industriepartner",
-			"slug": "amazon-und-7-industriepartner"
+			"name": "Amazon USA und 7 Industriepartner",
+			"slug": "amazon-usa-und-7-industriepartner"
 		},
 		{
-			"name": "Amazon.com Inc.",
-			"slug": "amazoncom-inc"
+			"name": "Amazon.com Inc. USA",
+			"slug": "amazoncom-inc-usa"
 		},
 		{
 			"name": "Amazone Stiftung",
@@ -1032,10 +1032,6 @@ var searchdb = {
 		{
 			"name": "Arbeitgeberverband Oldenburg",
 			"slug": "arbeitgeberverband-oldenburg"
-		},
-		{
-			"name": "Arbeitgeberverband Oldenburg e. V.",
-			"slug": "arbeitgeberverband-oldenburg-e-v"
 		},
 		{
 			"name": "Arbeitgeberverband Oldenburg e.V.",
@@ -1810,8 +1806,8 @@ var searchdb = {
 			"slug": "bristol-myers-squibb-int-corporation"
 		},
 		{
-			"name": "British American Tobacco Ltd.",
-			"slug": "british-american-tobacco-ltd"
+			"name": "British American Tobacco Ltd. Grossbritannien",
+			"slug": "british-american-tobacco-ltd-grossbritannien"
 		},
 		{
 			"name": "Broering, Udo",
@@ -3490,8 +3486,8 @@ var searchdb = {
 			"slug": "ericsson-eurolab-deutschland-gmbh"
 		},
 		{
-			"name": "Ernst & Young",
-			"slug": "ernst-young"
+			"name": "Ernst & Young USA",
+			"slug": "ernst-young-usa"
 		},
 		{
 			"name": "Ernst & Young GmbH",
@@ -3654,8 +3650,8 @@ var searchdb = {
 			"slug": "expertplace-networks-group-ag"
 		},
 		{
-			"name": "Exxonmobil",
-			"slug": "exxonmobil"
+			"name": "Exxonmobil USA",
+			"slug": "exxonmobil-usa"
 		},
 		{
 			"name": "ExxonMobil Deutschland GmbH",
@@ -3678,12 +3674,12 @@ var searchdb = {
 			"slug": "fauwe-quenzel"
 		},
 		{
-			"name": "facebook",
-			"slug": "facebook"
+			"name": "facebook USA",
+			"slug": "facebook-usa"
 		},
 		{
-			"name": "Facebook Inc.",
-			"slug": "facebook-inc"
+			"name": "Facebook Inc. USA",
+			"slug": "facebook-inc-usa"
 		},
 		{
 			"name": "Fagus-GreCon Greten GmbH & Co. KG",
@@ -4346,8 +4342,8 @@ var searchdb = {
 			"slug": "genentech-inc"
 		},
 		{
-			"name": "General Electric",
-			"slug": "general-electric"
+			"name": "General Electric USA",
+			"slug": "general-electric-usa"
 		},
 		{
 			"name": "Generali",
@@ -4614,16 +4610,16 @@ var searchdb = {
 			"slug": "gom-gmbh"
 		},
 		{
-			"name": "Google",
-			"slug": "google"
+			"name": "Google USA",
+			"slug": "google-usa"
 		},
 		{
-			"name": "google / youtube",
-			"slug": "google-youtube"
+			"name": "google / youtube USA",
+			"slug": "google-youtube-usa"
 		},
 		{
-			"name": "Google Ireland Limited",
-			"slug": "google-ireland-limited"
+			"name": "Google Ireland Limited Irland",
+			"slug": "google-ireland-limited-irland"
 		},
 		{
 			"name": "GÖRG Partnerschaft von Rechtsanwälten",
@@ -5306,8 +5302,8 @@ var searchdb = {
 			"slug": "homann-gmbh-dissen"
 		},
 		{
-			"name": "Honeywell Specialty Chemicals",
-			"slug": "honeywell-specialty-chemicals"
+			"name": "Honeywell Specialty Chemicals USA",
+			"slug": "honeywell-specialty-chemicals-usa"
 		},
 		{
 			"name": "Hoppe, Annemarie dafür handelnd: Hr. Bräutigam, notariell bestellter Generalbevollmächtigter",
@@ -5426,16 +5422,16 @@ var searchdb = {
 			"slug": "ibh-herold-partner-ingenieure"
 		},
 		{
-			"name": "IBM",
-			"slug": "ibm"
+			"name": "IBM USA",
+			"slug": "ibm-usa"
 		},
 		{
-			"name": "IBM Deutschland GmbH",
-			"slug": "ibm-deutschland-gmbh"
+			"name": "IBM Deutschland GmbH USA",
+			"slug": "ibm-deutschland-gmbh-usa"
 		},
 		{
-			"name": "IBM Global University Programs",
-			"slug": "ibm-global-university-programs"
+			"name": "IBM Global University Programs USA",
+			"slug": "ibm-global-university-programs-usa"
 		},
 		{
 			"name": "ibmv Maritime Innovationsgesellschaft mbH",
@@ -5674,12 +5670,12 @@ var searchdb = {
 			"slug": "inros-lackner-se"
 		},
 		{
-			"name": "InSightec - TxSonics Ltd.",
-			"slug": "insightec-txsonics-ltd"
+			"name": "InSightec - TxSonics Ltd. USA",
+			"slug": "insightec-txsonics-ltd-usa"
 		},
 		{
-			"name": "Inspection Technologies Measurement & Controls Baker Hughes",
-			"slug": "inspection-technologies-measurement-controls-baker-hughes"
+			"name": "Inspection Technologies Measurement & Controls Baker Hughes USA",
+			"slug": "inspection-technologies-measurement-controls-baker-hughes-usa"
 		},
 		{
 			"name": "Installatio nsbetrieb Wendt GmbH & Co. KG",
@@ -7010,8 +7006,8 @@ var searchdb = {
 			"slug": "mbn-bau"
 		},
 		{
-			"name": "McKinsey & Company, Inc.",
-			"slug": "mckinsey-company-inc"
+			"name": "McKinsey & Company, Inc. USA",
+			"slug": "mckinsey-company-inc-usa"
 		},
 		{
 			"name": "MCS GmbH Thüringen",
@@ -8235,10 +8231,6 @@ var searchdb = {
 		},
 		{
 			"name": "PricewaterhouseCoopers AG",
-			"slug": "pricewaterhousecoopers-ag"
-		},
-		{
-			"name": "PriceWaterhouseCoopers AG",
 			"slug": "pricewaterhousecoopers-ag"
 		},
 		{
@@ -10130,8 +10122,8 @@ var searchdb = {
 			"slug": "thimm-holding-gmbh-co-kg"
 		},
 		{
-			"name": "Thomson Reuters",
-			"slug": "thomson-reuters"
+			"name": "Thomson Reuters Kanada",
+			"slug": "thomson-reuters-kanada"
 		},
 		{
 			"name": "THOR- LABS GmbH",
