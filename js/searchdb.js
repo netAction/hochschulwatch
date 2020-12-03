@@ -1258,6 +1258,10 @@ var searchdb = {
 			"slug": "baker-mckenzie-partnerschaft-von-rechtsanwaelten-und-steuerberatern-mbb"
 		},
 		{
+			"name": "Baker Hughes USA",
+			"slug": "baker-hughes-usa"
+		},
+		{
 			"name": "Baker Hughes",
 			"slug": "baker-hughes"
 		},
@@ -5426,8 +5430,8 @@ var searchdb = {
 			"slug": "ibm-usa"
 		},
 		{
-			"name": "IBM Deutschland GmbH USA",
-			"slug": "ibm-deutschland-gmbh-usa"
+			"name": "IBM Deutschland GmbH",
+			"slug": "ibm-deutschland-gmbh"
 		},
 		{
 			"name": "IBM Global University Programs USA",
@@ -8222,12 +8226,16 @@ var searchdb = {
 			"slug": "preussler-robin"
 		},
 		{
+			"name": "PricewaterhousCoopers AG USA",
+			"slug": "pricewaterhouscoopers-ag-usa"
+		},
+		{
 			"name": "PricewaterhousCoopers AG",
 			"slug": "pricewaterhouscoopers-ag"
 		},
 		{
-			"name": "PricewaterhouseCoopers",
-			"slug": "pricewaterhousecoopers"
+			"name": "PricewaterhouseCoopers USA",
+			"slug": "pricewaterhousecoopers-usa"
 		},
 		{
 			"name": "PricewaterhouseCoopers AG",

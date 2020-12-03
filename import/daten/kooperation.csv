@@ -53,7 +53,7 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 180;Charite - Universitätsmedizin Berlin;Hipp GmbH;;AD Kinder;;https://www.charite.de/forschung/kooperationen/industriekooperationen/;
 180;Charite - Universitätsmedizin Berlin;Hoffmann-La Roche AG;;Roche CREAD 2;;https://www.charite.de/forschung/kooperationen/industriekooperationen/;
 180;Charite - Universitätsmedizin Berlin;Hoffmann-La Roche AG;;RocheWV29922Graduate;;https://www.charite.de/forschung/kooperationen/industriekooperationen/;
-180;Charite - Universitätsmedizin Berlin;InSightec - TxSonics Ltd.;;MR-geleitete Ultraschallkoagulation von Tumoren;;https://www.charite.de/forschung/kooperationen/industriekooperationen/;
+180;Charite - Universitätsmedizin Berlin;InSightec - TxSonics Ltd. USA;;MR-geleitete Ultraschallkoagulation von Tumoren;;https://www.charite.de/forschung/kooperationen/industriekooperationen/;
 180;Charite - Universitätsmedizin Berlin;Iomedico GmbH;;BCIRG(BOND)006;;https://www.charite.de/forschung/kooperationen/industriekooperationen/;
 180;Charite - Universitätsmedizin Berlin;Ipsen Pharma GmbH;;Lanreotide NEN;;https://www.charite.de/forschung/kooperationen/industriekooperationen/;
 180;Charite - Universitätsmedizin Berlin;Lilly Deutschland GmbH;;Amaranth- Studie;;https://www.charite.de/forschung/kooperationen/industriekooperationen/;
@@ -98,8 +98,8 @@ uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
 1381;FU Berlin;Ajinomoto GmbH;;Effect of amino acid supplementation in combination with tannins on perfomance;;https://serrata.elsa.fu-berlin.de/dmv#;
 690;Hafencity Universität Hamburg;Holcim AG;2000;Preis;;http://www.hcu-hamburg.de/universitaet/services-und-kontakt/downloads/?no_cache=1&cid=5157&did=6901&sechash=9042abe4;
 800;Helmut-Schmidt-Universität Hamburg;;;;;;
-201;Humboldt-Universität zu Berlin;Google;4500000 (2012-2014);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://www.hiig.de/finanzierung/;
-201;Humboldt-Universität zu Berlin;Google;1500000 (2018);HIIG Research Report 2018 ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
+201;Humboldt-Universität zu Berlin;Google USA;4500000 (2012-2014);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://www.hiig.de/finanzierung/;
+201;Humboldt-Universität zu Berlin;Google USA;1500000 (2018);HIIG Research Report 2018 ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
 201;Humboldt-Universität zu Berlin;Hypovereinsbank;36915 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
 201;Humboldt-Universität zu Berlin;Stifterverband;2500 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
 201;Humboldt-Universität zu Berlin;Advocate Europe;40000 (2018);Alexander von Humboldt Institut für Internet und Gesellschaft (HIIG) ;HIIG;https://hiig.de/wp-content/uploads/2019/01/encore2018_report_digital.pdf;
@@ -137,9 +137,9 @@ Organische Chemie";;https://www.altana.de/innovation/open-innovation.html;
 1481;RWTH Aachen (ohne Klinikum);Generali;;Hörsaalsponsoring;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Campusprojekt/~elf/RWTH_Aachen_Campus/;
 1481;RWTH Aachen (ohne Klinikum);Ford;;Hörsaalsponsoring;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Campusprojekt/~elf/RWTH_Aachen_Campus/;
 1481;RWTH Aachen (ohne Klinikum);Knorr-Bremse AG;;Hörsaalsponsoring;;https://www.rwth-aachen.de/go/id/gbzvf?;
-1481;RWTH Aachen (ohne Klinikum);Amazon;40000 (2018);Hörsaalsponsoring;;https://www.rwth-aachen.de/cms/root/Wirtschaft/Sponsoring/Meldungen/~qyfi/Amazon-ist-neuer-Hoersaalsponsor-im-C-A-/;https://www.aachener-nachrichten.de/lokales/aachen/unternehmen-zahlen-40000-euro-fuer-reklame-vor-rwth-hoersaelen_aid-30779249
+1481;RWTH Aachen (ohne Klinikum);Amazon USA;40000 (2018);Hörsaalsponsoring;;https://www.rwth-aachen.de/cms/root/Wirtschaft/Sponsoring/Meldungen/~qyfi/Amazon-ist-neuer-Hoersaalsponsor-im-C-A-/;https://www.aachener-nachrichten.de/lokales/aachen/unternehmen-zahlen-40000-euro-fuer-reklame-vor-rwth-hoersaelen_aid-30779249
 1481;RWTH Aachen (ohne Klinikum);trivago;40000 (2018);Hörsaalsponsoring;;https://www.rwth-aachen.de/go/id/qhrh;https://www.aachener-nachrichten.de/lokales/aachen/unternehmen-zahlen-40000-euro-fuer-reklame-vor-rwth-hoersaelen_aid-30779249
-1481;RWTH Aachen (ohne Klinikum);Google;;Stipendium;;https://www.rwth-aachen.de/go/id/ktkx;
+1481;RWTH Aachen (ohne Klinikum);Google USA;;Stipendium;;https://www.rwth-aachen.de/go/id/ktkx;
 1481;RWTH Aachen (ohne Klinikum);Aachener Kompetenzzentrum Medizintechnik AKM e.V.;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);AachenMünchener Versicherung AG;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);ABB;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
@@ -189,7 +189,7 @@ Organische Chemie";;https://www.altana.de/innovation/open-innovation.html;
 1481;RWTH Aachen (ohne Klinikum);Lions Club Hilfswerk Euregio Maas-Rhein e.V.;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);Mahle;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);MAN SE;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
-1481;RWTH Aachen (ohne Klinikum);McKinsey & Company, Inc.;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
+1481;RWTH Aachen (ohne Klinikum);McKinsey & Company, Inc. USA;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);mecca neue medien GmbH & Co. KG;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);Miele & Cie. KG;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
 1481;RWTH Aachen (ohne Klinikum);Muhr und Bender KG;;Förderer;;http://www.rwth-aachen.de/cms/root/Wirtschaft/Fundraising/~bamh/Partnerschaften_Foerdernde/, ;
@@ -263,7 +263,7 @@ Quelle 2 Antworten der TUB";;https://unis.davidmissal.de/2020/09/07/technische-u
 371;TU Dresden (ohne Klinikum);Airbus Group;EADS;;;;
 371;TU Dresden (ohne Klinikum);GELSENWASSER;;;;;
 371;TU Dresden (ohne Klinikum);GLOBALFOUNDRIES ;;;;;
-371;TU Dresden (ohne Klinikum);IBM;;;;;
+371;TU Dresden (ohne Klinikum);IBM USA;;;;;
 371;TU Dresden (ohne Klinikum);Infineon Technologies AG;;;;;
 371;TU Dresden (ohne Klinikum);The Linde Group ;;;;;
 371;TU Dresden (ohne Klinikum);Rolls-Royce;;;;;
@@ -278,9 +278,9 @@ Quelle 2 Antworten der TUB";;https://unis.davidmissal.de/2020/09/07/technische-u
 1210;TU Kaiserslautern;;;;;;
 1210;TU Kaiserslautern;Huawei China;;HIRP Innovation Research Program;;https://unis.davidmissal.de/2020/09/07/technische-universitaet-kaiserslautern/ ;https://www.itu.int/en/ITU-D/Innovation/Documents/Documents_Events_Presentations/2017_WSIS/THU_WSIS17/06%20JOY%20TAN.pdf
 1639;TU München (Klinikum);;;;;;
-1633;TU München (ohne Klinikum);facebook;6500000;Institut für Ethik in der KI;;https://www.sueddeutsche.de/muenchen/muenchen-tu-finanzierung-facebook-1.4723566 ;https://fbnewsroomde.files.wordpress.com/2019/10/tum-erc3b6ffnung-ieai.pdf
+1633;TU München (ohne Klinikum);facebook USA;6500000;Institut für Ethik in der KI;;https://www.sueddeutsche.de/muenchen/muenchen-tu-finanzierung-facebook-1.4723566 ;https://fbnewsroomde.files.wordpress.com/2019/10/tum-erc3b6ffnung-ieai.pdf
 1633;TU München (ohne Klinikum);Huawei China;150000;"jährlich seit 2013
-TUM verweigert Auskunft";;(https://www.tagesspiegel.de/wissen/forschungskooperation-mit-deutschen-unis-huawei-auf-dem-pruefstand/24195908.html);https://unis.davidmissal.de/2020/09/07/technische-universitaet-muenchen/
+TUM verweigert Auskunft";;https://www.tagesspiegel.de/wissen/forschungskooperation-mit-deutschen-unis-huawei-auf-dem-pruefstand/24195908.html;https://unis.davidmissal.de/2020/09/07/technische-universitaet-muenchen/
 1350;Universität Augsburg;Huawei China;;Forschung zur Erkennung von menschlicher Emotion aus Stimme, Sprache und Gesichtsmimik;;https://www.uni-augsburg.de/de/campusleben/neuigkeiten/2019/12/20/1216/;https://unis.davidmissal.de/2020/09/07/universitaet-augsburg/
 500;Universität Bamberg;;;;;;
 510;Universität Bayreuth;;;;;;
@@ -390,7 +390,7 @@ TUM verweigert Auskunft";;(https://www.tagesspiegel.de/wissen/forschungskooperat
 261;Universität Rostock (ohne Klinikum);Airbus Group;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);Berlin Heart GmbH;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);Bosch;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
-261;Universität Rostock (ohne Klinikum);British American Tobacco Ltd.;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
+261;Universität Rostock (ohne Klinikum);British American Tobacco Ltd. Grossbritannien;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);Bundeswehr/Wehrtechn. Dienststelle für Schiffe u. Marinewaffen;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);Cremer Oleochemicals;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
 261;Universität Rostock (ohne Klinikum);Dataport;50000;Drittmittel in den Jahren 2013 und 2014 (mindestens 50.000 Euro);;https://fragdenstaat.de/anfrage/drittmittel-universitat-rostock/#nachricht-23606;
@@ -432,7 +432,7 @@ TUM verweigert Auskunft";;(https://www.tagesspiegel.de/wissen/forschungskooperat
 1200;Universität Trier;;;;;;
 1279;Universität Tübingen (Klinikum);;;;;;
 1271;Universität Tübingen (ohne Klinikum);CMS Hasche Sigle;;Spende Zivilrecht-Hörsaal;;http://www.jura.uni-tuebingen.de/fakultaet/nachrichten/grossspende-ermoeglicht-modernisierung-im-juristischen-seminar?searchterm=lesesaal;
-1271;Universität Tübingen (ohne Klinikum);Amazon und 7 Industriepartner;7500000;Cyber Valley zur KI-Forschung;;https://uni-tuebingen.de/forschung/kooperationspartner/cyber-valley/faq-cyber-valley/#c715331;https://www.gruenderszene.de/technologie/amazon-ki-zentrum-tuebingen
+1271;Universität Tübingen (ohne Klinikum);Amazon USA und 7 Industriepartner;7500000;Cyber Valley zur KI-Forschung;;https://uni-tuebingen.de/forschung/kooperationspartner/cyber-valley/faq-cyber-valley/#c715331;https://www.gruenderszene.de/technologie/amazon-ki-zentrum-tuebingen
 1829;Universität Ulm (Klinikum);;;;;;
 1821;Universität Ulm (ohne Klinikum);;;;;;
 960;Universität Vechta;;;;;;
