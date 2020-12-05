@@ -8002,6 +8002,10 @@ var searchdb = {
 			"slug": "pekana-naturheilmittel-gmbh"
 		},
 		{
+			"name": "Pentagon",
+			"slug": "pentagon"
+		},
+		{
 			"name": "Peltzer Werke - Form & Präzision in Metall GmbH",
 			"slug": "peltzer-werke-form-praezision-in-metall-gmbh"
 		},
@@ -8226,8 +8230,8 @@ var searchdb = {
 			"slug": "preussler-robin"
 		},
 		{
-			"name": "PricewaterhousCoopers AG USA",
-			"slug": "pricewaterhouscoopers-ag-usa"
+			"name": "PricewaterhouseCoopers AG USA",
+			"slug": "pricewaterhousecoopers-ag-usa"
 		},
 		{
 			"name": "PricewaterhousCoopers AG",
