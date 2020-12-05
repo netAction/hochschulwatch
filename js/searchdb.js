@@ -582,8 +582,8 @@ var searchdb = {
 			"slug": "adir"
 		},
 		{
-			"name": "A.S.I. Wirtschaftsberatung AG Bastian Gutmann",
-			"slug": "asi-wirtschaftsberatung-ag-bastian-gutmann"
+			"name": "A.S.I. Wirtschaftsberatung AGBastian Gutmann",
+			"slug": "asi-wirtschaftsberatung-agbastian-gutmann"
 		},
 		{
 			"name": "Aachener Kompetenzzentrum Medizintechnik AKM e.V.",
@@ -886,8 +886,8 @@ var searchdb = {
 			"slug": "allplan-deutschland-gmbh"
 		},
 		{
-			"name": "ALPERS WESSEL DORNBACH GmbH, Wirtschaftsprüfungsgesellschaft, Hamburg",
-			"slug": "alpers-wessel-dornbach-gmbh-wirtschaftspruefungsgesellschaft-hamburg"
+			"name": "ALPERS WESSEL DORNBACH GmbH,Wirtschaftsprüfungsgesellschaft, Hamburg",
+			"slug": "alpers-wessel-dornbach-gmbhwirtschaftspruefungsgesellschaft-hamburg"
 		},
 		{
 			"name": "Altana AG",
@@ -1318,8 +1318,8 @@ var searchdb = {
 			"slug": "basf-se"
 		},
 		{
-			"name": "BASF SE 67056 Ludwigshafen",
-			"slug": "basf-se-67056-ludwigshafen"
+			"name": "BASF SE67056 Ludwigshafen",
+			"slug": "basf-se67056-ludwigshafen"
 		},
 		{
 			"name": "Basilea Inc.",
@@ -2118,8 +2118,8 @@ var searchdb = {
 			"slug": "center-for-knowledge-interchange-cki"
 		},
 		{
-			"name": "Centre for Sustainable Energy Research e. V. (CSER e. V.)",
-			"slug": "centre-for-sustainable-energy-research-e-v-cser-e-v"
+			"name": "Centre for Sustainable EnergyResearch e. V. (CSER e. V.)",
+			"slug": "centre-for-sustainable-energyresearch-e-v-cser-e-v"
 		},
 		{
 			"name": "Centrotherm GmbH",
@@ -2674,12 +2674,12 @@ var searchdb = {
 			"slug": "deutsche-vereinigung-des-gas-und-wasserfachs"
 		},
 		{
-			"name": "Deutsche Vereinigung für gewerblichen Rechtschtz und Urheberrechte e.V. GRUR",
-			"slug": "deutsche-vereinigung-fuer-gewerblichen-rechtschtz-und-urheberrechte-ev-grur"
-		},
-		{
 			"name": "Deutsche Vereinigung für gewerblichenRechtschtz und Urheberrechte e.V. GRUR",
 			"slug": "deutsche-vereinigung-fuer-gewerblichenrechtschtz-und-urheberrechte-ev-grur"
+		},
+		{
+			"name": "Deutsche Vereinigung für gewerblichen Rechtschtz und Urheberrechte e.V. GRUR",
+			"slug": "deutsche-vereinigung-fuer-gewerblichen-rechtschtz-und-urheberrechte-ev-grur"
 		},
 		{
 			"name": "Deutsche Vereinigung für gewerblichen Rechtschutz und Urheberrechte e.V. GRUR",
@@ -2828,6 +2828,10 @@ var searchdb = {
 		{
 			"name": "Diehl",
 			"slug": "diehl"
+		},
+		{
+			"name": "Dienstleistungsgesellschaft der norddeutschenWirtschaft",
+			"slug": "dienstleistungsgesellschaft-der-norddeutschenwirtschaft"
 		},
 		{
 			"name": "Dienstleistungsgesellschaft der norddeutschen Wirtschaft",
@@ -3306,7 +3310,7 @@ var searchdb = {
 			"slug": "eduard-wille-gmbh-co-kg"
 		},
 		{
-			"name": "EDUR-Pumpenfabrik GmbH & Co. KG",
+			"name": "EDUR-Pumpenfabrik GmbH &Co. KG",
 			"slug": "edur-pumpenfabrik-gmbh-co-kg"
 		},
 		{
@@ -3406,16 +3410,16 @@ var searchdb = {
 			"slug": "enercon-gmbh"
 		},
 		{
-			"name": "ENERCON GmbH 26607 Aurich",
-			"slug": "enercon-gmbh-26607-aurich"
+			"name": "ENERCON GmbH26607 Aurich",
+			"slug": "enercon-gmbh26607-aurich"
 		},
 		{
 			"name": "Energydesign",
 			"slug": "energydesign"
 		},
 		{
-			"name": "ENERiO e.V.-ENERGY RESEARCH IN OLDENBURG, c/o NEXT ENERGY-EWE-Forschungszentrum für Engergietechnologie e.V. 26129 Oldenburg",
-			"slug": "enerio-ev-energy-research-in-oldenburg-co-next-energy-ewe-forschungszentrum-fuer-engergietechnologie-ev-26129-oldenburg"
+			"name": "ENERiO e.V.-ENERGY RESEARCH IN OLDENBURG, c/oNEXT ENERGY-EWE-Forschungszentrum für Engergietechnologie e.V.26129 Oldenburg",
+			"slug": "enerio-ev-energy-research-in-oldenburg-conext-energy-ewe-forschungszentrum-fuer-engergietechnologie-ev26129-oldenburg"
 		},
 		{
 			"name": "EnerKite GmbH",
@@ -3886,8 +3890,8 @@ var searchdb = {
 			"slug": "foerderverein-institut-fuer-anwaltsrecht-rain-geiersberger"
 		},
 		{
-			"name": "Förderverein der anwaltsorientierten Juristenausbildung",
-			"slug": "foerderverein-der-anwaltsorientierten-juristenausbildung"
+			"name": "Förderverein der anwaltsorientiertenJuristenausbildung",
+			"slug": "foerderverein-der-anwaltsorientiertenjuristenausbildung"
 		},
 		{
 			"name": "Förderverein der BTU Cottbus",
@@ -4494,8 +4498,8 @@ var searchdb = {
 			"slug": "geseundheitsregion-osnabrueck-emsland"
 		},
 		{
-			"name": "GESIS Leibniz Institut für Sozialwissenschaften Departement Communication",
-			"slug": "gesis-leibniz-institut-fuer-sozialwissenschaften-departement-communication"
+			"name": "GESIS Leibniz Institut für SozialwissenschaftenDepartement Communication",
+			"slug": "gesis-leibniz-institut-fuer-sozialwissenschaftendepartement-communication"
 		},
 		{
 			"name": "GESOBAU AG",
@@ -5234,7 +5238,7 @@ var searchdb = {
 			"slug": "hipp-gmbh"
 		},
 		{
-			"name": "HJS Emission Technology GmbH & Co. KG",
+			"name": "HJS Emission Technology GmbH& Co. KG",
 			"slug": "hjs-emission-technology-gmbh-co-kg"
 		},
 		{
@@ -5778,8 +5782,8 @@ var searchdb = {
 			"slug": "international-academy"
 		},
 		{
-			"name": "International Society of Electrochemistry, Chemin de Closelet CH-1006 Lausanne, Schweiz",
-			"slug": "international-society-of-electrochemistry-chemin-de-closelet-ch-1006-lausanne-schweiz"
+			"name": "International Society of Electrochemistry, Chemin de CloseletCH-1006 Lausanne, Schweiz",
+			"slug": "international-society-of-electrochemistry-chemin-de-closeletch-1006-lausanne-schweiz"
 		},
 		{
 			"name": "InterRex GmbH",
@@ -6302,8 +6306,8 @@ var searchdb = {
 			"slug": "klaus-tschira-stiftung-ggmbh"
 		},
 		{
-			"name": "Klaus-Töpfer-Stiftungsjuniorprofessor Sparkassenstiftung, Firma APL Prüftechnik, Karl-Fix-Stiftung, Energie Südwest und Kreisverwaltung Südliche Weinstraße.",
-			"slug": "klaus-toepfer-stiftungsjuniorprofessor-sparkassenstiftung-firma-apl-prueftechnik-karl-fix-stiftung-energie-suedwest-und-kreisverwaltung-suedliche-weinstrasse"
+			"name": "Klaus-Töpfer-StiftungsjuniorprofessorSparkassenstiftung, Firma APL Prüftechnik, Karl-Fix-Stiftung, Energie Südwest und Kreisverwaltung Südliche Weinstraße.",
+			"slug": "klaus-toepfer-stiftungsjuniorprofessorsparkassenstiftung-firma-apl-prueftechnik-karl-fix-stiftung-energie-suedwest-und-kreisverwaltung-suedliche-weinstrasse"
 		},
 		{
 			"name": "KLB Kötztal Lacke u. Beschichtungen",
@@ -6566,8 +6570,8 @@ var searchdb = {
 			"slug": "landessparkasse-zu-oldenburg-26123-oldenburg"
 		},
 		{
-			"name": "Landesverband der Jüdischen Gemeinden von Niedersachsen K.d.ö.R.",
-			"slug": "landesverband-der-juedischen-gemeinden-von-niedersachsen-kdoer"
+			"name": "Landesverband der Jüdischen Gemeindenvon Niedersachsen K.d.ö.R.",
+			"slug": "landesverband-der-juedischen-gemeindenvon-niedersachsen-kdoer"
 		},
 		{
 			"name": "Landesversicherungsanstalt Oberbayern (LVA)",
@@ -7094,8 +7098,8 @@ var searchdb = {
 			"slug": "medipan-gmbh"
 		},
 		{
-			"name": "MedtronicMary Simard",
-			"slug": "medtronicmary-simard"
+			"name": "Medtronic Mary Simard",
+			"slug": "medtronic-mary-simard"
 		},
 		{
 			"name": "Medtronic Europe Sarl",
@@ -7226,8 +7230,8 @@ var searchdb = {
 			"slug": "metropolregion-hannover-braunschweig-goettingen-wolfsburg-gmbh"
 		},
 		{
-			"name": "Mettler-Toledo GmbH SBU Materials Charcterization, Schwerzenbach/Schweiz",
-			"slug": "mettler-toledo-gmbh-sbu-materials-charcterization-schwerzenbachschweiz"
+			"name": "Mettler-Toledo GmbHSBU Materials Charcterization, Schwerzenbach/Schweiz",
+			"slug": "mettler-toledo-gmbhsbu-materials-charcterization-schwerzenbachschweiz"
 		},
 		{
 			"name": "Metzger, Jürgen und Christa-Elisabeth 26129 Oldenburg",
@@ -7494,8 +7498,8 @@ var searchdb = {
 			"slug": "newport-spectra-physics-gmbh"
 		},
 		{
-			"name": "NEXT ENERGY, EWE-Forschungszentrum für Energietechnologie e.V. 26129 Oldenburg",
-			"slug": "next-energy-ewe-forschungszentrum-fuer-energietechnologie-ev-26129-oldenburg"
+			"name": "NEXT ENERGY, EWE-Forschungszentrum für Energietechnologie e.V.26129 Oldenburg",
+			"slug": "next-energy-ewe-forschungszentrum-fuer-energietechnologie-ev26129-oldenburg"
 		},
 		{
 			"name": "NH-HH-Recycling e.V., Stamsried",
@@ -7750,8 +7754,8 @@ var searchdb = {
 			"slug": "offis"
 		},
 		{
-			"name": "OFFIS e.V. 26121 Oldenburg",
-			"slug": "offis-ev-26121-oldenburg"
+			"name": "OFFIS e.V.26121 Oldenburg",
+			"slug": "offis-ev26121-oldenburg"
 		},
 		{
 			"name": "OHB System AG",
@@ -8314,8 +8318,8 @@ var searchdb = {
 			"slug": "prof-dr-gallus-rehm"
 		},
 		{
-			"name": "Prof. Dr. Günter Schmeel (Schmeel Böhm Mosch Rechtsanwälte)",
-			"slug": "prof-dr-guenter-schmeel-schmeel-boehm-mosch-rechtsanwaelte"
+			"name": "Prof. Dr. Günter Schmeel(Schmeel Böhm Mosch Rechtsanwälte)",
+			"slug": "prof-dr-guenter-schmeelschmeel-boehm-mosch-rechtsanwaelte"
 		},
 		{
 			"name": "Prof. Dr. Hans-Werner Rengeling, Münster",
@@ -10582,19 +10586,19 @@ var searchdb = {
 			"slug": "verein-zur-foerderung-anwaltsbez-ausbildung"
 		},
 		{
-			"name": "Verein zur Förderung anwaltsbezogener Ausbildung Fachb. Rechtswissenschaften",
-			"slug": "verein-zur-foerderung-anwaltsbezogener-ausbildung-fachb-rechtswissenschaften"
+			"name": "Verein zur Förderung anwaltsbezogenerAusbildung Fachb. Rechtswissenschaften",
+			"slug": "verein-zur-foerderung-anwaltsbezogenerausbildung-fachb-rechtswissenschaften"
 		},
 		{
 			"name": "Verein zur Förderung anwaltsbezogener Ausbildung",
 			"slug": "verein-zur-foerderung-anwaltsbezogener-ausbildung"
 		},
 		{
-			"name": "Verein zur Förderung der Versicherungs- und Finanzmathematik (vfvf) 26122 Oldenburg",
-			"slug": "verein-zur-foerderung-der-versicherungs-und-finanzmathematik-vfvf-26122-oldenburg"
+			"name": "Verein zur Förderung derVersicherungs- und Finanzmathematik (vfvf) 26122 Oldenburg",
+			"slug": "verein-zur-foerderung-derversicherungs-und-finanzmathematik-vfvf-26122-oldenburg"
 		},
 		{
-			"name": "Verein zur Förderung der anwalts- orientierten Juristenausbildung",
+			"name": "Verein zur Förderung der anwalts-orientierten Juristenausbildung",
 			"slug": "verein-zur-foerderung-der-anwalts-orientierten-juristenausbildung"
 		},
 		{
@@ -10634,20 +10638,24 @@ var searchdb = {
 			"slug": "verein-zur-foerderung-der-versicherungs-und-finanzmathematik"
 		},
 		{
+			"name": "Verein zur Förderung der Versicherungs- und Finanzmathematik (vfvf) 26122 Oldenburg",
+			"slug": "verein-zur-foerderung-der-versicherungs-und-finanzmathematik-vfvf-26122-oldenburg"
+		},
+		{
 			"name": "Verein zur Förderung der Versicherungswissenschaft",
 			"slug": "verein-zur-foerderung-der-versicherungswissenschaft"
 		},
 		{
-			"name": "Verein zur Förderung der Versicherungswissenschaftan der Universität Hannover e.V.",
-			"slug": "verein-zur-foerderung-der-versicherungswissenschaftan-der-universitaet-hannover-ev"
-		},
-		{
-			"name": "Verein zur Förderung der Versicherungswissenschaft an der Uni Hannover",
-			"slug": "verein-zur-foerderung-der-versicherungswissenschaft-an-der-uni-hannover"
-		},
-		{
 			"name": "Verein zur Förderung der Versicherungswissenschaft an der Universität Hannover e.V.",
 			"slug": "verein-zur-foerderung-der-versicherungswissenschaft-an-der-universitaet-hannover-ev"
+		},
+		{
+			"name": "Verein zur Förderung der Versicherungswissenschaftan der Uni Hannover",
+			"slug": "verein-zur-foerderung-der-versicherungswissenschaftan-der-uni-hannover"
+		},
+		{
+			"name": "Verein zur Förderung der Versicherungswissenschaftan der Universität Hannover e.V.",
+			"slug": "verein-zur-foerderung-der-versicherungswissenschaftan-der-universitaet-hannover-ev"
 		},
 		{
 			"name": "Verein zur Förderung der Versicherungswissenschaften an der Universität Hannover e.V.",
@@ -10762,11 +10770,11 @@ var searchdb = {
 			"slug": "vgh-versicherungen"
 		},
 		{
-			"name": "VGH Versicherungen - Landschaftliche Brandkasse Hannover",
+			"name": "VGH Versicherungen -Landschaftliche Brandkasse Hannover",
 			"slug": "vgh-versicherungen-landschaftliche-brandkasse-hannover"
 		},
 		{
-			"name": "VGH Versicherungen - Provinzial Lebensversicherung Hannover",
+			"name": "VGH Versicherungen -Provinzial Lebensversicherung Hannover",
 			"slug": "vgh-versicherungen-provinzial-lebensversicherung-hannover"
 		},
 		{
@@ -10774,7 +10782,7 @@ var searchdb = {
 			"slug": "vhv-versicherung-vag"
 		},
 		{
-			"name": "VHV Versicherungen - Vereinigte Hannoversche Versicherung a. G.",
+			"name": "VHV Versicherungen -Vereinigte Hannoversche Versicherung a. G.",
 			"slug": "vhv-versicherungen-vereinigte-hannoversche-versicherung-a-g"
 		},
 		{
@@ -11078,8 +11086,8 @@ var searchdb = {
 			"slug": "wienerbergergmbh"
 		},
 		{
-			"name": "Wigand von Salmuth Partner Sherman Sliversteijn & Cie. AG",
-			"slug": "wigand-von-salmuth-partner-sherman-sliversteijn-cie-ag"
+			"name": "Wigand von Salmuth PartnerSherman Sliversteijn & Cie. AG",
+			"slug": "wigand-von-salmuth-partnersherman-sliversteijn-cie-ag"
 		},
 		{
 			"name": "Wigand vonn Salmuth, Sherman Silversteijn & Cie. AG",
@@ -11200,6 +11208,10 @@ var searchdb = {
 		{
 			"name": "Wissenschaftsförderung der Sparkassen- Finanzgruppe e. V.",
 			"slug": "wissenschaftsfoerderung-der-sparkassen-finanzgruppe-e-v"
+		},
+		{
+			"name": "Wissenschaftsstiftung M-VgGmbH",
+			"slug": "wissenschaftsstiftung-m-vggmbh"
 		},
 		{
 			"name": "Wissenschaftsstiftung M-V gGmbH",

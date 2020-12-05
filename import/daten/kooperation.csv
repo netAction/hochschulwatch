@@ -1,4 +1,4 @@
-uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle 2
+uID;Name;Förderer;Wert;Hinweis;Alternativname;Quelle;Quelle2
 580;Bauhaus-Universität Weimar;;;;;;
 240;Brandenburgische TU Cottbus;EMIS Electrics GmbH;;;;https://www.b-tu.de/universitaet/stiften-und-foerdern/stiftung-der-btu;
 240;Brandenburgische TU Cottbus;Starz GmbH;;;;https://www.b-tu.de/universitaet/stiften-und-foerdern/stiftung-der-btu;
@@ -232,7 +232,7 @@ Quelle 2 Antworten der TUB";;https://unis.davidmissal.de/2020/09/07/technische-u
 1690;TU Berlin;BerlinCert ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427273;
 1690;TU Berlin;Berlin Partner GmbH ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427274;
 1690;TU Berlin;beSpace GmbH ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427275;
-1690;TU Berlin;Center for Knowledge Interchange – CKI;;Förderer; Siemens AG;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427276;
+1690;TU Berlin;Center for Knowledge Interchange – CKI;;Förderer;?Siemens AG;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427276;
 1690;TU Berlin;Charlottenburger Innovations-Centrum - CHIC ;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427277;
 1690;TU Berlin;Deutsche Akkreditierungsstelle GmbH – DakkS;;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427278;
 1690;TU Berlin;Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI);;Förderer;;https://www.tu-berlin.de/praesidialbereich/institutionelle_kooperationen/menue/weitere_strategische_kooperationen/#c427279;

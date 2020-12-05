@@ -13,4 +13,4 @@ Die Daten liegen im Verzeichnis *daten* als *csv*-Dateien. Sie sind *UTF-8* enco
 Der Generator benötigt *node.js* mit den *npm*-Paketen *csv-parse* und *mustache*.
 
     $ npm install
-    $ node json2html.js
+    $ node csv2html.js
