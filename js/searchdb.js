@@ -8230,12 +8230,12 @@ var searchdb = {
 			"slug": "preussler-robin"
 		},
 		{
-			"name": "PriceWaterhouseCoopers AG USA",
+			"name": "PricewaterhouseCoopers AG USA",
 			"slug": "pricewaterhousecoopers-ag-usa"
 		},
 		{
-			"name": "PricewaterhousCoopers AG",
-			"slug": "pricewaterhouscoopers-ag"
+			"name": "PriceWaterhouseCoopers AG USA",
+			"slug": "pricewaterhousecoopers-ag-usa"
 		},
 		{
 			"name": "PricewaterhouseCoopers USA",
