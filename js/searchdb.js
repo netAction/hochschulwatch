@@ -2110,8 +2110,8 @@ var searchdb = {
 			"slug": "centa-antriebe-kirschey-gmbh"
 		},
 		{
-			"name": "CeNTech GmbH, Center for NanoTechnology",
-			"slug": "centech-gmbh-center-for-nanotechnology"
+			"name": "CeNTech GmbH",
+			"slug": "centech-gmbh"
 		},
 		{
 			"name": "Center for Knowledge Interchange – CKI",
@@ -8242,10 +8242,6 @@ var searchdb = {
 			"slug": "pricewaterhousecoopers-usa"
 		},
 		{
-			"name": "PricewaterhouseCoopers AG",
-			"slug": "pricewaterhousecoopers-ag"
-		},
-		{
 			"name": "PricewaterhouseCoopers GmbH",
 			"slug": "pricewaterhousecoopers-gmbh"
 		},
@@ -9254,8 +9250,8 @@ var searchdb = {
 			"slug": "siga-gmbhco-kg"
 		},
 		{
-			"name": "Sigma-Tau Pharmaceuticals, Inc.",
-			"slug": "sigma-tau-pharmaceuticals-inc"
+			"name": "Sigma-Tau Pharmaceuticals, Inc. USA",
+			"slug": "sigma-tau-pharmaceuticals-inc-usa"
 		},
 		{
 			"name": "Signon Deutschland GmbH",
