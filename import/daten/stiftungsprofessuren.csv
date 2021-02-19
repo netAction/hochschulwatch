@@ -263,13 +263,14 @@ Hamburg;Universität Hamburg (ohne Klinikum);;Stiftungsprofessur IT-Management u
 Hamburg;Universität Hamburg (ohne Klinikum);;Stiftungsprofessur IT-Management und -Consulting (ITMC);vero projects - Kopsch Projektmanagement GmbH;5000;;;;;;
 Hamburg;Universität Hamburg (ohne Klinikum);;Stiftungsprofessur IT-Management und -Consulting (ITMC);www Bitmanager AG;5000;;;;;;
 Niedersachsen;Universität Hannover;;Juniorprofessur Versicherungs- und Finanzmathematik (von Uni nicht als Stiftungsprofessur eingestuft, da aus Drittmittel-Sondertopf, nicht explizit für Professur);Hannoversche Versicherungsunternehmen;;;10 Jahre;2009;;;
-Baden-Württemberg;Universität Heidelberg (Klinikum);Medizinischen Fakultät Mannheim;Karl-Feuerstein-Stiftungsprofessur;Daimler AG;160000;1600000;10 Jahre;;;Daimler AG-Fonds im Stifterverband für die Deutsche Wissenschaft;
-Baden-Württemberg;Universität Heidelberg (Klinikum);;Leukämieforschung;Deutsche José Carreras Leukämie-Stiftung e.V.;90000;900000;10 Jahre;;;;
-Baden-Württemberg;Universität Heidelberg (Klinikum);;Zelluläre Immuntherapie;Dietmar-Hopp-Stiftung;90000;450000;5 Jahre;;;;
-Baden-Württemberg;Universität Heidelberg (Klinikum);;Molekularbiologie des Mamakarzinoms;Dietmar-Hopp-Stiftung;500000;2500000;5 Jahre;;;;
+Baden-Württemberg;Universität Heidelberg (Klinikum);Medizinischen Fakultät Mannheim;Karl-Feuerstein-Stiftungsprofessur;Daimler AG;160000;1600000;10 Jahre;2000;https://idw-online.de/de/news19958;Daimler AG-Fonds im Stifterverband für die Deutsche Wissenschaft;
+Baden-Württemberg;Universität Heidelberg (Klinikum);Medizinischen Fakultät Mannheim;Leukämieforschung;Deutsche José Carreras Leukämie-Stiftung e.V.;90000;900000;10 Jahre;;https://www.umm.de/iii-medizinische-klinik/wissenschaftliches-labor/leukaemieforschung-mds/;;
+Baden-Württemberg;Universität Heidelberg (Klinikum);Nationales Zentrum für Tumorbehandlung;Darmkrebsforschung;Dietmar-Hopp-Stiftung;;300000;2 Jahre;2014;https://dietmar-hopp-stiftung.de/medizin/das-eigene-immunsystem-gegen-metastasierten-darmkrebs-aktivieren;;
+Baden-Württemberg;Universität Heidelberg (Klinikum);;Zelluläre Immuntherapie;Dietmar-Hopp-Stiftung;90000;450000;5 Jahre;;https://dietmar-hopp-stiftung.de/medizin/das-eigene-immunsystem-gegen-metastasierten-darmkrebs-aktivieren;;
+Baden-Württemberg;Universität Heidelberg (Klinikum);;Molekularbiologie des Mammakarzinoms;Dietmar-Hopp-Stiftung;500000;2500000;5 Jahre;;https://dietmar-hopp-stiftung.de/medizin/das-eigene-immunsystem-gegen-metastasierten-darmkrebs-aktivieren;;
 Baden-Württemberg;Universität Heidelberg (Klinikum);;Transfusionsmedizin und Immunologie;DRK Blutspendedienst Baden-Württemberg;120000;1200000;10 Jahre;;;;
 Baden-Württemberg;Universität Heidelberg (Klinikum);;Effizienzanalyse in der Diagnostik;Dt. Vereinte Gesellschaft für Klinische Chemie und Laboratoriumsmedizin. e. V.;;;;;;;
-Baden-Württemberg;Universität Heidelberg (Klinikum);;Klinische Neuroonkologie;Hertie-Stiftung;210000;1230000;6 Jahre;;;;
+Baden-Württemberg;Universität Heidelberg (Klinikum);;Klinische Neuroonkologie;Hertie-Stiftung;210000;1230000;6 Jahre;;https://www.ghst.de/suche/?L=0&id=39&tx_solr%5Bq%5D=heidelberg;;
 Baden-Württemberg;Universität Heidelberg (Klinikum);;Vaskuläre Biologie und Tumorangiogenese;Hoechst;160000;1600000;10 Jahre;;;;
 Baden-Württemberg;Universität Heidelberg (Klinikum);;Translationale Myelomforschung;Janssen Cilag GmbH;;2500000;5 Jahre;2019;https://www.janssenmedicalcloud.de/news/stiftungsprofessur-zum-multiplen-myelom ;;
 Baden-Württemberg;Universität Heidelberg (Klinikum);;Molekulare Grundlagen gastrointestinaler Tumoren;K.H. Bauer Stiftung;50000;;dauerhaft;;;;
@@ -279,7 +280,8 @@ Baden-Württemberg;Universität Heidelberg (Klinikum);;Zelluläre Immuntherapie;
 Baden-Württemberg;Universität Heidelberg (Klinikum);;Versorgungsforschung in der Psychosozialen Medizin;Prof. Dr. Rolf Wahl, Luisenklinik Bad Dürrheim;80000;800000;10 Jahre;;;;
 Baden-Württemberg;Universität Heidelberg (Klinikum);;Molekulare Bildgebung mit Schwerpunkt Radiochemie;Universitätsklinikum Mannheim gGmbH;;;10 Jahre;;;;
 Baden-Württemberg;Universität Heidelberg (Klinikum);;Effizienzanalyse in der Diagnostik;Universitätsklinikum Mannheim gGmbH;;890000;5 Jahre;;;;
-Baden-Württemberg;Universität Heidelberg (ohne Klinikum);;Radiochemie;Stiftung Energieforschung Baden-Württemberg;100000;1000000;10 Jahre;;;;
+Baden-Württemberg;Universität Heidelberg (ohne Klinikum);Chemie;Radiochemie;EnBW;100000;1000000;10 Jahre;2005;https://www.enbw.com/unternehmen/presse/stiftung-energieforschung-baden-wuerttemberg-finanziert-stiftungsp.html l;;
+Baden-Württemberg;Universität Heidelberg (ohne Klinikum);Chemie;Kosmochemie;Klaus Tschira Stiftung;;;;;https://www.uni-heidelberg.de/presse/news2015/pm20150505_mario-trieloff-auf-stiftungsprofessur-fuer-kosmochemie-berufen.html;;
 Baden-Württemberg;Universität Hohenheim;Fachgebiet für BWL;Retail Banking;Sparkassen-Finanzgruppe;130000;800000;6 Jahre;2014;https://www.uni-hohenheim.de/pressemitteilung?tx_ttnews%5Btt_news%5D=18887&cHash=f76c0a5378ccaf366ff4b460b94478b1 ;;
 Baden-Württemberg;Universität Hohenheim;Agrarwssenschaften;Testvorhaben in der Landtechnik;Deutsche Landwirtschafts-Gesellschaft;;;;;https://www.uni-hohenheim.de/pressemitteilung?tx_ttnews%5Btt_news%5D=1914&cHash=8044b9e25e1d213351f5a21e515a0ca5s%5D=1914&cHash=8044b9e25e1d213351f5a21e515a0ca5 ;;
 Baden-Württemberg;Universität Hohenheim;Wirtschafts- und Sozialwissenschaften;Wirtschafts- und Organisationspsychologie;Gips-Schüle-Stiftung;;750000;;2012;https://www.uni-hohenheim.de/pressemitteilung?tx_ttnews%5Btt_news%5D=8914&cHash=eceb8e340f3ceae4b2af7ef41f6afcec ;;
@@ -291,7 +293,7 @@ Schleswig-Holstein;Universität Kiel;Medizin;Strahlentherapie;Damp Stiftung;;;;2
 Schleswig-Holstein;Universität Kiel;Medizin;Radiologie und Neuroradiologie;Damp Stiftung;;;;2016;https://www.medizin.uni-kiel.de/de/forschung/nachwuchsgruppen/stiftungsprofessuren;;
 Rheinland-Pfalz;Universität Koblenz-Landau;;"Friedensakademie
 Landnutzungskonflikte";"Klaus-Töpfer-Stiftungsjuniorprofessor
-Sparkassenstiftung, Firma APL Prüftechnik, Karl-Fix-Stiftung, Energie Südwest und Kreisverwaltung Südliche Weinstraße.";;;6 Jahre;2017;   <https://www.uni-koblenz-landau.de/de/friedensakademie/medien/friedensakademie-freut-sich-auf-Zusammenarbeit/?searchterm=Stiftungsprofessur>;;
+Sparkassenstiftung, Firma APL Prüftechnik, Karl-Fix-Stiftung, Energie Südwest und Kreisverwaltung Südliche Weinstraße.";;;6 Jahre;2017;https://www.uni-koblenz-landau.de/de/friedensakademie/medien/friedensakademie-freut-sich-auf-Zusammenarbeit/?searchterm=stiftungsprofessuren;;
 Rheinland-Pfalz;Universität Koblenz-Landau;;;;;;;;;;
 Rheinland-Pfalz;Universität Koblenz-Landau;;;;;;;;;;
 Rheinland-Pfalz;Universität Koblenz-Landau;;;;;;;;;;
