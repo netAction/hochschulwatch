@@ -6654,6 +6654,10 @@ var searchdb = {
 			"slug": "leibniz-universitaetsgesellschaft-e-v"
 		},
 		{
+			"name": "Leadership Focus GmbH",
+			"slug": "leadership-focus-gmbh"
+		},
+		{
 			"name": "Leibniz Universitätsgesellschaft e.V.",
 			"slug": "leibniz-universitaetsgesellschaft-ev"
 		},
