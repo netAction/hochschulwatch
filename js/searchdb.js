@@ -4066,6 +4066,10 @@ var searchdb = {
 			"slug": "fresh-pac-verpackungs-mbh-vechta-calveslage"
 		},
 		{
+			"name": "Freudenberg & Co.",
+			"slug": "freudenberg-co"
+		},
+		{
 			"name": "Freunde d. BS Botanischen Gartens e.V.",
 			"slug": "freunde-d-bs-botanischen-gartens-ev"
 		},
@@ -7292,6 +7296,10 @@ var searchdb = {
 		{
 			"name": "MLP AG",
 			"slug": "mlp-ag"
+		},
+		{
+			"name": "MLP SE",
+			"slug": "mlp-se"
 		},
 		{
 			"name": "MLP Finanzdienstleistungen AG",
