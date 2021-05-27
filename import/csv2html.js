@@ -24,7 +24,7 @@ function beautify(input) {
 
 
 function beautifyCurrency(number) {
-	return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ") + ' €';
+		return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, " ") + ' €';
 }
 
 
@@ -80,6 +80,8 @@ function hochschulenLookup() {
 		hochschulen[i]['wirtschaft-2017-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2017'] );
 		hochschulen[i]['absolut-2018-string'] = beautifyCurrency( hochschulen[i]['absolut-2018'] );
 		hochschulen[i]['wirtschaft-2018-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2018'] );
+		hochschulen[i]['absolut-2019-string'] = beautifyCurrency( hochschulen[i]['absolut-2019'] );
+		hochschulen[i]['wirtschaft-2019-string'] = beautifyCurrency( hochschulen[i]['wirtschaft-2019'] );
 
 		hochschulenLookup[hochschulen[i].Name] = hochschulen[i];
 	}
@@ -373,8 +375,8 @@ template = templateHeader + template + templateFooter;
 for(var name in hochschulenTable ) {
 	var data = hochschulenTable[name];
 	data.srcpath = '../';
-	if (data['wirtschaft-2018']) {
-		data.wirtschaftPercent = Math.round(data['wirtschaft-2018'].replace(/\./g,"") * 100 / data['absolut-2018'].replace(/\./g,"")); //Entfernen der Tausenderpunkte bei Berechnung
+	if (data['wirtschaft-2019']) {
+		data.wirtschaftPercent = Math.round(data['wirtschaft-2019'].replace(/\./g,"") * 100 / data['absolut-2019'].replace(/\./g,"")); //Entfernen der Tausenderpunkte bei Berechnung
 	} else {
 		data.wirtschaftPercent = 0;
 	}
